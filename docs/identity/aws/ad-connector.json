@@ -1,0 +1,1 @@
+{"name":"AWS Active Directory Connector","providers":["aws"],"services":["identity"],"domains":["directory service","identity management"],"categories":["directory gateway","identity provider"],"permalink":"/docs/identity/aws/ad-connector"}

@@ -1,0 +1,1 @@
+{"name":"Amazon Aurora","providers":["aws"],"services":["database"],"domains":["data management","managed service","serverless"],"categories":["relational db","sql compliant"],"features":["mysql","postgresql"],"permalink":"/docs/database/aws/aurora"}

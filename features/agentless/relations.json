@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["systems management"]},"instance":["/docs/monitor/aws/guardduty"],"intersection":{"categories":["risks assessment","threat detection"],"domains":["observability"],"providers":["aws"],"services":["monitor"]}}

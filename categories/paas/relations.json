@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["architecture"]},"instance":["/docs/compute/aws/beanstalk","/docs/compute/azure/app-service","/docs/compute/gcp/app-engine"],"intersection":{"domains":["managed service"],"providers":["aws","azure","gcp"],"services":["compute"]}}

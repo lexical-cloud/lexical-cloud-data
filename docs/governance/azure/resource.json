@@ -1,0 +1,1 @@
+{"name":"Azure resource","providers":["azure"],"services":["governance"],"domains":["systems management"],"categories":["resource management"],"features":["resource locks"],"permalink":"/docs/governance/azure/resource"}

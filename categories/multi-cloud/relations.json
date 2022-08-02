@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["architecture"],"services":["hybrid"]},"instance":["/docs/hybrid/gcp/anthos","/docs/integration/gcp/composer"],"intersection":{"categories":["on-premises","workflow engine"],"domains":["managed service","process modeling"],"providers":["gcp"],"services":["integration"]}}

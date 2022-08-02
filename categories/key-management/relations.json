@@ -1,0 +1,1 @@
+{"hierarchical":{"categories":["data security"],"domains":["data management"]},"instance":["/docs/security/aws/cloudhsm","/docs/security/aws/kms","/docs/security/azure/key-vault"],"intersection":{"categories":["auditing","secret management"],"domains":["managed service"],"providers":["aws","azure"],"services":["security"]}}

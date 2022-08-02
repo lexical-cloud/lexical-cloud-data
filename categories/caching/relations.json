@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["architecture"],"services":["database"]},"instance":["/docs/database/azure/cache-for-redis","/docs/database/aws/elasticache"],"intersection":{"domains":["managed service"],"providers":["azure","aws"]}}

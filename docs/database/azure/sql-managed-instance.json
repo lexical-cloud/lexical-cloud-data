@@ -1,0 +1,1 @@
+{"name":"Azure SQL Managed Instance","providers":["azure"],"services":["database","hybrid"],"domains":["data management","managed service"],"categories":["relational db","sql compliant"],"permalink":"/docs/database/azure/sql-managed-instance"}

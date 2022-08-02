@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["devops"],"services":["developer tools"]},"instance":["/docs/developer-tools/aws/appconfig","/docs/developer-tools/azure/appconfig"],"intersection":{"providers":["aws","azure"]}}

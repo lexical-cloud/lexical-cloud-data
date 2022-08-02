@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["reliability"],"services":["network"]},"instance":["/docs/network/aws/cloudfront","/docs/network/azure/cdn","/docs/network/azure/front-door","/docs/network/gcp/cdn"],"intersection":{"categories":["web application firewall","ddos protection","certificates"],"domains":["edge computing","systems management"],"providers":["aws","azure","gcp"]}}

@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["api management"],"services":["integration"]},"instance":["/docs/integration/azure/api-management","/docs/integration/gcp/apigee"],"intersection":{"categories":["api gateway","api lifecycle"],"domains":["serverless"],"features":["rest api","http api","websocket api"],"providers":["azure","gcp"]}}

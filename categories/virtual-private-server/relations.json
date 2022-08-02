@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["virtualization"]},"instance":["/docs/compute/aws/lightsail"],"intersection":{"domains":["managed service"],"providers":["aws"],"services":["compute"]}}

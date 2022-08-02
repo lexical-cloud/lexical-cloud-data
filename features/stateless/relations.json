@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["architecture"],"services":["compute"]},"instance":["/docs/network/aws/access-control-list"],"intersection":{"categories":["firewall"],"domains":["connectivity"],"providers":["aws"],"services":["network"]}}

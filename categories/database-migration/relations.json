@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["data management"]},"instance":["/docs/migration/aws/dms","/docs/migration/aws/sct","/docs/migration/azure/dms"],"intersection":{"providers":["aws","azure"],"services":["migration","database"]}}

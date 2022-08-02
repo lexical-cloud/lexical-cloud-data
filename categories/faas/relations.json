@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["serverless","stateless","architecture"],"services":["compute"]},"instance":["/docs/compute/aws/lambda","/docs/compute/azure/functions","/docs/compute/gcp/cloud-functions"],"intersection":{"providers":["aws","azure","gcp"]}}

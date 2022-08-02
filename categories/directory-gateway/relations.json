@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["directory service"],"services":["identity"]},"instance":["/docs/identity/aws/ad-connector"],"intersection":{"categories":["identity provider"],"domains":["identity management"],"providers":["aws"]}}

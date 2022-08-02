@@ -1,0 +1,1 @@
+{"name":"Google Cloud Logs","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data","auditing"],"permalink":"/docs/monitor/gcp/cloud-logging"}

@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["data management"]},"instance":["/docs/migration/aws/datasync","/docs/migration/aws/snowball","/docs/migration/aws/snowcone","/docs/migration/aws/snowmobile","/docs/migration/gcp/storage-transfer-service","/docs/migration/gcp/transfer-appliance"],"intersection":{"domains":["modernization"],"providers":["aws","gcp"],"services":["migration"]}}

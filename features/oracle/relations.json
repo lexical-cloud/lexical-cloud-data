@@ -1,0 +1,1 @@
+{"hierarchical":{"services":["database"]},"instance":["/docs/database/aws/rds"],"intersection":{"categories":["relational db","sql compliant"],"domains":["data management","managed service"],"features":["mysql","postgresql","mariadb","sql server"],"providers":["aws"]}}

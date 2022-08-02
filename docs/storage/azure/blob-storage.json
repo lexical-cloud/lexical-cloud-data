@@ -1,0 +1,1 @@
+{"name":"Azure Blob Storage","providers":["azure"],"services":["storage"],"domains":["data management","serverless"],"categories":["data archive","object storage"],"permalink":"/docs/storage/azure/blob-storage"}

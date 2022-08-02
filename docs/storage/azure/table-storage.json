@@ -1,0 +1,1 @@
+{"name":"Azure Table Storage","providers":["azure"],"services":["database","storage"],"domains":["data management"],"categories":["nosql db","key-value store"],"permalink":"/docs/storage/azure/table-storage"}

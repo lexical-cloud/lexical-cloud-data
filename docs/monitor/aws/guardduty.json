@@ -1,0 +1,1 @@
+{"name":"AWS GuardDuty","providers":["aws"],"services":["monitor"],"domains":["observability","systems management"],"categories":["risks assessment","threat detection"],"features":["agentless"],"permalink":"/docs/monitor/aws/guardduty"}

@@ -1,0 +1,1 @@
+{"name":"AWS Detective","providers":["aws"],"services":["security"],"domains":["systems management"],"categories":["security monitoring","root cause analysis"],"permalink":"/docs/security/aws/detective"}

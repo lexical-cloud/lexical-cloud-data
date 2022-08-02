@@ -1,0 +1,1 @@
+{"name":"Google Cloud Run","providers":["gcp"],"services":["compute"],"domains":["containerization","serverless"],"categories":["container orchestrator"],"permalink":"/docs/compute/gcp/cloud-run"}

@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["connectivity"],"services":["network"]},"instance":["/docs/network/aws/route-53","/docs/network/azure/traffic-manager"],"intersection":{"categories":["dns management","load balancer"],"domains":["systems management"],"providers":["aws","azure"]}}

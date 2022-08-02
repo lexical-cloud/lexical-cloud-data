@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["connectivity","observability"],"services":["network","monitor"]},"instance":["/docs/network/aws/vpc-flow-logs","/docs/network/azure/network-watcher"],"intersection":{"providers":["aws","azure"]}}

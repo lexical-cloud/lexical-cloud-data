@@ -1,0 +1,1 @@
+{"hierarchical":{},"instance":["/docs/monitor/aws/guardduty"],"intersection":{"categories":["threat detection"],"domains":["observability","systems management"],"features":["agentless"],"providers":["aws"],"services":["monitor"]}}

@@ -1,0 +1,1 @@
+{"name":"Azure Firewall","providers":["azure"],"services":["security","network"],"domains":["connectivity"],"categories":["firewall"],"permalink":"/docs/security/azure/firewall"}

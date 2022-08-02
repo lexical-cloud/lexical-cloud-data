@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["systems management"],"services":["governance"]},"instance":["/docs/monitor/aws/health-dashboard","/docs/monitor/azure/service-health"],"intersection":{"categories":["health"],"domains":["observability"],"features":["alerts","reports","personalization"],"providers":["aws","azure"],"services":["monitor"]}}

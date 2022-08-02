@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["connectivity"],"services":["network"]},"instance":["/docs/network/gcp/cloud-nat"],"intersection":{"categories":["private network"],"providers":["gcp"]}}

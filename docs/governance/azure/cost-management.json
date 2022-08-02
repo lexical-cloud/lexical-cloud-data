@@ -1,0 +1,1 @@
+{"name":"Azure Cost Management","providers":["azure"],"services":["governance"],"domains":["finops","systems management"],"categories":["cost management"],"features":["alerts","cost forecast"],"permalink":"/docs/governance/azure/cost-management"}

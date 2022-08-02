@@ -1,0 +1,1 @@
+{"name":"AWS Database Migration Service","providers":["aws"],"services":["migration","database"],"domains":["data management"],"categories":["database migration"],"permalink":"/docs/migration/aws/dms"}

@@ -1,0 +1,1 @@
+{"name":"AWS Fargate","providers":["aws"],"services":["compute"],"domains":["containerization","serverless"],"categories":["container orchestrator"],"permalink":"/docs/compute/aws/fargate"}

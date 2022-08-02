@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["virtualization"]},"instance":["/docs/compute/aws/workspaces"],"intersection":{"providers":["aws"],"services":["compute"]}}

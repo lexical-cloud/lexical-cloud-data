@@ -1,0 +1,1 @@
+[{"name":"Google Cloud NAT","providers":["gcp"],"services":["network"],"domains":["connectivity"],"categories":["network address translation","private network"],"permalink":"/docs/network/gcp/cloud-nat"}]

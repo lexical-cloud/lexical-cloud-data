@@ -1,0 +1,1 @@
+{"name":"Azure Traffic Manager","providers":["azure"],"services":["network"],"domains":["connectivity"],"categories":["load balancer"],"features":["traffic routing"],"permalink":"/docs/network/azure/traffic-manager"}

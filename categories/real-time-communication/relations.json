@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["eventing"],"services":["integration"]},"instance":["/docs/integration/azure/signalr"],"intersection":{"domains":["serverless"],"features":["websocket api"],"providers":["azure"]}}

@@ -1,0 +1,1 @@
+{"name":"Azure Key Vault","providers":["azure"],"services":["security"],"domains":["data management"],"categories":["auditing","data security","key management","secret management"],"permalink":"/docs/security/azure/key-vault"}

@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["systems management"]},"instance":["/docs/storage/aws/s3-glacier","/docs/storage/azure/blob-storage","/docs/storage/gcp/cloud-storage-archive"],"intersection":{"categories":["object storage"],"domains":["data management","serverless"],"providers":["aws","azure","gcp"],"services":["storage"]}}

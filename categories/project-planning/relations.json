@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["project management"],"services":["developer tools"]},"instance":["/docs/developer-tools/azure/boards","/docs/developer-tools/github/github"],"intersection":{"categories":["source control"],"domains":["developer toolchain"],"features":["community"],"providers":["azure","github"]}}

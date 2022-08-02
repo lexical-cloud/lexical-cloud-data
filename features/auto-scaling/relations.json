@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["virtualization"]},"instance":["/docs/compute/aws/ec2-auto-scaling","/docs/compute/azure/vm-scaled-sets","/docs/compute/gcp/managed-instance-groups"],"intersection":{"categories":["virtual machines"],"providers":["aws","azure","gcp"],"services":["compute"]}}

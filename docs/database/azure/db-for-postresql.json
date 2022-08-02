@@ -1,0 +1,1 @@
+{"name":"Azure Database for PostgreSQL","providers":["azure"],"services":["database"],"domains":["data management","managed service"],"categories":["relational db","sql compliant"],"features":["postgresql"],"permalink":"/docs/database/azure/db-for-postresql"}

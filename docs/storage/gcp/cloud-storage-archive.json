@@ -1,0 +1,1 @@
+{"name":"Google Cloud Storage Archive","providers":["gcp"],"services":["storage"],"domains":["data management","serverless"],"categories":["object storage","data archive"],"permalink":"/docs/storage/gcp/cloud-storage-archive"}

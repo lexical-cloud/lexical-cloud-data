@@ -1,0 +1,1 @@
+{"hierarchical":{"domains":["connectivity"],"services":["network"]},"instance":["/docs/network/aws/vgw","/docs/network/aws/vpc-endpoint","/docs/network/azure/vnet-service-endpoint","/docs/network/azure/vpn-gateway","/docs/network/gcp/cloud-router"],"intersection":{"categories":["private network"],"providers":["aws","azure","gcp"]}}
