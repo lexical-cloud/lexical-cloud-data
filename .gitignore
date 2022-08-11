@@ -3,5 +3,7 @@ css/
 scss/
 js/
 favicons/
-404.html
-sitemap.xml
+pages/
+*.json
+*.html
+*.xml
