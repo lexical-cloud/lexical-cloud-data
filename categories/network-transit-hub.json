@@ -1,1 +1,12 @@
-{"id":"network-transit-hub","name":"network transit hub","type":"category","permalink":"/categories/network-transit-hub","definition":{"title":"Network Transit Hub","services":["network"],"domains":["connectivity"],"permalink":"/glossary/network-transit-hub"}}
+{
+  "id": "network-transit-hub",
+  "name": "network transit hub",
+  "type": "category",
+  "permalink": "/categories/network-transit-hub",
+  "definition": {
+    "title": "Network Transit Hub",
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "permalink": "/glossary/network-transit-hub"
+  }
+}

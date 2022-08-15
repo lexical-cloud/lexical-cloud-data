@@ -1,1 +1,10 @@
-{"id":"governance","name":"governance","type":"service","permalink":"/services/governance","definition":{"title":"Governance","permalink":"/glossary/governance"}}
+{
+  "id": "governance",
+  "name": "governance",
+  "type": "service",
+  "permalink": "/services/governance",
+  "definition": {
+    "title": "Governance",
+    "permalink": "/glossary/governance"
+  }
+}

@@ -1,1 +1,28 @@
-{"hierarchical":{},"instance":["/docs/migration/aws/cloud-endure","/docs/migration/aws/sms","/docs/monitor/gcp/cloud-debugger"],"intersection":{"categories":["server migration","application debugger","root cause analysis"],"domains":["modernization","systems management","observability"],"providers":["aws","gcp"],"services":["migration","monitor"]}}
+{
+  "instance": [
+    "/docs/migration/aws/cloud-endure",
+    "/docs/migration/aws/sms",
+    "/docs/monitor/gcp/cloud-debugger"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "server migration",
+      "application debugger",
+      "root cause analysis"
+    ],
+    "domains": [
+      "modernization",
+      "systems management",
+      "observability"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ],
+    "services": [
+      "migration",
+      "monitor"
+    ]
+  }
+}

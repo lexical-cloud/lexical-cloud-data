@@ -1,1 +1,17 @@
-{"hierarchical":{},"instance":["/docs/migration/aws/app-discovery"],"intersection":{"domains":["modernization"],"providers":["aws"],"services":["migration"]}}
+{
+  "instance": [
+    "/docs/migration/aws/app-discovery"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "domains": [
+      "modernization"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "migration"
+    ]
+  }
+}

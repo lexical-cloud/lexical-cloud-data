@@ -1,1 +1,25 @@
-{"hierarchical":{"domains":["data management"]},"instance":["/docs/analytics/azure/data-lake-analytics","/docs/analytics/azure/databricks","/docs/analytics/azure/hdinsight","/docs/analytics/gcp/dataproc"],"intersection":{"domains":["big data"],"providers":["azure","gcp"],"services":["analytics"]}}
+{
+  "instance": [
+    "/docs/analytics/azure/data-lake-analytics",
+    "/docs/analytics/azure/databricks",
+    "/docs/analytics/azure/hdinsight",
+    "/docs/analytics/gcp/dataproc"
+  ],
+  "intersect": {
+    "domains": [
+      "data management"
+    ]
+  },
+  "symdiff": {
+    "domains": [
+      "big data"
+    ],
+    "providers": [
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "analytics"
+    ]
+  }
+}

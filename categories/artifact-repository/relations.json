@@ -1,1 +1,19 @@
-{"hierarchical":{},"instance":["/docs/developer-tools/aws/codeartifact","/docs/developer-tools/azure/artifacts"],"intersection":{"domains":["devops"],"providers":["aws","azure"],"services":["developer tools"]}}
+{
+  "instance": [
+    "/docs/developer-tools/aws/codeartifact",
+    "/docs/developer-tools/azure/artifacts"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "domains": [
+      "devops"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  }
+}

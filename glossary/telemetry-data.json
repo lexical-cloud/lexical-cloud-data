@@ -1,1 +1,8 @@
-{"title":"Telemetry Data","url":"https://en.wikipedia.org/wiki/Telemetry","services":["monitor"],"domains":["observability"],"permalink":"/glossary/telemetry-data"}
+{
+  "title": "Telemetry Data",
+  "url": "https://en.wikipedia.org/wiki/Telemetry",
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "permalink": "/glossary/telemetry-data"
+}
+

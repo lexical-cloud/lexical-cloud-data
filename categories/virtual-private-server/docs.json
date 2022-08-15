@@ -1,1 +1,10 @@
-[{"name":"Amazon Lightsail","providers":["aws"],"services":["compute"],"domains":["managed service","virtualization"],"categories":["virtual private server"],"permalink":"/docs/compute/aws/lightsail"}]
+[
+  {
+    "name": "Amazon Lightsail",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service","virtualization"],
+    "categories": ["virtual private server"],
+    "permalink": "/docs/compute/aws/lightsail"
+  }
+]

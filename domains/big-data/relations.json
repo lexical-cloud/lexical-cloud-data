@@ -1,1 +1,37 @@
-{"hierarchical":{"services":["analytics","database"]},"instance":["/docs/database/aws/athena","/docs/analytics/aws/quicksight","/docs/analytics/azure/data-lake-analytics","/docs/analytics/azure/databricks","/docs/analytics/azure/hdinsight","/docs/analytics/azure/synapse-analytics","/docs/database/gcp/bigquery","/docs/analytics/gcp/dataproc","/docs/analytics/gcp/looker"],"intersection":{"categories":["sql compliant","unstructured data","dashboards","data processing","data warehousing"],"domains":["data management","serverless"],"providers":["aws","azure","gcp"]}}
+{
+  "instance": [
+    "/docs/database/aws/athena",
+    "/docs/analytics/aws/quicksight",
+    "/docs/analytics/azure/data-lake-analytics",
+    "/docs/analytics/azure/databricks",
+    "/docs/analytics/azure/hdinsight",
+    "/docs/analytics/azure/synapse-analytics",
+    "/docs/database/gcp/bigquery",
+    "/docs/analytics/gcp/dataproc",
+    "/docs/analytics/gcp/looker"
+  ],
+  "intersect": {
+    "services": [
+      "analytics",
+      "database"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "sql compliant",
+      "unstructured data",
+      "dashboards",
+      "data processing",
+      "data warehousing"
+    ],
+    "domains": [
+      "data management",
+      "serverless"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

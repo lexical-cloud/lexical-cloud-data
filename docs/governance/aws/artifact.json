@@ -1,1 +1,9 @@
-{"name":"AWS Artifact","providers":["aws"],"services":["governance"],"domains":["systems management"],"categories":["compliance","auditing"],"permalink":"/docs/governance/aws/artifact"}
+{
+  "name": "AWS Artifact",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["compliance","auditing"],
+  "permalink": "/docs/governance/aws/artifact"
+}
+

@@ -1,1 +1,12 @@
-{"id":"data-security","name":"data security","type":"category","permalink":"/categories/data-security","definition":{"title":"Data Security","url":"https://en.wikipedia.org/wiki/Data_security","domains":["data management"],"permalink":"/glossary/data-security"}}
+{
+  "id": "data-security",
+  "name": "data security",
+  "type": "category",
+  "permalink": "/categories/data-security",
+  "definition": {
+    "title": "Data Security",
+    "url": "https://en.wikipedia.org/wiki/Data_security",
+    "domains": ["data management"],
+    "permalink": "/glossary/data-security"
+  }
+}

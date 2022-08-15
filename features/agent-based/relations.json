@@ -1,1 +1,25 @@
-{"hierarchical":{"domains":["systems management"]},"instance":["/docs/monitor/aws/inspector"],"intersection":{"categories":["vulnerability management","risk assessment"],"domains":["virtualization"],"providers":["aws"],"services":["monitor"]}}
+{
+  "instance": [
+    "/docs/monitor/aws/inspector"
+  ],
+  "intersect": {
+    "domains": [
+      "systems management"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "vulnerability management",
+      "risk assessment"
+    ],
+    "domains": [
+      "virtualization"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "monitor"
+    ]
+  }
+}

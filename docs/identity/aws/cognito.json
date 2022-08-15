@@ -1,1 +1,10 @@
-{"name":"Amazon Cognito","providers":["aws"],"services":["identity"],"domains":["identity management"],"categories":["identity provider"],"features":["user enrollment","authentication","authorization"],"permalink":"/docs/identity/aws/cognito"}
+{
+  "name": "Amazon Cognito",
+  "providers": ["aws"],
+  "services": ["identity"],
+  "domains": ["identity management"],
+  "categories": ["identity provider"],
+  "features": ["user enrollment","authentication","authorization"],
+  "permalink": "/docs/identity/aws/cognito"
+}
+

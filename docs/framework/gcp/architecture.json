@@ -1,1 +1,9 @@
-{"name":"Google Cloud Architecture Framework","providers":["gcp"],"services":["framework"],"domains":["architecture"],"categories":["decision making"],"permalink":"/docs/framework/gcp/architecture"}
+{
+  "name": "Google Cloud Architecture Framework",
+  "providers": ["gcp"],
+  "services": ["framework"],
+  "domains": ["architecture"],
+  "categories": ["decision making"],
+  "permalink": "/docs/framework/gcp/architecture"
+}
+

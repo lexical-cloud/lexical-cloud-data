@@ -1,1 +1,12 @@
-{"id":"deployment-management","name":"deployment management","type":"category","permalink":"/categories/deployment-management","definition":{"title":"Deployment Management","url":"https://en.wikipedia.org/wiki/Deployment_management","domains":["devops","systems management"],"permalink":"/glossary/deployment-management"}}
+{
+  "id": "deployment-management",
+  "name": "deployment management",
+  "type": "category",
+  "permalink": "/categories/deployment-management",
+  "definition": {
+    "title": "Deployment Management",
+    "url": "https://en.wikipedia.org/wiki/Deployment_management",
+    "domains": ["devops","systems management"],
+    "permalink": "/glossary/deployment-management"
+  }
+}

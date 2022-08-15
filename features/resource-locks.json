@@ -1,1 +1,12 @@
-{"id":"resource-locks","name":"resource locks","type":"feature","permalink":"/features/resource-locks","definition":{"title":"Resource Locks","url":"https://en.wikipedia.org/wiki/Concurrency_control","services":["governance"],"permalink":"/glossary/resource-locks"}}
+{
+  "id": "resource-locks",
+  "name": "resource locks",
+  "type": "feature",
+  "permalink": "/features/resource-locks",
+  "definition": {
+    "title": "Resource Locks",
+    "url": "https://en.wikipedia.org/wiki/Concurrency_control",
+    "services": ["governance"],
+    "permalink": "/glossary/resource-locks"
+  }
+}

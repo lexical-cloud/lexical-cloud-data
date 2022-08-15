@@ -1,1 +1,34 @@
-[{"name":"AWS CodeBuild","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["continuous integration"],"permalink":"/docs/developer-tools/aws/codebuild"},{"name":"AWS CodeStar","providers":["aws"],"services":["developer tools"],"domains":["developer toolchain"],"categories":["continuous delivery","continuous integration"],"permalink":"/docs/developer-tools/aws/codestar"},{"name":"Azure Pipelines","providers":["azure"],"services":["developer tools"],"domains":["devops"],"categories":["continuous integration","continuous deployment","continuous delivery"],"permalink":"/docs/developer-tools/azure/pipelines"},{"name":"Github Actions","providers":["github"],"services":["developer tools"],"domains":["devops"],"categories":["continuous delivery","continuous integration"],"permalink":"/docs/developer-tools/github/actions"}]
+[
+  {
+    "name": "AWS CodeBuild",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous integration"],
+    "permalink": "/docs/developer-tools/aws/codebuild"
+  },
+  {
+    "name": "AWS CodeStar",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["continuous delivery","continuous integration"],
+    "permalink": "/docs/developer-tools/aws/codestar"
+  },
+  {
+    "name": "Azure Pipelines",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous integration","continuous deployment","continuous delivery"],
+    "permalink": "/docs/developer-tools/azure/pipelines"
+  },
+  {
+    "name": "Github Actions",
+    "providers": ["github"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous delivery","continuous integration"],
+    "permalink": "/docs/developer-tools/github/actions"
+  }
+]

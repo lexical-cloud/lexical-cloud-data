@@ -1,1 +1,39 @@
-{"hierarchical":{"domains":["connectivity"],"services":["network","security"]},"instance":["/docs/network/aws/direct-connect","/docs/network/aws/privatelink","/docs/network/aws/vgw","/docs/network/aws/vpc-endpoint","/docs/network/azure/expressroute","/docs/network/azure/vnet-service-endpoint","/docs/network/azure/vpn-gateway","/docs/network/gcp/interconnect","/docs/network/gcp/cloud-nat","/docs/network/gcp/cloud-router"],"intersection":{"categories":["on-premises","virtual network","virtual network interface","network address translation"],"providers":["aws","azure","gcp"],"services":["hybrid"]}}
+{
+  "instance": [
+    "/docs/network/aws/direct-connect",
+    "/docs/network/aws/privatelink",
+    "/docs/network/aws/vgw",
+    "/docs/network/aws/vpc-endpoint",
+    "/docs/network/azure/expressroute",
+    "/docs/network/azure/vnet-service-endpoint",
+    "/docs/network/azure/vpn-gateway",
+    "/docs/network/gcp/interconnect",
+    "/docs/network/gcp/cloud-nat",
+    "/docs/network/gcp/cloud-router"
+  ],
+  "intersect": {
+    "domains": [
+      "connectivity"
+    ],
+    "services": [
+      "network",
+      "security"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "on-premises",
+      "virtual network",
+      "virtual network interface",
+      "network address translation"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "hybrid"
+    ]
+  }
+}

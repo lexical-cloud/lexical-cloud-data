@@ -1,1 +1,42 @@
-{"hierarchical":{"services":["governance"]},"instance":["/docs/governance/aws/accounts","/docs/governance/aws/control-tower","/docs/governance/aws/organizations","/docs/governance/aws/resource","/docs/governance/aws/resource-groups","/docs/governance/azure/blueprints","/docs/governance/azure/management-groups","/docs/governance/azure/policy","/docs/governance/azure/resource","/docs/governance/azure/resource-groups","/docs/governance/azure/subscriptions","/docs/governance/gcp/projects","/docs/governance/gcp/quotas"],"intersection":{"categories":["compliance","environment management","policy management"],"domains":["systems management","finops"],"features":["resource locks","alerts"],"providers":["aws","azure","gcp"]}}
+{
+  "instance": [
+    "/docs/governance/aws/accounts",
+    "/docs/governance/aws/control-tower",
+    "/docs/governance/aws/organizations",
+    "/docs/governance/aws/resource",
+    "/docs/governance/aws/resource-groups",
+    "/docs/governance/azure/blueprints",
+    "/docs/governance/azure/management-groups",
+    "/docs/governance/azure/policy",
+    "/docs/governance/azure/resource",
+    "/docs/governance/azure/resource-groups",
+    "/docs/governance/azure/subscriptions",
+    "/docs/governance/gcp/projects",
+    "/docs/governance/gcp/quotas"
+  ],
+  "intersect": {
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "compliance",
+      "environment management",
+      "policy management"
+    ],
+    "domains": [
+      "systems management",
+      "finops"
+    ],
+    "features": [
+      "resource locks",
+      "alerts"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

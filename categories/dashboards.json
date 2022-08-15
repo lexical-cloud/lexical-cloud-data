@@ -1,1 +1,12 @@
-{"id":"dashboards","name":"dashboards","type":"category","permalink":"/categories/dashboards","definition":{"title":"Dashboards","url":"https://en.wikipedia.org/wiki/Dashboard_(business)","services":["analytics","monitor"],"permalink":"/glossary/dashboards"}}
+{
+  "id": "dashboards",
+  "name": "dashboards",
+  "type": "category",
+  "permalink": "/categories/dashboards",
+  "definition": {
+    "title": "Dashboards",
+    "url": "https://en.wikipedia.org/wiki/Dashboard_(business)",
+    "services": ["analytics","monitor"],
+    "permalink": "/glossary/dashboards"
+  }
+}

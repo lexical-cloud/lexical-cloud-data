@@ -1,1 +1,44 @@
-{"hierarchical":{},"instance":["/docs/developer-tools/aws/appconfig","/docs/developer-tools/aws/cloudformation","/docs/developer-tools/aws/codeartifact","/docs/developer-tools/aws/codebuild","/docs/developer-tools/aws/codecommit","/docs/developer-tools/aws/codedeploy","/docs/developer-tools/aws/codepipeline","/docs/developer-tools/azure/appconfig","/docs/developer-tools/azure/artifacts","/docs/developer-tools/azure/pipelines","/docs/developer-tools/azure/repos","/docs/developer-tools/azure/arm","/docs/developer-tools/github/actions","/docs/developer-tools/gcp/cloud-source-repos"],"intersection":{"categories":["continuous configuration","infrastructure as code","deployment management","artifact repository","continuous integration","source control","continuous deployment","continuous delivery"],"domains":["developer toolchain","systems management"],"providers":["aws","azure","github","gcp"],"services":["developer tools"]}}
+{
+  "instance": [
+    "/docs/developer-tools/aws/appconfig",
+    "/docs/developer-tools/aws/cloudformation",
+    "/docs/developer-tools/aws/codeartifact",
+    "/docs/developer-tools/aws/codebuild",
+    "/docs/developer-tools/aws/codecommit",
+    "/docs/developer-tools/aws/codedeploy",
+    "/docs/developer-tools/aws/codepipeline",
+    "/docs/developer-tools/azure/appconfig",
+    "/docs/developer-tools/azure/artifacts",
+    "/docs/developer-tools/azure/pipelines",
+    "/docs/developer-tools/azure/repos",
+    "/docs/developer-tools/azure/arm",
+    "/docs/developer-tools/github/actions",
+    "/docs/developer-tools/gcp/cloud-source-repos"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "continuous configuration",
+      "infrastructure as code",
+      "deployment management",
+      "artifact repository",
+      "continuous integration",
+      "source control",
+      "continuous deployment",
+      "continuous delivery"
+    ],
+    "domains": [
+      "developer toolchain",
+      "systems management"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "github",
+      "gcp"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  }
+}

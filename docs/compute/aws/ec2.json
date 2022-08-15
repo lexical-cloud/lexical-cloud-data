@@ -1,1 +1,9 @@
-{"name":"Amazon Elastic Compute Cloud","providers":["aws"],"services":["compute"],"domains":["virtualization"],"categories":["virtual machines"],"permalink":"/docs/compute/aws/ec2"}
+{
+  "name": "Amazon Elastic Compute Cloud",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["virtualization"],
+  "categories": ["virtual machines"],
+  "permalink": "/docs/compute/aws/ec2"
+}
+

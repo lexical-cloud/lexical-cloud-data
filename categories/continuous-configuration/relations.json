@@ -1,1 +1,20 @@
-{"hierarchical":{"domains":["devops"],"services":["developer tools"]},"instance":["/docs/developer-tools/aws/appconfig","/docs/developer-tools/azure/appconfig"],"intersection":{"providers":["aws","azure"]}}
+{
+  "instance": [
+    "/docs/developer-tools/aws/appconfig",
+    "/docs/developer-tools/azure/appconfig"
+  ],
+  "intersect": {
+    "domains": [
+      "devops"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  },
+  "symdiff": {
+    "providers": [
+      "aws",
+      "azure"
+    ]
+  }
+}

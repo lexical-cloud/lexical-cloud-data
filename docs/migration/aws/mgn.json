@@ -1,1 +1,9 @@
-{"name":"AWS Application Migration Service","providers":["aws"],"services":["migration"],"domains":["modernization"],"categories":["server migration"],"permalink":"/docs/migration/aws/mgn"}
+{
+  "name": "AWS Application Migration Service",
+  "providers": ["aws"],
+  "services": ["migration"],
+  "domains": ["modernization"],
+  "categories": ["server migration"],
+  "permalink": "/docs/migration/aws/mgn"
+}
+

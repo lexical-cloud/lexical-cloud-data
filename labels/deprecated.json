@@ -1,1 +1,11 @@
-{"id":"deprecated","name":"deprecated","type":"label","permalink":"/labels/deprecated","definition":{"title":"Deprecated","url":"https://en.wikipedia.org/wiki/Deprecation","permalink":"/glossary/deprecated"}}
+{
+  "id": "deprecated",
+  "name": "deprecated",
+  "type": "label",
+  "permalink": "/labels/deprecated",
+  "definition": {
+    "title": "Deprecated",
+    "url": "https://en.wikipedia.org/wiki/Deprecation",
+    "permalink": "/glossary/deprecated"
+  }
+}

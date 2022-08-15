@@ -1,1 +1,43 @@
-{"hierarchical":{"domains":["machine learning"],"services":["ai"]},"instance":["/docs/ai/azure/cognitive-services","/docs/ai/azure/cognitive-services-personalizer","/docs/ai/gcp/natural-language-ai","/docs/ai/gcp/speech-to-text","/docs/ai/gcp/text-to-speech","/docs/ai/gcp/vision-ai"],"intersection":{"categories":["language processing","speech processing","computer vision","decision making"],"domains":["serverless"],"features":["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","personalization"],"providers":["azure","gcp"]}}
+{
+  "instance": [
+    "/docs/ai/azure/cognitive-services",
+    "/docs/ai/azure/cognitive-services-personalizer",
+    "/docs/ai/gcp/natural-language-ai",
+    "/docs/ai/gcp/speech-to-text",
+    "/docs/ai/gcp/text-to-speech",
+    "/docs/ai/gcp/vision-ai"
+  ],
+  "intersect": {
+    "domains": [
+      "machine learning"
+    ],
+    "services": [
+      "ai"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "language processing",
+      "speech processing",
+      "computer vision",
+      "decision making"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "features": [
+      "sentiment analysis",
+      "speech-to-text",
+      "text-to-speech",
+      "language translation",
+      "speaker recognition",
+      "object detection",
+      "recommendations",
+      "personalization"
+    ],
+    "providers": [
+      "azure",
+      "gcp"
+    ]
+  }
+}

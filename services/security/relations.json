@@ -1,1 +1,58 @@
-{"hierarchical":{},"instance":["/docs/security/aws/security-group","/docs/security/aws/macie","/docs/security/aws/certificate-manager","/docs/security/aws/cloudhsm","/docs/security/aws/detective","/docs/security/aws/kms","/docs/security/aws/network-firewall","/docs/security/aws/secrets-manager","/docs/security/aws/shield","/docs/security/aws/waf","/docs/security/azure/ddos-protection","/docs/security/azure/firewall","/docs/security/azure/key-vault","/docs/security/gcp/firewall","/docs/security/gcp/security-command-center","/docs/security/azure/defender-for-cloud","/docs/security/azure/sentinel"],"intersection":{"categories":["firewall","data privacy","risk assessment","certificates","data security","key management","security monitoring","root cause analysis","auditing","secret management","ddos protection","web application firewall","siem"],"domains":["virtualization","data management","systems management","managed service","connectivity"],"features":["stateful"],"providers":["aws","azure","gcp"],"services":["compute","network"]}}
+{
+  "instance": [
+    "/docs/security/aws/security-group",
+    "/docs/security/aws/macie",
+    "/docs/security/aws/certificate-manager",
+    "/docs/security/aws/cloudhsm",
+    "/docs/security/aws/detective",
+    "/docs/security/aws/kms",
+    "/docs/security/aws/network-firewall",
+    "/docs/security/aws/secrets-manager",
+    "/docs/security/aws/shield",
+    "/docs/security/aws/waf",
+    "/docs/security/azure/ddos-protection",
+    "/docs/security/azure/firewall",
+    "/docs/security/azure/key-vault",
+    "/docs/security/gcp/firewall",
+    "/docs/security/gcp/security-command-center",
+    "/docs/security/azure/defender-for-cloud",
+    "/docs/security/azure/sentinel"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "firewall",
+      "data privacy",
+      "risk assessment",
+      "certificates",
+      "data security",
+      "key management",
+      "security monitoring",
+      "root cause analysis",
+      "auditing",
+      "secret management",
+      "ddos protection",
+      "web application firewall",
+      "siem"
+    ],
+    "domains": [
+      "virtualization",
+      "data management",
+      "systems management",
+      "managed service",
+      "connectivity"
+    ],
+    "features": [
+      "stateful"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "compute",
+      "network"
+    ]
+  }
+}

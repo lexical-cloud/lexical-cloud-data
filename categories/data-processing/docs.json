@@ -1,1 +1,34 @@
-[{"name":"Azure Data Lake Analytics","providers":["azure"],"services":["analytics"],"domains":["big data"],"categories":["data processing"],"permalink":"/docs/analytics/azure/data-lake-analytics"},{"name":"Azure Databricks","providers":["azure"],"services":["analytics"],"domains":["big data"],"categories":["data processing"],"permalink":"/docs/analytics/azure/databricks"},{"name":"Azure HDInsights","providers":["azure"],"services":["analytics"],"domains":["big data"],"categories":["data processing"],"permalink":"/docs/analytics/azure/hdinsight"},{"name":"Google Cloud Dataproc","providers":["gcp"],"services":["analytics"],"domains":["big data"],"categories":["data processing"],"permalink":"/docs/analytics/gcp/dataproc"}]
+[
+  {
+    "name": "Azure Data Lake Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "permalink": "/docs/analytics/azure/data-lake-analytics"
+  },
+  {
+    "name": "Azure Databricks",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "permalink": "/docs/analytics/azure/databricks"
+  },
+  {
+    "name": "Azure HDInsights",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "permalink": "/docs/analytics/azure/hdinsight"
+  },
+  {
+    "name": "Google Cloud Dataproc",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "permalink": "/docs/analytics/gcp/dataproc"
+  }
+]

@@ -1,1 +1,13 @@
-{"id":"identity-provider","name":"identity provider","type":"category","permalink":"/categories/identity-provider","definition":{"title":"Identity Provider (IdP)","url":"https://en.wikipedia.org/wiki/Identity_provider","services":["identity"],"domains":["identity management"],"permalink":"/glossary/identity-provider"}}
+{
+  "id": "identity-provider",
+  "name": "identity provider",
+  "type": "category",
+  "permalink": "/categories/identity-provider",
+  "definition": {
+    "title": "Identity Provider (IdP)",
+    "url": "https://en.wikipedia.org/wiki/Identity_provider",
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "permalink": "/glossary/identity-provider"
+  }
+}

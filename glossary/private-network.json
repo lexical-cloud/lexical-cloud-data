@@ -1,1 +1,8 @@
-{"title":"Private Network","url":"https://en.wikipedia.org/wiki/Private_network","services":["network","security"],"domains":["connectivity"],"permalink":"/glossary/private-network"}
+{
+  "title": "Private Network",
+  "url": "https://en.wikipedia.org/wiki/Private_network",
+  "services": ["network","security"],
+  "domains": ["connectivity"],
+  "permalink": "/glossary/private-network"
+}
+

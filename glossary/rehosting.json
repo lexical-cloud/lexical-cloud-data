@@ -1,1 +1,7 @@
-{"title":"Rehosting","services":["migration"],"domains":["architecture","modernization"],"permalink":"/glossary/rehosting"}
+{
+  "title": "Rehosting",
+  "services": ["migration"],
+  "domains": ["architecture","modernization"],
+  "permalink": "/glossary/rehosting"
+}
+

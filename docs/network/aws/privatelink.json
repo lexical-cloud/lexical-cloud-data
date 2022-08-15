@@ -1,1 +1,9 @@
-{"name":"AWS PrivateLink","providers":["aws"],"services":["hybrid","network"],"domains":["connectivity"],"categories":["on-premises","private network","virtual network"],"permalink":"/docs/network/aws/privatelink"}
+{
+  "name": "AWS PrivateLink",
+  "providers": ["aws"],
+  "services": ["hybrid","network"],
+  "domains": ["connectivity"],
+  "categories": ["on-premises","private network","virtual network"],
+  "permalink": "/docs/network/aws/privatelink"
+}
+

@@ -1,1 +1,18 @@
-{"hierarchical":{"domains":["virtualization"]},"instance":["/docs/compute/aws/workspaces"],"intersection":{"providers":["aws"],"services":["compute"]}}
+{
+  "instance": [
+    "/docs/compute/aws/workspaces"
+  ],
+  "intersect": {
+    "domains": [
+      "virtualization"
+    ]
+  },
+  "symdiff": {
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "compute"
+    ]
+  }
+}

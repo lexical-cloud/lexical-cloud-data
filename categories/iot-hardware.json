@@ -1,1 +1,12 @@
-{"id":"iot-hardware","name":"iot hardware","type":"category","permalink":"/categories/iot-hardware","definition":{"title":"IoT Hardware","services":["iot"],"domains":["edge computing"],"permalink":"/glossary/iot-hardware"}}
+{
+  "id": "iot-hardware",
+  "name": "iot hardware",
+  "type": "category",
+  "permalink": "/categories/iot-hardware",
+  "definition": {
+    "title": "IoT Hardware",
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "permalink": "/glossary/iot-hardware"
+  }
+}

@@ -1,1 +1,12 @@
-{"id":"agent-based","name":"agent-based","type":"feature","permalink":"/features/agent-based","definition":{"title":"Agent-based","url":"https://en.wikipedia.org/wiki/Software_agent","domains":["systems management"],"permalink":"/glossary/agent-based"}}
+{
+  "id": "agent-based",
+  "name": "agent-based",
+  "type": "feature",
+  "permalink": "/features/agent-based",
+  "definition": {
+    "title": "Agent-based",
+    "url": "https://en.wikipedia.org/wiki/Software_agent",
+    "domains": ["systems management"],
+    "permalink": "/glossary/agent-based"
+  }
+}

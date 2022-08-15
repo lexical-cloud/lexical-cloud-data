@@ -1,1 +1,28 @@
-{"hierarchical":{"services":["security"]},"instance":["/docs/identity/aws/cognito"],"intersection":{"categories":["identity provider"],"domains":["identity management"],"features":["user enrollment","authorization"],"providers":["aws"],"services":["identity"]}}
+{
+  "instance": [
+    "/docs/identity/aws/cognito"
+  ],
+  "intersect": {
+    "services": [
+      "security"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "identity provider"
+    ],
+    "domains": [
+      "identity management"
+    ],
+    "features": [
+      "user enrollment",
+      "authorization"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "identity"
+    ]
+  }
+}

@@ -1,1 +1,10 @@
-{"name":"Amazon EC2 Security Group","providers":["aws"],"services":["security","compute"],"domains":["virtualization"],"categories":["firewall"],"features":["stateful"],"permalink":"/docs/security/aws/security-group"}
+{
+  "name": "Amazon EC2 Security Group",
+  "providers": ["aws"],
+  "services": ["security","compute"],
+  "domains": ["virtualization"],
+  "categories": ["firewall"],
+  "features": ["stateful"],
+  "permalink": "/docs/security/aws/security-group"
+}
+

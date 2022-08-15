@@ -1,1 +1,30 @@
-{"hierarchical":{"services":["governance"]},"instance":["/docs/governance/azure/management-groups","/docs/governance/azure/policy","/docs/governance/azure/policy-initiative","/docs/governance/azure/resource-groups","/docs/governance/azure/subscriptions","/docs/governance/gcp/projects"],"intersection":{"categories":["resource management"],"domains":["systems management"],"features":["resource locks"],"providers":["azure","gcp"]}}
+{
+  "instance": [
+    "/docs/governance/azure/management-groups",
+    "/docs/governance/azure/policy",
+    "/docs/governance/azure/policy-initiative",
+    "/docs/governance/azure/resource-groups",
+    "/docs/governance/azure/subscriptions",
+    "/docs/governance/gcp/projects"
+  ],
+  "intersect": {
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "resource management"
+    ],
+    "domains": [
+      "systems management"
+    ],
+    "features": [
+      "resource locks"
+    ],
+    "providers": [
+      "azure",
+      "gcp"
+    ]
+  }
+}

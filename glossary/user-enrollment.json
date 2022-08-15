@@ -1,1 +1,6 @@
-{"title":"User Enrollment","services":["identity"],"permalink":"/glossary/user-enrollment"}
+{
+  "title": "User Enrollment",
+  "services": ["identity"],
+  "permalink": "/glossary/user-enrollment"
+}
+

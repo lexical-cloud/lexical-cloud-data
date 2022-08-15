@@ -1,1 +1,8 @@
-{"title":"REST API","url":"https://en.wikipedia.org/wiki/Representational_state_transfer","services":["integration"],"domains":["api management"],"permalink":"/glossary/rest-api"}
+{
+  "title": "REST API",
+  "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
+  "services": ["integration"],
+  "domains": ["api management"],
+  "permalink": "/glossary/rest-api"
+}
+

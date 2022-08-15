@@ -1,1 +1,31 @@
-{"hierarchical":{"domains":["architecture"],"services":["compute"]},"instance":["/docs/security/aws/security-group","/docs/network/azure/security-groups"],"intersection":{"categories":["firewall"],"domains":["virtualization","connectivity"],"providers":["aws","azure"],"services":["security","network"]}}
+{
+  "instance": [
+    "/docs/security/aws/security-group",
+    "/docs/network/azure/security-groups"
+  ],
+  "intersect": {
+    "domains": [
+      "architecture"
+    ],
+    "services": [
+      "compute"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "firewall"
+    ],
+    "domains": [
+      "virtualization",
+      "connectivity"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "security",
+      "network"
+    ]
+  }
+}

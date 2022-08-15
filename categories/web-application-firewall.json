@@ -1,1 +1,14 @@
-{"id":"web-application-firewall","name":"web application firewall","type":"category","permalink":"/categories/web-application-firewall","definition":{"title":"Web Application Firewall (WAF)","url":"https://en.wikipedia.org/wiki/Web_application_firewall","services":["security"],"domains":["systems management"],"categories":["firewall"],"permalink":"/glossary/web-application-firewall"}}
+{
+  "id": "web-application-firewall",
+  "name": "web application firewall",
+  "type": "category",
+  "permalink": "/categories/web-application-firewall",
+  "definition": {
+    "title": "Web Application Firewall (WAF)",
+    "url": "https://en.wikipedia.org/wiki/Web_application_firewall",
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["firewall"],
+    "permalink": "/glossary/web-application-firewall"
+  }
+}

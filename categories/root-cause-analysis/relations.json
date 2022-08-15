@@ -1,1 +1,41 @@
-{"hierarchical":{"domains":["systems management"],"services":["monitor"]},"instance":["/docs/security/aws/detective","/docs/monitor/aws/xray","/docs/monitor/gcp/cloud-debugger","/docs/monitor/gcp/error-reporting","/docs/monitor/gcp/cloud-profiler","/docs/monitor/gcp/cloud-trace"],"intersection":{"categories":["security monitoring","application debugger","performance monitoring"],"domains":["observability"],"features":["open telemetry"],"labels":["deprecated"],"providers":["aws","gcp"],"services":["security"]}}
+{
+  "instance": [
+    "/docs/security/aws/detective",
+    "/docs/monitor/aws/xray",
+    "/docs/monitor/gcp/cloud-debugger",
+    "/docs/monitor/gcp/error-reporting",
+    "/docs/monitor/gcp/cloud-profiler",
+    "/docs/monitor/gcp/cloud-trace"
+  ],
+  "intersect": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "monitor"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "security monitoring",
+      "application debugger",
+      "performance monitoring"
+    ],
+    "domains": [
+      "observability"
+    ],
+    "features": [
+      "open telemetry"
+    ],
+    "labels": [
+      "deprecated"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ],
+    "services": [
+      "security"
+    ]
+  }
+}

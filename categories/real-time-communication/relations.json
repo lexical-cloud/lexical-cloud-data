@@ -1,1 +1,24 @@
-{"hierarchical":{"domains":["eventing"],"services":["integration"]},"instance":["/docs/integration/azure/signalr"],"intersection":{"domains":["serverless"],"features":["websocket api"],"providers":["azure"]}}
+{
+  "instance": [
+    "/docs/integration/azure/signalr"
+  ],
+  "intersect": {
+    "domains": [
+      "eventing"
+    ],
+    "services": [
+      "integration"
+    ]
+  },
+  "symdiff": {
+    "domains": [
+      "serverless"
+    ],
+    "features": [
+      "websocket api"
+    ],
+    "providers": [
+      "azure"
+    ]
+  }
+}

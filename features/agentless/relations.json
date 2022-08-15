@@ -1,1 +1,25 @@
-{"hierarchical":{"domains":["systems management"]},"instance":["/docs/monitor/aws/guardduty"],"intersection":{"categories":["risks assessment","threat detection"],"domains":["observability"],"providers":["aws"],"services":["monitor"]}}
+{
+  "instance": [
+    "/docs/monitor/aws/guardduty"
+  ],
+  "intersect": {
+    "domains": [
+      "systems management"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "risks assessment",
+      "threat detection"
+    ],
+    "domains": [
+      "observability"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "monitor"
+    ]
+  }
+}

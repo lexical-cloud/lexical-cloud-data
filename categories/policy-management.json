@@ -1,1 +1,12 @@
-{"id":"policy-management","name":"policy management","type":"category","permalink":"/categories/policy-management","definition":{"title":"Policy Management","url":"https://en.wikipedia.org/wiki/Policy-based_management","services":["governance"],"permalink":"/glossary/policy-management"}}
+{
+  "id": "policy-management",
+  "name": "policy management",
+  "type": "category",
+  "permalink": "/categories/policy-management",
+  "definition": {
+    "title": "Policy Management",
+    "url": "https://en.wikipedia.org/wiki/Policy-based_management",
+    "services": ["governance"],
+    "permalink": "/glossary/policy-management"
+  }
+}

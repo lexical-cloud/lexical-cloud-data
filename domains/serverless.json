@@ -1,1 +1,11 @@
-{"id":"serverless","name":"serverless","type":"domain","permalink":"/domains/serverless","definition":{"title":"Serverless","url":"https://glossary.cncf.io/serverless/","permalink":"/glossary/serverless"}}
+{
+  "id": "serverless",
+  "name": "serverless",
+  "type": "domain",
+  "permalink": "/domains/serverless",
+  "definition": {
+    "title": "Serverless",
+    "url": "https://glossary.cncf.io/serverless/",
+    "permalink": "/glossary/serverless"
+  }
+}

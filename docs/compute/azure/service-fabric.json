@@ -1,1 +1,9 @@
-{"name":"Azure Service Fabric","providers":["azure"],"services":["compute"],"domains":["containerization"],"categories":["container orchestrator"],"permalink":"/docs/compute/azure/service-fabric"}
+{
+  "name": "Azure Service Fabric",
+  "providers": ["azure"],
+  "services": ["compute"],
+  "domains": ["containerization"],
+  "categories": ["container orchestrator"],
+  "permalink": "/docs/compute/azure/service-fabric"
+}
+

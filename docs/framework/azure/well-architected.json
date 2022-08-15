@@ -1,1 +1,9 @@
-{"name":"Azure Well-Architected Framework","providers":["azure"],"services":["framework"],"domains":["architecture"],"categories":["decision making"],"permalink":"/docs/framework/azure/well-architected"}
+{
+  "name": "Azure Well-Architected Framework",
+  "providers": ["azure"],
+  "services": ["framework"],
+  "domains": ["architecture"],
+  "categories": ["decision making"],
+  "permalink": "/docs/framework/azure/well-architected"
+}
+

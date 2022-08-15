@@ -1,1 +1,10 @@
-{"name":"Google Cloud Vision AI","providers":["gcp"],"services":["ai"],"domains":["machine learning"],"categories":["computer vision"],"features":["object detection","prebuilt models"],"permalink":"/docs/ai/gcp/vision-ai"}
+{
+  "name": "Google Cloud Vision AI",
+  "providers": ["gcp"],
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "categories": ["computer vision"],
+  "features": ["object detection","prebuilt models"],
+  "permalink": "/docs/ai/gcp/vision-ai"
+}
+

@@ -1,1 +1,9 @@
-{"name":"Google Cloud Functions","providers":["gcp"],"services":["compute"],"domains":["serverless"],"categories":["faas"],"permalink":"/docs/compute/gcp/cloud-functions"}
+{
+  "name": "Google Cloud Functions",
+  "providers": ["gcp"],
+  "services": ["compute"],
+  "domains": ["serverless"],
+  "categories": ["faas"],
+  "permalink": "/docs/compute/gcp/cloud-functions"
+}
+

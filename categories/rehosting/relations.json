@@ -1,1 +1,30 @@
-{"hierarchical":{"domains":["architecture","modernization"],"services":["migration"]},"instance":["/docs/compute/gcp/bare-metal","/docs/compute/gcp/vmware-engine"],"intersection":{"categories":["virtual machines"],"domains":["managed service","virtualization"],"providers":["gcp"],"services":["compute"]}}
+{
+  "instance": [
+    "/docs/compute/gcp/bare-metal",
+    "/docs/compute/gcp/vmware-engine"
+  ],
+  "intersect": {
+    "domains": [
+      "architecture",
+      "modernization"
+    ],
+    "services": [
+      "migration"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "virtual machines"
+    ],
+    "domains": [
+      "managed service",
+      "virtualization"
+    ],
+    "providers": [
+      "gcp"
+    ],
+    "services": [
+      "compute"
+    ]
+  }
+}

@@ -1,1 +1,30 @@
-{"hierarchical":{"domains":["observability"],"services":["monitor"]},"instance":["/docs/monitor/aws/cloudwatch","/docs/monitor/gcp/cloud-monitoring","/docs/monitor/gcp/cloud-trace"],"intersection":{"categories":["telemetry data","dashboards","root cause analysis","performance monitoring"],"features":["alerts"],"providers":["aws","gcp"]}}
+{
+  "instance": [
+    "/docs/monitor/aws/cloudwatch",
+    "/docs/monitor/gcp/cloud-monitoring",
+    "/docs/monitor/gcp/cloud-trace"
+  ],
+  "intersect": {
+    "domains": [
+      "observability"
+    ],
+    "services": [
+      "monitor"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "telemetry data",
+      "dashboards",
+      "root cause analysis",
+      "performance monitoring"
+    ],
+    "features": [
+      "alerts"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ]
+  }
+}

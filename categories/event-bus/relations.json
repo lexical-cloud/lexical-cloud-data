@@ -1,1 +1,24 @@
-{"hierarchical":{"domains":["eventing"],"services":["integration"]},"instance":["/docs/integration/aws/eventbridge"],"intersection":{"categories":["pub-sub"],"domains":["serverless"],"providers":["aws"]}}
+{
+  "instance": [
+    "/docs/integration/aws/eventbridge"
+  ],
+  "intersect": {
+    "domains": [
+      "eventing"
+    ],
+    "services": [
+      "integration"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "pub-sub"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "providers": [
+      "aws"
+    ]
+  }
+}

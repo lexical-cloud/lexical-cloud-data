@@ -1,1 +1,9 @@
-{"name":"Azure Event Grid","providers":["azure"],"services":["integration"],"domains":["eventing","serverless"],"categories":["pub-sub"],"permalink":"/docs/integration/azure/event-grid"}
+{
+  "name": "Azure Event Grid",
+  "providers": ["azure"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["pub-sub"],
+  "permalink": "/docs/integration/azure/event-grid"
+}
+

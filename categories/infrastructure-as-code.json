@@ -1,1 +1,11 @@
-{"id":"infrastructure-as-code","name":"infrastructure as code","type":"category","permalink":"/categories/infrastructure-as-code","definition":{"title":"Infrastructure as Code (IaC)","url":"https://glossary.cncf.io/infrastructure-as-code/","permalink":"/glossary/infrastructure-as-code"}}
+{
+  "id": "infrastructure-as-code",
+  "name": "infrastructure as code",
+  "type": "category",
+  "permalink": "/categories/infrastructure-as-code",
+  "definition": {
+    "title": "Infrastructure as Code (IaC)",
+    "url": "https://glossary.cncf.io/infrastructure-as-code/",
+    "permalink": "/glossary/infrastructure-as-code"
+  }
+}

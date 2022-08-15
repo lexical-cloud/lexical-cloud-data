@@ -1,1 +1,13 @@
-{"id":"relational-db","name":"relational db","type":"category","permalink":"/categories/relational-db","definition":{"title":"Relational Database (RDBMS)","url":"https://en.wikipedia.org/wiki/Relational_database","services":["database"],"domains":["data management"],"permalink":"/glossary/relational-db"}}
+{
+  "id": "relational-db",
+  "name": "relational db",
+  "type": "category",
+  "permalink": "/categories/relational-db",
+  "definition": {
+    "title": "Relational Database (RDBMS)",
+    "url": "https://en.wikipedia.org/wiki/Relational_database",
+    "services": ["database"],
+    "domains": ["data management"],
+    "permalink": "/glossary/relational-db"
+  }
+}

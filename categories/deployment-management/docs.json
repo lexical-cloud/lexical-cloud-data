@@ -1,1 +1,26 @@
-[{"name":"AWS CloudFormation","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["infrastructure as code","deployment management"],"permalink":"/docs/developer-tools/aws/cloudformation"},{"name":"AWS Serverless Application Model","providers":["aws"],"services":["framework"],"domains":["serverless"],"categories":["deployment management"],"permalink":"/docs/framework/aws/sam"},{"name":"Azure Resource Manager","providers":["azure"],"services":["developer tools"],"domains":["devops","systems management"],"categories":["infrastructure as code","deployment management"],"permalink":"/docs/developer-tools/azure/arm"}]
+[
+  {
+    "name": "AWS CloudFormation",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["infrastructure as code","deployment management"],
+    "permalink": "/docs/developer-tools/aws/cloudformation"
+  },
+  {
+    "name": "AWS Serverless Application Model",
+    "providers": ["aws"],
+    "services": ["framework"],
+    "domains": ["serverless"],
+    "categories": ["deployment management"],
+    "permalink": "/docs/framework/aws/sam"
+  },
+  {
+    "name": "Azure Resource Manager",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops","systems management"],
+    "categories": ["infrastructure as code","deployment management"],
+    "permalink": "/docs/developer-tools/azure/arm"
+  }
+]

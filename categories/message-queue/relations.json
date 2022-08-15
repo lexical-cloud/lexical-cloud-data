@@ -1,1 +1,32 @@
-{"hierarchical":{"domains":["eventing"],"services":["integration"]},"instance":["/docs/integration/aws/sqs","/docs/storage/azure/queue-storage","/docs/integration/azure/service-bus","/docs/integration/gcp/pubsub"],"intersection":{"categories":["pub-sub"],"domains":["serverless"],"providers":["aws","azure","gcp"],"services":["storage"]}}
+{
+  "instance": [
+    "/docs/integration/aws/sqs",
+    "/docs/storage/azure/queue-storage",
+    "/docs/integration/azure/service-bus",
+    "/docs/integration/gcp/pubsub"
+  ],
+  "intersect": {
+    "domains": [
+      "eventing"
+    ],
+    "services": [
+      "integration"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "pub-sub"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "storage"
+    ]
+  }
+}

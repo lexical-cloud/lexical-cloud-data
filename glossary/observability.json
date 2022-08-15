@@ -1,1 +1,7 @@
-{"title":"Observability","url":"https://glossary.cncf.io/observability/","services":["monitor"],"permalink":"/glossary/observability"}
+{
+  "title": "Observability",
+  "url": "https://glossary.cncf.io/observability/",
+  "services": ["monitor"],
+  "permalink": "/glossary/observability"
+}
+

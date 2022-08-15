@@ -1,1 +1,18 @@
-{"hierarchical":{"domains":["edge computing"],"services":["iot"]},"instance":["/docs/iot/azure/hub"],"intersection":{"providers":["azure"]}}
+{
+  "instance": [
+    "/docs/iot/azure/hub"
+  ],
+  "intersect": {
+    "domains": [
+      "edge computing"
+    ],
+    "services": [
+      "iot"
+    ]
+  },
+  "symdiff": {
+    "providers": [
+      "azure"
+    ]
+  }
+}

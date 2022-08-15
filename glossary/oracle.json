@@ -1,1 +1,7 @@
-{"title":"Oracle Database","url":"https://en.wikipedia.org/wiki/Oracle_Database","services":["database"],"permalink":"/glossary/oracle"}
+{
+  "title": "Oracle Database",
+  "url": "https://en.wikipedia.org/wiki/Oracle_Database",
+  "services": ["database"],
+  "permalink": "/glossary/oracle"
+}
+

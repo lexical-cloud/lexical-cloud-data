@@ -1,1 +1,10 @@
-{"name":"Amazon CloudWatch Application Insights","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data","dashboards"],"features":["alerts","automation"],"permalink":"/docs/monitor/aws/cloudwatch-app-insights"}
+{
+  "name": "Amazon CloudWatch Application Insights",
+  "providers": ["aws"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["telemetry data","dashboards"],
+  "features": ["alerts","automation"],
+  "permalink": "/docs/monitor/aws/cloudwatch-app-insights"
+}
+

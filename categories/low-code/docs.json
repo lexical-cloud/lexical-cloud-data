@@ -1,1 +1,18 @@
-[{"name":"Azure Logic Apps","providers":["azure"],"services":["integration"],"domains":["end-user computing","process modeling","serverless"],"categories":["low-code","no-code","workflow engine"],"permalink":"/docs/integration/azure/logic-apps"},{"name":"AWS Step Functions","providers":["aws"],"services":["integration"],"domains":["end-user computing","process modeling","serverless"],"categories":["low-code","workflow engine"],"permalink":"/docs/integration/aws/step-functions"}]
+[
+  {
+    "name": "Azure Logic Apps",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","no-code","workflow engine"],
+    "permalink": "/docs/integration/azure/logic-apps"
+  },
+  {
+    "name": "AWS Step Functions",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","workflow engine"],
+    "permalink": "/docs/integration/aws/step-functions"
+  }
+]

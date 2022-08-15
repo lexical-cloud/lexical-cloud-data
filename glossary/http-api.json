@@ -1,1 +1,8 @@
-{"title":"HTTP API","url":"https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol","services":["integration"],"domains":["api management"],"permalink":"/glossary/http-api"}
+{
+  "title": "HTTP API",
+  "url": "https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
+  "services": ["integration"],
+  "domains": ["api management"],
+  "permalink": "/glossary/http-api"
+}
+

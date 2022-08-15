@@ -1,1 +1,24 @@
-{"hierarchical":{"domains":["directory service"],"services":["identity"]},"instance":["/docs/identity/aws/ad-connector"],"intersection":{"categories":["identity provider"],"domains":["identity management"],"providers":["aws"]}}
+{
+  "instance": [
+    "/docs/identity/aws/ad-connector"
+  ],
+  "intersect": {
+    "domains": [
+      "directory service"
+    ],
+    "services": [
+      "identity"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "identity provider"
+    ],
+    "domains": [
+      "identity management"
+    ],
+    "providers": [
+      "aws"
+    ]
+  }
+}

@@ -1,1 +1,7 @@
-{"title":"API Portal","services":["integration"],"domains":["api management"],"permalink":"/glossary/api-portal"}
+{
+  "title": "API Portal",
+  "services": ["integration"],
+  "domains": ["api management"],
+  "permalink": "/glossary/api-portal"
+}
+

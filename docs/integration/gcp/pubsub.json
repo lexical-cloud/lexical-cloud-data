@@ -1,1 +1,9 @@
-{"name":"Google Cloud Pub/Sub","providers":["gcp"],"services":["integration"],"domains":["eventing","serverless"],"categories":["message queue","pub-sub"],"permalink":"/docs/integration/gcp/pubsub"}
+{
+  "name": "Google Cloud Pub/Sub",
+  "providers": ["gcp"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["message queue","pub-sub"],
+  "permalink": "/docs/integration/gcp/pubsub"
+}
+

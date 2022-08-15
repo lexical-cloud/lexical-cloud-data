@@ -1,1 +1,28 @@
-{"hierarchical":{},"instance":["/docs/framework/aws/cloud-adoption","/docs/framework/aws/sam","/docs/framework/aws/well-architected","/docs/framework/azure/cloud-adoption","/docs/framework/azure/well-architected","/docs/framework/gcp/cloud-adoption","/docs/framework/gcp/architecture"],"intersection":{"categories":["decision making","deployment management"],"domains":["modernization","serverless","architecture"],"providers":["aws","azure","gcp"]}}
+{
+  "instance": [
+    "/docs/framework/aws/cloud-adoption",
+    "/docs/framework/aws/sam",
+    "/docs/framework/aws/well-architected",
+    "/docs/framework/azure/cloud-adoption",
+    "/docs/framework/azure/well-architected",
+    "/docs/framework/gcp/cloud-adoption",
+    "/docs/framework/gcp/architecture"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "decision making",
+      "deployment management"
+    ],
+    "domains": [
+      "modernization",
+      "serverless",
+      "architecture"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

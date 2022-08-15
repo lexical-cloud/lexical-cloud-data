@@ -1,1 +1,10 @@
-{"name":"AWS Health Dashboard","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["health"],"features":["alerts","maintenance schedule","reports","personalization"],"permalink":"/docs/monitor/aws/health-dashboard"}
+{
+  "name": "AWS Health Dashboard",
+  "providers": ["aws"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["health"],
+  "features": ["alerts","maintenance schedule","reports","personalization"],
+  "permalink": "/docs/monitor/aws/health-dashboard"
+}
+

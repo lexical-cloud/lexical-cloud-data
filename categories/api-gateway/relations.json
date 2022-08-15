@@ -1,1 +1,35 @@
-{"hierarchical":{"domains":["api lifecycle","api management"],"services":["integration"]},"instance":["/docs/integration/azure/api-management","/docs/integration/gcp/api-gateway","/docs/integration/gcp/apigee","/docs/integration/gcp/cloud-endpoints"],"intersection":{"categories":["api lifecycle","api portal"],"domains":["serverless"],"features":["rest api","http api","websocket api"],"providers":["azure","gcp"]}}
+{
+  "instance": [
+    "/docs/integration/azure/api-management",
+    "/docs/integration/gcp/api-gateway",
+    "/docs/integration/gcp/apigee",
+    "/docs/integration/gcp/cloud-endpoints"
+  ],
+  "intersect": {
+    "domains": [
+      "api lifecycle",
+      "api management"
+    ],
+    "services": [
+      "integration"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "api lifecycle",
+      "api portal"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "features": [
+      "rest api",
+      "http api",
+      "websocket api"
+    ],
+    "providers": [
+      "azure",
+      "gcp"
+    ]
+  }
+}

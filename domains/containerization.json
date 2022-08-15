@@ -1,1 +1,11 @@
-{"id":"containerization","name":"containerization","type":"domain","permalink":"/domains/containerization","definition":{"title":"Containerization","url":"https://glossary.cncf.io/containerization/","permalink":"/glossary/containerization"}}
+{
+  "id": "containerization",
+  "name": "containerization",
+  "type": "domain",
+  "permalink": "/domains/containerization",
+  "definition": {
+    "title": "Containerization",
+    "url": "https://glossary.cncf.io/containerization/",
+    "permalink": "/glossary/containerization"
+  }
+}

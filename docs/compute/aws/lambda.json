@@ -1,1 +1,9 @@
-{"name":"AWS Lambda","providers":["aws"],"services":["compute"],"domains":["serverless"],"categories":["faas"],"permalink":"/docs/compute/aws/lambda"}
+{
+  "name": "AWS Lambda",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["serverless"],
+  "categories": ["faas"],
+  "permalink": "/docs/compute/aws/lambda"
+}
+

@@ -1,1 +1,18 @@
-[{"name":"AWS Transit Gateway","providers":["aws"],"services":["network"],"domains":["connectivity"],"categories":["network transit hub","virtual network"],"permalink":"/docs/network/aws/transit-gateway"},{"name":"Azure Virtual WAN","providers":["azure"],"services":["network"],"domains":["connectivity"],"categories":["network transit hub","virtual network"],"permalink":"/docs/network/azure/virtual-wan"}]
+[
+  {
+    "name": "AWS Transit Gateway",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network transit hub","virtual network"],
+    "permalink": "/docs/network/aws/transit-gateway"
+  },
+  {
+    "name": "Azure Virtual WAN",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network transit hub","virtual network"],
+    "permalink": "/docs/network/azure/virtual-wan"
+  }
+]

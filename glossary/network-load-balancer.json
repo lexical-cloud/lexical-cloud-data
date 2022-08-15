@@ -1,1 +1,8 @@
-{"title":"Network Load Balancer","services":["network"],"domains":["connectivity"],"categories":["load balancer"],"permalink":"/glossary/network-load-balancer"}
+{
+  "title": "Network Load Balancer",
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["load balancer"],
+  "permalink": "/glossary/network-load-balancer"
+}
+

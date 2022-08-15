@@ -1,1 +1,31 @@
-{"hierarchical":{"categories":["load balancer"],"domains":["architecture","connectivity"],"services":["network"]},"instance":["/docs/network/aws/elb","/docs/network/azure/application-gateway","/docs/network/gcp/load-balancing"],"intersection":{"categories":["gateway load balancer","network load balancer","web application firewall"],"providers":["aws","azure","gcp"]}}
+{
+  "instance": [
+    "/docs/network/aws/elb",
+    "/docs/network/azure/application-gateway",
+    "/docs/network/gcp/load-balancing"
+  ],
+  "intersect": {
+    "categories": [
+      "load balancer"
+    ],
+    "domains": [
+      "architecture",
+      "connectivity"
+    ],
+    "services": [
+      "network"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "gateway load balancer",
+      "network load balancer",
+      "web application firewall"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

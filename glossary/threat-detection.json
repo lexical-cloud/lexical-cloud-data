@@ -1,1 +1,7 @@
-{"title":"Threat Detection","services":["monitor"],"domains":["systems management"],"permalink":"/glossary/threat-detection"}
+{
+  "title": "Threat Detection",
+  "services": ["monitor"],
+  "domains": ["systems management"],
+  "permalink": "/glossary/threat-detection"
+}
+

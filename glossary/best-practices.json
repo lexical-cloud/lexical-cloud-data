@@ -1,1 +1,8 @@
-{"title":"Best Practices","url":"https://en.wikipedia.org/wiki/Best_practice","services":["governance"],"domains":["architecture"],"permalink":"/glossary/best-practices"}
+{
+  "title": "Best Practices",
+  "url": "https://en.wikipedia.org/wiki/Best_practice",
+  "services": ["governance"],
+  "domains": ["architecture"],
+  "permalink": "/glossary/best-practices"
+}
+

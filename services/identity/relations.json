@@ -1,1 +1,33 @@
-{"hierarchical":{},"instance":["/docs/identity/aws/cognito","/docs/identity/aws/ad-connector","/docs/identity/aws/iam","/docs/identity/azure/ad","/docs/identity/azure/rbac","/docs/identity/gcp/iam","/docs/identity/gcp/identity"],"intersection":{"categories":["identity provider","directory gateway","access control"],"domains":["identity management","directory service"],"features":["user enrollment","authentication","authorization"],"providers":["aws","azure","gcp"]}}
+{
+  "instance": [
+    "/docs/identity/aws/cognito",
+    "/docs/identity/aws/ad-connector",
+    "/docs/identity/aws/iam",
+    "/docs/identity/azure/ad",
+    "/docs/identity/azure/rbac",
+    "/docs/identity/gcp/iam",
+    "/docs/identity/gcp/identity"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "identity provider",
+      "directory gateway",
+      "access control"
+    ],
+    "domains": [
+      "identity management",
+      "directory service"
+    ],
+    "features": [
+      "user enrollment",
+      "authentication",
+      "authorization"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

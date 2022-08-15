@@ -1,1 +1,124 @@
-[{"name":"Amazon CloudTrail","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["auditing"],"permalink":"/docs/monitor/aws/cloudtrail"},{"name":"Amazon CloudWatch","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data"],"features":["alerts","open telemetry"],"permalink":"/docs/monitor/aws/cloudwatch"},{"name":"Amazon CloudWatch Application Insights","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data","dashboards"],"features":["alerts","automation"],"permalink":"/docs/monitor/aws/cloudwatch-app-insights"},{"name":"AWS GuardDuty","providers":["aws"],"services":["monitor"],"domains":["observability","systems management"],"categories":["risks assessment","threat detection"],"features":["agentless"],"permalink":"/docs/monitor/aws/guardduty"},{"name":"AWS Health Dashboard","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["health"],"features":["alerts","maintenance schedule","reports","personalization"],"permalink":"/docs/monitor/aws/health-dashboard"},{"name":"Azure Monitor","providers":["azure"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data","auditing"],"features":["alerts"],"permalink":"/docs/monitor/azure/monitor"},{"name":"Azure Monitor Application Insights","providers":["azure"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data","dashboards"],"features":["alerts","automation"],"permalink":"/docs/monitor/azure/monitor-app-insights"},{"name":"Azure Service Health","providers":["azure"],"services":["monitor"],"domains":["observability"],"categories":["health"],"features":["alerts","maintenance schedule","reports","personalization"],"permalink":"/docs/monitor/azure/service-health"},{"name":"Google Cloud Debugger","providers":["gcp"],"services":["monitor"],"domains":["systems management","observability"],"categories":["application debugger","root cause analysis"],"labels":["deprecated"],"permalink":"/docs/monitor/gcp/cloud-debugger"},{"name":"Google Cloud Error Reporting","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis"],"permalink":"/docs/monitor/gcp/error-reporting"},{"name":"Google Cloud Logs","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data","auditing"],"permalink":"/docs/monitor/gcp/cloud-logging"},{"name":"Google Cloud Monitoring","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["dashboards","telemetry data"],"features":["alerts","open telemetry"],"permalink":"/docs/monitor/gcp/cloud-monitoring"},{"name":"Google Cloud Profiler","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis","performance monitoring"],"permalink":"/docs/monitor/gcp/cloud-profiler"},{"name":"Google Cloud Trace","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis","performance monitoring"],"features":["open telemetry"],"permalink":"/docs/monitor/gcp/cloud-trace"}]
+[
+  {
+    "name": "Amazon CloudTrail",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["auditing"],
+    "permalink": "/docs/monitor/aws/cloudtrail"
+  },
+  {
+    "name": "Amazon CloudWatch",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "permalink": "/docs/monitor/aws/cloudwatch"
+  },
+  {
+    "name": "Amazon CloudWatch Application Insights",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "permalink": "/docs/monitor/aws/cloudwatch-app-insights"
+  },
+  {
+    "name": "AWS GuardDuty",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability","systems management"],
+    "categories": ["risks assessment","threat detection"],
+    "features": ["agentless"],
+    "permalink": "/docs/monitor/aws/guardduty"
+  },
+  {
+    "name": "AWS Health Dashboard",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "permalink": "/docs/monitor/aws/health-dashboard"
+  },
+  {
+    "name": "Azure Monitor",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","auditing"],
+    "features": ["alerts"],
+    "permalink": "/docs/monitor/azure/monitor"
+  },
+  {
+    "name": "Azure Monitor Application Insights",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "permalink": "/docs/monitor/azure/monitor-app-insights"
+  },
+  {
+    "name": "Azure Service Health",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "permalink": "/docs/monitor/azure/service-health"
+  },
+  {
+    "name": "Google Cloud Debugger",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["systems management","observability"],
+    "categories": ["application debugger","root cause analysis"],
+    "labels": ["deprecated"],
+    "permalink": "/docs/monitor/gcp/cloud-debugger"
+  },
+  {
+    "name": "Google Cloud Error Reporting",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis"],
+    "permalink": "/docs/monitor/gcp/error-reporting"
+  },
+  {
+    "name": "Google Cloud Logs",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","auditing"],
+    "permalink": "/docs/monitor/gcp/cloud-logging"
+  },
+  {
+    "name": "Google Cloud Monitoring",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["dashboards","telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "permalink": "/docs/monitor/gcp/cloud-monitoring"
+  },
+  {
+    "name": "Google Cloud Profiler",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "permalink": "/docs/monitor/gcp/cloud-profiler"
+  },
+  {
+    "name": "Google Cloud Trace",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "features": ["open telemetry"],
+    "permalink": "/docs/monitor/gcp/cloud-trace"
+  }
+]

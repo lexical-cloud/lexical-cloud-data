@@ -1,1 +1,176 @@
-[{"name":"Amazon API Gateway","providers":["aws"],"services":["integration"],"domains":["api management","serverless"],"categories":["api lifecycle"],"features":["rest api","http api","websocket api"],"permalink":"/docs/integration/aws/api-gateway"},{"name":"Amazon EventBridge","providers":["aws"],"services":["integration"],"domains":["eventing","serverless"],"categories":["event bus","pub-sub"],"permalink":"/docs/integration/aws/eventbridge"},{"name":"Amazon Kinesis","providers":["aws"],"services":["integration"],"domains":["eventing","serverless"],"categories":["data streaming"],"permalink":"/docs/integration/aws/kinesis"},{"name":"Amazon Simple Notification Service","providers":["aws"],"services":["integration"],"domains":["eventing","serverless"],"categories":["pub-sub","push notifications"],"permalink":"/docs/integration/aws/sns"},{"name":"Amazon Simple Queue Service","providers":["aws"],"services":["integration"],"domains":["eventing","serverless"],"categories":["message queue"],"permalink":"/docs/integration/aws/sqs"},{"name":"Azure Logic Apps","providers":["azure"],"services":["integration"],"domains":["end-user computing","process modeling","serverless"],"categories":["low-code","no-code","workflow engine"],"permalink":"/docs/integration/azure/logic-apps"},{"name":"AWS Step Functions","providers":["aws"],"services":["integration"],"domains":["end-user computing","process modeling","serverless"],"categories":["low-code","workflow engine"],"permalink":"/docs/integration/aws/step-functions"},{"name":"Azure API Management","providers":["azure"],"services":["integration"],"domains":["api management","serverless"],"categories":["api gateway","api lifecycle","api portal"],"features":["rest api","http api","websocket api"],"permalink":"/docs/integration/azure/api-management"},{"name":"Azure Event Grid","providers":["azure"],"services":["integration"],"domains":["eventing","serverless"],"categories":["pub-sub"],"permalink":"/docs/integration/azure/event-grid"},{"name":"Azure Event Hubs","providers":["azure"],"services":["integration"],"domains":["eventing","serverless"],"categories":["data streaming"],"permalink":"/docs/integration/azure/event-hubs"},{"name":"Azure Notification Hubs","providers":["azure"],"services":["integration"],"domains":["eventing","serverless"],"categories":["push notifications"],"permalink":"/docs/integration/azure/notification-hubs"},{"name":"Azure Queue Storage","providers":["azure"],"services":["integration","storage"],"domains":["eventing","serverless"],"categories":["message queue"],"permalink":"/docs/storage/azure/queue-storage"},{"name":"Azure Service Bus","providers":["azure"],"services":["integration"],"domains":["eventing","serverless"],"categories":["message queue","pub-sub"],"permalink":"/docs/integration/azure/service-bus"},{"name":"Azure SignalR Service","providers":["azure"],"services":["integration"],"domains":["eventing","serverless"],"categories":["real-time communication"],"features":["websocket api"],"permalink":"/docs/integration/azure/signalr"},{"name":"Google Cloud API Gateway","providers":["gcp"],"services":["integration"],"domains":["api management","serverless"],"categories":["api gateway","api lifecycle"],"features":["rest api","http api","websocket api"],"permalink":"/docs/integration/gcp/api-gateway"},{"name":"Google Cloud Apigee API Management","providers":["gcp"],"services":["integration"],"domains":["api management","serverless"],"categories":["api lifecycle","api gateway","api portal"],"features":["rest api","http api","websocket api"],"permalink":"/docs/integration/gcp/apigee"},{"name":"Google Cloud Composer","providers":["gcp"],"services":["integration"],"domains":["managed service","process modeling"],"categories":["multi-cloud","workflow engine"],"permalink":"/docs/integration/gcp/composer"},{"name":"Google Cloud Dataflow","providers":["gcp"],"services":["integration"],"domains":["eventing","serverless"],"categories":["data streaming"],"permalink":"/docs/integration/gcp/dataflow"},{"name":"Google Cloud Endpoints","providers":["gcp"],"services":["integration"],"domains":["api management","serverless"],"categories":["api gateway"],"features":["rest api","http api"],"permalink":"/docs/integration/gcp/cloud-endpoints"},{"name":"Google Cloud Pub/Sub","providers":["gcp"],"services":["integration"],"domains":["eventing","serverless"],"categories":["message queue","pub-sub"],"permalink":"/docs/integration/gcp/pubsub"},{"name":"Google Cloud Workflows","providers":["gcp"],"services":["integration"],"domains":["process modeling","serverless"],"categories":["workflow engine"],"permalink":"/docs/integration/gcp/workflows"}]
+[
+  {
+    "name": "Amazon API Gateway",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api lifecycle"],
+    "features": ["rest api","http api","websocket api"],
+    "permalink": "/docs/integration/aws/api-gateway"
+  },
+  {
+    "name": "Amazon EventBridge",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["event bus","pub-sub"],
+    "permalink": "/docs/integration/aws/eventbridge"
+  },
+  {
+    "name": "Amazon Kinesis",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming"],
+    "permalink": "/docs/integration/aws/kinesis"
+  },
+  {
+    "name": "Amazon Simple Notification Service",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["pub-sub","push notifications"],
+    "permalink": "/docs/integration/aws/sns"
+  },
+  {
+    "name": "Amazon Simple Queue Service",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue"],
+    "permalink": "/docs/integration/aws/sqs"
+  },
+  {
+    "name": "Azure Logic Apps",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","no-code","workflow engine"],
+    "permalink": "/docs/integration/azure/logic-apps"
+  },
+  {
+    "name": "AWS Step Functions",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","workflow engine"],
+    "permalink": "/docs/integration/aws/step-functions"
+  },
+  {
+    "name": "Azure API Management",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api gateway","api lifecycle","api portal"],
+    "features": ["rest api","http api","websocket api"],
+    "permalink": "/docs/integration/azure/api-management"
+  },
+  {
+    "name": "Azure Event Grid",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["pub-sub"],
+    "permalink": "/docs/integration/azure/event-grid"
+  },
+  {
+    "name": "Azure Event Hubs",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming"],
+    "permalink": "/docs/integration/azure/event-hubs"
+  },
+  {
+    "name": "Azure Notification Hubs",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["push notifications"],
+    "permalink": "/docs/integration/azure/notification-hubs"
+  },
+  {
+    "name": "Azure Queue Storage",
+    "providers": ["azure"],
+    "services": ["integration","storage"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue"],
+    "permalink": "/docs/storage/azure/queue-storage"
+  },
+  {
+    "name": "Azure Service Bus",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue","pub-sub"],
+    "permalink": "/docs/integration/azure/service-bus"
+  },
+  {
+    "name": "Azure SignalR Service",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["real-time communication"],
+    "features": ["websocket api"],
+    "permalink": "/docs/integration/azure/signalr"
+  },
+  {
+    "name": "Google Cloud API Gateway",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api gateway","api lifecycle"],
+    "features": ["rest api","http api","websocket api"],
+    "permalink": "/docs/integration/gcp/api-gateway"
+  },
+  {
+    "name": "Google Cloud Apigee API Management",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api lifecycle","api gateway","api portal"],
+    "features": ["rest api","http api","websocket api"],
+    "permalink": "/docs/integration/gcp/apigee"
+  },
+  {
+    "name": "Google Cloud Composer",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["managed service","process modeling"],
+    "categories": ["multi-cloud","workflow engine"],
+    "permalink": "/docs/integration/gcp/composer"
+  },
+  {
+    "name": "Google Cloud Dataflow",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming"],
+    "permalink": "/docs/integration/gcp/dataflow"
+  },
+  {
+    "name": "Google Cloud Endpoints",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api gateway"],
+    "features": ["rest api","http api"],
+    "permalink": "/docs/integration/gcp/cloud-endpoints"
+  },
+  {
+    "name": "Google Cloud Pub/Sub",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue","pub-sub"],
+    "permalink": "/docs/integration/gcp/pubsub"
+  },
+  {
+    "name": "Google Cloud Workflows",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["process modeling","serverless"],
+    "categories": ["workflow engine"],
+    "permalink": "/docs/integration/gcp/workflows"
+  }
+]

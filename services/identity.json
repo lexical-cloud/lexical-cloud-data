@@ -1,1 +1,10 @@
-{"id":"identity","name":"identity","type":"service","permalink":"/services/identity","definition":{"title":"Identity","permalink":"/glossary/identity"}}
+{
+  "id": "identity",
+  "name": "identity",
+  "type": "service",
+  "permalink": "/services/identity",
+  "definition": {
+    "title": "Identity",
+    "permalink": "/glossary/identity"
+  }
+}

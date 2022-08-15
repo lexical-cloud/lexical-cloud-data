@@ -1,1 +1,11 @@
-{"id":"connectivity","name":"connectivity","type":"domain","permalink":"/domains/connectivity","definition":{"title":"Connectivity","services":["network"],"permalink":"/glossary/connectivity"}}
+{
+  "id": "connectivity",
+  "name": "connectivity",
+  "type": "domain",
+  "permalink": "/domains/connectivity",
+  "definition": {
+    "title": "Connectivity",
+    "services": ["network"],
+    "permalink": "/glossary/connectivity"
+  }
+}

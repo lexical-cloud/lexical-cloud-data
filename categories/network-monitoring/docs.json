@@ -1,1 +1,18 @@
-[{"name":"AWS VPC Flow Logs","providers":["aws"],"services":["network","monitor"],"domains":["connectivity"],"categories":["network monitoring"],"permalink":"/docs/network/aws/vpc-flow-logs"},{"name":"Azure Network Watcher","providers":["azure"],"services":["network","monitor"],"domains":["connectivity"],"categories":["network monitoring"],"permalink":"/docs/network/azure/network-watcher"}]
+[
+  {
+    "name": "AWS VPC Flow Logs",
+    "providers": ["aws"],
+    "services": ["network","monitor"],
+    "domains": ["connectivity"],
+    "categories": ["network monitoring"],
+    "permalink": "/docs/network/aws/vpc-flow-logs"
+  },
+  {
+    "name": "Azure Network Watcher",
+    "providers": ["azure"],
+    "services": ["network","monitor"],
+    "domains": ["connectivity"],
+    "categories": ["network monitoring"],
+    "permalink": "/docs/network/azure/network-watcher"
+  }
+]

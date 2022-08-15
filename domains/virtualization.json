@@ -1,1 +1,11 @@
-{"id":"virtualization","name":"virtualization","type":"domain","permalink":"/domains/virtualization","definition":{"title":"Virtualization","url":"https://glossary.cncf.io/virtualization/","permalink":"/glossary/virtualization"}}
+{
+  "id": "virtualization",
+  "name": "virtualization",
+  "type": "domain",
+  "permalink": "/domains/virtualization",
+  "definition": {
+    "title": "Virtualization",
+    "url": "https://glossary.cncf.io/virtualization/",
+    "permalink": "/glossary/virtualization"
+  }
+}

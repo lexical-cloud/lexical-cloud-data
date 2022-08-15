@@ -1,1 +1,8 @@
-{"title":"Traffic Routing","url":"https://en.wikipedia.org/wiki/Routing","services":["network"],"domains":["connectivity"],"permalink":"/glossary/traffic-routing"}
+{
+  "title": "Traffic Routing",
+  "url": "https://en.wikipedia.org/wiki/Routing",
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "permalink": "/glossary/traffic-routing"
+}
+

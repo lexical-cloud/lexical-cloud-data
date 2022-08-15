@@ -1,1 +1,7 @@
-{"title":"PostgreSQL Database","url":"https://en.wikipedia.org/wiki/PostgreSQL","services":["database"],"permalink":"/glossary/postgresql"}
+{
+  "title": "PostgreSQL Database",
+  "url": "https://en.wikipedia.org/wiki/PostgreSQL",
+  "services": ["database"],
+  "permalink": "/glossary/postgresql"
+}
+

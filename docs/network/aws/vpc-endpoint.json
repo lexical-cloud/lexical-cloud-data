@@ -1,1 +1,9 @@
-{"name":"AWS VPC Endpoint","providers":["aws"],"services":["network"],"domains":["connectivity"],"categories":["virtual network interface","private network"],"permalink":"/docs/network/aws/vpc-endpoint"}
+{
+  "name": "AWS VPC Endpoint",
+  "providers": ["aws"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["virtual network interface","private network"],
+  "permalink": "/docs/network/aws/vpc-endpoint"
+}
+

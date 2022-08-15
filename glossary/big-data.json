@@ -1,1 +1,7 @@
-{"title":"Big Data","url":"https://en.wikipedia.org/wiki/Big_data","services":["analytics","database"],"permalink":"/glossary/big-data"}
+{
+  "title": "Big Data",
+  "url": "https://en.wikipedia.org/wiki/Big_data",
+  "services": ["analytics","database"],
+  "permalink": "/glossary/big-data"
+}
+

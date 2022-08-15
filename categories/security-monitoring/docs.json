@@ -1,1 +1,26 @@
-[{"name":"AWS Detective","providers":["aws"],"services":["security"],"domains":["systems management"],"categories":["security monitoring","root cause analysis"],"permalink":"/docs/security/aws/detective"},{"name":"Google Cloud Security Command Center","providers":["gcp"],"services":["security"],"domains":["systems management"],"categories":["security monitoring","auditing"],"permalink":"/docs/security/gcp/security-command-center"},{"name":"Microsoft Defender for Cloud","providers":["azure"],"services":["security"],"domains":["systems management"],"categories":["security monitoring","auditing"],"permalink":"/docs/security/azure/defender-for-cloud"}]
+[
+  {
+    "name": "AWS Detective",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","root cause analysis"],
+    "permalink": "/docs/security/aws/detective"
+  },
+  {
+    "name": "Google Cloud Security Command Center",
+    "providers": ["gcp"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","auditing"],
+    "permalink": "/docs/security/gcp/security-command-center"
+  },
+  {
+    "name": "Microsoft Defender for Cloud",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","auditing"],
+    "permalink": "/docs/security/azure/defender-for-cloud"
+  }
+]

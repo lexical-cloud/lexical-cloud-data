@@ -1,1 +1,12 @@
-{"id":"api-portal","name":"api portal","type":"category","permalink":"/categories/api-portal","definition":{"title":"API Portal","services":["integration"],"domains":["api management"],"permalink":"/glossary/api-portal"}}
+{
+  "id": "api-portal",
+  "name": "api portal",
+  "type": "category",
+  "permalink": "/categories/api-portal",
+  "definition": {
+    "title": "API Portal",
+    "services": ["integration"],
+    "domains": ["api management"],
+    "permalink": "/glossary/api-portal"
+  }
+}

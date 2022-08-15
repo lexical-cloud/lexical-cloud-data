@@ -1,1 +1,8 @@
-{"title":"Domain Name System (DNS) Management","url":"https://en.wikipedia.org/wiki/Domain_Name_System","services":["network"],"domains":["systems management"],"permalink":"/glossary/dns-management"}
+{
+  "title": "Domain Name System (DNS) Management",
+  "url": "https://en.wikipedia.org/wiki/Domain_Name_System",
+  "services": ["network"],
+  "domains": ["systems management"],
+  "permalink": "/glossary/dns-management"
+}
+

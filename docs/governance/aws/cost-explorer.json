@@ -1,1 +1,10 @@
-{"name":"AWS Cost Explorer","providers":["aws"],"services":["governance"],"domains":["finops","systems management"],"categories":["cost management"],"features":["cost forecast"],"permalink":"/docs/governance/aws/cost-explorer"}
+{
+  "name": "AWS Cost Explorer",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["cost management"],
+  "features": ["cost forecast"],
+  "permalink": "/docs/governance/aws/cost-explorer"
+}
+

@@ -1,1 +1,13 @@
-{"id":"faas","name":"faas","type":"category","permalink":"/categories/faas","definition":{"title":"Function as a Service (FaaS)","url":"https://glossary.cncf.io/function-as-a-service/","services":["compute"],"domains":["serverless","stateless"],"permalink":"/glossary/faas"}}
+{
+  "id": "faas",
+  "name": "faas",
+  "type": "category",
+  "permalink": "/categories/faas",
+  "definition": {
+    "title": "Function as a Service (FaaS)",
+    "url": "https://glossary.cncf.io/function-as-a-service/",
+    "services": ["compute"],
+    "domains": ["serverless","stateless"],
+    "permalink": "/glossary/faas"
+  }
+}

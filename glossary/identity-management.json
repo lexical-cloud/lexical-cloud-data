@@ -1,1 +1,7 @@
-{"title":"Identity Management (IdM)","url":"https://en.wikipedia.org/wiki/Identity_management","services":["identity"],"permalink":"/glossary/identity-management"}
+{
+  "title": "Identity Management (IdM)",
+  "url": "https://en.wikipedia.org/wiki/Identity_management",
+  "services": ["identity"],
+  "permalink": "/glossary/identity-management"
+}
+

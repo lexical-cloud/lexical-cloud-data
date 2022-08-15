@@ -1,1 +1,10 @@
-{"id":"developer-tools","name":"developer tools","type":"service","permalink":"/services/developer-tools","definition":{"title":"Developer Tools","permalink":"/glossary/developer-tools"}}
+{
+  "id": "developer-tools",
+  "name": "developer tools",
+  "type": "service",
+  "permalink": "/services/developer-tools",
+  "definition": {
+    "title": "Developer Tools",
+    "permalink": "/glossary/developer-tools"
+  }
+}

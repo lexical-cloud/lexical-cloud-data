@@ -1,1 +1,28 @@
-{"hierarchical":{"domains":["systems management"],"services":["monitor"]},"instance":["/docs/monitor/gcp/cloud-profiler","/docs/monitor/gcp/cloud-trace"],"intersection":{"categories":["root cause analysis"],"domains":["observability"],"features":["open telemetry"],"providers":["gcp"]}}
+{
+  "instance": [
+    "/docs/monitor/gcp/cloud-profiler",
+    "/docs/monitor/gcp/cloud-trace"
+  ],
+  "intersect": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "monitor"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "root cause analysis"
+    ],
+    "domains": [
+      "observability"
+    ],
+    "features": [
+      "open telemetry"
+    ],
+    "providers": [
+      "gcp"
+    ]
+  }
+}

@@ -1,1 +1,28 @@
-{"hierarchical":{"categories":["load balancer"],"domains":["architecture","connectivity"],"services":["network"]},"instance":["/docs/network/aws/elb","/docs/network/gcp/load-balancing"],"intersection":{"categories":["application load balancer","network load balancer"],"providers":["aws","gcp"]}}
+{
+  "instance": [
+    "/docs/network/aws/elb",
+    "/docs/network/gcp/load-balancing"
+  ],
+  "intersect": {
+    "categories": [
+      "load balancer"
+    ],
+    "domains": [
+      "architecture",
+      "connectivity"
+    ],
+    "services": [
+      "network"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "application load balancer",
+      "network load balancer"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ]
+  }
+}

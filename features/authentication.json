@@ -1,1 +1,12 @@
-{"id":"authentication","name":"authentication","type":"feature","permalink":"/features/authentication","definition":{"title":"Authentication (AuthN)","url":"https://en.wikipedia.org/wiki/Authentication","services":["security"],"permalink":"/glossary/authentication"}}
+{
+  "id": "authentication",
+  "name": "authentication",
+  "type": "feature",
+  "permalink": "/features/authentication",
+  "definition": {
+    "title": "Authentication (AuthN)",
+    "url": "https://en.wikipedia.org/wiki/Authentication",
+    "services": ["security"],
+    "permalink": "/glossary/authentication"
+  }
+}

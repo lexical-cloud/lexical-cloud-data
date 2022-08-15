@@ -1,1 +1,10 @@
-{"name":"Amazon CloudWatch","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data"],"features":["alerts","open telemetry"],"permalink":"/docs/monitor/aws/cloudwatch"}
+{
+  "name": "Amazon CloudWatch",
+  "providers": ["aws"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["telemetry data"],
+  "features": ["alerts","open telemetry"],
+  "permalink": "/docs/monitor/aws/cloudwatch"
+}
+

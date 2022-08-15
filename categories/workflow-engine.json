@@ -1,1 +1,12 @@
-{"id":"workflow-engine","name":"workflow engine","type":"category","permalink":"/categories/workflow-engine","definition":{"title":"Workflow Engine","url":"https://en.wikipedia.org/wiki/Workflow_engine","services":["integration"],"permalink":"/glossary/workflow-engine"}}
+{
+  "id": "workflow-engine",
+  "name": "workflow engine",
+  "type": "category",
+  "permalink": "/categories/workflow-engine",
+  "definition": {
+    "title": "Workflow Engine",
+    "url": "https://en.wikipedia.org/wiki/Workflow_engine",
+    "services": ["integration"],
+    "permalink": "/glossary/workflow-engine"
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Azure Role Based Access Control","providers":["azure"],"services":["identity"],"domains":["identity management"],"categories":["access control"],"permalink":"/docs/identity/azure/rbac"}
+{
+  "name": "Azure Role Based Access Control",
+  "providers": ["azure"],
+  "services": ["identity"],
+  "domains": ["identity management"],
+  "categories": ["access control"],
+  "permalink": "/docs/identity/azure/rbac"
+}
+

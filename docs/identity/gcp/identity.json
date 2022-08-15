@@ -1,1 +1,9 @@
-{"name":"Google Cloud Identity","providers":["gcp"],"services":["identity"],"domains":["identity management"],"categories":["identity provider"],"permalink":"/docs/identity/gcp/identity"}
+{
+  "name": "Google Cloud Identity",
+  "providers": ["gcp"],
+  "services": ["identity"],
+  "domains": ["identity management"],
+  "categories": ["identity provider"],
+  "permalink": "/docs/identity/gcp/identity"
+}
+

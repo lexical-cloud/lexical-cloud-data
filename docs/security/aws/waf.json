@@ -1,1 +1,9 @@
-{"name":"AWS WAF - Web Application Firewall","providers":["aws"],"services":["security"],"domains":["systems management"],"categories":["web application firewall"],"permalink":"/docs/security/aws/waf"}
+{
+  "name": "AWS WAF - Web Application Firewall",
+  "providers": ["aws"],
+  "services": ["security"],
+  "domains": ["systems management"],
+  "categories": ["web application firewall"],
+  "permalink": "/docs/security/aws/waf"
+}
+

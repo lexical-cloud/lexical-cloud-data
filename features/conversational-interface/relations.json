@@ -1,1 +1,32 @@
-{"hierarchical":{"services":["ai"]},"instance":["/docs/ai/aws/lex","/docs/ai/azure/bot-service","/docs/ai/azure/luis","/docs/ai/azure/qna-maker","/docs/ai/gcp/dialogflow","/docs/ai/azure/power-virtual-agents"],"intersection":{"categories":["language processing","speech processing","no-code"],"domains":["machine learning","serverless","end-user computing"],"providers":["aws","azure","gcp"]}}
+{
+  "instance": [
+    "/docs/ai/aws/lex",
+    "/docs/ai/azure/bot-service",
+    "/docs/ai/azure/luis",
+    "/docs/ai/azure/qna-maker",
+    "/docs/ai/gcp/dialogflow",
+    "/docs/ai/azure/power-virtual-agents"
+  ],
+  "intersect": {
+    "services": [
+      "ai"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "language processing",
+      "speech processing",
+      "no-code"
+    ],
+    "domains": [
+      "machine learning",
+      "serverless",
+      "end-user computing"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

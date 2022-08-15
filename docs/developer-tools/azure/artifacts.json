@@ -1,1 +1,9 @@
-{"name":"Azure Artifacts","providers":["azure"],"services":["developer tools"],"domains":["devops"],"categories":["artifact repository"],"permalink":"/docs/developer-tools/azure/artifacts"}
+{
+  "name": "Azure Artifacts",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["devops"],
+  "categories": ["artifact repository"],
+  "permalink": "/docs/developer-tools/azure/artifacts"
+}
+

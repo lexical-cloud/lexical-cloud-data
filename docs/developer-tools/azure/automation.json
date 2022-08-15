@@ -1,1 +1,9 @@
-{"name":"Azure Automation","providers":["azure"],"services":["developer tools"],"domains":["systems management"],"categories":["configuration management"],"permalink":"/docs/developer-tools/azure/automation"}
+{
+  "name": "Azure Automation",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["systems management"],
+  "categories": ["configuration management"],
+  "permalink": "/docs/developer-tools/azure/automation"
+}
+

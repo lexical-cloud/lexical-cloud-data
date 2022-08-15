@@ -1,1 +1,11 @@
-{"id":"low-code","name":"low-code","type":"category","permalink":"/categories/low-code","definition":{"title":"Low-Code","url":"https://en.wikipedia.org/wiki/Low-code_development_platform","permalink":"/glossary/low-code"}}
+{
+  "id": "low-code",
+  "name": "low-code",
+  "type": "category",
+  "permalink": "/categories/low-code",
+  "definition": {
+    "title": "Low-Code",
+    "url": "https://en.wikipedia.org/wiki/Low-code_development_platform",
+    "permalink": "/glossary/low-code"
+  }
+}

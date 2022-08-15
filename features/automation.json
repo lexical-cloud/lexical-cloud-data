@@ -1,1 +1,12 @@
-{"id":"automation","name":"automation","type":"feature","permalink":"/features/automation","definition":{"title":"Automation","url":"https://en.wikipedia.org/wiki/Automation","domains":["systems management"],"permalink":"/glossary/automation"}}
+{
+  "id": "automation",
+  "name": "automation",
+  "type": "feature",
+  "permalink": "/features/automation",
+  "definition": {
+    "title": "Automation",
+    "url": "https://en.wikipedia.org/wiki/Automation",
+    "domains": ["systems management"],
+    "permalink": "/glossary/automation"
+  }
+}

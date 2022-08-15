@@ -1,1 +1,11 @@
-{"id":"cost-management","name":"cost management","type":"category","permalink":"/categories/cost-management","definition":{"title":"Cost Management","domains":["finops"],"permalink":"/glossary/cost-management"}}
+{
+  "id": "cost-management",
+  "name": "cost management",
+  "type": "category",
+  "permalink": "/categories/cost-management",
+  "definition": {
+    "title": "Cost Management",
+    "domains": ["finops"],
+    "permalink": "/glossary/cost-management"
+  }
+}

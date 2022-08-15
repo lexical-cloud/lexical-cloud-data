@@ -1,1 +1,10 @@
-{"id":"migration","name":"migration","type":"service","permalink":"/services/migration","definition":{"title":"Migration","permalink":"/glossary/migration"}}
+{
+  "id": "migration",
+  "name": "migration",
+  "type": "service",
+  "permalink": "/services/migration",
+  "definition": {
+    "title": "Migration",
+    "permalink": "/glossary/migration"
+  }
+}

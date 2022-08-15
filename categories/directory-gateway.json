@@ -1,1 +1,12 @@
-{"id":"directory-gateway","name":"directory gateway","type":"category","permalink":"/categories/directory-gateway","definition":{"title":"Directory Gateway","services":["identity"],"domains":["directory service"],"permalink":"/glossary/directory-gateway"}}
+{
+  "id": "directory-gateway",
+  "name": "directory gateway",
+  "type": "category",
+  "permalink": "/categories/directory-gateway",
+  "definition": {
+    "title": "Directory Gateway",
+    "services": ["identity"],
+    "domains": ["directory service"],
+    "permalink": "/glossary/directory-gateway"
+  }
+}

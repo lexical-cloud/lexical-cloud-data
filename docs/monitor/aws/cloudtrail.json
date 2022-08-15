@@ -1,1 +1,9 @@
-{"name":"Amazon CloudTrail","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["auditing"],"permalink":"/docs/monitor/aws/cloudtrail"}
+{
+  "name": "Amazon CloudTrail",
+  "providers": ["aws"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["auditing"],
+  "permalink": "/docs/monitor/aws/cloudtrail"
+}
+

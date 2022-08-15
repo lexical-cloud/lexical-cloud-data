@@ -1,1 +1,10 @@
-{"name":"AWS Cloud Endure","providers":["aws"],"services":["migration"],"domains":["modernization"],"categories":["server migration"],"labels":["deprecated"],"permalink":"/docs/migration/aws/cloud-endure"}
+{
+  "name": "AWS Cloud Endure",
+  "providers": ["aws"],
+  "services": ["migration"],
+  "domains": ["modernization"],
+  "categories": ["server migration"],
+  "labels": ["deprecated"],
+  "permalink": "/docs/migration/aws/cloud-endure"
+}
+

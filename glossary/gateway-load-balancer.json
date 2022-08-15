@@ -1,1 +1,8 @@
-{"title":"Gateway Load Balancer","services":["network"],"domains":["connectivity"],"categories":["load balancer"],"permalink":"/glossary/gateway-load-balancer"}
+{
+  "title": "Gateway Load Balancer",
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["load balancer"],
+  "permalink": "/glossary/gateway-load-balancer"
+}
+

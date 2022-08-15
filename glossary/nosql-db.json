@@ -1,1 +1,8 @@
-{"title":"NoSQL Database","url":"https://en.wikipedia.org/wiki/NoSQL","services":["database"],"domains":["data management"],"permalink":"/glossary/nosql-db"}
+{
+  "title": "NoSQL Database",
+  "url": "https://en.wikipedia.org/wiki/NoSQL",
+  "services": ["database"],
+  "domains": ["data management"],
+  "permalink": "/glossary/nosql-db"
+}
+

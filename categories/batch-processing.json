@@ -1,1 +1,13 @@
-{"id":"batch-processing","name":"batch processing","type":"category","permalink":"/categories/batch-processing","definition":{"title":"Batch Processing","url":"https://en.wikipedia.org/wiki/Batch_processing","services":["compute"],"domains":["architecture"],"permalink":"/glossary/batch-processing"}}
+{
+  "id": "batch-processing",
+  "name": "batch processing",
+  "type": "category",
+  "permalink": "/categories/batch-processing",
+  "definition": {
+    "title": "Batch Processing",
+    "url": "https://en.wikipedia.org/wiki/Batch_processing",
+    "services": ["compute"],
+    "domains": ["architecture"],
+    "permalink": "/glossary/batch-processing"
+  }
+}

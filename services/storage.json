@@ -1,1 +1,10 @@
-{"id":"storage","name":"storage","type":"service","permalink":"/services/storage","definition":{"title":"Storage","permalink":"/glossary/storage"}}
+{
+  "id": "storage",
+  "name": "storage",
+  "type": "service",
+  "permalink": "/services/storage",
+  "definition": {
+    "title": "Storage",
+    "permalink": "/glossary/storage"
+  }
+}

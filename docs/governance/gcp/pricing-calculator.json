@@ -1,1 +1,10 @@
-{"name":"Google Cloud Pricing Calculator","providers":["gcp"],"services":["governance"],"domains":["finops","systems management"],"categories":["cost management"],"features":["cost estimation","no account required"],"permalink":"/docs/governance/gcp/pricing-calculator"}
+{
+  "name": "Google Cloud Pricing Calculator",
+  "providers": ["gcp"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["cost management"],
+  "features": ["cost estimation","no account required"],
+  "permalink": "/docs/governance/gcp/pricing-calculator"
+}
+

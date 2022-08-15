@@ -1,1 +1,12 @@
-{"id":"authorization","name":"authorization","type":"feature","permalink":"/features/authorization","definition":{"title":"Authorization (AuthZ)","url":"https://en.wikipedia.org/wiki/Authorization","services":["security"],"permalink":"/glossary/authorization"}}
+{
+  "id": "authorization",
+  "name": "authorization",
+  "type": "feature",
+  "permalink": "/features/authorization",
+  "definition": {
+    "title": "Authorization (AuthZ)",
+    "url": "https://en.wikipedia.org/wiki/Authorization",
+    "services": ["security"],
+    "permalink": "/glossary/authorization"
+  }
+}

@@ -1,1 +1,12 @@
-{"id":"iot-management","name":"iot management","type":"category","permalink":"/categories/iot-management","definition":{"title":"IoT Management","services":["iot"],"domains":["edge computing"],"permalink":"/glossary/iot-management"}}
+{
+  "id": "iot-management",
+  "name": "iot management",
+  "type": "category",
+  "permalink": "/categories/iot-management",
+  "definition": {
+    "title": "IoT Management",
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "permalink": "/glossary/iot-management"
+  }
+}

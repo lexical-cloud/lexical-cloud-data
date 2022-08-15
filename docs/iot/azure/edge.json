@@ -1,1 +1,10 @@
-{"name":"Azure IoT Edge","providers":["azure"],"services":["iot"],"domains":["edge computing"],"categories":["iot processing"],"features":["container-based"],"permalink":"/docs/iot/azure/edge"}
+{
+  "name": "Azure IoT Edge",
+  "providers": ["azure"],
+  "services": ["iot"],
+  "domains": ["edge computing"],
+  "categories": ["iot processing"],
+  "features": ["container-based"],
+  "permalink": "/docs/iot/azure/edge"
+}
+

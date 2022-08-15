@@ -1,1 +1,12 @@
-{"id":"virtual-desktop","name":"virtual desktop","type":"category","permalink":"/categories/virtual-desktop","definition":{"title":"Virtual Desktop","url":"https://en.wikipedia.org/wiki/Desktop_virtualization","domains":["virtualization"],"permalink":"/glossary/virtual-desktop"}}
+{
+  "id": "virtual-desktop",
+  "name": "virtual desktop",
+  "type": "category",
+  "permalink": "/categories/virtual-desktop",
+  "definition": {
+    "title": "Virtual Desktop",
+    "url": "https://en.wikipedia.org/wiki/Desktop_virtualization",
+    "domains": ["virtualization"],
+    "permalink": "/glossary/virtual-desktop"
+  }
+}

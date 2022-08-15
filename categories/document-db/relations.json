@@ -1,1 +1,32 @@
-{"hierarchical":{"categories":["nosql db"],"domains":["data management"],"services":["database"]},"instance":["/docs/database/aws/dynamodb","/docs/database/azure/cosmosdb","/docs/database/gcp/firestore"],"intersection":{"categories":["key-value store"],"domains":["serverless","managed service"],"providers":["aws","azure","gcp"]}}
+{
+  "instance": [
+    "/docs/database/aws/dynamodb",
+    "/docs/database/azure/cosmosdb",
+    "/docs/database/gcp/firestore"
+  ],
+  "intersect": {
+    "categories": [
+      "nosql db"
+    ],
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "database"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "key-value store"
+    ],
+    "domains": [
+      "serverless",
+      "managed service"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

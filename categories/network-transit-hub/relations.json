@@ -1,1 +1,23 @@
-{"hierarchical":{"domains":["connectivity"],"services":["network"]},"instance":["/docs/network/aws/transit-gateway","/docs/network/azure/virtual-wan"],"intersection":{"categories":["virtual network"],"providers":["aws","azure"]}}
+{
+  "instance": [
+    "/docs/network/aws/transit-gateway",
+    "/docs/network/azure/virtual-wan"
+  ],
+  "intersect": {
+    "domains": [
+      "connectivity"
+    ],
+    "services": [
+      "network"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "virtual network"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ]
+  }
+}

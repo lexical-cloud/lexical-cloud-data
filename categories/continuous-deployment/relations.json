@@ -1,1 +1,23 @@
-{"hierarchical":{},"instance":["/docs/developer-tools/aws/codedeploy","/docs/developer-tools/azure/pipelines"],"intersection":{"categories":["continuous integration","continuous delivery"],"domains":["devops"],"providers":["aws","azure"],"services":["developer tools"]}}
+{
+  "instance": [
+    "/docs/developer-tools/aws/codedeploy",
+    "/docs/developer-tools/azure/pipelines"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "continuous integration",
+      "continuous delivery"
+    ],
+    "domains": [
+      "devops"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"AWS Elastic Beanstalk","providers":["aws"],"services":["compute"],"domains":["managed service"],"categories":["paas"],"permalink":"/docs/compute/aws/beanstalk"}
+{
+  "name": "AWS Elastic Beanstalk",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["managed service"],
+  "categories": ["paas"],
+  "permalink": "/docs/compute/aws/beanstalk"
+}
+

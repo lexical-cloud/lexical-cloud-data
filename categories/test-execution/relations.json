@@ -1,1 +1,24 @@
-{"hierarchical":{"domains":["developer toolkit"],"services":["developer tools"]},"instance":["/docs/developer-tools/azure/test-plans"],"intersection":{"categories":["test planning"],"domains":["developer toolchain"],"providers":["azure"]}}
+{
+  "instance": [
+    "/docs/developer-tools/azure/test-plans"
+  ],
+  "intersect": {
+    "domains": [
+      "developer toolkit"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "test planning"
+    ],
+    "domains": [
+      "developer toolchain"
+    ],
+    "providers": [
+      "azure"
+    ]
+  }
+}

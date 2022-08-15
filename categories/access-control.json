@@ -1,1 +1,13 @@
-{"id":"access-control","name":"access control","type":"category","permalink":"/categories/access-control","definition":{"title":"Access Control","url":"https://en.wikipedia.org/wiki/Access_control","services":["identity"],"domains":["identity management"],"permalink":"/glossary/access-control"}}
+{
+  "id": "access-control",
+  "name": "access control",
+  "type": "category",
+  "permalink": "/categories/access-control",
+  "definition": {
+    "title": "Access Control",
+    "url": "https://en.wikipedia.org/wiki/Access_control",
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "permalink": "/glossary/access-control"
+  }
+}

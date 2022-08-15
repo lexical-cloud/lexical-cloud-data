@@ -1,1 +1,13 @@
-{"id":"api-lifecycle","name":"api lifecycle","type":"domain","permalink":"/domains/api-lifecycle","definition":{"title":"API Lifecycle","url":"https://en.wikipedia.org/wiki/Application_lifecycle_management","services":["integration"],"domains":["api management"],"permalink":"/glossary/api-lifecycle"}}
+{
+  "id": "api-lifecycle",
+  "name": "api lifecycle",
+  "type": "domain",
+  "permalink": "/domains/api-lifecycle",
+  "definition": {
+    "title": "API Lifecycle",
+    "url": "https://en.wikipedia.org/wiki/Application_lifecycle_management",
+    "services": ["integration"],
+    "domains": ["api management"],
+    "permalink": "/glossary/api-lifecycle"
+  }
+}

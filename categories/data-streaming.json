@@ -1,1 +1,12 @@
-{"id":"data-streaming","name":"data streaming","type":"category","permalink":"/categories/data-streaming","definition":{"title":"Data Streaming","url":"https://en.wikipedia.org/wiki/Stream_processing","domains":["eventing"],"permalink":"/glossary/data-streaming"}}
+{
+  "id": "data-streaming",
+  "name": "data streaming",
+  "type": "category",
+  "permalink": "/categories/data-streaming",
+  "definition": {
+    "title": "Data Streaming",
+    "url": "https://en.wikipedia.org/wiki/Stream_processing",
+    "domains": ["eventing"],
+    "permalink": "/glossary/data-streaming"
+  }
+}

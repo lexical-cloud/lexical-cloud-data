@@ -1,1 +1,23 @@
-{"hierarchical":{},"instance":["/docs/governance/azure/blueprints","/docs/developer-tools/azure/devtest-labs"],"intersection":{"categories":["resource management"],"domains":["systems management","developer toolchain"],"providers":["azure"],"services":["governance","developer tools"]}}
+{
+  "instance": [
+    "/docs/governance/azure/blueprints",
+    "/docs/developer-tools/azure/devtest-labs"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "resource management"
+    ],
+    "domains": [
+      "systems management",
+      "developer toolchain"
+    ],
+    "providers": [
+      "azure"
+    ],
+    "services": [
+      "governance",
+      "developer tools"
+    ]
+  }
+}

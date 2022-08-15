@@ -1,1 +1,9 @@
-{"name":"Azure Advisor","providers":["azure"],"services":["governance"],"domains":["systems management"],"categories":["risk assessment","best practices"],"permalink":"/docs/governance/azure/advisor"}
+{
+  "name": "Azure Advisor",
+  "providers": ["azure"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["risk assessment","best practices"],
+  "permalink": "/docs/governance/azure/advisor"
+}
+

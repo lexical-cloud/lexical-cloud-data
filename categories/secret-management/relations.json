@@ -1,1 +1,33 @@
-{"hierarchical":{"categories":["data security"],"domains":["data management"]},"instance":["/docs/security/aws/secrets-manager","/docs/developer-tools/aws/systems-manager-parameter-store","/docs/security/azure/key-vault"],"intersection":{"categories":["configuration management","auditing","key management"],"domains":["systems management"],"providers":["aws","azure"],"services":["security","developer tools"]}}
+{
+  "instance": [
+    "/docs/security/aws/secrets-manager",
+    "/docs/developer-tools/aws/systems-manager-parameter-store",
+    "/docs/security/azure/key-vault"
+  ],
+  "intersect": {
+    "categories": [
+      "data security"
+    ],
+    "domains": [
+      "data management"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "configuration management",
+      "auditing",
+      "key management"
+    ],
+    "domains": [
+      "systems management"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "security",
+      "developer tools"
+    ]
+  }
+}

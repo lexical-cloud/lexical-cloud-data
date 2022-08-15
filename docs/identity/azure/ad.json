@@ -1,1 +1,9 @@
-{"name":"Azure Active Directory","providers":["azure"],"services":["identity"],"domains":["directory service","identity management"],"categories":["identity provider"],"permalink":"/docs/identity/azure/ad"}
+{
+  "name": "Azure Active Directory",
+  "providers": ["azure"],
+  "services": ["identity"],
+  "domains": ["directory service","identity management"],
+  "categories": ["identity provider"],
+  "permalink": "/docs/identity/azure/ad"
+}
+

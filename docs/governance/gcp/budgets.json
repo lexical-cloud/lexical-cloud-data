@@ -1,1 +1,10 @@
-{"name":"Google Cloud Budgets","providers":["gcp"],"services":["governance"],"domains":["finops","systems management"],"categories":["cost management"],"features":["alerts"],"permalink":"/docs/governance/gcp/budgets"}
+{
+  "name": "Google Cloud Budgets",
+  "providers": ["gcp"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["cost management"],
+  "features": ["alerts"],
+  "permalink": "/docs/governance/gcp/budgets"
+}
+

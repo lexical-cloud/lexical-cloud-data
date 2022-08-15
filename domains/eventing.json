@@ -1,1 +1,12 @@
-{"id":"eventing","name":"eventing","type":"domain","permalink":"/domains/eventing","definition":{"title":"Eventing","url":"https://glossary.cncf.io/event-driven-architecture/","services":["integration"],"permalink":"/glossary/eventing"}}
+{
+  "id": "eventing",
+  "name": "eventing",
+  "type": "domain",
+  "permalink": "/domains/eventing",
+  "definition": {
+    "title": "Eventing",
+    "url": "https://glossary.cncf.io/event-driven-architecture/",
+    "services": ["integration"],
+    "permalink": "/glossary/eventing"
+  }
+}

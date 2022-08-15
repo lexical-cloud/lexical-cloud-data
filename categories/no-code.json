@@ -1,1 +1,11 @@
-{"id":"no-code","name":"no-code","type":"category","permalink":"/categories/no-code","definition":{"title":"No-Code","url":"https://en.wikipedia.org/wiki/No-code_development_platform","permalink":"/glossary/no-code"}}
+{
+  "id": "no-code",
+  "name": "no-code",
+  "type": "category",
+  "permalink": "/categories/no-code",
+  "definition": {
+    "title": "No-Code",
+    "url": "https://en.wikipedia.org/wiki/No-code_development_platform",
+    "permalink": "/glossary/no-code"
+  }
+}

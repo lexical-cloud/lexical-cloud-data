@@ -1,1 +1,10 @@
-{"name":"Amazon API Gateway","providers":["aws"],"services":["integration"],"domains":["api management","serverless"],"categories":["api lifecycle"],"features":["rest api","http api","websocket api"],"permalink":"/docs/integration/aws/api-gateway"}
+{
+  "name": "Amazon API Gateway",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["api management","serverless"],
+  "categories": ["api lifecycle"],
+  "features": ["rest api","http api","websocket api"],
+  "permalink": "/docs/integration/aws/api-gateway"
+}
+

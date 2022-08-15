@@ -1,1 +1,11 @@
-{"id":"developer-toolchain","name":"developer toolchain","type":"domain","permalink":"/domains/developer-toolchain","definition":{"title":"Developer Toolchain","url":"https://en.wikipedia.org/wiki/Toolchain","permalink":"/glossary/developer-toolchain"}}
+{
+  "id": "developer-toolchain",
+  "name": "developer toolchain",
+  "type": "domain",
+  "permalink": "/domains/developer-toolchain",
+  "definition": {
+    "title": "Developer Toolchain",
+    "url": "https://en.wikipedia.org/wiki/Toolchain",
+    "permalink": "/glossary/developer-toolchain"
+  }
+}

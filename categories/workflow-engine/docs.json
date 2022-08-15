@@ -1,1 +1,34 @@
-[{"name":"Azure Logic Apps","providers":["azure"],"services":["integration"],"domains":["end-user computing","process modeling","serverless"],"categories":["low-code","no-code","workflow engine"],"permalink":"/docs/integration/azure/logic-apps"},{"name":"AWS Step Functions","providers":["aws"],"services":["integration"],"domains":["end-user computing","process modeling","serverless"],"categories":["low-code","workflow engine"],"permalink":"/docs/integration/aws/step-functions"},{"name":"Google Cloud Composer","providers":["gcp"],"services":["integration"],"domains":["managed service","process modeling"],"categories":["multi-cloud","workflow engine"],"permalink":"/docs/integration/gcp/composer"},{"name":"Google Cloud Workflows","providers":["gcp"],"services":["integration"],"domains":["process modeling","serverless"],"categories":["workflow engine"],"permalink":"/docs/integration/gcp/workflows"}]
+[
+  {
+    "name": "Azure Logic Apps",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","no-code","workflow engine"],
+    "permalink": "/docs/integration/azure/logic-apps"
+  },
+  {
+    "name": "AWS Step Functions",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","workflow engine"],
+    "permalink": "/docs/integration/aws/step-functions"
+  },
+  {
+    "name": "Google Cloud Composer",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["managed service","process modeling"],
+    "categories": ["multi-cloud","workflow engine"],
+    "permalink": "/docs/integration/gcp/composer"
+  },
+  {
+    "name": "Google Cloud Workflows",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["process modeling","serverless"],
+    "categories": ["workflow engine"],
+    "permalink": "/docs/integration/gcp/workflows"
+  }
+]

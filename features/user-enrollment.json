@@ -1,1 +1,11 @@
-{"id":"user-enrollment","name":"user enrollment","type":"feature","permalink":"/features/user-enrollment","definition":{"title":"User Enrollment","services":["identity"],"permalink":"/glossary/user-enrollment"}}
+{
+  "id": "user-enrollment",
+  "name": "user enrollment",
+  "type": "feature",
+  "permalink": "/features/user-enrollment",
+  "definition": {
+    "title": "User Enrollment",
+    "services": ["identity"],
+    "permalink": "/glossary/user-enrollment"
+  }
+}

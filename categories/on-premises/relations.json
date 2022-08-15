@@ -1,1 +1,35 @@
-{"hierarchical":{},"instance":["/docs/network/aws/direct-connect","/docs/hybrid/aws/outposts","/docs/network/aws/privatelink","/docs/hybrid/aws/storage-gateway","/docs/network/azure/expressroute","/docs/hybrid/gcp/anthos","/docs/network/gcp/interconnect"],"intersection":{"categories":["private network","virtual network","multi-cloud"],"domains":["connectivity","architecture","edge computing","modernization"],"providers":["aws","azure","gcp"],"services":["hybrid","network","storage"]}}
+{
+  "instance": [
+    "/docs/network/aws/direct-connect",
+    "/docs/hybrid/aws/outposts",
+    "/docs/network/aws/privatelink",
+    "/docs/hybrid/aws/storage-gateway",
+    "/docs/network/azure/expressroute",
+    "/docs/hybrid/gcp/anthos",
+    "/docs/network/gcp/interconnect"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "private network",
+      "virtual network",
+      "multi-cloud"
+    ],
+    "domains": [
+      "connectivity",
+      "architecture",
+      "edge computing",
+      "modernization"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "hybrid",
+      "network",
+      "storage"
+    ]
+  }
+}

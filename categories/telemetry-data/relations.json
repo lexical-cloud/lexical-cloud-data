@@ -1,1 +1,34 @@
-{"hierarchical":{"domains":["observability"],"services":["monitor"]},"instance":["/docs/monitor/aws/cloudwatch","/docs/monitor/aws/cloudwatch-app-insights","/docs/monitor/azure/monitor","/docs/monitor/azure/monitor-app-insights","/docs/monitor/gcp/cloud-logging","/docs/monitor/gcp/cloud-monitoring"],"intersection":{"categories":["dashboards","auditing"],"features":["alerts","open telemetry","automation"],"providers":["aws","azure","gcp"]}}
+{
+  "instance": [
+    "/docs/monitor/aws/cloudwatch",
+    "/docs/monitor/aws/cloudwatch-app-insights",
+    "/docs/monitor/azure/monitor",
+    "/docs/monitor/azure/monitor-app-insights",
+    "/docs/monitor/gcp/cloud-logging",
+    "/docs/monitor/gcp/cloud-monitoring"
+  ],
+  "intersect": {
+    "domains": [
+      "observability"
+    ],
+    "services": [
+      "monitor"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "dashboards",
+      "auditing"
+    ],
+    "features": [
+      "alerts",
+      "open telemetry",
+      "automation"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

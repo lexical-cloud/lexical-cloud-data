@@ -1,1 +1,51 @@
-{"hierarchical":{},"instance":["/docs/storage/aws/ebs","/docs/storage/aws/efs","/docs/storage/aws/s3","/docs/storage/aws/s3-glacier","/docs/storage/aws/backup","/docs/hybrid/aws/storage-gateway","/docs/storage/azure/blob-storage","/docs/storage/azure/disk-storage","/docs/storage/azure/files","/docs/storage/azure/queue-storage","/docs/storage/azure/table-storage","/docs/storage/gcp/filestore","/docs/storage/gcp/peristent-disk","/docs/storage/gcp/cloud-storage","/docs/storage/gcp/cloud-storage-archive"],"intersection":{"categories":["block storage","file storage","object storage","data archive","data security","on-premises","message queue","nosql db","key-value store"],"domains":["data management","serverless","systems management","modernization","eventing","managed service"],"providers":["aws","azure","gcp"],"services":["hybrid","integration","database"]}}
+{
+  "instance": [
+    "/docs/storage/aws/ebs",
+    "/docs/storage/aws/efs",
+    "/docs/storage/aws/s3",
+    "/docs/storage/aws/s3-glacier",
+    "/docs/storage/aws/backup",
+    "/docs/hybrid/aws/storage-gateway",
+    "/docs/storage/azure/blob-storage",
+    "/docs/storage/azure/disk-storage",
+    "/docs/storage/azure/files",
+    "/docs/storage/azure/queue-storage",
+    "/docs/storage/azure/table-storage",
+    "/docs/storage/gcp/filestore",
+    "/docs/storage/gcp/peristent-disk",
+    "/docs/storage/gcp/cloud-storage",
+    "/docs/storage/gcp/cloud-storage-archive"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "block storage",
+      "file storage",
+      "object storage",
+      "data archive",
+      "data security",
+      "on-premises",
+      "message queue",
+      "nosql db",
+      "key-value store"
+    ],
+    "domains": [
+      "data management",
+      "serverless",
+      "systems management",
+      "modernization",
+      "eventing",
+      "managed service"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "hybrid",
+      "integration",
+      "database"
+    ]
+  }
+}

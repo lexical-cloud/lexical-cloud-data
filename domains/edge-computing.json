@@ -1,1 +1,11 @@
-{"id":"edge-computing","name":"edge computing","type":"domain","permalink":"/domains/edge-computing","definition":{"title":"Edge Computing","url":"https://en.wikipedia.org/wiki/Edge_computing","permalink":"/glossary/edge-computing"}}
+{
+  "id": "edge-computing",
+  "name": "edge computing",
+  "type": "domain",
+  "permalink": "/domains/edge-computing",
+  "definition": {
+    "title": "Edge Computing",
+    "url": "https://en.wikipedia.org/wiki/Edge_computing",
+    "permalink": "/glossary/edge-computing"
+  }
+}

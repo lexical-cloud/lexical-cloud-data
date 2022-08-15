@@ -1,1 +1,35 @@
-{"hierarchical":{"domains":["systems management"],"services":["governance"]},"instance":["/docs/monitor/aws/config","/docs/developer-tools/aws/opsworks","/docs/developer-tools/aws/systems-manager","/docs/developer-tools/aws/systems-manager-parameter-store","/docs/developer-tools/azure/automation"],"intersection":{"categories":["auditing","risk assessment","secret management"],"domains":["virtualization"],"providers":["aws","azure"],"services":["monitor","developer tools"]}}
+{
+  "instance": [
+    "/docs/monitor/aws/config",
+    "/docs/developer-tools/aws/opsworks",
+    "/docs/developer-tools/aws/systems-manager",
+    "/docs/developer-tools/aws/systems-manager-parameter-store",
+    "/docs/developer-tools/azure/automation"
+  ],
+  "intersect": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "auditing",
+      "risk assessment",
+      "secret management"
+    ],
+    "domains": [
+      "virtualization"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "monitor",
+      "developer tools"
+    ]
+  }
+}

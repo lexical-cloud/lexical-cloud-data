@@ -1,1 +1,10 @@
-{"name":"Azure Total Cost of Ownership Calculator","providers":["azure"],"services":["governance"],"domains":["finops","systems management"],"categories":["cost management"],"features":["cost estimation","no account required"],"permalink":"/docs/governance/azure/tco-calculator"}
+{
+  "name": "Azure Total Cost of Ownership Calculator",
+  "providers": ["azure"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["cost management"],
+  "features": ["cost estimation","no account required"],
+  "permalink": "/docs/governance/azure/tco-calculator"
+}
+

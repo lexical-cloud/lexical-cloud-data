@@ -1,1 +1,7 @@
-{"title":"API Management","url":"https://en.wikipedia.org/wiki/API_management","services":["integration"],"permalink":"/glossary/api-management"}
+{
+  "title": "API Management",
+  "url": "https://en.wikipedia.org/wiki/API_management",
+  "services": ["integration"],
+  "permalink": "/glossary/api-management"
+}
+

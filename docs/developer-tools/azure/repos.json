@@ -1,1 +1,9 @@
-{"name":"Azure Repos","providers":["azure"],"services":["developer tools"],"domains":["developer toolchain","devops"],"categories":["source control"],"permalink":"/docs/developer-tools/azure/repos"}
+{
+  "name": "Azure Repos",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","devops"],
+  "categories": ["source control"],
+  "permalink": "/docs/developer-tools/azure/repos"
+}
+

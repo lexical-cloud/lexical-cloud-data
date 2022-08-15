@@ -1,1 +1,33 @@
-{"hierarchical":{},"instance":["/docs/monitor/aws/health-dashboard","/docs/ai/azure/cognitive-services-personalizer","/docs/monitor/azure/service-health"],"intersection":{"categories":["health","decision making"],"domains":["observability","machine learning"],"features":["alerts","maintenance schedule","reports","recommendations","prebuilt models"],"providers":["aws","azure"],"services":["monitor","ai"]}}
+{
+  "instance": [
+    "/docs/monitor/aws/health-dashboard",
+    "/docs/ai/azure/cognitive-services-personalizer",
+    "/docs/monitor/azure/service-health"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "health",
+      "decision making"
+    ],
+    "domains": [
+      "observability",
+      "machine learning"
+    ],
+    "features": [
+      "alerts",
+      "maintenance schedule",
+      "reports",
+      "recommendations",
+      "prebuilt models"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "monitor",
+      "ai"
+    ]
+  }
+}

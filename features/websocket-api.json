@@ -1,1 +1,13 @@
-{"id":"websocket-api","name":"websocket api","type":"feature","permalink":"/features/websocket-api","definition":{"title":"WebSocket API","url":"https://en.wikipedia.org/wiki/WebSocket","services":["integration"],"domains":["api management"],"permalink":"/glossary/websocket-api"}}
+{
+  "id": "websocket-api",
+  "name": "websocket api",
+  "type": "feature",
+  "permalink": "/features/websocket-api",
+  "definition": {
+    "title": "WebSocket API",
+    "url": "https://en.wikipedia.org/wiki/WebSocket",
+    "services": ["integration"],
+    "domains": ["api management"],
+    "permalink": "/glossary/websocket-api"
+  }
+}

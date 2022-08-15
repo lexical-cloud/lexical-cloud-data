@@ -1,1 +1,10 @@
-{"name":"Azure Virtual Machine Scaled Sets","providers":["azure"],"services":["compute"],"domains":["virtualization"],"categories":["virtual machines"],"features":["auto scaling"],"permalink":"/docs/compute/azure/vm-scaled-sets"}
+{
+  "name": "Azure Virtual Machine Scaled Sets",
+  "providers": ["azure"],
+  "services": ["compute"],
+  "domains": ["virtualization"],
+  "categories": ["virtual machines"],
+  "features": ["auto scaling"],
+  "permalink": "/docs/compute/azure/vm-scaled-sets"
+}
+

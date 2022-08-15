@@ -1,1 +1,12 @@
-{"id":"virtual-private-server","name":"virtual private server","type":"category","permalink":"/categories/virtual-private-server","definition":{"title":"Virtual Private Server","url":"https://en.wikipedia.org/wiki/Virtual_private_server","domains":["virtualization"],"permalink":"/glossary/virtual-private-server"}}
+{
+  "id": "virtual-private-server",
+  "name": "virtual private server",
+  "type": "category",
+  "permalink": "/categories/virtual-private-server",
+  "definition": {
+    "title": "Virtual Private Server",
+    "url": "https://en.wikipedia.org/wiki/Virtual_private_server",
+    "domains": ["virtualization"],
+    "permalink": "/glossary/virtual-private-server"
+  }
+}
