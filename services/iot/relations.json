@@ -1,1 +1,37 @@
-{"hierarchical":{"domains":["edge computing"]},"instance":["/docs/iot/azure/central","/docs/iot/azure/edge","/docs/iot/azure/hub","/docs/iot/azure/sphere","/docs/database/azure/sql-edge"],"intersection":{"categories":["iot management","iot processing","iot communication","iot hardware","iot security","relational db","sql compliant"],"domains":["data management"],"features":["container-based"],"providers":["azure"],"services":["database"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "edge computing"
+    ]
+  },
+  "instance": [
+    "/docs/iot/azure/central",
+    "/docs/iot/azure/edge",
+    "/docs/iot/azure/hub",
+    "/docs/iot/azure/sphere",
+    "/docs/database/azure/sql-edge"
+  ],
+  "intersection": {
+    "categories": [
+      "iot management",
+      "iot processing",
+      "iot communication",
+      "iot hardware",
+      "iot security",
+      "relational db",
+      "sql compliant"
+    ],
+    "domains": [
+      "data management"
+    ],
+    "features": [
+      "container-based"
+    ],
+    "providers": [
+      "azure"
+    ],
+    "services": [
+      "database"
+    ]
+  }
+}

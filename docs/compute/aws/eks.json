@@ -1,1 +1,9 @@
-{"name":"Amazon Elastic Kubernetes Service","providers":["aws"],"services":["compute"],"domains":["containerization","managed service"],"categories":["container orchestrator","kubernetes"],"permalink":"/docs/compute/aws/eks"}
+{
+  "name": "Amazon Elastic Kubernetes Service",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["containerization","managed service"],
+  "categories": ["container orchestrator","kubernetes"],
+  "permalink": "/docs/compute/aws/eks"
+}
+

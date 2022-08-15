@@ -1,1 +1,43 @@
-{"hierarchical":{},"instance":["/docs/developer-tools/aws/cloud9","/docs/developer-tools/aws/codecommit","/docs/developer-tools/aws/codestar","/docs/developer-tools/azure/boards","/docs/developer-tools/azure/devtest-labs","/docs/developer-tools/azure/repos","/docs/developer-tools/azure/test-plans","/docs/developer-tools/github/github","/docs/developer-tools/gcp/cloud-source-repos"],"intersection":{"categories":["hosted ide","source control","continuous delivery","continuous integration","project planning","environment management","test planning","test execution"],"domains":["devops","project management","systems management"],"features":["community"],"providers":["aws","azure","github","gcp"],"services":["developer tools"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/developer-tools/aws/cloud9",
+    "/docs/developer-tools/aws/codecommit",
+    "/docs/developer-tools/aws/codestar",
+    "/docs/developer-tools/azure/boards",
+    "/docs/developer-tools/azure/devtest-labs",
+    "/docs/developer-tools/azure/repos",
+    "/docs/developer-tools/azure/test-plans",
+    "/docs/developer-tools/github/github",
+    "/docs/developer-tools/gcp/cloud-source-repos"
+  ],
+  "intersection": {
+    "categories": [
+      "hosted ide",
+      "source control",
+      "continuous delivery",
+      "continuous integration",
+      "project planning",
+      "environment management",
+      "test planning",
+      "test execution"
+    ],
+    "domains": [
+      "devops",
+      "project management",
+      "systems management"
+    ],
+    "features": [
+      "community"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "github",
+      "gcp"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  }
+}

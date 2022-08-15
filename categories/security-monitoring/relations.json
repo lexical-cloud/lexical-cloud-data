@@ -1,1 +1,27 @@
-{"hierarchical":{"domains":["systems management"],"services":["monitor","security"]},"instance":["/docs/security/aws/detective","/docs/security/gcp/security-command-center","/docs/security/azure/defender-for-cloud"],"intersection":{"categories":["root cause analysis","auditing"],"providers":["aws","gcp","azure"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "monitor",
+      "security"
+    ]
+  },
+  "instance": [
+    "/docs/security/aws/detective",
+    "/docs/security/gcp/security-command-center",
+    "/docs/security/azure/defender-for-cloud"
+  ],
+  "intersection": {
+    "categories": [
+      "root cause analysis",
+      "auditing"
+    ],
+    "providers": [
+      "aws",
+      "gcp",
+      "azure"
+    ]
+  }
+}

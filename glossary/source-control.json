@@ -1,1 +1,8 @@
-{"title":"Source Control","url":"https://glossary.cncf.io/version-control/","services":["developer tools"],"domains":["developer toolchain","devops"],"permalink":"/glossary/source-control"}
+{
+  "title": "Source Control",
+  "url": "https://glossary.cncf.io/version-control/",
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","devops"],
+  "permalink": "/glossary/source-control"
+}
+

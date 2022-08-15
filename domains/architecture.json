@@ -1,1 +1,11 @@
-{"id":"architecture","name":"architecture","type":"domain","permalink":"/domains/architecture","definition":{"title":"Architecture","url":"https://en.wikipedia.org/wiki/Cloud_computing_architecture","permalink":"/glossary/architecture"}}
+{
+  "id": "architecture",
+  "name": "architecture",
+  "type": "domain",
+  "permalink": "/domains/architecture",
+  "definition": {
+    "title": "Architecture",
+    "url": "https://en.wikipedia.org/wiki/Cloud_computing_architecture",
+    "permalink": "/glossary/architecture"
+  }
+}

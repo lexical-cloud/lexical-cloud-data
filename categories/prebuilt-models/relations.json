@@ -1,1 +1,23 @@
-{"hierarchical":{"domains":["machine learning"],"services":["ai"]},"instance":["/docs/ai/aws/sagemaker-autopilot","/docs/ai/gcp/ai-hub"],"intersection":{"domains":["serverless"],"providers":["aws","gcp"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "machine learning"
+    ],
+    "services": [
+      "ai"
+    ]
+  },
+  "instance": [
+    "/docs/ai/aws/sagemaker-autopilot",
+    "/docs/ai/gcp/ai-hub"
+  ],
+  "intersection": {
+    "domains": [
+      "serverless"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ]
+  }
+}

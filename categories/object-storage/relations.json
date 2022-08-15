@@ -1,1 +1,30 @@
-{"hierarchical":{"domains":["data management"],"services":["storage"]},"instance":["/docs/storage/aws/s3","/docs/storage/aws/s3-glacier","/docs/storage/azure/blob-storage","/docs/storage/gcp/cloud-storage","/docs/storage/gcp/cloud-storage-archive"],"intersection":{"categories":["data archive"],"domains":["serverless"],"providers":["aws","azure","gcp"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "storage"
+    ]
+  },
+  "instance": [
+    "/docs/storage/aws/s3",
+    "/docs/storage/aws/s3-glacier",
+    "/docs/storage/azure/blob-storage",
+    "/docs/storage/gcp/cloud-storage",
+    "/docs/storage/gcp/cloud-storage-archive"
+  ],
+  "intersection": {
+    "categories": [
+      "data archive"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

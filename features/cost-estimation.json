@@ -1,1 +1,13 @@
-{"id":"cost-estimation","name":"cost estimation","type":"feature","permalink":"/features/cost-estimation","definition":{"title":"Cost Estimation","url":"https://en.wikipedia.org/wiki/Cost_estimation_in_software_engineering","services":["governance"],"domains":["finops"],"permalink":"/glossary/cost-estimation"}}
+{
+  "id": "cost-estimation",
+  "name": "cost estimation",
+  "type": "feature",
+  "permalink": "/features/cost-estimation",
+  "definition": {
+    "title": "Cost Estimation",
+    "url": "https://en.wikipedia.org/wiki/Cost_estimation_in_software_engineering",
+    "services": ["governance"],
+    "domains": ["finops"],
+    "permalink": "/glossary/cost-estimation"
+  }
+}

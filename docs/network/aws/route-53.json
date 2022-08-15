@@ -1,1 +1,10 @@
-{"name":"Amazon Route 53","providers":["aws"],"services":["network"],"domains":["systems management"],"categories":["dns management"],"features":["traffic routing"],"permalink":"/docs/network/aws/route-53"}
+{
+  "name": "Amazon Route 53",
+  "providers": ["aws"],
+  "services": ["network"],
+  "domains": ["systems management"],
+  "categories": ["dns management"],
+  "features": ["traffic routing"],
+  "permalink": "/docs/network/aws/route-53"
+}
+

@@ -1,1 +1,9 @@
-{"name":"Azure Virtual Network","providers":["azure"],"services":["network"],"domains":["connectivity"],"categories":["virtual network"],"permalink":"/docs/network/azure/vnet"}
+{
+  "name": "Azure Virtual Network",
+  "providers": ["azure"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["virtual network"],
+  "permalink": "/docs/network/azure/vnet"
+}
+

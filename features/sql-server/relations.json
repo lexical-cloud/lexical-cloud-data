@@ -1,1 +1,31 @@
-{"hierarchical":{"services":["database"]},"instance":["/docs/database/aws/rds","/docs/database/gcp/cloud-sql"],"intersection":{"categories":["relational db","sql compliant"],"domains":["data management","managed service"],"features":["mysql","postgresql","mariadb","oracle"],"providers":["aws","gcp"]}}
+{
+  "hierarchical": {
+    "services": [
+      "database"
+    ]
+  },
+  "instance": [
+    "/docs/database/aws/rds",
+    "/docs/database/gcp/cloud-sql"
+  ],
+  "intersection": {
+    "categories": [
+      "relational db",
+      "sql compliant"
+    ],
+    "domains": [
+      "data management",
+      "managed service"
+    ],
+    "features": [
+      "mysql",
+      "postgresql",
+      "mariadb",
+      "oracle"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ]
+  }
+}

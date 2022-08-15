@@ -1,1 +1,52 @@
-[{"name":"AWS Detective","providers":["aws"],"services":["security"],"domains":["systems management"],"categories":["security monitoring","root cause analysis"],"permalink":"/docs/security/aws/detective"},{"name":"AWS X-Ray","providers":["aws"],"services":["monitor"],"domains":["systems management"],"categories":["application debugger","root cause analysis"],"permalink":"/docs/monitor/aws/xray"},{"name":"Google Cloud Debugger","providers":["gcp"],"services":["monitor"],"domains":["systems management","observability"],"categories":["application debugger","root cause analysis"],"labels":["deprecated"],"permalink":"/docs/monitor/gcp/cloud-debugger"},{"name":"Google Cloud Error Reporting","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis"],"permalink":"/docs/monitor/gcp/error-reporting"},{"name":"Google Cloud Profiler","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis","performance monitoring"],"permalink":"/docs/monitor/gcp/cloud-profiler"},{"name":"Google Cloud Trace","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis","performance monitoring"],"features":["open telemetry"],"permalink":"/docs/monitor/gcp/cloud-trace"}]
+[
+  {
+    "name": "AWS Detective",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","root cause analysis"],
+    "permalink": "/docs/security/aws/detective"
+  },
+  {
+    "name": "AWS X-Ray",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["systems management"],
+    "categories": ["application debugger","root cause analysis"],
+    "permalink": "/docs/monitor/aws/xray"
+  },
+  {
+    "name": "Google Cloud Debugger",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["systems management","observability"],
+    "categories": ["application debugger","root cause analysis"],
+    "labels": ["deprecated"],
+    "permalink": "/docs/monitor/gcp/cloud-debugger"
+  },
+  {
+    "name": "Google Cloud Error Reporting",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis"],
+    "permalink": "/docs/monitor/gcp/error-reporting"
+  },
+  {
+    "name": "Google Cloud Profiler",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "permalink": "/docs/monitor/gcp/cloud-profiler"
+  },
+  {
+    "name": "Google Cloud Trace",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "features": ["open telemetry"],
+    "permalink": "/docs/monitor/gcp/cloud-trace"
+  }
+]

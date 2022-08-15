@@ -1,1 +1,11 @@
-{"id":"open-telemetry","name":"open telemetry","type":"feature","permalink":"/features/open-telemetry","definition":{"title":"Open Telemetry","domains":["observability"],"permalink":"/glossary/open-telemetry"}}
+{
+  "id": "open-telemetry",
+  "name": "open telemetry",
+  "type": "feature",
+  "permalink": "/features/open-telemetry",
+  "definition": {
+    "title": "Open Telemetry",
+    "domains": ["observability"],
+    "permalink": "/glossary/open-telemetry"
+  }
+}

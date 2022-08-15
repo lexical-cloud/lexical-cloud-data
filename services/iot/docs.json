@@ -1,1 +1,43 @@
-[{"name":"Azure IoT Central","providers":["azure"],"services":["iot"],"domains":["edge computing"],"categories":["iot management"],"permalink":"/docs/iot/azure/central"},{"name":"Azure IoT Edge","providers":["azure"],"services":["iot"],"domains":["edge computing"],"categories":["iot processing"],"features":["container-based"],"permalink":"/docs/iot/azure/edge"},{"name":"Azure IoT Hub","providers":["azure"],"services":["iot"],"domains":["edge computing"],"categories":["iot communication"],"permalink":"/docs/iot/azure/hub"},{"name":"Azure Sphere","providers":["azure"],"services":["iot"],"domains":["edge computing"],"categories":["iot hardware","iot security"],"permalink":"/docs/iot/azure/sphere"},{"name":"Azure SQL Edge","providers":["azure"],"services":["database","iot"],"domains":["data management","edge computing"],"categories":["relational db","sql compliant"],"permalink":"/docs/database/azure/sql-edge"}]
+[
+  {
+    "name": "Azure IoT Central",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot management"],
+    "permalink": "/docs/iot/azure/central"
+  },
+  {
+    "name": "Azure IoT Edge",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot processing"],
+    "features": ["container-based"],
+    "permalink": "/docs/iot/azure/edge"
+  },
+  {
+    "name": "Azure IoT Hub",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot communication"],
+    "permalink": "/docs/iot/azure/hub"
+  },
+  {
+    "name": "Azure Sphere",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot hardware","iot security"],
+    "permalink": "/docs/iot/azure/sphere"
+  },
+  {
+    "name": "Azure SQL Edge",
+    "providers": ["azure"],
+    "services": ["database","iot"],
+    "domains": ["data management","edge computing"],
+    "categories": ["relational db","sql compliant"],
+    "permalink": "/docs/database/azure/sql-edge"
+  }
+]

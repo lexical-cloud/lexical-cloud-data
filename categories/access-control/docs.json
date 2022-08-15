@@ -1,1 +1,34 @@
-[{"name":"AWS Identity and Access Management","providers":["aws"],"services":["identity"],"domains":["identity management"],"categories":["access control","identity provider"],"permalink":"/docs/identity/aws/iam"},{"name":"AWS Service Control Policies","providers":["aws"],"services":["governance"],"domains":["systems management"],"categories":["access control"],"permalink":"/docs/governance/aws/service-control-policies"},{"name":"Azure Role Based Access Control","providers":["azure"],"services":["identity"],"domains":["identity management"],"categories":["access control"],"permalink":"/docs/identity/azure/rbac"},{"name":"Google Cloud Identity and Access Management","providers":["gcp"],"services":["identity"],"domains":["identity management"],"categories":["access control"],"permalink":"/docs/identity/gcp/iam"}]
+[
+  {
+    "name": "AWS Identity and Access Management",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control","identity provider"],
+    "permalink": "/docs/identity/aws/iam"
+  },
+  {
+    "name": "AWS Service Control Policies",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["access control"],
+    "permalink": "/docs/governance/aws/service-control-policies"
+  },
+  {
+    "name": "Azure Role Based Access Control",
+    "providers": ["azure"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control"],
+    "permalink": "/docs/identity/azure/rbac"
+  },
+  {
+    "name": "Google Cloud Identity and Access Management",
+    "providers": ["gcp"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control"],
+    "permalink": "/docs/identity/gcp/iam"
+  }
+]

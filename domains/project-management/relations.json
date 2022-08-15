@@ -1,1 +1,27 @@
-{"hierarchical":{"services":["developer tools"]},"instance":["/docs/developer-tools/azure/boards","/docs/developer-tools/github/github"],"intersection":{"categories":["project planning","source control"],"domains":["developer toolchain"],"features":["community"],"providers":["azure","github"]}}
+{
+  "hierarchical": {
+    "services": [
+      "developer tools"
+    ]
+  },
+  "instance": [
+    "/docs/developer-tools/azure/boards",
+    "/docs/developer-tools/github/github"
+  ],
+  "intersection": {
+    "categories": [
+      "project planning",
+      "source control"
+    ],
+    "domains": [
+      "developer toolchain"
+    ],
+    "features": [
+      "community"
+    ],
+    "providers": [
+      "azure",
+      "github"
+    ]
+  }
+}

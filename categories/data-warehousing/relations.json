@@ -1,1 +1,34 @@
-{"hierarchical":{"domains":["data management"],"services":["analytics"]},"instance":["/docs/database/aws/redshift","/docs/analytics/azure/synapse-analytics","/docs/database/gcp/bigquery"],"intersection":{"categories":["unstructured data","sql compliant"],"domains":["managed service","serverless","big data"],"providers":["aws","azure","gcp"],"services":["database"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "analytics"
+    ]
+  },
+  "instance": [
+    "/docs/database/aws/redshift",
+    "/docs/analytics/azure/synapse-analytics",
+    "/docs/database/gcp/bigquery"
+  ],
+  "intersection": {
+    "categories": [
+      "unstructured data",
+      "sql compliant"
+    ],
+    "domains": [
+      "managed service",
+      "serverless",
+      "big data"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "database"
+    ]
+  }
+}

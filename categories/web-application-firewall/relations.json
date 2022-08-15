@@ -1,1 +1,38 @@
-{"hierarchical":{"categories":["firewall"],"domains":["systems management"],"services":["security"]},"instance":["/docs/security/aws/waf","/docs/network/azure/application-gateway","/docs/network/azure/front-door"],"intersection":{"categories":["load balancer","application load balancer","content delivery","ddos protection","certificates"],"domains":["connectivity","edge computing"],"providers":["aws","azure"],"services":["network"]}}
+{
+  "hierarchical": {
+    "categories": [
+      "firewall"
+    ],
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "security"
+    ]
+  },
+  "instance": [
+    "/docs/security/aws/waf",
+    "/docs/network/azure/application-gateway",
+    "/docs/network/azure/front-door"
+  ],
+  "intersection": {
+    "categories": [
+      "load balancer",
+      "application load balancer",
+      "content delivery",
+      "ddos protection",
+      "certificates"
+    ],
+    "domains": [
+      "connectivity",
+      "edge computing"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "network"
+    ]
+  }
+}

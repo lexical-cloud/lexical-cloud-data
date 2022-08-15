@@ -1,1 +1,10 @@
-{"name":"Azure QnA Maker","providers":["azure"],"services":["ai"],"domains":["end-user computing","machine learning","serverless"],"categories":["language processing","no-code","speech processing"],"features":["conversational interface"],"permalink":"/docs/ai/azure/qna-maker"}
+{
+  "name": "Azure QnA Maker",
+  "providers": ["azure"],
+  "services": ["ai"],
+  "domains": ["end-user computing","machine learning","serverless"],
+  "categories": ["language processing","no-code","speech processing"],
+  "features": ["conversational interface"],
+  "permalink": "/docs/ai/azure/qna-maker"
+}
+

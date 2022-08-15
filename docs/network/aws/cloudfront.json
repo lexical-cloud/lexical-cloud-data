@@ -1,1 +1,9 @@
-{"name":"Amazon Cloudfront","providers":["aws"],"services":["network"],"domains":["edge computing"],"categories":["content delivery"],"permalink":"/docs/network/aws/cloudfront"}
+{
+  "name": "Amazon Cloudfront",
+  "providers": ["aws"],
+  "services": ["network"],
+  "domains": ["edge computing"],
+  "categories": ["content delivery"],
+  "permalink": "/docs/network/aws/cloudfront"
+}
+

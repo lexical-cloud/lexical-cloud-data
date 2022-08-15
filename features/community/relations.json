@@ -1,1 +1,26 @@
-{"hierarchical":{"services":["governance"]},"instance":["/docs/developer-tools/github/github"],"intersection":{"categories":["source control","project planning"],"domains":["developer toolchain","project management"],"providers":["github"],"services":["developer tools"]}}
+{
+  "hierarchical": {
+    "services": [
+      "governance"
+    ]
+  },
+  "instance": [
+    "/docs/developer-tools/github/github"
+  ],
+  "intersection": {
+    "categories": [
+      "source control",
+      "project planning"
+    ],
+    "domains": [
+      "developer toolchain",
+      "project management"
+    ],
+    "providers": [
+      "github"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  }
+}

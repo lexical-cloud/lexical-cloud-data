@@ -1,1 +1,7 @@
-{"title":"Network Transit Hub","services":["network"],"domains":["connectivity"],"permalink":"/glossary/network-transit-hub"}
+{
+  "title": "Network Transit Hub",
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "permalink": "/glossary/network-transit-hub"
+}
+

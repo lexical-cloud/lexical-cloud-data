@@ -1,1 +1,9 @@
-{"name":"Azure Blueprints","providers":["azure"],"services":["governance"],"domains":["systems management"],"categories":["resource management","environment management"],"permalink":"/docs/governance/azure/blueprints"}
+{
+  "name": "Azure Blueprints",
+  "providers": ["azure"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["resource management","environment management"],
+  "permalink": "/docs/governance/azure/blueprints"
+}
+

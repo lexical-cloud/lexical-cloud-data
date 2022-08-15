@@ -1,1 +1,10 @@
-{"name":"Google Cloud Managed Instance Groups","providers":["gcp"],"services":["compute"],"domains":["virtualization"],"categories":["virtual machines"],"features":["auto scaling"],"permalink":"/docs/compute/gcp/managed-instance-groups"}
+{
+  "name": "Google Cloud Managed Instance Groups",
+  "providers": ["gcp"],
+  "services": ["compute"],
+  "domains": ["virtualization"],
+  "categories": ["virtual machines"],
+  "features": ["auto scaling"],
+  "permalink": "/docs/compute/gcp/managed-instance-groups"
+}
+

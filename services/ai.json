@@ -1,1 +1,10 @@
-{"id":"ai","name":"ai","type":"service","permalink":"/services/ai","definition":{"title":"Artificial Intelligence (AI)","permalink":"/glossary/ai"}}
+{
+  "id": "ai",
+  "name": "ai",
+  "type": "service",
+  "permalink": "/services/ai",
+  "definition": {
+    "title": "Artificial Intelligence (AI)",
+    "permalink": "/glossary/ai"
+  }
+}

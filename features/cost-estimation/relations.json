@@ -1,1 +1,32 @@
-{"hierarchical":{"domains":["finops"],"services":["governance"]},"instance":["/docs/governance/aws/pricing-calculator","/docs/governance/azure/pricing-calculator","/docs/governance/azure/tco-calculator","/docs/governance/gcp/pricing-calculator"],"intersection":{"categories":["cost management"],"domains":["systems management"],"features":["no account required"],"providers":["aws","azure","gcp"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "finops"
+    ],
+    "services": [
+      "governance"
+    ]
+  },
+  "instance": [
+    "/docs/governance/aws/pricing-calculator",
+    "/docs/governance/azure/pricing-calculator",
+    "/docs/governance/azure/tco-calculator",
+    "/docs/governance/gcp/pricing-calculator"
+  ],
+  "intersection": {
+    "categories": [
+      "cost management"
+    ],
+    "domains": [
+      "systems management"
+    ],
+    "features": [
+      "no account required"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

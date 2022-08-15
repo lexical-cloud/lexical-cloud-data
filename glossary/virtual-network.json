@@ -1,1 +1,8 @@
-{"title":"Virtual Network","url":"https://en.wikipedia.org/wiki/Network_virtualization","services":["network"],"domains":["connectivity"],"permalink":"/glossary/virtual-network"}
+{
+  "title": "Virtual Network",
+  "url": "https://en.wikipedia.org/wiki/Network_virtualization",
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "permalink": "/glossary/virtual-network"
+}
+

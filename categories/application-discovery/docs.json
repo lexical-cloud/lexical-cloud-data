@@ -1,1 +1,10 @@
-[{"name":"AWS Application Discovery Service","providers":["aws"],"services":["migration"],"domains":["modernization"],"categories":["application discovery"],"permalink":"/docs/migration/aws/app-discovery"}]
+[
+  {
+    "name": "AWS Application Discovery Service",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["application discovery"],
+    "permalink": "/docs/migration/aws/app-discovery"
+  }
+]

@@ -1,1 +1,54 @@
-{"hierarchical":{},"instance":["/docs/migration/aws/app-discovery","/docs/migration/aws/mgn","/docs/migration/aws/cloud-endure","/docs/migration/aws/dms","/docs/migration/aws/datasync","/docs/migration/aws/drs","/docs/migration/aws/hub","/docs/migration/aws/sct","/docs/migration/aws/sms","/docs/migration/aws/snowball","/docs/migration/aws/snowcone","/docs/migration/aws/snowmobile","/docs/migration/azure/dms","/docs/compute/gcp/bare-metal","/docs/migration/gcp/storage-transfer-service","/docs/migration/gcp/transfer-appliance","/docs/compute/gcp/vmware-engine"],"intersection":{"categories":["application discovery","server migration","database migration","data transfer","disaster recovery","data security","rehosting","virtual machines"],"domains":["modernization","data management","systems management","architecture","managed service","virtualization"],"labels":["deprecated"],"providers":["aws","azure","gcp"],"services":["database","compute"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/migration/aws/app-discovery",
+    "/docs/migration/aws/mgn",
+    "/docs/migration/aws/cloud-endure",
+    "/docs/migration/aws/dms",
+    "/docs/migration/aws/datasync",
+    "/docs/migration/aws/drs",
+    "/docs/migration/aws/hub",
+    "/docs/migration/aws/sct",
+    "/docs/migration/aws/sms",
+    "/docs/migration/aws/snowball",
+    "/docs/migration/aws/snowcone",
+    "/docs/migration/aws/snowmobile",
+    "/docs/migration/azure/dms",
+    "/docs/compute/gcp/bare-metal",
+    "/docs/migration/gcp/storage-transfer-service",
+    "/docs/migration/gcp/transfer-appliance",
+    "/docs/compute/gcp/vmware-engine"
+  ],
+  "intersection": {
+    "categories": [
+      "application discovery",
+      "server migration",
+      "database migration",
+      "data transfer",
+      "disaster recovery",
+      "data security",
+      "rehosting",
+      "virtual machines"
+    ],
+    "domains": [
+      "modernization",
+      "data management",
+      "systems management",
+      "architecture",
+      "managed service",
+      "virtualization"
+    ],
+    "labels": [
+      "deprecated"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "database",
+      "compute"
+    ]
+  }
+}

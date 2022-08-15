@@ -1,1 +1,9 @@
-{"name":"AWS Cost and Usage Report","providers":["aws"],"services":["governance"],"domains":["finops","systems management"],"categories":["cost management"],"permalink":"/docs/governance/aws/cost-and-usage-report"}
+{
+  "name": "AWS Cost and Usage Report",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["cost management"],
+  "permalink": "/docs/governance/aws/cost-and-usage-report"
+}
+

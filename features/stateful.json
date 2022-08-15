@@ -1,1 +1,13 @@
-{"id":"stateful","name":"stateful","type":"feature","permalink":"/features/stateful","definition":{"title":"Stateful","url":"https://en.wikipedia.org/wiki/Stateful","services":["compute"],"domains":["architecture"],"permalink":"/glossary/stateful"}}
+{
+  "id": "stateful",
+  "name": "stateful",
+  "type": "feature",
+  "permalink": "/features/stateful",
+  "definition": {
+    "title": "Stateful",
+    "url": "https://en.wikipedia.org/wiki/Stateful",
+    "services": ["compute"],
+    "domains": ["architecture"],
+    "permalink": "/glossary/stateful"
+  }
+}

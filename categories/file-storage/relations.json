@@ -1,1 +1,26 @@
-{"hierarchical":{"domains":["data management"],"services":["storage"]},"instance":["/docs/storage/aws/efs","/docs/storage/azure/files","/docs/storage/gcp/filestore"],"intersection":{"domains":["serverless","managed service"],"providers":["aws","azure","gcp"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "storage"
+    ]
+  },
+  "instance": [
+    "/docs/storage/aws/efs",
+    "/docs/storage/azure/files",
+    "/docs/storage/gcp/filestore"
+  ],
+  "intersection": {
+    "domains": [
+      "serverless",
+      "managed service"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

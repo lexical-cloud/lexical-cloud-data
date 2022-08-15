@@ -1,1 +1,9 @@
-{"name":"Azure Kubernetes Service","providers":["azure"],"services":["compute"],"domains":["containerization","managed service"],"categories":["container orchestrator","kubernetes"],"permalink":"/docs/compute/azure/aks"}
+{
+  "name": "Azure Kubernetes Service",
+  "providers": ["azure"],
+  "services": ["compute"],
+  "domains": ["containerization","managed service"],
+  "categories": ["container orchestrator","kubernetes"],
+  "permalink": "/docs/compute/azure/aks"
+}
+

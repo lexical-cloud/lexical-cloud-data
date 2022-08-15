@@ -1,1 +1,13 @@
-{"id":"network-load-balancer","name":"network load balancer","type":"category","permalink":"/categories/network-load-balancer","definition":{"title":"Network Load Balancer","services":["network"],"domains":["connectivity"],"categories":["load balancer"],"permalink":"/glossary/network-load-balancer"}}
+{
+  "id": "network-load-balancer",
+  "name": "network load balancer",
+  "type": "category",
+  "permalink": "/categories/network-load-balancer",
+  "definition": {
+    "title": "Network Load Balancer",
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer"],
+    "permalink": "/glossary/network-load-balancer"
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Google Kubernetes Engine","providers":["gcp"],"services":["compute"],"domains":["containerization","managed service"],"categories":["container orchestrator","kubernetes"],"permalink":"/docs/compute/gcp/gke"}
+{
+  "name": "Google Kubernetes Engine",
+  "providers": ["gcp"],
+  "services": ["compute"],
+  "domains": ["containerization","managed service"],
+  "categories": ["container orchestrator","kubernetes"],
+  "permalink": "/docs/compute/gcp/gke"
+}
+

@@ -1,1 +1,9 @@
-{"name":"AWS VPC Flow Logs","providers":["aws"],"services":["network","monitor"],"domains":["connectivity"],"categories":["network monitoring"],"permalink":"/docs/network/aws/vpc-flow-logs"}
+{
+  "name": "AWS VPC Flow Logs",
+  "providers": ["aws"],
+  "services": ["network","monitor"],
+  "domains": ["connectivity"],
+  "categories": ["network monitoring"],
+  "permalink": "/docs/network/aws/vpc-flow-logs"
+}
+

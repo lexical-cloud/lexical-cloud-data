@@ -1,1 +1,9 @@
-{"name":"AWS Shield","providers":["aws"],"services":["security"],"domains":["systems management"],"categories":["ddos protection"],"permalink":"/docs/security/aws/shield"}
+{
+  "name": "AWS Shield",
+  "providers": ["aws"],
+  "services": ["security"],
+  "domains": ["systems management"],
+  "categories": ["ddos protection"],
+  "permalink": "/docs/security/aws/shield"
+}
+

@@ -1,1 +1,8 @@
-{"title":"Risk Assessment","url":"https://en.wikipedia.org/wiki/IT_risk_management#Risk_assessment","services":["security","governance"],"domains":["systems management"],"permalink":"/glossary/risk-assessment"}
+{
+  "title": "Risk Assessment",
+  "url": "https://en.wikipedia.org/wiki/IT_risk_management#Risk_assessment",
+  "services": ["security","governance"],
+  "domains": ["systems management"],
+  "permalink": "/glossary/risk-assessment"
+}
+

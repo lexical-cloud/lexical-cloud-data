@@ -1,1 +1,59 @@
-[{"name":"Amazon Cognito","providers":["aws"],"services":["identity"],"domains":["identity management"],"categories":["identity provider"],"features":["user enrollment","authentication","authorization"],"permalink":"/docs/identity/aws/cognito"},{"name":"AWS Active Directory Connector","providers":["aws"],"services":["identity"],"domains":["directory service","identity management"],"categories":["directory gateway","identity provider"],"permalink":"/docs/identity/aws/ad-connector"},{"name":"AWS Identity and Access Management","providers":["aws"],"services":["identity"],"domains":["identity management"],"categories":["access control","identity provider"],"permalink":"/docs/identity/aws/iam"},{"name":"Azure Active Directory","providers":["azure"],"services":["identity"],"domains":["directory service","identity management"],"categories":["identity provider"],"permalink":"/docs/identity/azure/ad"},{"name":"Azure Role Based Access Control","providers":["azure"],"services":["identity"],"domains":["identity management"],"categories":["access control"],"permalink":"/docs/identity/azure/rbac"},{"name":"Google Cloud Identity and Access Management","providers":["gcp"],"services":["identity"],"domains":["identity management"],"categories":["access control"],"permalink":"/docs/identity/gcp/iam"},{"name":"Google Cloud Identity","providers":["gcp"],"services":["identity"],"domains":["identity management"],"categories":["identity provider"],"permalink":"/docs/identity/gcp/identity"}]
+[
+  {
+    "name": "Amazon Cognito",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["identity provider"],
+    "features": ["user enrollment","authentication","authorization"],
+    "permalink": "/docs/identity/aws/cognito"
+  },
+  {
+    "name": "AWS Active Directory Connector",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["directory service","identity management"],
+    "categories": ["directory gateway","identity provider"],
+    "permalink": "/docs/identity/aws/ad-connector"
+  },
+  {
+    "name": "AWS Identity and Access Management",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control","identity provider"],
+    "permalink": "/docs/identity/aws/iam"
+  },
+  {
+    "name": "Azure Active Directory",
+    "providers": ["azure"],
+    "services": ["identity"],
+    "domains": ["directory service","identity management"],
+    "categories": ["identity provider"],
+    "permalink": "/docs/identity/azure/ad"
+  },
+  {
+    "name": "Azure Role Based Access Control",
+    "providers": ["azure"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control"],
+    "permalink": "/docs/identity/azure/rbac"
+  },
+  {
+    "name": "Google Cloud Identity and Access Management",
+    "providers": ["gcp"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control"],
+    "permalink": "/docs/identity/gcp/iam"
+  },
+  {
+    "name": "Google Cloud Identity",
+    "providers": ["gcp"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["identity provider"],
+    "permalink": "/docs/identity/gcp/identity"
+  }
+]

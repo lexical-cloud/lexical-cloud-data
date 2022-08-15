@@ -1,1 +1,9 @@
-{"name":"Azure Boards","providers":["azure"],"services":["developer tools"],"domains":["developer toolchain","project management"],"categories":["project planning"],"permalink":"/docs/developer-tools/azure/boards"}
+{
+  "name": "Azure Boards",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","project management"],
+  "categories": ["project planning"],
+  "permalink": "/docs/developer-tools/azure/boards"
+}
+

@@ -1,1 +1,25 @@
-{"hierarchical":{},"instance":["/docs/monitor/aws/health-dashboard","/docs/monitor/azure/service-health"],"intersection":{"domains":["observability"],"features":["alerts","maintenance schedule","reports","personalization"],"providers":["aws","azure"],"services":["monitor"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/monitor/aws/health-dashboard",
+    "/docs/monitor/azure/service-health"
+  ],
+  "intersection": {
+    "domains": [
+      "observability"
+    ],
+    "features": [
+      "alerts",
+      "maintenance schedule",
+      "reports",
+      "personalization"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "monitor"
+    ]
+  }
+}

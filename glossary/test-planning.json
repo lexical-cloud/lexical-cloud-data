@@ -1,1 +1,8 @@
-{"title":"Test Planning","url":"https://en.wikipedia.org/wiki/Test_plan","services":["developer tools"],"domains":["developer toolkit"],"permalink":"/glossary/test-planning"}
+{
+  "title": "Test Planning",
+  "url": "https://en.wikipedia.org/wiki/Test_plan",
+  "services": ["developer tools"],
+  "domains": ["developer toolkit"],
+  "permalink": "/glossary/test-planning"
+}
+

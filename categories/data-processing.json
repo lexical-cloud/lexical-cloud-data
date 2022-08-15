@@ -1,1 +1,12 @@
-{"id":"data-processing","name":"data processing","type":"category","permalink":"/categories/data-processing","definition":{"title":"Data Processing","url":"https://en.wikipedia.org/wiki/Data_processing","domains":["data management"],"permalink":"/glossary/data-processing"}}
+{
+  "id": "data-processing",
+  "name": "data processing",
+  "type": "category",
+  "permalink": "/categories/data-processing",
+  "definition": {
+    "title": "Data Processing",
+    "url": "https://en.wikipedia.org/wiki/Data_processing",
+    "domains": ["data management"],
+    "permalink": "/glossary/data-processing"
+  }
+}

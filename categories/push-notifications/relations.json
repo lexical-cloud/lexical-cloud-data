@@ -1,1 +1,26 @@
-{"hierarchical":{"domains":["eventing"],"services":["integration"]},"instance":["/docs/integration/aws/sns","/docs/integration/azure/notification-hubs"],"intersection":{"categories":["pub-sub"],"domains":["serverless"],"providers":["aws","azure"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "eventing"
+    ],
+    "services": [
+      "integration"
+    ]
+  },
+  "instance": [
+    "/docs/integration/aws/sns",
+    "/docs/integration/azure/notification-hubs"
+  ],
+  "intersection": {
+    "categories": [
+      "pub-sub"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ]
+  }
+}

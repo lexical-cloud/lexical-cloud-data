@@ -1,1 +1,19 @@
-[{"name":"Google Cloud Profiler","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis","performance monitoring"],"permalink":"/docs/monitor/gcp/cloud-profiler"},{"name":"Google Cloud Trace","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis","performance monitoring"],"features":["open telemetry"],"permalink":"/docs/monitor/gcp/cloud-trace"}]
+[
+  {
+    "name": "Google Cloud Profiler",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "permalink": "/docs/monitor/gcp/cloud-profiler"
+  },
+  {
+    "name": "Google Cloud Trace",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "features": ["open telemetry"],
+    "permalink": "/docs/monitor/gcp/cloud-trace"
+  }
+]

@@ -1,1 +1,29 @@
-{"hierarchical":{"domains":["finops"],"services":["governance"]},"instance":["/docs/governance/aws/cost-explorer","/docs/governance/azure/cost-management"],"intersection":{"categories":["cost management"],"domains":["systems management"],"features":["alerts"],"providers":["aws","azure"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "finops"
+    ],
+    "services": [
+      "governance"
+    ]
+  },
+  "instance": [
+    "/docs/governance/aws/cost-explorer",
+    "/docs/governance/azure/cost-management"
+  ],
+  "intersection": {
+    "categories": [
+      "cost management"
+    ],
+    "domains": [
+      "systems management"
+    ],
+    "features": [
+      "alerts"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ]
+  }
+}

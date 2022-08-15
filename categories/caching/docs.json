@@ -1,1 +1,18 @@
-[{"name":"Azure Cache for Redis","providers":["azure"],"services":["database"],"domains":["managed service"],"categories":["caching"],"permalink":"/docs/database/azure/cache-for-redis"},{"name":"Amazon ElastiCache","providers":["aws"],"services":["database"],"domains":["managed service"],"categories":["caching"],"permalink":"/docs/database/aws/elasticache"}]
+[
+  {
+    "name": "Azure Cache for Redis",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["managed service"],
+    "categories": ["caching"],
+    "permalink": "/docs/database/azure/cache-for-redis"
+  },
+  {
+    "name": "Amazon ElastiCache",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["managed service"],
+    "categories": ["caching"],
+    "permalink": "/docs/database/aws/elasticache"
+  }
+]

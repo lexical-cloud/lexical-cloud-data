@@ -1,1 +1,31 @@
-{"hierarchical":{"services":["integration"]},"instance":["/docs/integration/azure/logic-apps","/docs/integration/aws/step-functions","/docs/integration/gcp/composer","/docs/integration/gcp/workflows"],"intersection":{"categories":["low-code","no-code","multi-cloud"],"domains":["end-user computing","process modeling","serverless","managed service"],"providers":["azure","aws","gcp"]}}
+{
+  "hierarchical": {
+    "services": [
+      "integration"
+    ]
+  },
+  "instance": [
+    "/docs/integration/azure/logic-apps",
+    "/docs/integration/aws/step-functions",
+    "/docs/integration/gcp/composer",
+    "/docs/integration/gcp/workflows"
+  ],
+  "intersection": {
+    "categories": [
+      "low-code",
+      "no-code",
+      "multi-cloud"
+    ],
+    "domains": [
+      "end-user computing",
+      "process modeling",
+      "serverless",
+      "managed service"
+    ],
+    "providers": [
+      "azure",
+      "aws",
+      "gcp"
+    ]
+  }
+}

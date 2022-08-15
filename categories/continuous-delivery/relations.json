@@ -1,1 +1,27 @@
-{"hierarchical":{},"instance":["/docs/developer-tools/aws/codepipeline","/docs/developer-tools/aws/codestar","/docs/developer-tools/azure/pipelines","/docs/developer-tools/github/actions"],"intersection":{"categories":["continuous integration","continuous deployment"],"domains":["devops","developer toolchain"],"providers":["aws","azure","github"],"services":["developer tools"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/developer-tools/aws/codepipeline",
+    "/docs/developer-tools/aws/codestar",
+    "/docs/developer-tools/azure/pipelines",
+    "/docs/developer-tools/github/actions"
+  ],
+  "intersection": {
+    "categories": [
+      "continuous integration",
+      "continuous deployment"
+    ],
+    "domains": [
+      "devops",
+      "developer toolchain"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "github"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  }
+}

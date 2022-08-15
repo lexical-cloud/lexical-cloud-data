@@ -1,1 +1,7 @@
-{"title":"IoT Processing","services":["iot"],"domains":["edge computing"],"permalink":"/glossary/iot-processing"}
+{
+  "title": "IoT Processing",
+  "services": ["iot"],
+  "domains": ["edge computing"],
+  "permalink": "/glossary/iot-processing"
+}
+

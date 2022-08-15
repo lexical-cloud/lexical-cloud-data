@@ -1,1 +1,9 @@
-{"name":"AWS CodePipeline","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["continuous delivery"],"permalink":"/docs/developer-tools/aws/codepipeline"}
+{
+  "name": "AWS CodePipeline",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["devops"],
+  "categories": ["continuous delivery"],
+  "permalink": "/docs/developer-tools/aws/codepipeline"
+}
+

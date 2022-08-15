@@ -1,1 +1,10 @@
-{"id":"gcp","name":"gcp","type":"provider","permalink":"/providers/gcp","definition":{"title":"Google Cloud","permalink":"/glossary/gcp"}}
+{
+  "id": "gcp",
+  "name": "gcp",
+  "type": "provider",
+  "permalink": "/providers/gcp",
+  "definition": {
+    "title": "Google Cloud",
+    "permalink": "/glossary/gcp"
+  }
+}

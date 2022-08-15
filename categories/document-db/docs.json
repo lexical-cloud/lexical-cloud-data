@@ -1,1 +1,26 @@
-[{"name":"Amazon DynamoDB","providers":["aws"],"services":["database"],"domains":["data management","serverless"],"categories":["document db","key-value store","nosql db"],"permalink":"/docs/database/aws/dynamodb"},{"name":"Azure Cosmos DB","providers":["azure"],"services":["database"],"domains":["data management","managed service","serverless"],"categories":["document db","nosql db"],"permalink":"/docs/database/azure/cosmosdb"},{"name":"Google Cloud Firestore","providers":["gcp"],"services":["database"],"domains":["data management","serverless"],"categories":["document db","nosql db"],"permalink":"/docs/database/gcp/firestore"}]
+[
+  {
+    "name": "Amazon DynamoDB",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","key-value store","nosql db"],
+    "permalink": "/docs/database/aws/dynamodb"
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["document db","nosql db"],
+    "permalink": "/docs/database/azure/cosmosdb"
+  },
+  {
+    "name": "Google Cloud Firestore",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","nosql db"],
+    "permalink": "/docs/database/gcp/firestore"
+  }
+]

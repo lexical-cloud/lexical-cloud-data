@@ -1,1 +1,21 @@
-{"hierarchical":{"services":["governance"]},"instance":["/docs/governance/aws/service-catalog"],"intersection":{"categories":["compliance"],"domains":["systems management"],"providers":["aws"]}}
+{
+  "hierarchical": {
+    "services": [
+      "governance"
+    ]
+  },
+  "instance": [
+    "/docs/governance/aws/service-catalog"
+  ],
+  "intersection": {
+    "categories": [
+      "compliance"
+    ],
+    "domains": [
+      "systems management"
+    ],
+    "providers": [
+      "aws"
+    ]
+  }
+}

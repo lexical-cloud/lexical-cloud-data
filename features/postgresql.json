@@ -1,1 +1,12 @@
-{"id":"postgresql","name":"postgresql","type":"feature","permalink":"/features/postgresql","definition":{"title":"PostgreSQL Database","url":"https://en.wikipedia.org/wiki/PostgreSQL","services":["database"],"permalink":"/glossary/postgresql"}}
+{
+  "id": "postgresql",
+  "name": "postgresql",
+  "type": "feature",
+  "permalink": "/features/postgresql",
+  "definition": {
+    "title": "PostgreSQL Database",
+    "url": "https://en.wikipedia.org/wiki/PostgreSQL",
+    "services": ["database"],
+    "permalink": "/glossary/postgresql"
+  }
+}

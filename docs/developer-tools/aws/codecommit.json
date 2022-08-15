@@ -1,1 +1,9 @@
-{"name":"AWS CodeCommit","providers":["aws"],"services":["developer tools"],"domains":["developer toolchain","devops"],"categories":["source control"],"permalink":"/docs/developer-tools/aws/codecommit"}
+{
+  "name": "AWS CodeCommit",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","devops"],
+  "categories": ["source control"],
+  "permalink": "/docs/developer-tools/aws/codecommit"
+}
+

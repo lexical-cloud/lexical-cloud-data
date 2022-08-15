@@ -1,1 +1,66 @@
-{"hierarchical":{},"instance":["/docs/database/aws/athena","/docs/database/aws/aurora","/docs/database/azure/cache-for-redis","/docs/database/aws/dynamodb","/docs/database/aws/elasticache","/docs/database/aws/rds","/docs/database/aws/redshift","/docs/migration/aws/dms","/docs/migration/aws/sct","/docs/database/azure/cosmosdb","/docs/database/azure/db-for-mysql","/docs/database/azure/db-for-postresql","/docs/migration/azure/dms","/docs/database/azure/sql-db","/docs/database/azure/sql-edge","/docs/database/azure/sql-managed-instance","/docs/storage/azure/table-storage","/docs/database/gcp/bigquery","/docs/database/gcp/bigtable","/docs/database/gcp/firestore","/docs/database/gcp/spanner","/docs/database/gcp/cloud-sql"],"intersection":{"categories":["sql compliant","unstructured data","relational db","caching","document db","key-value store","nosql db","data warehousing","database migration"],"domains":["big data","data management","serverless","managed service","edge computing"],"features":["mysql","postgresql","mariadb","sql server","oracle"],"providers":["aws","azure","gcp"],"services":["analytics","migration","iot","hybrid","storage"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/database/aws/athena",
+    "/docs/database/aws/aurora",
+    "/docs/database/azure/cache-for-redis",
+    "/docs/database/aws/dynamodb",
+    "/docs/database/aws/elasticache",
+    "/docs/database/aws/rds",
+    "/docs/database/aws/redshift",
+    "/docs/migration/aws/dms",
+    "/docs/migration/aws/sct",
+    "/docs/database/azure/cosmosdb",
+    "/docs/database/azure/db-for-mysql",
+    "/docs/database/azure/db-for-postresql",
+    "/docs/migration/azure/dms",
+    "/docs/database/azure/sql-db",
+    "/docs/database/azure/sql-edge",
+    "/docs/database/azure/sql-managed-instance",
+    "/docs/storage/azure/table-storage",
+    "/docs/database/gcp/bigquery",
+    "/docs/database/gcp/bigtable",
+    "/docs/database/gcp/firestore",
+    "/docs/database/gcp/spanner",
+    "/docs/database/gcp/cloud-sql"
+  ],
+  "intersection": {
+    "categories": [
+      "sql compliant",
+      "unstructured data",
+      "relational db",
+      "caching",
+      "document db",
+      "key-value store",
+      "nosql db",
+      "data warehousing",
+      "database migration"
+    ],
+    "domains": [
+      "big data",
+      "data management",
+      "serverless",
+      "managed service",
+      "edge computing"
+    ],
+    "features": [
+      "mysql",
+      "postgresql",
+      "mariadb",
+      "sql server",
+      "oracle"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "analytics",
+      "migration",
+      "iot",
+      "hybrid",
+      "storage"
+    ]
+  }
+}

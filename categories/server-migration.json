@@ -1,1 +1,11 @@
-{"id":"server-migration","name":"server migration","type":"category","permalink":"/categories/server-migration","definition":{"title":"Server Migration","domains":["modernization"],"permalink":"/glossary/server-migration"}}
+{
+  "id": "server-migration",
+  "name": "server migration",
+  "type": "category",
+  "permalink": "/categories/server-migration",
+  "definition": {
+    "title": "Server Migration",
+    "domains": ["modernization"],
+    "permalink": "/glossary/server-migration"
+  }
+}

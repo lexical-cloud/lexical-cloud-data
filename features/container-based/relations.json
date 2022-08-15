@@ -1,1 +1,27 @@
-{"hierarchical":{"domains":["containerization"],"services":["compute"]},"instance":["/docs/iot/azure/edge"],"intersection":{"categories":["iot processing"],"domains":["edge computing"],"providers":["azure"],"services":["iot"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "containerization"
+    ],
+    "services": [
+      "compute"
+    ]
+  },
+  "instance": [
+    "/docs/iot/azure/edge"
+  ],
+  "intersection": {
+    "categories": [
+      "iot processing"
+    ],
+    "domains": [
+      "edge computing"
+    ],
+    "providers": [
+      "azure"
+    ],
+    "services": [
+      "iot"
+    ]
+  }
+}

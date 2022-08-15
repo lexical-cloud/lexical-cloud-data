@@ -1,1 +1,9 @@
-{"name":"AWS Cloud9","providers":["aws"],"services":["developer tools"],"domains":["developer toolchain"],"categories":["hosted ide"],"permalink":"/docs/developer-tools/aws/cloud9"}
+{
+  "name": "AWS Cloud9",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain"],
+  "categories": ["hosted ide"],
+  "permalink": "/docs/developer-tools/aws/cloud9"
+}
+

@@ -1,1 +1,10 @@
-{"id":"aws","name":"aws","type":"provider","permalink":"/providers/aws","definition":{"title":"Amazon Web Services","permalink":"/glossary/aws"}}
+{
+  "id": "aws",
+  "name": "aws",
+  "type": "provider",
+  "permalink": "/providers/aws",
+  "definition": {
+    "title": "Amazon Web Services",
+    "permalink": "/glossary/aws"
+  }
+}

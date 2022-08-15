@@ -1,1 +1,6 @@
-{"title":"Directory Service","services":["identity"],"permalink":"/glossary/directory-service"}
+{
+  "title": "Directory Service",
+  "services": ["identity"],
+  "permalink": "/glossary/directory-service"
+}
+

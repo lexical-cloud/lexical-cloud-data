@@ -1,1 +1,24 @@
-{"hierarchical":{"domains":["systems management"]},"instance":["/docs/migration/aws/drs"],"intersection":{"categories":["data security"],"domains":["data management"],"providers":["aws"],"services":["migration"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "systems management"
+    ]
+  },
+  "instance": [
+    "/docs/migration/aws/drs"
+  ],
+  "intersection": {
+    "categories": [
+      "data security"
+    ],
+    "domains": [
+      "data management"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "migration"
+    ]
+  }
+}

@@ -1,1 +1,35 @@
-{"hierarchical":{"services":["database"]},"instance":["/docs/database/aws/aurora","/docs/database/aws/rds","/docs/database/azure/db-for-mysql","/docs/database/gcp/cloud-sql"],"intersection":{"categories":["relational db","sql compliant"],"domains":["data management","managed service","serverless"],"features":["postgresql","mariadb","sql server","oracle"],"providers":["aws","azure","gcp"]}}
+{
+  "hierarchical": {
+    "services": [
+      "database"
+    ]
+  },
+  "instance": [
+    "/docs/database/aws/aurora",
+    "/docs/database/aws/rds",
+    "/docs/database/azure/db-for-mysql",
+    "/docs/database/gcp/cloud-sql"
+  ],
+  "intersection": {
+    "categories": [
+      "relational db",
+      "sql compliant"
+    ],
+    "domains": [
+      "data management",
+      "managed service",
+      "serverless"
+    ],
+    "features": [
+      "postgresql",
+      "mariadb",
+      "sql server",
+      "oracle"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

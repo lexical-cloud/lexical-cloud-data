@@ -1,1 +1,12 @@
-{"id":"ddos-protection","name":"ddos protection","type":"category","permalink":"/categories/ddos-protection","definition":{"title":"DDoS Protection","url":"https://en.wikipedia.org/wiki/DDoS_mitigation","domains":["systems management"],"permalink":"/glossary/ddos-protection"}}
+{
+  "id": "ddos-protection",
+  "name": "ddos protection",
+  "type": "category",
+  "permalink": "/categories/ddos-protection",
+  "definition": {
+    "title": "DDoS Protection",
+    "url": "https://en.wikipedia.org/wiki/DDoS_mitigation",
+    "domains": ["systems management"],
+    "permalink": "/glossary/ddos-protection"
+  }
+}

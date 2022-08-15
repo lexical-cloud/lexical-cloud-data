@@ -1,1 +1,34 @@
-{"hierarchical":{},"instance":["/docs/hybrid/aws/outposts","/docs/framework/aws/well-architected","/docs/framework/azure/well-architected","/docs/hybrid/gcp/anthos","/docs/framework/gcp/architecture","/docs/compute/gcp/bare-metal"],"intersection":{"categories":["on-premises","decision making","multi-cloud","rehosting"],"domains":["edge computing","modernization"],"providers":["aws","azure","gcp"],"services":["hybrid","framework","compute","migration"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/hybrid/aws/outposts",
+    "/docs/framework/aws/well-architected",
+    "/docs/framework/azure/well-architected",
+    "/docs/hybrid/gcp/anthos",
+    "/docs/framework/gcp/architecture",
+    "/docs/compute/gcp/bare-metal"
+  ],
+  "intersection": {
+    "categories": [
+      "on-premises",
+      "decision making",
+      "multi-cloud",
+      "rehosting"
+    ],
+    "domains": [
+      "edge computing",
+      "modernization"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "hybrid",
+      "framework",
+      "compute",
+      "migration"
+    ]
+  }
+}

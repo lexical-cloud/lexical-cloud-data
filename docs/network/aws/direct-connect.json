@@ -1,1 +1,9 @@
-{"name":"AWS Direct Connect","providers":["aws"],"services":["hybrid","network"],"domains":["connectivity"],"categories":["on-premises","private network"],"permalink":"/docs/network/aws/direct-connect"}
+{
+  "name": "AWS Direct Connect",
+  "providers": ["aws"],
+  "services": ["hybrid","network"],
+  "domains": ["connectivity"],
+  "categories": ["on-premises","private network"],
+  "permalink": "/docs/network/aws/direct-connect"
+}
+

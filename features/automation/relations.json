@@ -1,1 +1,30 @@
-{"hierarchical":{"domains":["systems management"]},"instance":["/docs/monitor/aws/cloudwatch-app-insights","/docs/monitor/azure/monitor-app-insights"],"intersection":{"categories":["telemetry data","dashboards"],"domains":["observability"],"features":["alerts"],"providers":["aws","azure"],"services":["monitor"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "systems management"
+    ]
+  },
+  "instance": [
+    "/docs/monitor/aws/cloudwatch-app-insights",
+    "/docs/monitor/azure/monitor-app-insights"
+  ],
+  "intersection": {
+    "categories": [
+      "telemetry data",
+      "dashboards"
+    ],
+    "domains": [
+      "observability"
+    ],
+    "features": [
+      "alerts"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "monitor"
+    ]
+  }
+}

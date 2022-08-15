@@ -1,1 +1,26 @@
-{"hierarchical":{},"instance":["/docs/monitor/aws/xray","/docs/monitor/gcp/cloud-debugger"],"intersection":{"categories":["root cause analysis"],"domains":["systems management","observability"],"labels":["deprecated"],"providers":["aws","gcp"],"services":["monitor"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/monitor/aws/xray",
+    "/docs/monitor/gcp/cloud-debugger"
+  ],
+  "intersection": {
+    "categories": [
+      "root cause analysis"
+    ],
+    "domains": [
+      "systems management",
+      "observability"
+    ],
+    "labels": [
+      "deprecated"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ],
+    "services": [
+      "monitor"
+    ]
+  }
+}

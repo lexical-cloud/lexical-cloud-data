@@ -1,1 +1,18 @@
-[{"name":"Amazon Simple Notification Service","providers":["aws"],"services":["integration"],"domains":["eventing","serverless"],"categories":["pub-sub","push notifications"],"permalink":"/docs/integration/aws/sns"},{"name":"Azure Notification Hubs","providers":["azure"],"services":["integration"],"domains":["eventing","serverless"],"categories":["push notifications"],"permalink":"/docs/integration/azure/notification-hubs"}]
+[
+  {
+    "name": "Amazon Simple Notification Service",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["pub-sub","push notifications"],
+    "permalink": "/docs/integration/aws/sns"
+  },
+  {
+    "name": "Azure Notification Hubs",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["push notifications"],
+    "permalink": "/docs/integration/azure/notification-hubs"
+  }
+]

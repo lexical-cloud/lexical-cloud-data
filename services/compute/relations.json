@@ -1,1 +1,67 @@
-{"hierarchical":{},"instance":["/docs/compute/aws/ec2","/docs/compute/aws/ec2-auto-scaling","/docs/security/aws/security-group","/docs/compute/aws/ecs","/docs/compute/aws/eks","/docs/compute/aws/lightsail","/docs/compute/aws/workspaces","/docs/compute/aws/batch","/docs/compute/aws/beanstalk","/docs/compute/aws/fargate","/docs/compute/aws/lambda","/docs/compute/azure/app-service","/docs/compute/azure/container-apps","/docs/compute/azure/container-instances","/docs/compute/azure/functions","/docs/compute/azure/aks","/docs/compute/azure/service-fabric","/docs/compute/azure/vm","/docs/compute/azure/vm-scaled-sets","/docs/compute/gcp/app-engine","/docs/compute/gcp/bare-metal","/docs/compute/gcp/compute-engine","/docs/compute/gcp/cloud-functions","/docs/compute/gcp/managed-instance-groups","/docs/compute/gcp/cloud-run","/docs/compute/gcp/vmware-engine","/docs/compute/gcp/gke"],"intersection":{"categories":["virtual machines","firewall","container orchestrator","kubernetes","virtual private server","virtual desktop","batch processing","paas","faas","rehosting"],"domains":["virtualization","containerization","managed service","serverless","architecture","modernization"],"features":["auto scaling","stateful"],"providers":["aws","azure","gcp"],"services":["security","migration"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/compute/aws/ec2",
+    "/docs/compute/aws/ec2-auto-scaling",
+    "/docs/security/aws/security-group",
+    "/docs/compute/aws/ecs",
+    "/docs/compute/aws/eks",
+    "/docs/compute/aws/lightsail",
+    "/docs/compute/aws/workspaces",
+    "/docs/compute/aws/batch",
+    "/docs/compute/aws/beanstalk",
+    "/docs/compute/aws/fargate",
+    "/docs/compute/aws/lambda",
+    "/docs/compute/azure/app-service",
+    "/docs/compute/azure/container-apps",
+    "/docs/compute/azure/container-instances",
+    "/docs/compute/azure/functions",
+    "/docs/compute/azure/aks",
+    "/docs/compute/azure/service-fabric",
+    "/docs/compute/azure/vm",
+    "/docs/compute/azure/vm-scaled-sets",
+    "/docs/compute/gcp/app-engine",
+    "/docs/compute/gcp/bare-metal",
+    "/docs/compute/gcp/compute-engine",
+    "/docs/compute/gcp/cloud-functions",
+    "/docs/compute/gcp/managed-instance-groups",
+    "/docs/compute/gcp/cloud-run",
+    "/docs/compute/gcp/vmware-engine",
+    "/docs/compute/gcp/gke"
+  ],
+  "intersection": {
+    "categories": [
+      "virtual machines",
+      "firewall",
+      "container orchestrator",
+      "kubernetes",
+      "virtual private server",
+      "virtual desktop",
+      "batch processing",
+      "paas",
+      "faas",
+      "rehosting"
+    ],
+    "domains": [
+      "virtualization",
+      "containerization",
+      "managed service",
+      "serverless",
+      "architecture",
+      "modernization"
+    ],
+    "features": [
+      "auto scaling",
+      "stateful"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "security",
+      "migration"
+    ]
+  }
+}

@@ -1,1 +1,8 @@
-{"title":"Data Warehousing","url":"https://en.wikipedia.org/wiki/Data_warehouse","services":["analytics"],"domains":["data management"],"permalink":"/glossary/data-warehousing"}
+{
+  "title": "Data Warehousing",
+  "url": "https://en.wikipedia.org/wiki/Data_warehouse",
+  "services": ["analytics"],
+  "domains": ["data management"],
+  "permalink": "/glossary/data-warehousing"
+}
+

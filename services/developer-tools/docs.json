@@ -1,1 +1,203 @@
-[{"name":"AWS AppConfig","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["continuous configuration"],"permalink":"/docs/developer-tools/aws/appconfig"},{"name":"AWS Cloud9","providers":["aws"],"services":["developer tools"],"domains":["developer toolchain"],"categories":["hosted ide"],"permalink":"/docs/developer-tools/aws/cloud9"},{"name":"AWS CloudFormation","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["infrastructure as code","deployment management"],"permalink":"/docs/developer-tools/aws/cloudformation"},{"name":"AWS CodeArtifact","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["artifact repository"],"permalink":"/docs/developer-tools/aws/codeartifact"},{"name":"AWS CodeBuild","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["continuous integration"],"permalink":"/docs/developer-tools/aws/codebuild"},{"name":"AWS CodeCommit","providers":["aws"],"services":["developer tools"],"domains":["developer toolchain","devops"],"categories":["source control"],"permalink":"/docs/developer-tools/aws/codecommit"},{"name":"AWS CodeDeploy","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["continuous deployment"],"permalink":"/docs/developer-tools/aws/codedeploy"},{"name":"AWS CodePipeline","providers":["aws"],"services":["developer tools"],"domains":["devops"],"categories":["continuous delivery"],"permalink":"/docs/developer-tools/aws/codepipeline"},{"name":"AWS CodeStar","providers":["aws"],"services":["developer tools"],"domains":["developer toolchain"],"categories":["continuous delivery","continuous integration"],"permalink":"/docs/developer-tools/aws/codestar"},{"name":"AWS OpsWorks","providers":["aws"],"services":["developer tools"],"domains":["virtualization","systems management"],"categories":["configuration management"],"permalink":"/docs/developer-tools/aws/opsworks"},{"name":"AWS Systems Manager","providers":["aws"],"services":["developer tools"],"domains":["systems management"],"categories":["configuration management"],"permalink":"/docs/developer-tools/aws/systems-manager"},{"name":"AWS Systems Manager Parameter Store","providers":["aws"],"services":["developer tools"],"domains":["systems management"],"categories":["configuration management","secret management"],"permalink":"/docs/developer-tools/aws/systems-manager-parameter-store"},{"name":"Azure App Configuration","providers":["azure"],"services":["developer tools"],"domains":["devops"],"categories":["continuous configuration"],"permalink":"/docs/developer-tools/azure/appconfig"},{"name":"Azure Artifacts","providers":["azure"],"services":["developer tools"],"domains":["devops"],"categories":["artifact repository"],"permalink":"/docs/developer-tools/azure/artifacts"},{"name":"Azure Automation","providers":["azure"],"services":["developer tools"],"domains":["systems management"],"categories":["configuration management"],"permalink":"/docs/developer-tools/azure/automation"},{"name":"Azure Boards","providers":["azure"],"services":["developer tools"],"domains":["developer toolchain","project management"],"categories":["project planning"],"permalink":"/docs/developer-tools/azure/boards"},{"name":"Azure DevTest Labs","providers":["azure"],"services":["developer tools"],"domains":["developer toolchain","systems management"],"categories":["environment management"],"permalink":"/docs/developer-tools/azure/devtest-labs"},{"name":"Azure Pipelines","providers":["azure"],"services":["developer tools"],"domains":["devops"],"categories":["continuous integration","continuous deployment","continuous delivery"],"permalink":"/docs/developer-tools/azure/pipelines"},{"name":"Azure Repos","providers":["azure"],"services":["developer tools"],"domains":["developer toolchain","devops"],"categories":["source control"],"permalink":"/docs/developer-tools/azure/repos"},{"name":"Azure Resource Manager","providers":["azure"],"services":["developer tools"],"domains":["devops","systems management"],"categories":["infrastructure as code","deployment management"],"permalink":"/docs/developer-tools/azure/arm"},{"name":"Azure Test Plans","providers":["azure"],"services":["developer tools"],"domains":["developer toolchain"],"categories":["test planning","test execution"],"permalink":"/docs/developer-tools/azure/test-plans"},{"name":"Github","providers":["github"],"services":["developer tools"],"domains":["developer toolchain","project management"],"categories":["source control","project planning"],"features":["community"],"permalink":"/docs/developer-tools/github/github"},{"name":"Github Actions","providers":["github"],"services":["developer tools"],"domains":["devops"],"categories":["continuous delivery","continuous integration"],"permalink":"/docs/developer-tools/github/actions"},{"name":"Google Cloud Source Repos","providers":["gcp"],"services":["developer tools"],"domains":["developer toolchain","devops"],"categories":["source control"],"permalink":"/docs/developer-tools/gcp/cloud-source-repos"},{"name":"Google Cloud VM Manager","providers":["gcp"],"services":["developer tools"],"domains":["systems management","virtualization"],"categories":["virtual machines"],"permalink":"/docs/developer-tools/gcp/vm-manager"}]
+[
+  {
+    "name": "AWS AppConfig",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous configuration"],
+    "permalink": "/docs/developer-tools/aws/appconfig"
+  },
+  {
+    "name": "AWS Cloud9",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["hosted ide"],
+    "permalink": "/docs/developer-tools/aws/cloud9"
+  },
+  {
+    "name": "AWS CloudFormation",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["infrastructure as code","deployment management"],
+    "permalink": "/docs/developer-tools/aws/cloudformation"
+  },
+  {
+    "name": "AWS CodeArtifact",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["artifact repository"],
+    "permalink": "/docs/developer-tools/aws/codeartifact"
+  },
+  {
+    "name": "AWS CodeBuild",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous integration"],
+    "permalink": "/docs/developer-tools/aws/codebuild"
+  },
+  {
+    "name": "AWS CodeCommit",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","devops"],
+    "categories": ["source control"],
+    "permalink": "/docs/developer-tools/aws/codecommit"
+  },
+  {
+    "name": "AWS CodeDeploy",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous deployment"],
+    "permalink": "/docs/developer-tools/aws/codedeploy"
+  },
+  {
+    "name": "AWS CodePipeline",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous delivery"],
+    "permalink": "/docs/developer-tools/aws/codepipeline"
+  },
+  {
+    "name": "AWS CodeStar",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["continuous delivery","continuous integration"],
+    "permalink": "/docs/developer-tools/aws/codestar"
+  },
+  {
+    "name": "AWS OpsWorks",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["virtualization","systems management"],
+    "categories": ["configuration management"],
+    "permalink": "/docs/developer-tools/aws/opsworks"
+  },
+  {
+    "name": "AWS Systems Manager",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management"],
+    "permalink": "/docs/developer-tools/aws/systems-manager"
+  },
+  {
+    "name": "AWS Systems Manager Parameter Store",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management","secret management"],
+    "permalink": "/docs/developer-tools/aws/systems-manager-parameter-store"
+  },
+  {
+    "name": "Azure App Configuration",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous configuration"],
+    "permalink": "/docs/developer-tools/azure/appconfig"
+  },
+  {
+    "name": "Azure Artifacts",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["artifact repository"],
+    "permalink": "/docs/developer-tools/azure/artifacts"
+  },
+  {
+    "name": "Azure Automation",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management"],
+    "permalink": "/docs/developer-tools/azure/automation"
+  },
+  {
+    "name": "Azure Boards",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","project management"],
+    "categories": ["project planning"],
+    "permalink": "/docs/developer-tools/azure/boards"
+  },
+  {
+    "name": "Azure DevTest Labs",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","systems management"],
+    "categories": ["environment management"],
+    "permalink": "/docs/developer-tools/azure/devtest-labs"
+  },
+  {
+    "name": "Azure Pipelines",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous integration","continuous deployment","continuous delivery"],
+    "permalink": "/docs/developer-tools/azure/pipelines"
+  },
+  {
+    "name": "Azure Repos",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","devops"],
+    "categories": ["source control"],
+    "permalink": "/docs/developer-tools/azure/repos"
+  },
+  {
+    "name": "Azure Resource Manager",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops","systems management"],
+    "categories": ["infrastructure as code","deployment management"],
+    "permalink": "/docs/developer-tools/azure/arm"
+  },
+  {
+    "name": "Azure Test Plans",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["test planning","test execution"],
+    "permalink": "/docs/developer-tools/azure/test-plans"
+  },
+  {
+    "name": "Github",
+    "providers": ["github"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","project management"],
+    "categories": ["source control","project planning"],
+    "features": ["community"],
+    "permalink": "/docs/developer-tools/github/github"
+  },
+  {
+    "name": "Github Actions",
+    "providers": ["github"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous delivery","continuous integration"],
+    "permalink": "/docs/developer-tools/github/actions"
+  },
+  {
+    "name": "Google Cloud Source Repos",
+    "providers": ["gcp"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","devops"],
+    "categories": ["source control"],
+    "permalink": "/docs/developer-tools/gcp/cloud-source-repos"
+  },
+  {
+    "name": "Google Cloud VM Manager",
+    "providers": ["gcp"],
+    "services": ["developer tools"],
+    "domains": ["systems management","virtualization"],
+    "categories": ["virtual machines"],
+    "permalink": "/docs/developer-tools/gcp/vm-manager"
+  }
+]

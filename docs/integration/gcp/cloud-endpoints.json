@@ -1,1 +1,10 @@
-{"name":"Google Cloud Endpoints","providers":["gcp"],"services":["integration"],"domains":["api management","serverless"],"categories":["api gateway"],"features":["rest api","http api"],"permalink":"/docs/integration/gcp/cloud-endpoints"}
+{
+  "name": "Google Cloud Endpoints",
+  "providers": ["gcp"],
+  "services": ["integration"],
+  "domains": ["api management","serverless"],
+  "categories": ["api gateway"],
+  "features": ["rest api","http api"],
+  "permalink": "/docs/integration/gcp/cloud-endpoints"
+}
+

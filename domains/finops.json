@@ -1,1 +1,11 @@
-{"id":"finops","name":"finops","type":"domain","permalink":"/domains/finops","definition":{"title":"Financial Operations (FinOps)","services":["governance"],"permalink":"/glossary/finops"}}
+{
+  "id": "finops",
+  "name": "finops",
+  "type": "domain",
+  "permalink": "/domains/finops",
+  "definition": {
+    "title": "Financial Operations (FinOps)",
+    "services": ["governance"],
+    "permalink": "/glossary/finops"
+  }
+}

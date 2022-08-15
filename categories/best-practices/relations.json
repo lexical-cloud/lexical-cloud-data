@@ -1,1 +1,26 @@
-{"hierarchical":{"domains":["architecture"],"services":["governance"]},"instance":["/docs/governance/aws/trusted-advisor","/docs/governance/azure/advisor"],"intersection":{"categories":["risk assessment"],"domains":["systems management"],"providers":["aws","azure"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "architecture"
+    ],
+    "services": [
+      "governance"
+    ]
+  },
+  "instance": [
+    "/docs/governance/aws/trusted-advisor",
+    "/docs/governance/azure/advisor"
+  ],
+  "intersection": {
+    "categories": [
+      "risk assessment"
+    ],
+    "domains": [
+      "systems management"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"hierarchical":{"domains":["machine learning"],"services":["ai"]},"instance":["/docs/ai/aws/sagemaker","/docs/ai/gcp/automl","/docs/ai/gcp/vertex-ai"],"intersection":{"domains":["serverless","managed service"],"providers":["aws","gcp"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "machine learning"
+    ],
+    "services": [
+      "ai"
+    ]
+  },
+  "instance": [
+    "/docs/ai/aws/sagemaker",
+    "/docs/ai/gcp/automl",
+    "/docs/ai/gcp/vertex-ai"
+  ],
+  "intersection": {
+    "domains": [
+      "serverless",
+      "managed service"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ]
+  }
+}

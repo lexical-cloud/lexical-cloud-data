@@ -1,1 +1,9 @@
-{"name":"Amazon Simple Notification Service","providers":["aws"],"services":["integration"],"domains":["eventing","serverless"],"categories":["pub-sub","push notifications"],"permalink":"/docs/integration/aws/sns"}
+{
+  "name": "Amazon Simple Notification Service",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["pub-sub","push notifications"],
+  "permalink": "/docs/integration/aws/sns"
+}
+

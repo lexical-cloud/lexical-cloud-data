@@ -1,1 +1,11 @@
-{"id":"end-user-computing","name":"end-user computing","type":"domain","permalink":"/domains/end-user-computing","definition":{"title":"End-user Computing","url":"https://en.wikipedia.org/wiki/End-user_computing","permalink":"/glossary/end-user-computing"}}
+{
+  "id": "end-user-computing",
+  "name": "end-user computing",
+  "type": "domain",
+  "permalink": "/domains/end-user-computing",
+  "definition": {
+    "title": "End-user Computing",
+    "url": "https://en.wikipedia.org/wiki/End-user_computing",
+    "permalink": "/glossary/end-user-computing"
+  }
+}

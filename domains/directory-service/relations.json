@@ -1,1 +1,24 @@
-{"hierarchical":{"services":["identity"]},"instance":["/docs/identity/aws/ad-connector","/docs/identity/azure/ad"],"intersection":{"categories":["directory gateway","identity provider"],"domains":["identity management"],"providers":["aws","azure"]}}
+{
+  "hierarchical": {
+    "services": [
+      "identity"
+    ]
+  },
+  "instance": [
+    "/docs/identity/aws/ad-connector",
+    "/docs/identity/azure/ad"
+  ],
+  "intersection": {
+    "categories": [
+      "directory gateway",
+      "identity provider"
+    ],
+    "domains": [
+      "identity management"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ]
+  }
+}

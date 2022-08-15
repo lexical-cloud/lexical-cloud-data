@@ -1,1 +1,10 @@
-{"id":"no-account-required","name":"no account required","type":"feature","permalink":"/features/no-account-required","definition":{"title":"No Account Required","permalink":"/glossary/no-account-required"}}
+{
+  "id": "no-account-required",
+  "name": "no account required",
+  "type": "feature",
+  "permalink": "/features/no-account-required",
+  "definition": {
+    "title": "No Account Required",
+    "permalink": "/glossary/no-account-required"
+  }
+}

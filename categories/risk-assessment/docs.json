@@ -1,1 +1,43 @@
-[{"name":"Amazon Inspector","providers":["aws"],"services":["monitor"],"domains":["virtualization","systems management"],"categories":["vulnerability management","risk assessment"],"features":["agent-based"],"permalink":"/docs/monitor/aws/inspector"},{"name":"Amazon Macie","providers":["aws"],"services":["security"],"domains":["data management"],"categories":["data privacy","risk assessment"],"permalink":"/docs/security/aws/macie"},{"name":"AWS Config","providers":["aws"],"services":["monitor"],"domains":["systems management"],"categories":["auditing","configuration management","risk assessment"],"permalink":"/docs/monitor/aws/config"},{"name":"AWS Trusted Advisor","providers":["aws"],"services":["governance"],"domains":["systems management"],"categories":["risk assessment","best practices"],"permalink":"/docs/governance/aws/trusted-advisor"},{"name":"Azure Advisor","providers":["azure"],"services":["governance"],"domains":["systems management"],"categories":["risk assessment","best practices"],"permalink":"/docs/governance/azure/advisor"}]
+[
+  {
+    "name": "Amazon Inspector",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["virtualization","systems management"],
+    "categories": ["vulnerability management","risk assessment"],
+    "features": ["agent-based"],
+    "permalink": "/docs/monitor/aws/inspector"
+  },
+  {
+    "name": "Amazon Macie",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data privacy","risk assessment"],
+    "permalink": "/docs/security/aws/macie"
+  },
+  {
+    "name": "AWS Config",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["systems management"],
+    "categories": ["auditing","configuration management","risk assessment"],
+    "permalink": "/docs/monitor/aws/config"
+  },
+  {
+    "name": "AWS Trusted Advisor",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["risk assessment","best practices"],
+    "permalink": "/docs/governance/aws/trusted-advisor"
+  },
+  {
+    "name": "Azure Advisor",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["risk assessment","best practices"],
+    "permalink": "/docs/governance/azure/advisor"
+  }
+]

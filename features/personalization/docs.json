@@ -1,1 +1,29 @@
-[{"name":"AWS Health Dashboard","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["health"],"features":["alerts","maintenance schedule","reports","personalization"],"permalink":"/docs/monitor/aws/health-dashboard"},{"name":"Azure Cognitive Services Personalizer","providers":["azure"],"services":["ai"],"domains":["machine learning"],"categories":["decision making"],"features":["personalization","recommendations","prebuilt models"],"permalink":"/docs/ai/azure/cognitive-services-personalizer"},{"name":"Azure Service Health","providers":["azure"],"services":["monitor"],"domains":["observability"],"categories":["health"],"features":["alerts","maintenance schedule","reports","personalization"],"permalink":"/docs/monitor/azure/service-health"}]
+[
+  {
+    "name": "AWS Health Dashboard",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "permalink": "/docs/monitor/aws/health-dashboard"
+  },
+  {
+    "name": "Azure Cognitive Services Personalizer",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["decision making"],
+    "features": ["personalization","recommendations","prebuilt models"],
+    "permalink": "/docs/ai/azure/cognitive-services-personalizer"
+  },
+  {
+    "name": "Azure Service Health",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "permalink": "/docs/monitor/azure/service-health"
+  }
+]

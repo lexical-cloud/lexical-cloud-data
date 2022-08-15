@@ -1,1 +1,30 @@
-{"hierarchical":{"domains":["systems management"]},"instance":["/docs/security/aws/shield","/docs/security/azure/ddos-protection","/docs/network/azure/front-door"],"intersection":{"categories":["content delivery","web application firewall","certificates"],"domains":["edge computing"],"providers":["aws","azure"],"services":["security","network"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "systems management"
+    ]
+  },
+  "instance": [
+    "/docs/security/aws/shield",
+    "/docs/security/azure/ddos-protection",
+    "/docs/network/azure/front-door"
+  ],
+  "intersection": {
+    "categories": [
+      "content delivery",
+      "web application firewall",
+      "certificates"
+    ],
+    "domains": [
+      "edge computing"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "security",
+      "network"
+    ]
+  }
+}

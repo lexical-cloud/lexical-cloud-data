@@ -1,1 +1,12 @@
-{"id":"api-management","name":"api management","type":"domain","permalink":"/domains/api-management","definition":{"title":"API Management","url":"https://en.wikipedia.org/wiki/API_management","services":["integration"],"permalink":"/glossary/api-management"}}
+{
+  "id": "api-management",
+  "name": "api management",
+  "type": "domain",
+  "permalink": "/domains/api-management",
+  "definition": {
+    "title": "API Management",
+    "url": "https://en.wikipedia.org/wiki/API_management",
+    "services": ["integration"],
+    "permalink": "/glossary/api-management"
+  }
+}

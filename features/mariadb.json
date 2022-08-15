@@ -1,1 +1,12 @@
-{"id":"mariadb","name":"mariadb","type":"feature","permalink":"/features/mariadb","definition":{"title":"MariaDB","url":"https://en.wikipedia.org/wiki/MariaDB","services":["database"],"permalink":"/glossary/mariadb"}}
+{
+  "id": "mariadb",
+  "name": "mariadb",
+  "type": "feature",
+  "permalink": "/features/mariadb",
+  "definition": {
+    "title": "MariaDB",
+    "url": "https://en.wikipedia.org/wiki/MariaDB",
+    "services": ["database"],
+    "permalink": "/glossary/mariadb"
+  }
+}

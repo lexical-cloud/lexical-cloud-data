@@ -1,1 +1,21 @@
-{"hierarchical":{"domains":["edge computing"],"services":["iot"]},"instance":["/docs/iot/azure/edge"],"intersection":{"features":["container-based"],"providers":["azure"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "edge computing"
+    ],
+    "services": [
+      "iot"
+    ]
+  },
+  "instance": [
+    "/docs/iot/azure/edge"
+  ],
+  "intersection": {
+    "features": [
+      "container-based"
+    ],
+    "providers": [
+      "azure"
+    ]
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Amazon Athena","providers":["aws"],"services":["database","analytics"],"domains":["big data","data management","serverless"],"categories":["sql compliant","unstructured data"],"permalink":"/docs/database/aws/athena"}
+{
+  "name": "Amazon Athena",
+  "providers": ["aws"],
+  "services": ["database","analytics"],
+  "domains": ["big data","data management","serverless"],
+  "categories": ["sql compliant","unstructured data"],
+  "permalink": "/docs/database/aws/athena"
+}
+

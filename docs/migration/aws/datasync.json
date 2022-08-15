@@ -1,1 +1,9 @@
-{"name":"AWS DataSync","providers":["aws"],"services":["migration"],"domains":["modernization"],"categories":["data transfer"],"permalink":"/docs/migration/aws/datasync"}
+{
+  "name": "AWS DataSync",
+  "providers": ["aws"],
+  "services": ["migration"],
+  "domains": ["modernization"],
+  "categories": ["data transfer"],
+  "permalink": "/docs/migration/aws/datasync"
+}
+

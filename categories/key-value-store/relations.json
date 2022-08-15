@@ -1,1 +1,35 @@
-{"hierarchical":{"categories":["nosql db"],"domains":["data management"],"services":["database"]},"instance":["/docs/database/aws/dynamodb","/docs/storage/azure/table-storage","/docs/database/gcp/bigtable"],"intersection":{"categories":["document db"],"domains":["serverless","managed service"],"providers":["aws","azure","gcp"],"services":["storage"]}}
+{
+  "hierarchical": {
+    "categories": [
+      "nosql db"
+    ],
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "database"
+    ]
+  },
+  "instance": [
+    "/docs/database/aws/dynamodb",
+    "/docs/storage/azure/table-storage",
+    "/docs/database/gcp/bigtable"
+  ],
+  "intersection": {
+    "categories": [
+      "document db"
+    ],
+    "domains": [
+      "serverless",
+      "managed service"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "storage"
+    ]
+  }
+}

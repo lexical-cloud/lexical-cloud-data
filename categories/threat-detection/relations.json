@@ -1,1 +1,27 @@
-{"hierarchical":{"domains":["systems management"],"services":["monitor"]},"instance":["/docs/monitor/aws/guardduty"],"intersection":{"categories":["risks assessment"],"domains":["observability"],"features":["agentless"],"providers":["aws"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "monitor"
+    ]
+  },
+  "instance": [
+    "/docs/monitor/aws/guardduty"
+  ],
+  "intersection": {
+    "categories": [
+      "risks assessment"
+    ],
+    "domains": [
+      "observability"
+    ],
+    "features": [
+      "agentless"
+    ],
+    "providers": [
+      "aws"
+    ]
+  }
+}

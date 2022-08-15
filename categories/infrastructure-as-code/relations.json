@@ -1,1 +1,23 @@
-{"hierarchical":{},"instance":["/docs/developer-tools/aws/cloudformation","/docs/developer-tools/azure/arm"],"intersection":{"categories":["deployment management"],"domains":["devops","systems management"],"providers":["aws","azure"],"services":["developer tools"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/developer-tools/aws/cloudformation",
+    "/docs/developer-tools/azure/arm"
+  ],
+  "intersection": {
+    "categories": [
+      "deployment management"
+    ],
+    "domains": [
+      "devops",
+      "systems management"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  }
+}

@@ -1,1 +1,25 @@
-{"hierarchical":{"domains":["systems management"],"services":["network"]},"instance":["/docs/network/aws/route-53","/docs/network/azure/dns","/docs/network/gcp/dns"],"intersection":{"features":["traffic routing"],"providers":["aws","azure","gcp"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "network"
+    ]
+  },
+  "instance": [
+    "/docs/network/aws/route-53",
+    "/docs/network/azure/dns",
+    "/docs/network/gcp/dns"
+  ],
+  "intersection": {
+    "features": [
+      "traffic routing"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

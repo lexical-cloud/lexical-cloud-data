@@ -1,1 +1,34 @@
-{"hierarchical":{"services":["security"]},"instance":["/docs/security/aws/security-group","/docs/network/aws/access-control-list","/docs/security/aws/network-firewall","/docs/security/azure/firewall","/docs/network/azure/security-groups","/docs/security/gcp/firewall"],"intersection":{"domains":["virtualization","connectivity"],"features":["stateful","stateless"],"providers":["aws","azure","gcp"],"services":["compute","network"]}}
+{
+  "hierarchical": {
+    "services": [
+      "security"
+    ]
+  },
+  "instance": [
+    "/docs/security/aws/security-group",
+    "/docs/network/aws/access-control-list",
+    "/docs/security/aws/network-firewall",
+    "/docs/security/azure/firewall",
+    "/docs/network/azure/security-groups",
+    "/docs/security/gcp/firewall"
+  ],
+  "intersection": {
+    "domains": [
+      "virtualization",
+      "connectivity"
+    ],
+    "features": [
+      "stateful",
+      "stateless"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "compute",
+      "network"
+    ]
+  }
+}

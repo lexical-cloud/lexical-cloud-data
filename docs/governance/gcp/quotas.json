@@ -1,1 +1,10 @@
-{"name":"Google Cloud Quotas","providers":["gcp"],"services":["governance"],"domains":["finops","systems management"],"categories":["resource management"],"features":["alerts"],"permalink":"/docs/governance/gcp/quotas"}
+{
+  "name": "Google Cloud Quotas",
+  "providers": ["gcp"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["resource management"],
+  "features": ["alerts"],
+  "permalink": "/docs/governance/gcp/quotas"
+}
+

@@ -1,1 +1,9 @@
-{"name":"Amazon Redshift","providers":["aws"],"services":["analytics","database"],"domains":["data management","managed service","serverless"],"categories":["data warehousing"],"permalink":"/docs/database/aws/redshift"}
+{
+  "name": "Amazon Redshift",
+  "providers": ["aws"],
+  "services": ["analytics","database"],
+  "domains": ["data management","managed service","serverless"],
+  "categories": ["data warehousing"],
+  "permalink": "/docs/database/aws/redshift"
+}
+

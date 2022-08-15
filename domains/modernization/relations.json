@@ -1,1 +1,53 @@
-{"hierarchical":{},"instance":["/docs/migration/aws/app-discovery","/docs/migration/aws/mgn","/docs/framework/aws/cloud-adoption","/docs/migration/aws/cloud-endure","/docs/migration/aws/datasync","/docs/migration/aws/hub","/docs/migration/aws/sms","/docs/migration/aws/snowball","/docs/migration/aws/snowcone","/docs/migration/aws/snowmobile","/docs/hybrid/aws/storage-gateway","/docs/framework/azure/cloud-adoption","/docs/framework/gcp/cloud-adoption","/docs/compute/gcp/bare-metal","/docs/migration/gcp/storage-transfer-service","/docs/migration/gcp/transfer-appliance","/docs/compute/gcp/vmware-engine"],"intersection":{"categories":["application discovery","server migration","decision making","data transfer","on-premises","rehosting","virtual machines"],"domains":["architecture","managed service","virtualization"],"labels":["deprecated"],"providers":["aws","azure","gcp"],"services":["migration","framework","hybrid","storage","compute"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/migration/aws/app-discovery",
+    "/docs/migration/aws/mgn",
+    "/docs/framework/aws/cloud-adoption",
+    "/docs/migration/aws/cloud-endure",
+    "/docs/migration/aws/datasync",
+    "/docs/migration/aws/hub",
+    "/docs/migration/aws/sms",
+    "/docs/migration/aws/snowball",
+    "/docs/migration/aws/snowcone",
+    "/docs/migration/aws/snowmobile",
+    "/docs/hybrid/aws/storage-gateway",
+    "/docs/framework/azure/cloud-adoption",
+    "/docs/framework/gcp/cloud-adoption",
+    "/docs/compute/gcp/bare-metal",
+    "/docs/migration/gcp/storage-transfer-service",
+    "/docs/migration/gcp/transfer-appliance",
+    "/docs/compute/gcp/vmware-engine"
+  ],
+  "intersection": {
+    "categories": [
+      "application discovery",
+      "server migration",
+      "decision making",
+      "data transfer",
+      "on-premises",
+      "rehosting",
+      "virtual machines"
+    ],
+    "domains": [
+      "architecture",
+      "managed service",
+      "virtualization"
+    ],
+    "labels": [
+      "deprecated"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "migration",
+      "framework",
+      "hybrid",
+      "storage",
+      "compute"
+    ]
+  }
+}

@@ -1,1 +1,58 @@
-[{"name":"Amazon Virtual Private Cloud","providers":["aws"],"services":["network"],"domains":["connectivity"],"categories":["virtual network"],"permalink":"/docs/network/aws/vpc"},{"name":"AWS PrivateLink","providers":["aws"],"services":["hybrid","network"],"domains":["connectivity"],"categories":["on-premises","private network","virtual network"],"permalink":"/docs/network/aws/privatelink"},{"name":"AWS Transit Gateway","providers":["aws"],"services":["network"],"domains":["connectivity"],"categories":["network transit hub","virtual network"],"permalink":"/docs/network/aws/transit-gateway"},{"name":"AWS VPC Peering","providers":["aws"],"services":["network"],"domains":["connectivity"],"categories":["virtual network"],"permalink":"/docs/network/aws/vpc-peering"},{"name":"Azure Virtual WAN","providers":["azure"],"services":["network"],"domains":["connectivity"],"categories":["network transit hub","virtual network"],"permalink":"/docs/network/azure/virtual-wan"},{"name":"Azure Virtual Network","providers":["azure"],"services":["network"],"domains":["connectivity"],"categories":["virtual network"],"permalink":"/docs/network/azure/vnet"},{"name":"Google Cloud Virtual Private Cloud","providers":["gcp"],"services":["network"],"domains":["connectivity"],"categories":["virtual network"],"permalink":"/docs/network/gcp/vpc"}]
+[
+  {
+    "name": "Amazon Virtual Private Cloud",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "permalink": "/docs/network/aws/vpc"
+  },
+  {
+    "name": "AWS PrivateLink",
+    "providers": ["aws"],
+    "services": ["hybrid","network"],
+    "domains": ["connectivity"],
+    "categories": ["on-premises","private network","virtual network"],
+    "permalink": "/docs/network/aws/privatelink"
+  },
+  {
+    "name": "AWS Transit Gateway",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network transit hub","virtual network"],
+    "permalink": "/docs/network/aws/transit-gateway"
+  },
+  {
+    "name": "AWS VPC Peering",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "permalink": "/docs/network/aws/vpc-peering"
+  },
+  {
+    "name": "Azure Virtual WAN",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network transit hub","virtual network"],
+    "permalink": "/docs/network/azure/virtual-wan"
+  },
+  {
+    "name": "Azure Virtual Network",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "permalink": "/docs/network/azure/vnet"
+  },
+  {
+    "name": "Google Cloud Virtual Private Cloud",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "permalink": "/docs/network/gcp/vpc"
+  }
+]

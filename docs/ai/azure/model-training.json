@@ -1,1 +1,7 @@
-{"name":"Model Training","services":["ai"],"domains":["machine learning"],"permalink":"/docs/ai/azure/model-training"}
+{
+  "name": "Model Training",
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "permalink": "/docs/ai/azure/model-training"
+}
+

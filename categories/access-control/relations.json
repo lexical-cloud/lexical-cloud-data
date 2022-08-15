@@ -1,1 +1,32 @@
-{"hierarchical":{"domains":["identity management"],"services":["identity"]},"instance":["/docs/identity/aws/iam","/docs/governance/aws/service-control-policies","/docs/identity/azure/rbac","/docs/identity/gcp/iam"],"intersection":{"categories":["identity provider"],"domains":["systems management"],"providers":["aws","azure","gcp"],"services":["governance"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "identity management"
+    ],
+    "services": [
+      "identity"
+    ]
+  },
+  "instance": [
+    "/docs/identity/aws/iam",
+    "/docs/governance/aws/service-control-policies",
+    "/docs/identity/azure/rbac",
+    "/docs/identity/gcp/iam"
+  ],
+  "intersection": {
+    "categories": [
+      "identity provider"
+    ],
+    "domains": [
+      "systems management"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "governance"
+    ]
+  }
+}

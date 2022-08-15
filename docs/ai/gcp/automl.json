@@ -1,1 +1,9 @@
-{"name":"Google Cloud AutoML","providers":["gcp"],"services":["ai"],"domains":["machine learning","serverless"],"categories":["model training"],"permalink":"/docs/ai/gcp/automl"}
+{
+  "name": "Google Cloud AutoML",
+  "providers": ["gcp"],
+  "services": ["ai"],
+  "domains": ["machine learning","serverless"],
+  "categories": ["model training"],
+  "permalink": "/docs/ai/gcp/automl"
+}
+

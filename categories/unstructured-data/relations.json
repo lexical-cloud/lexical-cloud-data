@@ -1,1 +1,29 @@
-{"hierarchical":{"domains":["data management","big data"],"services":["analytics","database"]},"instance":["/docs/database/aws/athena","/docs/database/gcp/bigquery"],"intersection":{"categories":["sql compliant","data warehousing"],"domains":["serverless"],"providers":["aws","gcp"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "data management",
+      "big data"
+    ],
+    "services": [
+      "analytics",
+      "database"
+    ]
+  },
+  "instance": [
+    "/docs/database/aws/athena",
+    "/docs/database/gcp/bigquery"
+  ],
+  "intersection": {
+    "categories": [
+      "sql compliant",
+      "data warehousing"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ]
+  }
+}

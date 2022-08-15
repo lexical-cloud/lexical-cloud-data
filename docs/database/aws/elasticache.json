@@ -1,1 +1,9 @@
-{"name":"Amazon ElastiCache","providers":["aws"],"services":["database"],"domains":["managed service"],"categories":["caching"],"permalink":"/docs/database/aws/elasticache"}
+{
+  "name": "Amazon ElastiCache",
+  "providers": ["aws"],
+  "services": ["database"],
+  "domains": ["managed service"],
+  "categories": ["caching"],
+  "permalink": "/docs/database/aws/elasticache"
+}
+

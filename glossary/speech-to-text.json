@@ -1,1 +1,9 @@
-{"title":"Speech-to-Text","url":"https://en.wikipedia.org/wiki/Speech_recognition","services":["ai"],"domains":["machine learning"],"categories":["speech processing"],"permalink":"/glossary/speech-to-text"}
+{
+  "title": "Speech-to-Text",
+  "url": "https://en.wikipedia.org/wiki/Speech_recognition",
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "categories": ["speech processing"],
+  "permalink": "/glossary/speech-to-text"
+}
+

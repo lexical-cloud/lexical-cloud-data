@@ -1,1 +1,29 @@
-[{"name":"Amazon CloudWatch","providers":["aws"],"services":["monitor"],"domains":["observability"],"categories":["telemetry data"],"features":["alerts","open telemetry"],"permalink":"/docs/monitor/aws/cloudwatch"},{"name":"Google Cloud Monitoring","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["dashboards","telemetry data"],"features":["alerts","open telemetry"],"permalink":"/docs/monitor/gcp/cloud-monitoring"},{"name":"Google Cloud Trace","providers":["gcp"],"services":["monitor"],"domains":["observability"],"categories":["root cause analysis","performance monitoring"],"features":["open telemetry"],"permalink":"/docs/monitor/gcp/cloud-trace"}]
+[
+  {
+    "name": "Amazon CloudWatch",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "permalink": "/docs/monitor/aws/cloudwatch"
+  },
+  {
+    "name": "Google Cloud Monitoring",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["dashboards","telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "permalink": "/docs/monitor/gcp/cloud-monitoring"
+  },
+  {
+    "name": "Google Cloud Trace",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "features": ["open telemetry"],
+    "permalink": "/docs/monitor/gcp/cloud-trace"
+  }
+]

@@ -1,1 +1,68 @@
-{"hierarchical":{},"instance":["/docs/monitor/aws/cloudtrail","/docs/monitor/aws/cloudwatch","/docs/monitor/aws/cloudwatch-app-insights","/docs/monitor/aws/inspector","/docs/monitor/aws/config","/docs/monitor/aws/guardduty","/docs/monitor/aws/health-dashboard","/docs/network/aws/vpc-flow-logs","/docs/monitor/aws/xray","/docs/monitor/azure/monitor","/docs/monitor/azure/monitor-app-insights","/docs/network/azure/network-watcher","/docs/monitor/azure/service-health","/docs/monitor/gcp/cloud-debugger","/docs/monitor/gcp/error-reporting","/docs/monitor/gcp/cloud-logging","/docs/monitor/gcp/cloud-monitoring","/docs/monitor/gcp/cloud-profiler","/docs/monitor/gcp/cloud-trace"],"intersection":{"categories":["auditing","telemetry data","dashboards","vulnerability management","risk assessment","configuration management","risks assessment","threat detection","health","network monitoring","application debugger","root cause analysis","performance monitoring"],"domains":["observability","virtualization","systems management","connectivity"],"features":["alerts","open telemetry","automation","agent-based","agentless","maintenance schedule","reports","personalization"],"labels":["deprecated"],"providers":["aws","azure","gcp"],"services":["network"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/monitor/aws/cloudtrail",
+    "/docs/monitor/aws/cloudwatch",
+    "/docs/monitor/aws/cloudwatch-app-insights",
+    "/docs/monitor/aws/inspector",
+    "/docs/monitor/aws/config",
+    "/docs/monitor/aws/guardduty",
+    "/docs/monitor/aws/health-dashboard",
+    "/docs/network/aws/vpc-flow-logs",
+    "/docs/monitor/aws/xray",
+    "/docs/monitor/azure/monitor",
+    "/docs/monitor/azure/monitor-app-insights",
+    "/docs/network/azure/network-watcher",
+    "/docs/monitor/azure/service-health",
+    "/docs/monitor/gcp/cloud-debugger",
+    "/docs/monitor/gcp/error-reporting",
+    "/docs/monitor/gcp/cloud-logging",
+    "/docs/monitor/gcp/cloud-monitoring",
+    "/docs/monitor/gcp/cloud-profiler",
+    "/docs/monitor/gcp/cloud-trace"
+  ],
+  "intersection": {
+    "categories": [
+      "auditing",
+      "telemetry data",
+      "dashboards",
+      "vulnerability management",
+      "risk assessment",
+      "configuration management",
+      "risks assessment",
+      "threat detection",
+      "health",
+      "network monitoring",
+      "application debugger",
+      "root cause analysis",
+      "performance monitoring"
+    ],
+    "domains": [
+      "observability",
+      "virtualization",
+      "systems management",
+      "connectivity"
+    ],
+    "features": [
+      "alerts",
+      "open telemetry",
+      "automation",
+      "agent-based",
+      "agentless",
+      "maintenance schedule",
+      "reports",
+      "personalization"
+    ],
+    "labels": [
+      "deprecated"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "network"
+    ]
+  }
+}

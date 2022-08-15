@@ -1,1 +1,7 @@
-{"title":"Machine Learning (ML)","url":"https://en.wikipedia.org/wiki/Machine_learning","services":["ai"],"permalink":"/glossary/machine-learning"}
+{
+  "title": "Machine Learning (ML)",
+  "url": "https://en.wikipedia.org/wiki/Machine_learning",
+  "services": ["ai"],
+  "permalink": "/glossary/machine-learning"
+}
+

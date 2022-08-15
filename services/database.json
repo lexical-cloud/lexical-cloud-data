@@ -1,1 +1,10 @@
-{"id":"database","name":"database","type":"service","permalink":"/services/database","definition":{"title":"Database","permalink":"/glossary/database"}}
+{
+  "id": "database",
+  "name": "database",
+  "type": "service",
+  "permalink": "/services/database",
+  "definition": {
+    "title": "Database",
+    "permalink": "/glossary/database"
+  }
+}

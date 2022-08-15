@@ -1,1 +1,9 @@
-{"name":"AWS CloudHSM","providers":["aws"],"services":["security"],"domains":["data management"],"categories":["data security","key management"],"permalink":"/docs/security/aws/cloudhsm"}
+{
+  "name": "AWS CloudHSM",
+  "providers": ["aws"],
+  "services": ["security"],
+  "domains": ["data management"],
+  "categories": ["data security","key management"],
+  "permalink": "/docs/security/aws/cloudhsm"
+}
+

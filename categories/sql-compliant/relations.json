@@ -1,1 +1,53 @@
-{"hierarchical":{"domains":["data management"],"services":["database"]},"instance":["/docs/database/aws/athena","/docs/database/aws/aurora","/docs/database/aws/rds","/docs/database/azure/db-for-mysql","/docs/database/azure/db-for-postresql","/docs/database/azure/sql-db","/docs/database/azure/sql-edge","/docs/database/azure/sql-managed-instance","/docs/database/gcp/bigquery","/docs/database/gcp/spanner","/docs/database/gcp/cloud-sql"],"intersection":{"categories":["unstructured data","relational db","data warehousing"],"domains":["big data","serverless","managed service","edge computing"],"features":["mysql","postgresql","mariadb","sql server","oracle"],"providers":["aws","azure","gcp"],"services":["analytics","iot","hybrid"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "database"
+    ]
+  },
+  "instance": [
+    "/docs/database/aws/athena",
+    "/docs/database/aws/aurora",
+    "/docs/database/aws/rds",
+    "/docs/database/azure/db-for-mysql",
+    "/docs/database/azure/db-for-postresql",
+    "/docs/database/azure/sql-db",
+    "/docs/database/azure/sql-edge",
+    "/docs/database/azure/sql-managed-instance",
+    "/docs/database/gcp/bigquery",
+    "/docs/database/gcp/spanner",
+    "/docs/database/gcp/cloud-sql"
+  ],
+  "intersection": {
+    "categories": [
+      "unstructured data",
+      "relational db",
+      "data warehousing"
+    ],
+    "domains": [
+      "big data",
+      "serverless",
+      "managed service",
+      "edge computing"
+    ],
+    "features": [
+      "mysql",
+      "postgresql",
+      "mariadb",
+      "sql server",
+      "oracle"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "analytics",
+      "iot",
+      "hybrid"
+    ]
+  }
+}

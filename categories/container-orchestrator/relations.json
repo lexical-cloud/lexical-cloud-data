@@ -1,1 +1,35 @@
-{"hierarchical":{"domains":["containerization"]},"instance":["/docs/compute/aws/ecs","/docs/compute/aws/eks","/docs/compute/aws/fargate","/docs/compute/azure/container-apps","/docs/compute/azure/container-instances","/docs/compute/azure/aks","/docs/compute/azure/service-fabric","/docs/compute/gcp/cloud-run","/docs/compute/gcp/gke"],"intersection":{"categories":["kubernetes"],"domains":["managed service","serverless"],"providers":["aws","azure","gcp"],"services":["compute"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "containerization"
+    ]
+  },
+  "instance": [
+    "/docs/compute/aws/ecs",
+    "/docs/compute/aws/eks",
+    "/docs/compute/aws/fargate",
+    "/docs/compute/azure/container-apps",
+    "/docs/compute/azure/container-instances",
+    "/docs/compute/azure/aks",
+    "/docs/compute/azure/service-fabric",
+    "/docs/compute/gcp/cloud-run",
+    "/docs/compute/gcp/gke"
+  ],
+  "intersection": {
+    "categories": [
+      "kubernetes"
+    ],
+    "domains": [
+      "managed service",
+      "serverless"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "compute"
+    ]
+  }
+}

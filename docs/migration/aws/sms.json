@@ -1,1 +1,10 @@
-{"name":"AWS Server Migration Service","providers":["aws"],"services":["migration"],"domains":["modernization"],"categories":["server migration"],"labels":["deprecated"],"permalink":"/docs/migration/aws/sms"}
+{
+  "name": "AWS Server Migration Service",
+  "providers": ["aws"],
+  "services": ["migration"],
+  "domains": ["modernization"],
+  "categories": ["server migration"],
+  "labels": ["deprecated"],
+  "permalink": "/docs/migration/aws/sms"
+}
+

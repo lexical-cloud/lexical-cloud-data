@@ -1,1 +1,45 @@
-{"hierarchical":{"services":["integration"]},"instance":["/docs/integration/aws/eventbridge","/docs/integration/aws/kinesis","/docs/integration/aws/sns","/docs/integration/aws/sqs","/docs/integration/azure/event-grid","/docs/integration/azure/event-hubs","/docs/integration/azure/notification-hubs","/docs/storage/azure/queue-storage","/docs/integration/azure/service-bus","/docs/integration/azure/signalr","/docs/integration/gcp/dataflow","/docs/integration/gcp/pubsub"],"intersection":{"categories":["event bus","pub-sub","data streaming","push notifications","message queue","real-time communication"],"domains":["serverless"],"features":["websocket api"],"providers":["aws","azure","gcp"],"services":["storage"]}}
+{
+  "hierarchical": {
+    "services": [
+      "integration"
+    ]
+  },
+  "instance": [
+    "/docs/integration/aws/eventbridge",
+    "/docs/integration/aws/kinesis",
+    "/docs/integration/aws/sns",
+    "/docs/integration/aws/sqs",
+    "/docs/integration/azure/event-grid",
+    "/docs/integration/azure/event-hubs",
+    "/docs/integration/azure/notification-hubs",
+    "/docs/storage/azure/queue-storage",
+    "/docs/integration/azure/service-bus",
+    "/docs/integration/azure/signalr",
+    "/docs/integration/gcp/dataflow",
+    "/docs/integration/gcp/pubsub"
+  ],
+  "intersection": {
+    "categories": [
+      "event bus",
+      "pub-sub",
+      "data streaming",
+      "push notifications",
+      "message queue",
+      "real-time communication"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "features": [
+      "websocket api"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "storage"
+    ]
+  }
+}

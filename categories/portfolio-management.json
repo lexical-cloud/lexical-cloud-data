@@ -1,1 +1,12 @@
-{"id":"portfolio-management","name":"portfolio management","type":"category","permalink":"/categories/portfolio-management","definition":{"title":"Portfolio Management","url":"https://en.wikipedia.org/wiki/IT_portfolio_management","services":["governance"],"permalink":"/glossary/portfolio-management"}}
+{
+  "id": "portfolio-management",
+  "name": "portfolio management",
+  "type": "category",
+  "permalink": "/categories/portfolio-management",
+  "definition": {
+    "title": "Portfolio Management",
+    "url": "https://en.wikipedia.org/wiki/IT_portfolio_management",
+    "services": ["governance"],
+    "permalink": "/glossary/portfolio-management"
+  }
+}

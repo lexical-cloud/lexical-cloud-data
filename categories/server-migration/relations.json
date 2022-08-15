@@ -1,1 +1,24 @@
-{"hierarchical":{"domains":["modernization"]},"instance":["/docs/migration/aws/mgn","/docs/migration/aws/cloud-endure","/docs/migration/aws/hub","/docs/migration/aws/sms"],"intersection":{"labels":["deprecated"],"providers":["aws"],"services":["migration"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "modernization"
+    ]
+  },
+  "instance": [
+    "/docs/migration/aws/mgn",
+    "/docs/migration/aws/cloud-endure",
+    "/docs/migration/aws/hub",
+    "/docs/migration/aws/sms"
+  ],
+  "intersection": {
+    "labels": [
+      "deprecated"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "migration"
+    ]
+  }
+}

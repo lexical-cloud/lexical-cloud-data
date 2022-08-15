@@ -1,1 +1,9 @@
-{"name":"Google Cloud Router","providers":["gcp"],"services":["network"],"domains":["connectivity"],"categories":["virtual network interface","private network"],"permalink":"/docs/network/gcp/cloud-router"}
+{
+  "name": "Google Cloud Router",
+  "providers": ["gcp"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["virtual network interface","private network"],
+  "permalink": "/docs/network/gcp/cloud-router"
+}
+

@@ -1,1 +1,9 @@
-{"name":"Azure Resource Manager","providers":["azure"],"services":["developer tools"],"domains":["devops","systems management"],"categories":["infrastructure as code","deployment management"],"permalink":"/docs/developer-tools/azure/arm"}
+{
+  "name": "Azure Resource Manager",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["devops","systems management"],
+  "categories": ["infrastructure as code","deployment management"],
+  "permalink": "/docs/developer-tools/azure/arm"
+}
+

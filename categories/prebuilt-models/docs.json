@@ -1,1 +1,18 @@
-[{"name":"Amazon Sagemaker Autopilot","providers":["aws"],"services":["ai"],"domains":["machine learning","serverless"],"categories":["prebuilt models"],"permalink":"/docs/ai/aws/sagemaker-autopilot"},{"name":"Google Cloud AI Hub","providers":["gcp"],"services":["ai"],"domains":["machine learning"],"categories":["prebuilt models"],"permalink":"/docs/ai/gcp/ai-hub"}]
+[
+  {
+    "name": "Amazon Sagemaker Autopilot",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["prebuilt models"],
+    "permalink": "/docs/ai/aws/sagemaker-autopilot"
+  },
+  {
+    "name": "Google Cloud AI Hub",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["prebuilt models"],
+    "permalink": "/docs/ai/gcp/ai-hub"
+  }
+]

@@ -1,1 +1,46 @@
-{"hierarchical":{},"instance":["/docs/framework/aws/cloud-adoption","/docs/framework/aws/well-architected","/docs/framework/azure/cloud-adoption","/docs/ai/azure/cognitive-services","/docs/ai/azure/cognitive-services-personalizer","/docs/framework/azure/well-architected","/docs/framework/gcp/cloud-adoption","/docs/framework/gcp/architecture"],"intersection":{"categories":["language processing","speech processing","computer vision"],"domains":["modernization","architecture","machine learning","serverless"],"features":["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models","personalization"],"providers":["aws","azure","gcp"],"services":["framework","ai"]}}
+{
+  "hierarchical": {},
+  "instance": [
+    "/docs/framework/aws/cloud-adoption",
+    "/docs/framework/aws/well-architected",
+    "/docs/framework/azure/cloud-adoption",
+    "/docs/ai/azure/cognitive-services",
+    "/docs/ai/azure/cognitive-services-personalizer",
+    "/docs/framework/azure/well-architected",
+    "/docs/framework/gcp/cloud-adoption",
+    "/docs/framework/gcp/architecture"
+  ],
+  "intersection": {
+    "categories": [
+      "language processing",
+      "speech processing",
+      "computer vision"
+    ],
+    "domains": [
+      "modernization",
+      "architecture",
+      "machine learning",
+      "serverless"
+    ],
+    "features": [
+      "sentiment analysis",
+      "speech-to-text",
+      "text-to-speech",
+      "language translation",
+      "speaker recognition",
+      "object detection",
+      "recommendations",
+      "prebuilt models",
+      "personalization"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "framework",
+      "ai"
+    ]
+  }
+}

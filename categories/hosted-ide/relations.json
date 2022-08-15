@@ -1,1 +1,18 @@
-{"hierarchical":{"services":["developer tools"]},"instance":["/docs/developer-tools/aws/cloud9"],"intersection":{"domains":["developer toolchain"],"providers":["aws"]}}
+{
+  "hierarchical": {
+    "services": [
+      "developer tools"
+    ]
+  },
+  "instance": [
+    "/docs/developer-tools/aws/cloud9"
+  ],
+  "intersection": {
+    "domains": [
+      "developer toolchain"
+    ],
+    "providers": [
+      "aws"
+    ]
+  }
+}

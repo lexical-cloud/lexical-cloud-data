@@ -1,1 +1,13 @@
-{"id":"kubernetes","name":"kubernetes","type":"category","permalink":"/categories/kubernetes","definition":{"title":"Kubernetes","url":"https://glossary.cncf.io/kubernetes/","domains":["containerization"],"categories":["container orchestrator"],"permalink":"/glossary/kubernetes"}}
+{
+  "id": "kubernetes",
+  "name": "kubernetes",
+  "type": "category",
+  "permalink": "/categories/kubernetes",
+  "definition": {
+    "title": "Kubernetes",
+    "url": "https://glossary.cncf.io/kubernetes/",
+    "domains": ["containerization"],
+    "categories": ["container orchestrator"],
+    "permalink": "/glossary/kubernetes"
+  }
+}

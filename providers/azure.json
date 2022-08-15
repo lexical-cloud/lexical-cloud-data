@@ -1,1 +1,10 @@
-{"id":"azure","name":"azure","type":"provider","permalink":"/providers/azure","definition":{"title":"Microsoft Azure","permalink":"/glossary/azure"}}
+{
+  "id": "azure",
+  "name": "azure",
+  "type": "provider",
+  "permalink": "/providers/azure",
+  "definition": {
+    "title": "Microsoft Azure",
+    "permalink": "/glossary/azure"
+  }
+}

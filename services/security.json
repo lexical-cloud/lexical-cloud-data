@@ -1,1 +1,10 @@
-{"id":"security","name":"security","type":"service","permalink":"/services/security","definition":{"title":"Security","permalink":"/glossary/security"}}
+{
+  "id": "security",
+  "name": "security",
+  "type": "service",
+  "permalink": "/services/security",
+  "definition": {
+    "title": "Security",
+    "permalink": "/glossary/security"
+  }
+}

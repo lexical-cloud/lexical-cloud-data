@@ -1,1 +1,30 @@
-{"hierarchical":{"services":["identity","security"]},"instance":["/docs/security/aws/certificate-manager","/docs/network/azure/front-door"],"intersection":{"categories":["content delivery","web application firewall","ddos protection"],"domains":["systems management","edge computing"],"providers":["aws","azure"],"services":["network"]}}
+{
+  "hierarchical": {
+    "services": [
+      "identity",
+      "security"
+    ]
+  },
+  "instance": [
+    "/docs/security/aws/certificate-manager",
+    "/docs/network/azure/front-door"
+  ],
+  "intersection": {
+    "categories": [
+      "content delivery",
+      "web application firewall",
+      "ddos protection"
+    ],
+    "domains": [
+      "systems management",
+      "edge computing"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "network"
+    ]
+  }
+}

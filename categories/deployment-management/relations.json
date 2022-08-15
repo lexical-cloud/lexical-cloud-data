@@ -1,1 +1,29 @@
-{"hierarchical":{"domains":["devops","systems management"]},"instance":["/docs/developer-tools/aws/cloudformation","/docs/framework/aws/sam","/docs/developer-tools/azure/arm"],"intersection":{"categories":["infrastructure as code"],"domains":["serverless"],"providers":["aws","azure"],"services":["developer tools","framework"]}}
+{
+  "hierarchical": {
+    "domains": [
+      "devops",
+      "systems management"
+    ]
+  },
+  "instance": [
+    "/docs/developer-tools/aws/cloudformation",
+    "/docs/framework/aws/sam",
+    "/docs/developer-tools/azure/arm"
+  ],
+  "intersection": {
+    "categories": [
+      "infrastructure as code"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "providers": [
+      "aws",
+      "azure"
+    ],
+    "services": [
+      "developer tools",
+      "framework"
+    ]
+  }
+}
