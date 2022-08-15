@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/identity/aws/cognito",
     "/docs/identity/aws/ad-connector",
@@ -9,7 +8,8 @@
     "/docs/identity/gcp/iam",
     "/docs/identity/gcp/identity"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "identity provider",
       "directory gateway",

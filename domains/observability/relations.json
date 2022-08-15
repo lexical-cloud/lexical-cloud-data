@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "monitor"
-    ]
-  },
   "instance": [
     "/docs/monitor/aws/cloudtrail",
     "/docs/monitor/aws/cloudwatch",
@@ -20,7 +15,12 @@
     "/docs/monitor/gcp/cloud-profiler",
     "/docs/monitor/gcp/cloud-trace"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "monitor"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "auditing",
       "telemetry data",

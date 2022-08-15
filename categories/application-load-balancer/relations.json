@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/aws/elb",
+    "/docs/network/azure/application-gateway",
+    "/docs/network/gcp/load-balancing"
+  ],
+  "intersect": {
     "categories": [
       "load balancer"
     ],
@@ -11,12 +16,7 @@
       "network"
     ]
   },
-  "instance": [
-    "/docs/network/aws/elb",
-    "/docs/network/azure/application-gateway",
-    "/docs/network/gcp/load-balancing"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "gateway load balancer",
       "network load balancer",

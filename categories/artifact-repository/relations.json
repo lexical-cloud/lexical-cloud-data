@@ -1,10 +1,10 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/developer-tools/aws/codeartifact",
     "/docs/developer-tools/azure/artifacts"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "domains": [
       "devops"
     ],

@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/compute/aws/lambda",
+    "/docs/compute/azure/functions",
+    "/docs/compute/gcp/cloud-functions"
+  ],
+  "intersect": {
     "domains": [
       "serverless",
       "stateless",
@@ -9,12 +14,7 @@
       "compute"
     ]
   },
-  "instance": [
-    "/docs/compute/aws/lambda",
-    "/docs/compute/azure/functions",
-    "/docs/compute/gcp/cloud-functions"
-  ],
-  "intersection": {
+  "symdiff": {
     "providers": [
       "aws",
       "azure",

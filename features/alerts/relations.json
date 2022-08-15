@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/monitor/aws/cloudwatch",
     "/docs/monitor/aws/cloudwatch-app-insights",
@@ -13,7 +12,8 @@
     "/docs/monitor/gcp/cloud-monitoring",
     "/docs/governance/gcp/quotas"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "telemetry data",
       "dashboards",

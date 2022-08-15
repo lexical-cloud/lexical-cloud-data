@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/storage/aws/backup",
     "/docs/network/aws/direct-connect",
@@ -10,7 +9,8 @@
     "/docs/database/azure/sql-managed-instance",
     "/docs/hybrid/gcp/anthos"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "data security",
       "on-premises",

@@ -1,5 +1,12 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/monitor/aws/inspector",
+    "/docs/security/aws/macie",
+    "/docs/monitor/aws/config",
+    "/docs/governance/aws/trusted-advisor",
+    "/docs/governance/azure/advisor"
+  ],
+  "intersect": {
     "domains": [
       "systems management"
     ],
@@ -8,14 +15,7 @@
       "governance"
     ]
   },
-  "instance": [
-    "/docs/monitor/aws/inspector",
-    "/docs/security/aws/macie",
-    "/docs/monitor/aws/config",
-    "/docs/governance/aws/trusted-advisor",
-    "/docs/governance/azure/advisor"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "vulnerability management",
       "data privacy",

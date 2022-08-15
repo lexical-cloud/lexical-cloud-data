@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/database/aws/redshift",
+    "/docs/analytics/azure/synapse-analytics",
+    "/docs/database/gcp/bigquery"
+  ],
+  "intersect": {
     "domains": [
       "data management"
     ],
@@ -7,12 +12,7 @@
       "analytics"
     ]
   },
-  "instance": [
-    "/docs/database/aws/redshift",
-    "/docs/analytics/azure/synapse-analytics",
-    "/docs/database/gcp/bigquery"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "unstructured data",
       "sql compliant"

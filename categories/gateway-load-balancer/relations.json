@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/aws/elb",
+    "/docs/network/gcp/load-balancing"
+  ],
+  "intersect": {
     "categories": [
       "load balancer"
     ],
@@ -11,11 +15,7 @@
       "network"
     ]
   },
-  "instance": [
-    "/docs/network/aws/elb",
-    "/docs/network/gcp/load-balancing"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "application load balancer",
       "network load balancer"

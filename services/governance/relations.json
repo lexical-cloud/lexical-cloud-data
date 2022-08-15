@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/governance/aws/accounts",
     "/docs/governance/aws/artifact",
@@ -33,7 +32,8 @@
     "/docs/governance/gcp/projects",
     "/docs/governance/gcp/quotas"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "resource management",
       "compliance",

@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/framework/aws/cloud-adoption",
     "/docs/framework/aws/well-architected",
@@ -10,7 +9,8 @@
     "/docs/framework/gcp/cloud-adoption",
     "/docs/framework/gcp/architecture"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "language processing",
       "speech processing",

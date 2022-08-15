@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/security/aws/security-group",
     "/docs/security/aws/macie",
@@ -19,7 +18,8 @@
     "/docs/security/azure/defender-for-cloud",
     "/docs/security/azure/sentinel"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "firewall",
       "data privacy",

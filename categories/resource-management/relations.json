@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "governance"
-    ]
-  },
   "instance": [
     "/docs/governance/aws/accounts",
     "/docs/governance/aws/control-tower",
@@ -19,7 +14,12 @@
     "/docs/governance/gcp/projects",
     "/docs/governance/gcp/quotas"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "compliance",
       "environment management",

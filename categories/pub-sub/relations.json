@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "eventing"
-    ],
-    "services": [
-      "integration"
-    ]
-  },
   "instance": [
     "/docs/integration/aws/eventbridge",
     "/docs/integration/aws/sns",
@@ -14,7 +6,15 @@
     "/docs/integration/azure/service-bus",
     "/docs/integration/gcp/pubsub"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "eventing"
+    ],
+    "services": [
+      "integration"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "event bus",
       "push notifications",

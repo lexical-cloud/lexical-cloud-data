@@ -1,14 +1,14 @@
 {
-  "hierarchical": {
-    "services": [
-      "developer tools"
-    ]
-  },
   "instance": [
     "/docs/developer-tools/azure/boards",
     "/docs/developer-tools/github/github"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "developer tools"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "project planning",
       "source control"

@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/database/aws/athena",
+    "/docs/database/gcp/bigquery"
+  ],
+  "intersect": {
     "domains": [
       "data management",
       "big data"
@@ -9,11 +13,7 @@
       "database"
     ]
   },
-  "instance": [
-    "/docs/database/aws/athena",
-    "/docs/database/gcp/bigquery"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "sql compliant",
       "data warehousing"

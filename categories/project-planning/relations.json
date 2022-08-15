@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/developer-tools/azure/boards",
+    "/docs/developer-tools/github/github"
+  ],
+  "intersect": {
     "domains": [
       "project management"
     ],
@@ -7,11 +11,7 @@
       "developer tools"
     ]
   },
-  "instance": [
-    "/docs/developer-tools/azure/boards",
-    "/docs/developer-tools/github/github"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "source control"
     ],

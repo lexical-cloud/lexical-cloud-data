@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "ai"
-    ]
-  },
   "instance": [
     "/docs/ai/aws/lex",
     "/docs/ai/aws/polly",
@@ -25,7 +20,12 @@
     "/docs/ai/azure/power-virtual-agents",
     "/docs/ai/azure/model-training"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "ai"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "language processing",
       "speech processing",

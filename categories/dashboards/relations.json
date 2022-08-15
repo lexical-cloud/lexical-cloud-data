@@ -1,10 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "analytics",
-      "monitor"
-    ]
-  },
   "instance": [
     "/docs/monitor/aws/cloudwatch-app-insights",
     "/docs/analytics/aws/quicksight",
@@ -12,7 +6,13 @@
     "/docs/analytics/gcp/looker",
     "/docs/monitor/gcp/cloud-monitoring"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "analytics",
+      "monitor"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "telemetry data"
     ],

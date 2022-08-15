@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/integration/aws/api-gateway",
     "/docs/database/aws/athena",
@@ -110,7 +109,8 @@
     "/docs/framework/aws/well-architected",
     "/docs/monitor/aws/xray"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "api lifecycle",
       "sql compliant",

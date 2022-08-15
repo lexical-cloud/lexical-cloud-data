@@ -1,15 +1,15 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/security/aws/certificate-manager",
+    "/docs/network/azure/front-door"
+  ],
+  "intersect": {
     "services": [
       "identity",
       "security"
     ]
   },
-  "instance": [
-    "/docs/security/aws/certificate-manager",
-    "/docs/network/azure/front-door"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "content delivery",
       "web application firewall",

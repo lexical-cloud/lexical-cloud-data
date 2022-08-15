@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/network/aws/direct-connect",
     "/docs/hybrid/aws/outposts",
@@ -9,7 +8,8 @@
     "/docs/hybrid/gcp/anthos",
     "/docs/network/gcp/interconnect"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "private network",
       "virtual network",

@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/monitor/aws/inspector",
     "/docs/network/aws/route-53",
@@ -57,7 +56,8 @@
     "/docs/developer-tools/gcp/vm-manager",
     "/docs/security/azure/defender-for-cloud"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "vulnerability management",
       "risk assessment",

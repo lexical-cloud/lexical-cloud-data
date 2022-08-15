@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/database/azure/cache-for-redis",
     "/docs/integration/azure/logic-apps",
@@ -90,7 +89,8 @@
     "/docs/ai/azure/power-virtual-agents",
     "/docs/security/azure/sentinel"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "caching",
       "low-code",

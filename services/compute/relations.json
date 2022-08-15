@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/compute/aws/ec2",
     "/docs/compute/aws/ec2-auto-scaling",
@@ -29,7 +28,8 @@
     "/docs/compute/gcp/vmware-engine",
     "/docs/compute/gcp/gke"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "virtual machines",
       "firewall",

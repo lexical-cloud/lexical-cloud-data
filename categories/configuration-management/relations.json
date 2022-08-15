@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "systems management"
-    ],
-    "services": [
-      "governance"
-    ]
-  },
   "instance": [
     "/docs/monitor/aws/config",
     "/docs/developer-tools/aws/opsworks",
@@ -14,7 +6,15 @@
     "/docs/developer-tools/aws/systems-manager-parameter-store",
     "/docs/developer-tools/azure/automation"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "auditing",
       "risk assessment",

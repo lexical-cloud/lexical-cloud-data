@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "data management"
-    ],
-    "services": [
-      "storage"
-    ]
-  },
   "instance": [
     "/docs/storage/aws/s3",
     "/docs/storage/aws/s3-glacier",
@@ -14,7 +6,15 @@
     "/docs/storage/gcp/cloud-storage",
     "/docs/storage/gcp/cloud-storage-archive"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "storage"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "data archive"
     ],

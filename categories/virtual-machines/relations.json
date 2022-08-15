@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "virtualization"
-    ]
-  },
   "instance": [
     "/docs/compute/aws/ec2",
     "/docs/compute/aws/ec2-auto-scaling",
@@ -14,7 +9,12 @@
     "/docs/developer-tools/gcp/vm-manager",
     "/docs/compute/gcp/vmware-engine"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "virtualization"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "rehosting"
     ],

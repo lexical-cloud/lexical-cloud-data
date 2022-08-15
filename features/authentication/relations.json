@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/identity/aws/cognito"
+  ],
+  "intersect": {
     "services": [
       "security"
     ]
   },
-  "instance": [
-    "/docs/identity/aws/cognito"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "identity provider"
     ],

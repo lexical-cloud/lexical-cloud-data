@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "finops"
-    ],
-    "services": [
-      "governance"
-    ]
-  },
   "instance": [
     "/docs/governance/aws/budgets",
     "/docs/governance/aws/cost-and-usage-report",
@@ -18,7 +10,15 @@
     "/docs/governance/gcp/budgets",
     "/docs/governance/gcp/pricing-calculator"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "finops"
+    ],
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
     "domains": [
       "systems management"
     ],

@@ -1,10 +1,10 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/monitor/aws/health-dashboard",
     "/docs/monitor/azure/service-health"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "domains": [
       "observability"
     ],

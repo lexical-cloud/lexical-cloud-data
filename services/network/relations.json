@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/network/aws/cloudfront",
     "/docs/network/aws/route-53",
@@ -37,7 +36,8 @@
     "/docs/network/gcp/cloud-router",
     "/docs/network/gcp/vpc"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "content delivery",
       "dns management",

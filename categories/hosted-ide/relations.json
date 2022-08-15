@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/developer-tools/aws/cloud9"
+  ],
+  "intersect": {
     "services": [
       "developer tools"
     ]
   },
-  "instance": [
-    "/docs/developer-tools/aws/cloud9"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "developer toolchain"
     ],

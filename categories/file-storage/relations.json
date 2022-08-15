@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/storage/aws/efs",
+    "/docs/storage/azure/files",
+    "/docs/storage/gcp/filestore"
+  ],
+  "intersect": {
     "domains": [
       "data management"
     ],
@@ -7,12 +12,7 @@
       "storage"
     ]
   },
-  "instance": [
-    "/docs/storage/aws/efs",
-    "/docs/storage/azure/files",
-    "/docs/storage/gcp/filestore"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "serverless",
       "managed service"

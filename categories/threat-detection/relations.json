@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/monitor/aws/guardduty"
+  ],
+  "intersect": {
     "domains": [
       "systems management"
     ],
@@ -7,10 +10,7 @@
       "monitor"
     ]
   },
-  "instance": [
-    "/docs/monitor/aws/guardduty"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "risks assessment"
     ],

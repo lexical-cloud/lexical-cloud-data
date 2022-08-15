@@ -1,16 +1,16 @@
 {
-  "hierarchical": {
-    "domains": [
-      "devops",
-      "systems management"
-    ]
-  },
   "instance": [
     "/docs/developer-tools/aws/cloudformation",
     "/docs/framework/aws/sam",
     "/docs/developer-tools/azure/arm"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "devops",
+      "systems management"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "infrastructure as code"
     ],

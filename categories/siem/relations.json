@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/security/azure/sentinel"
+  ],
+  "intersect": {
     "domains": [
       "data management"
     ],
@@ -7,10 +10,7 @@
       "security"
     ]
   },
-  "instance": [
-    "/docs/security/azure/sentinel"
-  ],
-  "intersection": {
+  "symdiff": {
     "providers": [
       "azure"
     ]

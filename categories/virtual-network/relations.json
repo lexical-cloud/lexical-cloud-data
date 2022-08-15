@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "connectivity"
-    ],
-    "services": [
-      "network"
-    ]
-  },
   "instance": [
     "/docs/network/aws/vpc",
     "/docs/network/aws/privatelink",
@@ -16,7 +8,15 @@
     "/docs/network/azure/vnet",
     "/docs/network/gcp/vpc"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "connectivity"
+    ],
+    "services": [
+      "network"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "on-premises",
       "private network",

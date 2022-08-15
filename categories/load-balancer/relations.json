@@ -1,5 +1,12 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/aws/elb",
+    "/docs/network/azure/application-gateway",
+    "/docs/network/azure/load-balancer",
+    "/docs/network/azure/traffic-manager",
+    "/docs/network/gcp/load-balancing"
+  ],
+  "intersect": {
     "domains": [
       "architecture",
       "connectivity"
@@ -8,14 +15,7 @@
       "network"
     ]
   },
-  "instance": [
-    "/docs/network/aws/elb",
-    "/docs/network/azure/application-gateway",
-    "/docs/network/azure/load-balancer",
-    "/docs/network/azure/traffic-manager",
-    "/docs/network/gcp/load-balancing"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "application load balancer",
       "gateway load balancer",

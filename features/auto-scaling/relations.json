@@ -1,15 +1,15 @@
 {
-  "hierarchical": {
-    "domains": [
-      "virtualization"
-    ]
-  },
   "instance": [
     "/docs/compute/aws/ec2-auto-scaling",
     "/docs/compute/azure/vm-scaled-sets",
     "/docs/compute/gcp/managed-instance-groups"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "virtualization"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "virtual machines"
     ],

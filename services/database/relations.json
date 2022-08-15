@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/database/aws/athena",
     "/docs/database/aws/aurora",
@@ -24,7 +23,8 @@
     "/docs/database/gcp/spanner",
     "/docs/database/gcp/cloud-sql"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "sql compliant",
       "unstructured data",

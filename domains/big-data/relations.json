@@ -1,10 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "analytics",
-      "database"
-    ]
-  },
   "instance": [
     "/docs/database/aws/athena",
     "/docs/analytics/aws/quicksight",
@@ -16,7 +10,13 @@
     "/docs/analytics/gcp/dataproc",
     "/docs/analytics/gcp/looker"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "analytics",
+      "database"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "sql compliant",
       "unstructured data",

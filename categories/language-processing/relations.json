@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "machine learning"
-    ],
-    "services": [
-      "ai"
-    ]
-  },
   "instance": [
     "/docs/ai/aws/lex",
     "/docs/ai/azure/bot-service",
@@ -17,7 +9,15 @@
     "/docs/ai/gcp/natural-language-ai",
     "/docs/ai/azure/power-virtual-agents"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "machine learning"
+    ],
+    "services": [
+      "ai"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "speech processing",
       "computer vision",

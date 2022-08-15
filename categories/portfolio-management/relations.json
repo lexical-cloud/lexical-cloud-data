@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/governance/aws/service-catalog"
+  ],
+  "intersect": {
     "services": [
       "governance"
     ]
   },
-  "instance": [
-    "/docs/governance/aws/service-catalog"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "compliance"
     ],

@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/integration/aws/kinesis",
+    "/docs/integration/azure/event-hubs",
+    "/docs/integration/gcp/dataflow"
+  ],
+  "intersect": {
     "domains": [
       "eventing"
     ],
@@ -7,12 +12,7 @@
       "integration"
     ]
   },
-  "instance": [
-    "/docs/integration/aws/kinesis",
-    "/docs/integration/azure/event-hubs",
-    "/docs/integration/gcp/dataflow"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "serverless"
     ],

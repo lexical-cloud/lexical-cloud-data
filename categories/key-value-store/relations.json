@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/database/aws/dynamodb",
+    "/docs/storage/azure/table-storage",
+    "/docs/database/gcp/bigtable"
+  ],
+  "intersect": {
     "categories": [
       "nosql db"
     ],
@@ -10,12 +15,7 @@
       "database"
     ]
   },
-  "instance": [
-    "/docs/database/aws/dynamodb",
-    "/docs/storage/azure/table-storage",
-    "/docs/database/gcp/bigtable"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "document db"
     ],

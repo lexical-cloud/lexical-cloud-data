@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/aws/access-control-list"
+  ],
+  "intersect": {
     "domains": [
       "architecture"
     ],
@@ -7,10 +10,7 @@
       "compute"
     ]
   },
-  "instance": [
-    "/docs/network/aws/access-control-list"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "firewall"
     ],

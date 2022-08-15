@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/network/aws/cloudfront",
     "/docs/hybrid/aws/outposts",
@@ -12,7 +11,8 @@
     "/docs/database/azure/sql-edge",
     "/docs/network/gcp/cdn"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "content delivery",
       "on-premises",

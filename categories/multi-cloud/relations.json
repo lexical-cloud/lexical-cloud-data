@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/hybrid/gcp/anthos",
+    "/docs/integration/gcp/composer"
+  ],
+  "intersect": {
     "domains": [
       "architecture"
     ],
@@ -7,11 +11,7 @@
       "hybrid"
     ]
   },
-  "instance": [
-    "/docs/hybrid/gcp/anthos",
-    "/docs/integration/gcp/composer"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "on-premises",
       "workflow engine"

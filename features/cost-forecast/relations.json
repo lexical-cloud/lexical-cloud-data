@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/governance/aws/cost-explorer",
+    "/docs/governance/azure/cost-management"
+  ],
+  "intersect": {
     "domains": [
       "finops"
     ],
@@ -7,11 +11,7 @@
       "governance"
     ]
   },
-  "instance": [
-    "/docs/governance/aws/cost-explorer",
-    "/docs/governance/azure/cost-management"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "cost management"
     ],

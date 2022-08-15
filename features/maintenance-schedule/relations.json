@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/monitor/aws/health-dashboard",
+    "/docs/monitor/azure/service-health"
+  ],
+  "intersect": {
     "domains": [
       "systems management"
     ],
@@ -7,11 +11,7 @@
       "governance"
     ]
   },
-  "instance": [
-    "/docs/monitor/aws/health-dashboard",
-    "/docs/monitor/azure/service-health"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "health"
     ],

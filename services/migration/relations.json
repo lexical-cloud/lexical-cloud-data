@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/migration/aws/app-discovery",
     "/docs/migration/aws/mgn",
@@ -19,7 +18,8 @@
     "/docs/migration/gcp/transfer-appliance",
     "/docs/compute/gcp/vmware-engine"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "application discovery",
       "server migration",

@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/aws/route-53",
+    "/docs/network/azure/traffic-manager"
+  ],
+  "intersect": {
     "domains": [
       "connectivity"
     ],
@@ -7,11 +11,7 @@
       "network"
     ]
   },
-  "instance": [
-    "/docs/network/aws/route-53",
-    "/docs/network/azure/traffic-manager"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "dns management",
       "load balancer"

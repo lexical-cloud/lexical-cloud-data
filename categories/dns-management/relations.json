@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/aws/route-53",
+    "/docs/network/azure/dns",
+    "/docs/network/gcp/dns"
+  ],
+  "intersect": {
     "domains": [
       "systems management"
     ],
@@ -7,12 +12,7 @@
       "network"
     ]
   },
-  "instance": [
-    "/docs/network/aws/route-53",
-    "/docs/network/azure/dns",
-    "/docs/network/gcp/dns"
-  ],
-  "intersection": {
+  "symdiff": {
     "features": [
       "traffic routing"
     ],

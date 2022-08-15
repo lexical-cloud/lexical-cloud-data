@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/security/aws/detective",
+    "/docs/security/gcp/security-command-center",
+    "/docs/security/azure/defender-for-cloud"
+  ],
+  "intersect": {
     "domains": [
       "systems management"
     ],
@@ -8,12 +13,7 @@
       "security"
     ]
   },
-  "instance": [
-    "/docs/security/aws/detective",
-    "/docs/security/gcp/security-command-center",
-    "/docs/security/azure/defender-for-cloud"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "root cause analysis",
       "auditing"

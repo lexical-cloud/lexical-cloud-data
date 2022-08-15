@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/compute/aws/lightsail"
+  ],
+  "intersect": {
     "domains": [
       "virtualization"
     ]
   },
-  "instance": [
-    "/docs/compute/aws/lightsail"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "managed service"
     ],

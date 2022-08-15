@@ -1,10 +1,10 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/developer-tools/aws/codedeploy",
     "/docs/developer-tools/azure/pipelines"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "continuous integration",
       "continuous delivery"

@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/hybrid/aws/outposts",
     "/docs/framework/aws/well-architected",
@@ -8,7 +7,8 @@
     "/docs/framework/gcp/architecture",
     "/docs/compute/gcp/bare-metal"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "on-premises",
       "decision making",

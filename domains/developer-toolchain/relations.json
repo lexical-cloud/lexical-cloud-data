@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/developer-tools/aws/cloud9",
     "/docs/developer-tools/aws/codecommit",
@@ -11,7 +10,8 @@
     "/docs/developer-tools/github/github",
     "/docs/developer-tools/gcp/cloud-source-repos"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "hosted ide",
       "source control",

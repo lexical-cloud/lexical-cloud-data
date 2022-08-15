@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/compute/gcp/app-engine",
     "/docs/framework/gcp/cloud-adoption",
@@ -65,7 +64,8 @@
     "/docs/integration/gcp/workflows",
     "/docs/compute/gcp/gke"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "paas",
       "decision making",

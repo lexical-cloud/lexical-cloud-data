@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/security/aws/cloudhsm",
+    "/docs/security/aws/kms",
+    "/docs/security/azure/key-vault"
+  ],
+  "intersect": {
     "categories": [
       "data security"
     ],
@@ -7,12 +12,7 @@
       "data management"
     ]
   },
-  "instance": [
-    "/docs/security/aws/cloudhsm",
-    "/docs/security/aws/kms",
-    "/docs/security/azure/key-vault"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "auditing",
       "secret management"

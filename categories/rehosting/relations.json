@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/compute/gcp/bare-metal",
+    "/docs/compute/gcp/vmware-engine"
+  ],
+  "intersect": {
     "domains": [
       "architecture",
       "modernization"
@@ -8,11 +12,7 @@
       "migration"
     ]
   },
-  "instance": [
-    "/docs/compute/gcp/bare-metal",
-    "/docs/compute/gcp/vmware-engine"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "virtual machines"
     ],

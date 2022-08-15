@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/ai/aws/sagemaker",
+    "/docs/ai/gcp/automl",
+    "/docs/ai/gcp/vertex-ai"
+  ],
+  "intersect": {
     "domains": [
       "machine learning"
     ],
@@ -7,12 +12,7 @@
       "ai"
     ]
   },
-  "instance": [
-    "/docs/ai/aws/sagemaker",
-    "/docs/ai/gcp/automl",
-    "/docs/ai/gcp/vertex-ai"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "serverless",
       "managed service"

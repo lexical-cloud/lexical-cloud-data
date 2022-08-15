@@ -1,10 +1,10 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/developer-tools/github/github",
     "/docs/developer-tools/github/actions"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "source control",
       "project planning",

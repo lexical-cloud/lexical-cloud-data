@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "identity management"
-    ],
-    "services": [
-      "identity"
-    ]
-  },
   "instance": [
     "/docs/identity/aws/cognito",
     "/docs/identity/aws/ad-connector",
@@ -14,7 +6,15 @@
     "/docs/identity/azure/ad",
     "/docs/identity/gcp/identity"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "identity management"
+    ],
+    "services": [
+      "identity"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "directory gateway",
       "access control"

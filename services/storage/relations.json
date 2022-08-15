@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/storage/aws/ebs",
     "/docs/storage/aws/efs",
@@ -17,7 +16,8 @@
     "/docs/storage/gcp/cloud-storage",
     "/docs/storage/gcp/cloud-storage-archive"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "block storage",
       "file storage",

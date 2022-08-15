@@ -1,5 +1,5 @@
 {
-  "hierarchical": {},
   "instance": [],
-  "intersection": {}
+  "intersect": {},
+  "symdiff": {}
 }

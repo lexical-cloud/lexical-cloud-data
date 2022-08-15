@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/integration/aws/api-gateway",
     "/docs/integration/aws/eventbridge",
@@ -23,7 +22,8 @@
     "/docs/integration/gcp/pubsub",
     "/docs/integration/gcp/workflows"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "api lifecycle",
       "event bus",

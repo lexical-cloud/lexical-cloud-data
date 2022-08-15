@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/monitor/aws/inspector"
+  ],
+  "intersect": {
     "domains": [
       "systems management"
     ]
   },
-  "instance": [
-    "/docs/monitor/aws/inspector"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "vulnerability management",
       "risk assessment"

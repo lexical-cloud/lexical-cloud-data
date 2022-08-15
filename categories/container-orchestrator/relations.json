@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "containerization"
-    ]
-  },
   "instance": [
     "/docs/compute/aws/ecs",
     "/docs/compute/aws/eks",
@@ -15,7 +10,12 @@
     "/docs/compute/gcp/cloud-run",
     "/docs/compute/gcp/gke"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "containerization"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "kubernetes"
     ],

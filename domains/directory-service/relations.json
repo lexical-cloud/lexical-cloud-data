@@ -1,14 +1,14 @@
 {
-  "hierarchical": {
-    "services": [
-      "identity"
-    ]
-  },
   "instance": [
     "/docs/identity/aws/ad-connector",
     "/docs/identity/azure/ad"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "identity"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "directory gateway",
       "identity provider"

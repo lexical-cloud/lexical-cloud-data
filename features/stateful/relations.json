@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/security/aws/security-group",
+    "/docs/network/azure/security-groups"
+  ],
+  "intersect": {
     "domains": [
       "architecture"
     ],
@@ -7,11 +11,7 @@
       "compute"
     ]
   },
-  "instance": [
-    "/docs/security/aws/security-group",
-    "/docs/network/azure/security-groups"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "firewall"
     ],

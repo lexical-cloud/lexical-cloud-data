@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/security/aws/waf",
+    "/docs/network/azure/application-gateway",
+    "/docs/network/azure/front-door"
+  ],
+  "intersect": {
     "categories": [
       "firewall"
     ],
@@ -10,12 +15,7 @@
       "security"
     ]
   },
-  "instance": [
-    "/docs/security/aws/waf",
-    "/docs/network/azure/application-gateway",
-    "/docs/network/azure/front-door"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "load balancer",
       "application load balancer",

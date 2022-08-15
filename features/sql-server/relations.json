@@ -1,14 +1,14 @@
 {
-  "hierarchical": {
-    "services": [
-      "database"
-    ]
-  },
   "instance": [
     "/docs/database/aws/rds",
     "/docs/database/gcp/cloud-sql"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "database"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "relational db",
       "sql compliant"

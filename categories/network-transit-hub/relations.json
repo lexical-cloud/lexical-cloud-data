@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/aws/transit-gateway",
+    "/docs/network/azure/virtual-wan"
+  ],
+  "intersect": {
     "domains": [
       "connectivity"
     ],
@@ -7,11 +11,7 @@
       "network"
     ]
   },
-  "instance": [
-    "/docs/network/aws/transit-gateway",
-    "/docs/network/azure/virtual-wan"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "virtual network"
     ],

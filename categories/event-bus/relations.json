@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/integration/aws/eventbridge"
+  ],
+  "intersect": {
     "domains": [
       "eventing"
     ],
@@ -7,10 +10,7 @@
       "integration"
     ]
   },
-  "instance": [
-    "/docs/integration/aws/eventbridge"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "pub-sub"
     ],

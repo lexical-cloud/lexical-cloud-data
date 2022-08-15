@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "data management"
-    ]
-  },
   "instance": [
     "/docs/migration/aws/datasync",
     "/docs/migration/aws/snowball",
@@ -12,7 +7,12 @@
     "/docs/migration/gcp/storage-transfer-service",
     "/docs/migration/gcp/transfer-appliance"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "data management"
+    ]
+  },
+  "symdiff": {
     "domains": [
       "modernization"
     ],

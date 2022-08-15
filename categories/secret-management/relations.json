@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/security/aws/secrets-manager",
+    "/docs/developer-tools/aws/systems-manager-parameter-store",
+    "/docs/security/azure/key-vault"
+  ],
+  "intersect": {
     "categories": [
       "data security"
     ],
@@ -7,12 +12,7 @@
       "data management"
     ]
   },
-  "instance": [
-    "/docs/security/aws/secrets-manager",
-    "/docs/developer-tools/aws/systems-manager-parameter-store",
-    "/docs/security/azure/key-vault"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "configuration management",
       "auditing",

@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "security"
-    ]
-  },
   "instance": [
     "/docs/security/aws/security-group",
     "/docs/network/aws/access-control-list",
@@ -12,7 +7,12 @@
     "/docs/network/azure/security-groups",
     "/docs/security/gcp/firewall"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "security"
+    ]
+  },
+  "symdiff": {
     "domains": [
       "virtualization",
       "connectivity"

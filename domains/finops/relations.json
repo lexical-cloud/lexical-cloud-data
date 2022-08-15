@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "governance"
-    ]
-  },
   "instance": [
     "/docs/governance/aws/budgets",
     "/docs/governance/aws/cost-and-usage-report",
@@ -16,7 +11,12 @@
     "/docs/governance/gcp/pricing-calculator",
     "/docs/governance/gcp/quotas"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "cost management",
       "resource management"

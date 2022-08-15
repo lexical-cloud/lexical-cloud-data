@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "data management"
-    ]
-  },
   "instance": [
     "/docs/storage/aws/backup",
     "/docs/security/aws/cloudhsm",
@@ -12,7 +7,12 @@
     "/docs/security/aws/secrets-manager",
     "/docs/security/azure/key-vault"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "data management"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "key management",
       "disaster recovery",

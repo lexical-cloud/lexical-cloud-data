@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/migration/aws/drs"
+  ],
+  "intersect": {
     "domains": [
       "systems management"
     ]
   },
-  "instance": [
-    "/docs/migration/aws/drs"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "data security"
     ],

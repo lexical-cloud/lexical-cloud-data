@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/integration/azure/signalr"
+  ],
+  "intersect": {
     "domains": [
       "eventing"
     ],
@@ -7,10 +10,7 @@
       "integration"
     ]
   },
-  "instance": [
-    "/docs/integration/azure/signalr"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "serverless"
     ],

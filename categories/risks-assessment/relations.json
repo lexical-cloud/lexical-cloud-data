@@ -1,9 +1,9 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/monitor/aws/guardduty"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "threat detection"
     ],

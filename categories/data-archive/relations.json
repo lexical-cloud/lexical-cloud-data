@@ -1,15 +1,15 @@
 {
-  "hierarchical": {
-    "domains": [
-      "systems management"
-    ]
-  },
   "instance": [
     "/docs/storage/aws/s3-glacier",
     "/docs/storage/azure/blob-storage",
     "/docs/storage/gcp/cloud-storage-archive"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "systems management"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "object storage"
     ],

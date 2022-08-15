@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "architecture"
-    ]
-  },
   "instance": [
     "/docs/database/aws/aurora",
     "/docs/database/azure/cache-for-redis",
@@ -34,7 +29,12 @@
     "/docs/compute/gcp/vmware-engine",
     "/docs/compute/gcp/gke"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "architecture"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "relational db",
       "sql compliant",

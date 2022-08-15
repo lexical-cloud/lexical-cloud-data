@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/compute/aws/batch"
+  ],
+  "intersect": {
     "domains": [
       "architecture"
     ],
@@ -7,10 +10,7 @@
       "compute"
     ]
   },
-  "instance": [
-    "/docs/compute/aws/batch"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "managed service"
     ],

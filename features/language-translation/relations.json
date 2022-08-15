@@ -1,14 +1,14 @@
 {
-  "hierarchical": {
-    "services": [
-      "ai"
-    ]
-  },
   "instance": [
     "/docs/ai/azure/cognitive-services",
     "/docs/ai/gcp/natural-language-ai"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "ai"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "language processing",
       "speech processing",

@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "data management"
-    ],
-    "services": [
-      "database"
-    ]
-  },
   "instance": [
     "/docs/database/aws/aurora",
     "/docs/database/aws/rds",
@@ -18,7 +10,15 @@
     "/docs/database/gcp/spanner",
     "/docs/database/gcp/cloud-sql"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "database"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "sql compliant"
     ],

@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/developer-tools/aws/appconfig",
     "/docs/developer-tools/aws/cloud9",
@@ -27,7 +26,8 @@
     "/docs/developer-tools/gcp/cloud-source-repos",
     "/docs/developer-tools/gcp/vm-manager"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "continuous configuration",
       "hosted ide",

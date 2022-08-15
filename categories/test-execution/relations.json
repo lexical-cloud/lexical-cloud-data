@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/developer-tools/azure/test-plans"
+  ],
+  "intersect": {
     "domains": [
       "developer toolkit"
     ],
@@ -7,10 +10,7 @@
       "developer tools"
     ]
   },
-  "instance": [
-    "/docs/developer-tools/azure/test-plans"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "test planning"
     ],

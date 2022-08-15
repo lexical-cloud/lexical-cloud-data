@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/monitor/aws/guardduty"
+  ],
+  "intersect": {
     "domains": [
       "systems management"
     ]
   },
-  "instance": [
-    "/docs/monitor/aws/guardduty"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "risks assessment",
       "threat detection"

@@ -1,10 +1,10 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/monitor/aws/xray",
     "/docs/monitor/gcp/cloud-debugger"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "root cause analysis"
     ],

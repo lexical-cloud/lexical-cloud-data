@@ -1,5 +1,11 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/integration/azure/api-management",
+    "/docs/integration/gcp/api-gateway",
+    "/docs/integration/gcp/apigee",
+    "/docs/integration/gcp/cloud-endpoints"
+  ],
+  "intersect": {
     "domains": [
       "api lifecycle",
       "api management"
@@ -8,13 +14,7 @@
       "integration"
     ]
   },
-  "instance": [
-    "/docs/integration/azure/api-management",
-    "/docs/integration/gcp/api-gateway",
-    "/docs/integration/gcp/apigee",
-    "/docs/integration/gcp/cloud-endpoints"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "api lifecycle",
       "api portal"

@@ -1,12 +1,12 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/developer-tools/aws/codepipeline",
     "/docs/developer-tools/aws/codestar",
     "/docs/developer-tools/azure/pipelines",
     "/docs/developer-tools/github/actions"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "continuous integration",
       "continuous deployment"

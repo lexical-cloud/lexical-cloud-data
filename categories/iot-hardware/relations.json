@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/iot/azure/sphere"
+  ],
+  "intersect": {
     "domains": [
       "edge computing"
     ],
@@ -7,10 +10,7 @@
       "iot"
     ]
   },
-  "instance": [
-    "/docs/iot/azure/sphere"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "iot security"
     ],

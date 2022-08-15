@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/ai/aws/polly",
+    "/docs/ai/azure/cognitive-services",
+    "/docs/ai/gcp/text-to-speech"
+  ],
+  "intersect": {
     "categories": [
       "speech processing"
     ],
@@ -10,12 +15,7 @@
       "ai"
     ]
   },
-  "instance": [
-    "/docs/ai/aws/polly",
-    "/docs/ai/azure/cognitive-services",
-    "/docs/ai/gcp/text-to-speech"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "language processing",
       "computer vision",

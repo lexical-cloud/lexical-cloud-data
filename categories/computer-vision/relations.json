@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/ai/azure/cognitive-services",
+    "/docs/ai/gcp/vision-ai"
+  ],
+  "intersect": {
     "domains": [
       "machine learning"
     ],
@@ -7,11 +11,7 @@
       "ai"
     ]
   },
-  "instance": [
-    "/docs/ai/azure/cognitive-services",
-    "/docs/ai/gcp/vision-ai"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "language processing",
       "speech processing",

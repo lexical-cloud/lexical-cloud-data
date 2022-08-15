@@ -1,10 +1,10 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/developer-tools/aws/cloudformation",
     "/docs/developer-tools/azure/arm"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "deployment management"
     ],

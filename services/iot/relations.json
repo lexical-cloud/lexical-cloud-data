@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "edge computing"
-    ]
-  },
   "instance": [
     "/docs/iot/azure/central",
     "/docs/iot/azure/edge",
@@ -11,7 +6,12 @@
     "/docs/iot/azure/sphere",
     "/docs/database/azure/sql-edge"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "edge computing"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "iot management",
       "iot processing",

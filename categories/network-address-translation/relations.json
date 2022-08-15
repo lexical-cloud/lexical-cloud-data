@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/gcp/cloud-nat"
+  ],
+  "intersect": {
     "domains": [
       "connectivity"
     ],
@@ -7,10 +10,7 @@
       "network"
     ]
   },
-  "instance": [
-    "/docs/network/gcp/cloud-nat"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "private network"
     ],

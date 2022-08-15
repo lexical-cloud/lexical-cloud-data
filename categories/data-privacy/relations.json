@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/security/aws/macie"
+  ],
+  "intersect": {
     "domains": [
       "data management"
     ]
   },
-  "instance": [
-    "/docs/security/aws/macie"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "risk assessment"
     ],

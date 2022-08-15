@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "systems management"
-    ],
-    "services": [
-      "governance"
-    ]
-  },
   "instance": [
     "/docs/governance/aws/artifact",
     "/docs/governance/aws/control-tower",
@@ -14,7 +6,15 @@
     "/docs/governance/azure/trust-center",
     "/docs/governance/gcp/compliance-reports-manager"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "auditing",
       "resource management",

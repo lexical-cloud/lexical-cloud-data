@@ -1,15 +1,15 @@
 {
-  "hierarchical": {
-    "domains": [
-      "systems management"
-    ]
-  },
   "instance": [
     "/docs/security/aws/shield",
     "/docs/security/azure/ddos-protection",
     "/docs/network/azure/front-door"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "systems management"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "content delivery",
       "web application firewall",

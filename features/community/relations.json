@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/developer-tools/github/github"
+  ],
+  "intersect": {
     "services": [
       "governance"
     ]
   },
-  "instance": [
-    "/docs/developer-tools/github/github"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "source control",
       "project planning"

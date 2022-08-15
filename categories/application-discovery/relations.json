@@ -1,9 +1,9 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/migration/aws/app-discovery"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "domains": [
       "modernization"
     ],

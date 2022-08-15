@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "data management"
-    ],
-    "services": [
-      "database"
-    ]
-  },
   "instance": [
     "/docs/database/aws/dynamodb",
     "/docs/database/azure/cosmosdb",
@@ -14,7 +6,15 @@
     "/docs/database/gcp/bigtable",
     "/docs/database/gcp/firestore"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "database"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "document db",
       "key-value store"

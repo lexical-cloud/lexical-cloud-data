@@ -1,5 +1,11 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/developer-tools/aws/codecommit",
+    "/docs/developer-tools/azure/repos",
+    "/docs/developer-tools/github/github",
+    "/docs/developer-tools/gcp/cloud-source-repos"
+  ],
+  "intersect": {
     "domains": [
       "developer toolchain",
       "devops"
@@ -8,13 +14,7 @@
       "developer tools"
     ]
   },
-  "instance": [
-    "/docs/developer-tools/aws/codecommit",
-    "/docs/developer-tools/azure/repos",
-    "/docs/developer-tools/github/github",
-    "/docs/developer-tools/gcp/cloud-source-repos"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "project planning"
     ],

@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/database/aws/dynamodb",
+    "/docs/database/azure/cosmosdb",
+    "/docs/database/gcp/firestore"
+  ],
+  "intersect": {
     "categories": [
       "nosql db"
     ],
@@ -10,12 +15,7 @@
       "database"
     ]
   },
-  "instance": [
-    "/docs/database/aws/dynamodb",
-    "/docs/database/azure/cosmosdb",
-    "/docs/database/gcp/firestore"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "key-value store"
     ],

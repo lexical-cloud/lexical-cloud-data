@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/governance/aws/license-manager"
+  ],
+  "intersect": {
     "domains": [
       "governance"
     ]
   },
-  "instance": [
-    "/docs/governance/aws/license-manager"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "virtualization"
     ],

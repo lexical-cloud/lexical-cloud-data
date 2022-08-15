@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "governance"
-    ]
-  },
   "instance": [
     "/docs/governance/azure/management-groups",
     "/docs/governance/azure/policy",
@@ -12,7 +7,12 @@
     "/docs/governance/azure/subscriptions",
     "/docs/governance/gcp/projects"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "governance"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "resource management"
     ],

@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/integration/aws/api-gateway",
     "/docs/database/aws/athena",
@@ -60,7 +59,8 @@
     "/docs/integration/gcp/workflows",
     "/docs/ai/azure/power-virtual-agents"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "api lifecycle",
       "sql compliant",

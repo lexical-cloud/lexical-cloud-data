@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "ai"
-    ]
-  },
   "instance": [
     "/docs/ai/aws/lex",
     "/docs/ai/azure/bot-service",
@@ -12,7 +7,12 @@
     "/docs/ai/gcp/dialogflow",
     "/docs/ai/azure/power-virtual-agents"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "ai"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "language processing",
       "speech processing",

@@ -1,13 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "connectivity"
-    ],
-    "services": [
-      "network",
-      "security"
-    ]
-  },
   "instance": [
     "/docs/network/aws/direct-connect",
     "/docs/network/aws/privatelink",
@@ -20,7 +11,16 @@
     "/docs/network/gcp/cloud-nat",
     "/docs/network/gcp/cloud-router"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "connectivity"
+    ],
+    "services": [
+      "network",
+      "security"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "on-premises",
       "virtual network",

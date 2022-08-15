@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/developer-tools/aws/appconfig",
     "/docs/developer-tools/aws/cloudformation",
@@ -16,7 +15,8 @@
     "/docs/developer-tools/github/actions",
     "/docs/developer-tools/gcp/cloud-source-repos"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "continuous configuration",
       "infrastructure as code",

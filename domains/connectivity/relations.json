@@ -1,9 +1,4 @@
 {
-  "hierarchical": {
-    "services": [
-      "network"
-    ]
-  },
   "instance": [
     "/docs/network/aws/vpc",
     "/docs/network/aws/direct-connect",
@@ -34,7 +29,12 @@
     "/docs/network/gcp/cloud-router",
     "/docs/network/gcp/vpc"
   ],
-  "intersection": {
+  "intersect": {
+    "services": [
+      "network"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "virtual network",
       "on-premises",

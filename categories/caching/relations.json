@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/database/azure/cache-for-redis",
+    "/docs/database/aws/elasticache"
+  ],
+  "intersect": {
     "domains": [
       "architecture"
     ],
@@ -7,11 +11,7 @@
       "database"
     ]
   },
-  "instance": [
-    "/docs/database/azure/cache-for-redis",
-    "/docs/database/aws/elasticache"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "managed service"
     ],

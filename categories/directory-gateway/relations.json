@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/identity/aws/ad-connector"
+  ],
+  "intersect": {
     "domains": [
       "directory service"
     ],
@@ -7,10 +10,7 @@
       "identity"
     ]
   },
-  "instance": [
-    "/docs/identity/aws/ad-connector"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "identity provider"
     ],

@@ -1,16 +1,16 @@
 {
-  "hierarchical": {
-    "domains": [
-      "data management"
-    ]
-  },
   "instance": [
     "/docs/analytics/azure/data-lake-analytics",
     "/docs/analytics/azure/databricks",
     "/docs/analytics/azure/hdinsight",
     "/docs/analytics/gcp/dataproc"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "data management"
+    ]
+  },
+  "symdiff": {
     "domains": [
       "big data"
     ],

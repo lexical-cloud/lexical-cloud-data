@@ -1,15 +1,15 @@
 {
-  "hierarchical": {
-    "domains": [
-      "architecture"
-    ]
-  },
   "instance": [
     "/docs/compute/aws/beanstalk",
     "/docs/compute/azure/app-service",
     "/docs/compute/gcp/app-engine"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "architecture"
+    ]
+  },
+  "symdiff": {
     "domains": [
       "managed service"
     ],

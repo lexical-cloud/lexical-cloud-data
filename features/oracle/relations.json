@@ -1,13 +1,13 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/database/aws/rds"
+  ],
+  "intersect": {
     "services": [
       "database"
     ]
   },
-  "instance": [
-    "/docs/database/aws/rds"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "relational db",
       "sql compliant"

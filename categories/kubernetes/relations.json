@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/compute/aws/eks",
+    "/docs/compute/azure/aks",
+    "/docs/compute/gcp/gke"
+  ],
+  "intersect": {
     "categories": [
       "container orchestrator"
     ],
@@ -7,12 +12,7 @@
       "containerization"
     ]
   },
-  "instance": [
-    "/docs/compute/aws/eks",
-    "/docs/compute/azure/aks",
-    "/docs/compute/gcp/gke"
-  ],
-  "intersection": {
+  "symdiff": {
     "domains": [
       "managed service"
     ],

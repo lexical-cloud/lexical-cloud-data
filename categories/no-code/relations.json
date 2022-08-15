@@ -1,11 +1,11 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/integration/azure/logic-apps",
     "/docs/ai/azure/qna-maker",
     "/docs/ai/azure/power-virtual-agents"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "low-code",
       "workflow engine",

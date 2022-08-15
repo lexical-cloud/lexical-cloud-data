@@ -1,11 +1,11 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/migration/aws/cloud-endure",
     "/docs/migration/aws/sms",
     "/docs/monitor/gcp/cloud-debugger"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "server migration",
       "application debugger",

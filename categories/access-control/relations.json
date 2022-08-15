@@ -1,5 +1,11 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/identity/aws/iam",
+    "/docs/governance/aws/service-control-policies",
+    "/docs/identity/azure/rbac",
+    "/docs/identity/gcp/iam"
+  ],
+  "intersect": {
     "domains": [
       "identity management"
     ],
@@ -7,13 +13,7 @@
       "identity"
     ]
   },
-  "instance": [
-    "/docs/identity/aws/iam",
-    "/docs/governance/aws/service-control-policies",
-    "/docs/identity/azure/rbac",
-    "/docs/identity/gcp/iam"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "identity provider"
     ],

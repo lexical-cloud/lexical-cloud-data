@@ -1,11 +1,11 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/monitor/aws/health-dashboard",
     "/docs/ai/azure/cognitive-services-personalizer",
     "/docs/monitor/azure/service-health"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "health",
       "decision making"

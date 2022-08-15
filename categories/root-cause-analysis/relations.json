@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "systems management"
-    ],
-    "services": [
-      "monitor"
-    ]
-  },
   "instance": [
     "/docs/security/aws/detective",
     "/docs/monitor/aws/xray",
@@ -15,7 +7,15 @@
     "/docs/monitor/gcp/cloud-profiler",
     "/docs/monitor/gcp/cloud-trace"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "systems management"
+    ],
+    "services": [
+      "monitor"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "security monitoring",
       "application debugger",

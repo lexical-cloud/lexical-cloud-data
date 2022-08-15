@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/ai/azure/cognitive-services"
+  ],
+  "intersect": {
     "categories": [
       "speech processing"
     ],
@@ -10,10 +13,7 @@
       "ai"
     ]
   },
-  "instance": [
-    "/docs/ai/azure/cognitive-services"
-  ],
-  "intersection": {
+  "symdiff": {
     "categories": [
       "language processing",
       "computer vision",

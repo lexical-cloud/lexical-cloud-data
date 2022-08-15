@@ -1,5 +1,10 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/storage/aws/ebs",
+    "/docs/storage/azure/disk-storage",
+    "/docs/storage/gcp/peristent-disk"
+  ],
+  "intersect": {
     "domains": [
       "data management"
     ],
@@ -7,12 +12,7 @@
       "storage"
     ]
   },
-  "instance": [
-    "/docs/storage/aws/ebs",
-    "/docs/storage/azure/disk-storage",
-    "/docs/storage/gcp/peristent-disk"
-  ],
-  "intersection": {
+  "symdiff": {
     "providers": [
       "aws",
       "azure",

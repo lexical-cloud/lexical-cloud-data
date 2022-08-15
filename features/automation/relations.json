@@ -1,14 +1,14 @@
 {
-  "hierarchical": {
-    "domains": [
-      "systems management"
-    ]
-  },
   "instance": [
     "/docs/monitor/aws/cloudwatch-app-insights",
     "/docs/monitor/azure/monitor-app-insights"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "systems management"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "telemetry data",
       "dashboards"

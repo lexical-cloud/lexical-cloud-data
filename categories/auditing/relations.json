@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/monitor/aws/cloudtrail",
     "/docs/governance/aws/artifact",
@@ -11,7 +10,8 @@
     "/docs/security/gcp/security-command-center",
     "/docs/security/azure/defender-for-cloud"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "compliance",
       "configuration management",

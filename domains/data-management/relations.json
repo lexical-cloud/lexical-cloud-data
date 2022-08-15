@@ -1,5 +1,4 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/database/aws/athena",
     "/docs/database/aws/aurora",
@@ -41,7 +40,8 @@
     "/docs/storage/gcp/cloud-storage-archive",
     "/docs/security/azure/sentinel"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "sql compliant",
       "unstructured data",

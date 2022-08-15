@@ -1,10 +1,10 @@
 {
-  "hierarchical": {},
   "instance": [
     "/docs/governance/azure/blueprints",
     "/docs/developer-tools/azure/devtest-labs"
   ],
-  "intersection": {
+  "intersect": {},
+  "symdiff": {
     "categories": [
       "resource management"
     ],

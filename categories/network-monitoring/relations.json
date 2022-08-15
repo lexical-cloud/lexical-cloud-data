@@ -1,5 +1,9 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/network/aws/vpc-flow-logs",
+    "/docs/network/azure/network-watcher"
+  ],
+  "intersect": {
     "domains": [
       "connectivity",
       "observability"
@@ -9,11 +13,7 @@
       "monitor"
     ]
   },
-  "instance": [
-    "/docs/network/aws/vpc-flow-logs",
-    "/docs/network/azure/network-watcher"
-  ],
-  "intersection": {
+  "symdiff": {
     "providers": [
       "aws",
       "azure"

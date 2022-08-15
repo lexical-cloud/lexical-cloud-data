@@ -1,5 +1,8 @@
 {
-  "hierarchical": {
+  "instance": [
+    "/docs/iot/azure/edge"
+  ],
+  "intersect": {
     "domains": [
       "edge computing"
     ],
@@ -7,10 +10,7 @@
       "iot"
     ]
   },
-  "instance": [
-    "/docs/iot/azure/edge"
-  ],
-  "intersection": {
+  "symdiff": {
     "features": [
       "container-based"
     ],

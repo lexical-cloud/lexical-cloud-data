@@ -1,12 +1,4 @@
 {
-  "hierarchical": {
-    "domains": [
-      "observability"
-    ],
-    "services": [
-      "monitor"
-    ]
-  },
   "instance": [
     "/docs/monitor/aws/cloudwatch",
     "/docs/monitor/aws/cloudwatch-app-insights",
@@ -15,7 +7,15 @@
     "/docs/monitor/gcp/cloud-logging",
     "/docs/monitor/gcp/cloud-monitoring"
   ],
-  "intersection": {
+  "intersect": {
+    "domains": [
+      "observability"
+    ],
+    "services": [
+      "monitor"
+    ]
+  },
+  "symdiff": {
     "categories": [
       "dashboards",
       "auditing"
