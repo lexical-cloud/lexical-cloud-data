@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/network/aws/route-53",
-    "/docs/network/azure/dns",
-    "/docs/network/gcp/dns"
+    "/products/network/aws/route-53",
+    "/products/network/azure/dns",
+    "/products/network/gcp/dns"
   ],
   "intersect": {
     "domains": [

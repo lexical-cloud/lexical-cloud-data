@@ -2,12 +2,16 @@
   "id": "http-api",
   "name": "http api",
   "type": "feature",
-  "permalink": "/features/http-api",
+  "links": {
+    "self": "/features/http-api",
+  },
   "definition": {
     "title": "HTTP API",
     "url": "https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
     "services": ["integration"],
     "domains": ["api management"],
-    "permalink": "/glossary/http-api"
+    "links": {
+      "self": "/glossary/http-api"
+    }
   }
 }

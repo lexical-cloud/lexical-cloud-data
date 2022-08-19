@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Run",
+  "providers": ["gcp"],
+  "services": ["compute"],
+  "domains": ["containerization","serverless"],
+  "categories": ["container orchestrator"],
+  "links" {
+    "self": "/products/compute/gcp/cloud-run"
+  }
+}
+

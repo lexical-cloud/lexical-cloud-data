@@ -1,5 +1,7 @@
 {
   "title": "Microsoft Azure",
-  "permalink": "/glossary/azure"
+  "links": {
+    "self": "/glossary/azure"
+  }
 }
 

@@ -1,18 +1,18 @@
 {
   "instance": [
-    "/docs/governance/aws/accounts",
-    "/docs/governance/aws/control-tower",
-    "/docs/governance/aws/organizations",
-    "/docs/governance/aws/resource",
-    "/docs/governance/aws/resource-groups",
-    "/docs/governance/azure/blueprints",
-    "/docs/governance/azure/management-groups",
-    "/docs/governance/azure/policy",
-    "/docs/governance/azure/resource",
-    "/docs/governance/azure/resource-groups",
-    "/docs/governance/azure/subscriptions",
-    "/docs/governance/gcp/projects",
-    "/docs/governance/gcp/quotas"
+    "/products/governance/aws/accounts",
+    "/products/governance/aws/control-tower",
+    "/products/governance/aws/organizations",
+    "/products/governance/aws/resource",
+    "/products/governance/aws/resource-groups",
+    "/products/governance/azure/blueprints",
+    "/products/governance/azure/management-groups",
+    "/products/governance/azure/policy",
+    "/products/governance/azure/resource",
+    "/products/governance/azure/resource-groups",
+    "/products/governance/azure/subscriptions",
+    "/products/governance/gcp/projects",
+    "/products/governance/gcp/quotas"
   ],
   "intersect": {
     "services": [

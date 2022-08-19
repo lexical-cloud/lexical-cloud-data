@@ -1,9 +1,0 @@
-{
-  "name": "Azure Functions",
-  "providers": ["azure"],
-  "services": ["compute"],
-  "domains": ["serverless"],
-  "categories": ["faas"],
-  "permalink": "/docs/compute/azure/functions"
-}
-

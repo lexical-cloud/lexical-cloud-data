@@ -1,6 +1,8 @@
 {
   "title": "No-Code",
   "url": "https://en.wikipedia.org/wiki/No-code_development_platform",
-  "permalink": "/glossary/no-code"
+  "links": {
+    "self": "/glossary/no-code"
+  }
 }
 

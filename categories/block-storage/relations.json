@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/storage/aws/ebs",
-    "/docs/storage/azure/disk-storage",
-    "/docs/storage/gcp/peristent-disk"
+    "/products/storage/aws/ebs",
+    "/products/storage/azure/disk-storage",
+    "/products/storage/gcp/peristent-disk"
   ],
   "intersect": {
     "domains": [

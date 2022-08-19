@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/monitor/aws/inspector",
-    "/docs/security/aws/macie",
-    "/docs/monitor/aws/config",
-    "/docs/governance/aws/trusted-advisor",
-    "/docs/governance/azure/advisor"
+    "/products/monitor/aws/inspector",
+    "/products/security/aws/macie",
+    "/products/monitor/aws/config",
+    "/products/governance/aws/trusted-advisor",
+    "/products/governance/azure/advisor"
   ],
   "intersect": {
     "domains": [

@@ -1,9 +1,0 @@
-{
-  "name": "AWS Service Control Policies",
-  "providers": ["aws"],
-  "services": ["governance"],
-  "domains": ["systems management"],
-  "categories": ["access control"],
-  "permalink": "/docs/governance/aws/service-control-policies"
-}
-

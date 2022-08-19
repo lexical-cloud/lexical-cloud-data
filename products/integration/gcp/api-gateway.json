@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud API Gateway",
+  "providers": ["gcp"],
+  "services": ["integration"],
+  "domains": ["api management","serverless"],
+  "categories": ["api gateway","api lifecycle"],
+  "features": ["rest api","http api","websocket api"],
+  "links" {
+    "self": "/products/integration/gcp/api-gateway"
+  }
+}
+

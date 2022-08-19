@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/ai/aws/polly",
-    "/docs/ai/azure/cognitive-services",
-    "/docs/ai/gcp/text-to-speech"
+    "/products/ai/aws/polly",
+    "/products/ai/azure/cognitive-services",
+    "/products/ai/gcp/text-to-speech"
   ],
   "intersect": {
     "categories": [

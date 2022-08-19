@@ -1,0 +1,11 @@
+{
+  "name": "AWS CodeCommit",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","devops"],
+  "categories": ["source control"],
+  "links" {
+    "self": "/products/developer-tools/aws/codecommit"
+  }
+}
+

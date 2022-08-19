@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/security/aws/macie"
+    "/products/security/aws/macie"
   ],
   "intersect": {
     "domains": [

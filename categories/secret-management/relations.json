@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/security/aws/secrets-manager",
-    "/docs/developer-tools/aws/systems-manager-parameter-store",
-    "/docs/security/azure/key-vault"
+    "/products/security/aws/secrets-manager",
+    "/products/developer-tools/aws/systems-manager-parameter-store",
+    "/products/security/azure/key-vault"
   ],
   "intersect": {
     "categories": [

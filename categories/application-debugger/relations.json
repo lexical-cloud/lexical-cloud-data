@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/monitor/aws/xray",
-    "/docs/monitor/gcp/cloud-debugger"
+    "/products/monitor/aws/xray",
+    "/products/monitor/gcp/cloud-debugger"
   ],
   "intersect": {},
   "symdiff": {

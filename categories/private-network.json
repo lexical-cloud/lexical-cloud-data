@@ -2,12 +2,16 @@
   "id": "private-network",
   "name": "private network",
   "type": "category",
-  "permalink": "/categories/private-network",
+  "links": {
+    "self": "/categories/private-network",
+  },
   "definition": {
     "title": "Private Network",
     "url": "https://en.wikipedia.org/wiki/Private_network",
     "services": ["network","security"],
     "domains": ["connectivity"],
-    "permalink": "/glossary/private-network"
+    "links": {
+      "self": "/glossary/private-network"
+    }
   }
 }

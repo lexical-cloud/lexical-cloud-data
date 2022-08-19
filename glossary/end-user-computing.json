@@ -1,6 +1,8 @@
 {
   "title": "End-user Computing",
   "url": "https://en.wikipedia.org/wiki/End-user_computing",
-  "permalink": "/glossary/end-user-computing"
+  "links": {
+    "self": "/glossary/end-user-computing"
+  }
 }
 

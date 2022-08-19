@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Firewall",
+  "providers": ["gcp"],
+  "services": ["security","network"],
+  "domains": ["connectivity"],
+  "categories": ["firewall"],
+  "links" {
+    "self": "/products/security/gcp/firewall"
+  }
+}
+

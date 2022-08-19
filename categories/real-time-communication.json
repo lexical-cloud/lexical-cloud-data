@@ -2,11 +2,15 @@
   "id": "real-time-communication",
   "name": "real-time communication",
   "type": "category",
-  "permalink": "/categories/real-time-communication",
+  "links": {
+    "self": "/categories/real-time-communication",
+  },
   "definition": {
     "title": "Real-time communication",
     "url": "https://en.wikipedia.org/wiki/Real-time_communication",
     "domains": ["eventing"],
-    "permalink": "/glossary/real-time-communication"
+    "links": {
+      "self": "/glossary/real-time-communication"
+    }
   }
 }

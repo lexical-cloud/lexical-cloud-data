@@ -3,6 +3,8 @@
   "services": ["network"],
   "domains": ["connectivity"],
   "categories": ["load balancer"],
-  "permalink": "/glossary/gateway-load-balancer"
+  "links": {
+    "self": "/glossary/gateway-load-balancer"
+  }
 }
 

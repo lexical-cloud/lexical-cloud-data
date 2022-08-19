@@ -1,0 +1,12 @@
+{
+  "name": "Azure Virtual Machine Scaled Sets",
+  "providers": ["azure"],
+  "services": ["compute"],
+  "domains": ["virtualization"],
+  "categories": ["virtual machines"],
+  "features": ["auto scaling"],
+  "links" {
+    "self": "/products/compute/azure/vm-scaled-sets"
+  }
+}
+

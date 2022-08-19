@@ -1,5 +1,7 @@
 {
   "title": "No Account Required",
-  "permalink": "/glossary/no-account-required"
+  "links": {
+    "self": "/glossary/no-account-required"
+  }
 }
 

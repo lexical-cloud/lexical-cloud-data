@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/governance/aws/trusted-advisor",
-    "/docs/governance/azure/advisor"
+    "/products/governance/aws/trusted-advisor",
+    "/products/governance/azure/advisor"
   ],
   "intersect": {
     "domains": [

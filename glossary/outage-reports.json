@@ -1,6 +1,8 @@
 {
   "title": "Outage Reports",
   "url": "https://en.wikipedia.org/wiki/Fault_reporting",
-  "permalink": "/glossary/outage-reports"
+  "links": {
+    "self": "/glossary/outage-reports"
+  }
 }
 

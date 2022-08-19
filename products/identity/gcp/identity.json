@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Identity",
+  "providers": ["gcp"],
+  "services": ["identity"],
+  "domains": ["identity management"],
+  "categories": ["identity provider"],
+  "links" {
+    "self": "/products/identity/gcp/identity"
+  }
+}
+

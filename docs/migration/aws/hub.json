@@ -1,9 +1,0 @@
-{
-  "name": "AWS Migration Hub",
-  "providers": ["aws"],
-  "services": ["migration"],
-  "domains": ["modernization"],
-  "categories": ["server migration"],
-  "permalink": "/docs/migration/aws/hub"
-}
-

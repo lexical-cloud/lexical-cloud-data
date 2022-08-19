@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Azure IoT Central",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot management"],
+    "links" {
+      "self": "/products/iot/azure/central"
+    }
+  },
+  {
+    "name": "Azure IoT Edge",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot processing"],
+    "features": ["container-based"],
+    "links" {
+      "self": "/products/iot/azure/edge"
+    }
+  },
+  {
+    "name": "Azure IoT Hub",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot communication"],
+    "links" {
+      "self": "/products/iot/azure/hub"
+    }
+  },
+  {
+    "name": "Azure Sphere",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot hardware","iot security"],
+    "links" {
+      "self": "/products/iot/azure/sphere"
+    }
+  }
+]

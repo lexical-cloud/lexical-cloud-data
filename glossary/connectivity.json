@@ -1,6 +1,8 @@
 {
   "title": "Connectivity",
   "services": ["network"],
-  "permalink": "/glossary/connectivity"
+  "links": {
+    "self": "/glossary/connectivity"
+  }
 }
 

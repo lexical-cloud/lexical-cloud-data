@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/developer-tools/aws/appconfig",
-    "/docs/developer-tools/azure/appconfig"
+    "/products/developer-tools/aws/appconfig",
+    "/products/developer-tools/azure/appconfig"
   ],
   "intersect": {
     "domains": [

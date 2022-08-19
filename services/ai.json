@@ -2,9 +2,13 @@
   "id": "ai",
   "name": "ai",
   "type": "service",
-  "permalink": "/services/ai",
+  "links": {
+    "self": "/services/ai",
+  },
   "definition": {
     "title": "Artificial Intelligence (AI)",
-    "permalink": "/glossary/ai"
+    "links": {
+      "self": "/glossary/ai"
+    }
   }
 }

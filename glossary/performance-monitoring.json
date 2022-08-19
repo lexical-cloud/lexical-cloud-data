@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Application_performance_management",
   "services": ["monitor"],
   "domains": ["systems management"],
-  "permalink": "/glossary/performance-monitoring"
+  "links": {
+    "self": "/glossary/performance-monitoring"
+  }
 }
 

@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Sagemaker",
+  "providers": ["aws"],
+  "services": ["ai"],
+  "domains": ["machine learning","serverless"],
+  "categories": ["model training"],
+  "links" {
+    "self": "/products/ai/aws/sagemaker"
+  }
+}
+

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Amazon Route 53",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "features": ["traffic routing"],
+    "links" {
+      "self": "/products/network/aws/route-53"
+    }
+  },
+  {
+    "name": "Azure Traffic Manager",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer"],
+    "features": ["traffic routing"],
+    "links" {
+      "self": "/products/network/azure/traffic-manager"
+    }
+  }
+]

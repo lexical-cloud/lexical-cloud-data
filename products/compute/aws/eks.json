@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Elastic Kubernetes Service",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["containerization","managed service"],
+  "categories": ["container orchestrator","kubernetes"],
+  "links" {
+    "self": "/products/compute/aws/eks"
+  }
+}
+

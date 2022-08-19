@@ -1,9 +1,0 @@
-{
-  "name": "AWS Elastic Disaster Recovery",
-  "providers": ["aws"],
-  "services": ["migration"],
-  "domains": ["data management","systems management"],
-  "categories": ["disaster recovery","data security"],
-  "permalink": "/docs/migration/aws/drs"
-}
-

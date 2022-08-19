@@ -2,12 +2,16 @@
   "id": "traffic-routing",
   "name": "traffic routing",
   "type": "feature",
-  "permalink": "/features/traffic-routing",
+  "links": {
+    "self": "/features/traffic-routing",
+  },
   "definition": {
     "title": "Traffic Routing",
     "url": "https://en.wikipedia.org/wiki/Routing",
     "services": ["network"],
     "domains": ["connectivity"],
-    "permalink": "/glossary/traffic-routing"
+    "links": {
+      "self": "/glossary/traffic-routing"
+    }
   }
 }

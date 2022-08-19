@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Error Reporting",
+  "providers": ["gcp"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["root cause analysis"],
+  "links" {
+    "self": "/products/monitor/gcp/error-reporting"
+  }
+}
+

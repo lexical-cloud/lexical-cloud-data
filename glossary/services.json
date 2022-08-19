@@ -1,5 +1,7 @@
 {
   "title": "Services",
-  "permalink": "/glossary/services"
+  "links": {
+    "self": "/glossary/services"
+  }
 }
 

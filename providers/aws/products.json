@@ -1,0 +1,1102 @@
+[
+  {
+    "name": "Amazon API Gateway",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api lifecycle"],
+    "features": ["rest api","http api","websocket api"],
+    "links" {
+      "self": "/products/integration/aws/api-gateway"
+    }
+  },
+  {
+    "name": "Amazon Athena",
+    "providers": ["aws"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["sql compliant","unstructured data"],
+    "links" {
+      "self": "/products/database/aws/athena"
+    }
+  },
+  {
+    "name": "Amazon Aurora",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql"],
+    "links" {
+      "self": "/products/database/aws/aurora"
+    }
+  },
+  {
+    "name": "Amazon Cloudfront",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["edge computing"],
+    "categories": ["content delivery"],
+    "links" {
+      "self": "/products/network/aws/cloudfront"
+    }
+  },
+  {
+    "name": "Amazon CloudTrail",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["auditing"],
+    "links" {
+      "self": "/products/monitor/aws/cloudtrail"
+    }
+  },
+  {
+    "name": "Amazon CloudWatch",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "links" {
+      "self": "/products/monitor/aws/cloudwatch"
+    }
+  },
+  {
+    "name": "Amazon CloudWatch Application Insights",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "links" {
+      "self": "/products/monitor/aws/cloudwatch-app-insights"
+    }
+  },
+  {
+    "name": "Amazon Cognito",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["identity provider"],
+    "features": ["user enrollment","authentication","authorization"],
+    "links" {
+      "self": "/products/identity/aws/cognito"
+    }
+  },
+  {
+    "name": "Amazon DynamoDB",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","key-value store","nosql db"],
+    "links" {
+      "self": "/products/database/aws/dynamodb"
+    }
+  },
+  {
+    "name": "Amazon Elastic Block Storage",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/aws/ebs"
+    }
+  },
+  {
+    "name": "Amazon Elastic Compute Cloud",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "links" {
+      "self": "/products/compute/aws/ec2"
+    }
+  },
+  {
+    "name": "Amazon EC2 Auto Scaling",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "features": ["auto scaling"],
+    "links" {
+      "self": "/products/compute/aws/ec2-auto-scaling"
+    }
+  },
+  {
+    "name": "Amazon EC2 Security Group",
+    "providers": ["aws"],
+    "services": ["security","compute"],
+    "domains": ["virtualization"],
+    "categories": ["firewall"],
+    "features": ["stateful"],
+    "links" {
+      "self": "/products/security/aws/security-group"
+    }
+  },
+  {
+    "name": "Amazon Elastic Container Service",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/aws/ecs"
+    }
+  },
+  {
+    "name": "Amazon Elastic File Storage",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/aws/efs"
+    }
+  },
+  {
+    "name": "Amazon Elastic Kubernetes Service",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator","kubernetes"],
+    "links" {
+      "self": "/products/compute/aws/eks"
+    }
+  },
+  {
+    "name": "Amazon ElastiCache",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["managed service"],
+    "categories": ["caching"],
+    "links" {
+      "self": "/products/database/aws/elasticache"
+    }
+  },
+  {
+    "name": "Amazon EventBridge",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["event bus","pub-sub"],
+    "links" {
+      "self": "/products/integration/aws/eventbridge"
+    }
+  },
+  {
+    "name": "Amazon Inspector",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["virtualization","systems management"],
+    "categories": ["vulnerability management","risk assessment"],
+    "features": ["agent-based"],
+    "links" {
+      "self": "/products/monitor/aws/inspector"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming"],
+    "links" {
+      "self": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Amaxon Lex",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/aws/lex"
+    }
+  },
+  {
+    "name": "Amazon Lightsail",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service","virtualization"],
+    "categories": ["virtual private server"],
+    "links" {
+      "self": "/products/compute/aws/lightsail"
+    }
+  },
+  {
+    "name": "Amazon Macie",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data privacy","risk assessment"],
+    "links" {
+      "self": "/products/security/aws/macie"
+    }
+  },
+  {
+    "name": "Amazon Polly",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["speech processing"],
+    "features": ["text-to-speech"],
+    "links" {
+      "self": "/products/ai/aws/polly"
+    }
+  },
+  {
+    "name": "Amazon QuickSight",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["serverless","big data"],
+    "categories": ["dashboards"],
+    "links" {
+      "self": "/products/analytics/aws/quicksight"
+    }
+  },
+  {
+    "name": "Amazon Relational Database Service",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "links" {
+      "self": "/products/database/aws/rds"
+    }
+  },
+  {
+    "name": "Amazon Redshift",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["data warehousing"],
+    "links" {
+      "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "Amazon Route 53",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "features": ["traffic routing"],
+    "links" {
+      "self": "/products/network/aws/route-53"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage"],
+    "links" {
+      "self": "/products/storage/aws/s3"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service Glacier",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/aws/s3-glacier"
+    }
+  },
+  {
+    "name": "Amazon Sagemaker",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["model training"],
+    "links" {
+      "self": "/products/ai/aws/sagemaker"
+    }
+  },
+  {
+    "name": "Amazon Sagemaker Autopilot",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["prebuilt models"],
+    "links" {
+      "self": "/products/ai/aws/sagemaker-autopilot"
+    }
+  },
+  {
+    "name": "Amazon Simple Notification Service",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["pub-sub","push notifications"],
+    "links" {
+      "self": "/products/integration/aws/sns"
+    }
+  },
+  {
+    "name": "Amazon Simple Queue Service",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue"],
+    "links" {
+      "self": "/products/integration/aws/sqs"
+    }
+  },
+  {
+    "name": "Amazon Virtual Private Cloud",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "links" {
+      "self": "/products/network/aws/vpc"
+    }
+  },
+  {
+    "name": "Amazon WorkSpaces",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual desktop"],
+    "links" {
+      "self": "/products/compute/aws/workspaces"
+    }
+  },
+  {
+    "name": "AWS accounts",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "links" {
+      "self": "/products/governance/aws/accounts"
+    }
+  },
+  {
+    "name": "AWS Active Directory Connector",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["directory service","identity management"],
+    "categories": ["directory gateway","identity provider"],
+    "links" {
+      "self": "/products/identity/aws/ad-connector"
+    }
+  },
+  {
+    "name": "AWS AppConfig",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous configuration"],
+    "links" {
+      "self": "/products/developer-tools/aws/appconfig"
+    }
+  },
+  {
+    "name": "AWS Application Discovery Service",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["application discovery"],
+    "links" {
+      "self": "/products/migration/aws/app-discovery"
+    }
+  },
+  {
+    "name": "AWS Application Migration Service",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "links" {
+      "self": "/products/migration/aws/mgn"
+    }
+  },
+  {
+    "name": "AWS Artifact",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["compliance","auditing"],
+    "links" {
+      "self": "/products/governance/aws/artifact"
+    }
+  },
+  {
+    "name": "AWS Backup",
+    "providers": ["aws"],
+    "services": ["storage","hybrid"],
+    "domains": ["data management","systems management"],
+    "categories": ["data security"],
+    "links" {
+      "self": "/products/storage/aws/backup"
+    }
+  },
+  {
+    "name": "AWS Batch",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["batch processing"],
+    "links" {
+      "self": "/products/compute/aws/batch"
+    }
+  },
+  {
+    "name": "AWS Budgets",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/aws/budgets"
+    }
+  },
+  {
+    "name": "AWS Certificate Manager",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["certificates"],
+    "links" {
+      "self": "/products/security/aws/certificate-manager"
+    }
+  },
+  {
+    "name": "AWS Cloud Adoption Framework",
+    "providers": ["aws"],
+    "services": ["framework"],
+    "domains": ["modernization"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/aws/cloud-adoption"
+    }
+  },
+  {
+    "name": "AWS Cloud Endure",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/migration/aws/cloud-endure"
+    }
+  },
+  {
+    "name": "AWS Cloud9",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["hosted ide"],
+    "links" {
+      "self": "/products/developer-tools/aws/cloud9"
+    }
+  },
+  {
+    "name": "AWS CloudFormation",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["infrastructure as code","deployment management"],
+    "links" {
+      "self": "/products/developer-tools/aws/cloudformation"
+    }
+  },
+  {
+    "name": "AWS CloudHSM",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data security","key management"],
+    "links" {
+      "self": "/products/security/aws/cloudhsm"
+    }
+  },
+  {
+    "name": "AWS CodeArtifact",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["artifact repository"],
+    "links" {
+      "self": "/products/developer-tools/aws/codeartifact"
+    }
+  },
+  {
+    "name": "AWS CodeBuild",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous integration"],
+    "links" {
+      "self": "/products/developer-tools/aws/codebuild"
+    }
+  },
+  {
+    "name": "AWS CodeCommit",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","devops"],
+    "categories": ["source control"],
+    "links" {
+      "self": "/products/developer-tools/aws/codecommit"
+    }
+  },
+  {
+    "name": "AWS CodeDeploy",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous deployment"],
+    "links" {
+      "self": "/products/developer-tools/aws/codedeploy"
+    }
+  },
+  {
+    "name": "AWS CodePipeline",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous delivery"],
+    "links" {
+      "self": "/products/developer-tools/aws/codepipeline"
+    }
+  },
+  {
+    "name": "AWS CodeStar",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["continuous delivery","continuous integration"],
+    "links" {
+      "self": "/products/developer-tools/aws/codestar"
+    }
+  },
+  {
+    "name": "AWS Config",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["systems management"],
+    "categories": ["auditing","configuration management","risk assessment"],
+    "links" {
+      "self": "/products/monitor/aws/config"
+    }
+  },
+  {
+    "name": "AWS Control Tower",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["compliance","resource management"],
+    "links" {
+      "self": "/products/governance/aws/control-tower"
+    }
+  },
+  {
+    "name": "AWS Cost and Usage Report",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "links" {
+      "self": "/products/governance/aws/cost-and-usage-report"
+    }
+  },
+  {
+    "name": "AWS Cost Explorer",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost forecast"],
+    "links" {
+      "self": "/products/governance/aws/cost-explorer"
+    }
+  },
+  {
+    "name": "AWS Database Migration Service",
+    "providers": ["aws"],
+    "services": ["migration","database"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/aws/dms"
+    }
+  },
+  {
+    "name": "AWS DataSync",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/aws/datasync"
+    }
+  },
+  {
+    "name": "AWS Detective",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","root cause analysis"],
+    "links" {
+      "self": "/products/security/aws/detective"
+    }
+  },
+  {
+    "name": "AWS Direct Connect",
+    "providers": ["aws"],
+    "services": ["hybrid","network"],
+    "domains": ["connectivity"],
+    "categories": ["on-premises","private network"],
+    "links" {
+      "self": "/products/network/aws/direct-connect"
+    }
+  },
+  {
+    "name": "AWS Elastic Beanstalk",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "links" {
+      "self": "/products/compute/aws/beanstalk"
+    }
+  },
+  {
+    "name": "AWS Elastic Disaster Recovery",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["data management","systems management"],
+    "categories": ["disaster recovery","data security"],
+    "links" {
+      "self": "/products/migration/aws/drs"
+    }
+  },
+  {
+    "name": "Amazon Elastic Load Balancing",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links" {
+      "self": "/products/network/aws/elb"
+    }
+  },
+  {
+    "name": "AWS Fargate",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/aws/fargate"
+    }
+  },
+  {
+    "name": "AWS GuardDuty",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability","systems management"],
+    "categories": ["risks assessment","threat detection"],
+    "features": ["agentless"],
+    "links" {
+      "self": "/products/monitor/aws/guardduty"
+    }
+  },
+  {
+    "name": "AWS Health Dashboard",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "links" {
+      "self": "/products/monitor/aws/health-dashboard"
+    }
+  },
+  {
+    "name": "AWS Identity and Access Management",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control","identity provider"],
+    "links" {
+      "self": "/products/identity/aws/iam"
+    }
+  },
+  {
+    "name": "AWS Key Management Service",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management","managed service"],
+    "categories": ["data security","key management","auditing"],
+    "links" {
+      "self": "/products/security/aws/kms"
+    }
+  },
+  {
+    "name": "AWS Lambda",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/aws/lambda"
+    }
+  },
+  {
+    "name": "AWS License Manager",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["virtualization"],
+    "categories": ["license management"],
+    "links" {
+      "self": "/products/governance/aws/license-manager"
+    }
+  },
+  {
+    "name": "AWS Migration Hub",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "links" {
+      "self": "/products/migration/aws/hub"
+    }
+  },
+  {
+    "name": "AWS Network Access Control List",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "features": ["stateless"],
+    "links" {
+      "self": "/products/network/aws/access-control-list"
+    }
+  },
+  {
+    "name": "AWS Network Firewall",
+    "providers": ["aws"],
+    "services": ["security","network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "links" {
+      "self": "/products/security/aws/network-firewall"
+    }
+  },
+  {
+    "name": "AWS OpsWorks",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["virtualization","systems management"],
+    "categories": ["configuration management"],
+    "links" {
+      "self": "/products/developer-tools/aws/opsworks"
+    }
+  },
+  {
+    "name": "AWS Organizations",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "links" {
+      "self": "/products/governance/aws/organizations"
+    }
+  },
+  {
+    "name": "AWS Outposts",
+    "providers": ["aws"],
+    "services": ["hybrid"],
+    "domains": ["architecture","edge computing"],
+    "categories": ["on-premises"],
+    "links" {
+      "self": "/products/hybrid/aws/outposts"
+    }
+  },
+  {
+    "name": "AWS Pricing Calculator",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/aws/pricing-calculator"
+    }
+  },
+  {
+    "name": "AWS PrivateLink",
+    "providers": ["aws"],
+    "services": ["hybrid","network"],
+    "domains": ["connectivity"],
+    "categories": ["on-premises","private network","virtual network"],
+    "links" {
+      "self": "/products/network/aws/privatelink"
+    }
+  },
+  {
+    "name": "AWS resource",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "links" {
+      "self": "/products/governance/aws/resource"
+    }
+  },
+  {
+    "name": "AWS Resource Groups",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "links" {
+      "self": "/products/governance/aws/resource-groups"
+    }
+  },
+  {
+    "name": "AWS Schema Conversion Tool",
+    "providers": ["aws"],
+    "services": ["database","migration"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/aws/sct"
+    }
+  },
+  {
+    "name": "AWS Secrets Manager",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data security","secret management"],
+    "links" {
+      "self": "/products/security/aws/secrets-manager"
+    }
+  },
+  {
+    "name": "AWS Server Migration Service",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/migration/aws/sms"
+    }
+  },
+  {
+    "name": "AWS Serverless Application Model",
+    "providers": ["aws"],
+    "services": ["framework"],
+    "domains": ["serverless"],
+    "categories": ["deployment management"],
+    "links" {
+      "self": "/products/framework/aws/sam"
+    }
+  },
+  {
+    "name": "AWS Service Catalog",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["compliance","portfolio management"],
+    "links" {
+      "self": "/products/governance/aws/service-catalog"
+    }
+  },
+  {
+    "name": "AWS Service Control Policies",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["access control"],
+    "links" {
+      "self": "/products/governance/aws/service-control-policies"
+    }
+  },
+  {
+    "name": "AWS Shield",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["ddos protection"],
+    "links" {
+      "self": "/products/security/aws/shield"
+    }
+  },
+  {
+    "name": "AWS Snowball",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/aws/snowball"
+    }
+  },
+  {
+    "name": "AWS Snowcone",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/aws/snowcone"
+    }
+  },
+  {
+    "name": "AWS Snowmobile",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/aws/snowmobile"
+    }
+  },
+  {
+    "name": "AWS Step Functions",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","workflow engine"],
+    "links" {
+      "self": "/products/integration/aws/step-functions"
+    }
+  },
+  {
+    "name": "AWS Storage Gateway",
+    "providers": ["aws"],
+    "services": ["hybrid","storage"],
+    "domains": ["modernization"],
+    "categories": ["on-premises"],
+    "links" {
+      "self": "/products/hybrid/aws/storage-gateway"
+    }
+  },
+  {
+    "name": "AWS Systems Manager",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management"],
+    "links" {
+      "self": "/products/developer-tools/aws/systems-manager"
+    }
+  },
+  {
+    "name": "AWS Systems Manager Parameter Store",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management","secret management"],
+    "links" {
+      "self": "/products/developer-tools/aws/systems-manager-parameter-store"
+    }
+  },
+  {
+    "name": "AWS Transit Gateway",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network transit hub","virtual network"],
+    "links" {
+      "self": "/products/network/aws/transit-gateway"
+    }
+  },
+  {
+    "name": "AWS Trusted Advisor",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["risk assessment","best practices"],
+    "links" {
+      "self": "/products/governance/aws/trusted-advisor"
+    }
+  },
+  {
+    "name": "AWS Virtual Private Gateway",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/aws/vgw"
+    }
+  },
+  {
+    "name": "AWS VPC Endpoint",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/aws/vpc-endpoint"
+    }
+  },
+  {
+    "name": "AWS VPC Flow Logs",
+    "providers": ["aws"],
+    "services": ["network","monitor"],
+    "domains": ["connectivity"],
+    "categories": ["network monitoring"],
+    "links" {
+      "self": "/products/network/aws/vpc-flow-logs"
+    }
+  },
+  {
+    "name": "AWS VPC Peering",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "links" {
+      "self": "/products/network/aws/vpc-peering"
+    }
+  },
+  {
+    "name": "AWS WAF - Web Application Firewall",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["web application firewall"],
+    "links" {
+      "self": "/products/security/aws/waf"
+    }
+  },
+  {
+    "name": "AWS Well-Architected Framework",
+    "providers": ["aws"],
+    "services": ["framework"],
+    "domains": ["architecture"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/aws/well-architected"
+    }
+  },
+  {
+    "name": "AWS X-Ray",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["systems management"],
+    "categories": ["application debugger","root cause analysis"],
+    "links" {
+      "self": "/products/monitor/aws/xray"
+    }
+  }
+]

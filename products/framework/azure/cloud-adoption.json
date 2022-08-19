@@ -1,0 +1,11 @@
+{
+  "name": "Azure Cloud Adoption Framework",
+  "providers": ["azure"],
+  "services": ["framework"],
+  "domains": ["modernization"],
+  "categories": ["decision making"],
+  "links" {
+    "self": "/products/framework/azure/cloud-adoption"
+  }
+}
+

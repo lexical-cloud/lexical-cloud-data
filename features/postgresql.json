@@ -2,11 +2,15 @@
   "id": "postgresql",
   "name": "postgresql",
   "type": "feature",
-  "permalink": "/features/postgresql",
+  "links": {
+    "self": "/features/postgresql",
+  },
   "definition": {
     "title": "PostgreSQL Database",
     "url": "https://en.wikipedia.org/wiki/PostgreSQL",
     "services": ["database"],
-    "permalink": "/glossary/postgresql"
+    "links": {
+      "self": "/glossary/postgresql"
+    }
   }
 }

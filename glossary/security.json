@@ -1,5 +1,7 @@
 {
   "title": "Security",
-  "permalink": "/glossary/security"
+  "links": {
+    "self": "/glossary/security"
+  }
 }
 

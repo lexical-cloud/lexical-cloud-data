@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AWS DataSync",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/aws/datasync"
+    }
+  },
+  {
+    "name": "AWS Snowball",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/aws/snowball"
+    }
+  },
+  {
+    "name": "AWS Snowcone",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/aws/snowcone"
+    }
+  },
+  {
+    "name": "AWS Snowmobile",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/aws/snowmobile"
+    }
+  },
+  {
+    "name": "Google Cloud Storage Transfer Service",
+    "providers": ["gcp"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/gcp/storage-transfer-service"
+    }
+  },
+  {
+    "name": "Google Cloud Transfer Appliance",
+    "providers": ["gcp"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["data transfer"],
+    "links" {
+      "self": "/products/migration/gcp/transfer-appliance"
+    }
+  }
+]

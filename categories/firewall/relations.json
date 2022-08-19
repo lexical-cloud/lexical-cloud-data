@@ -1,11 +1,11 @@
 {
   "instance": [
-    "/docs/security/aws/security-group",
-    "/docs/network/aws/access-control-list",
-    "/docs/security/aws/network-firewall",
-    "/docs/security/azure/firewall",
-    "/docs/network/azure/security-groups",
-    "/docs/security/gcp/firewall"
+    "/products/security/aws/security-group",
+    "/products/network/aws/access-control-list",
+    "/products/security/aws/network-firewall",
+    "/products/security/azure/firewall",
+    "/products/network/azure/security-groups",
+    "/products/security/gcp/firewall"
   ],
   "intersect": {
     "services": [

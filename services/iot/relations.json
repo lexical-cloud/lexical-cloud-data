@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/iot/azure/central",
-    "/docs/iot/azure/edge",
-    "/docs/iot/azure/hub",
-    "/docs/iot/azure/sphere",
-    "/docs/database/azure/sql-edge"
+    "/products/iot/azure/central",
+    "/products/iot/azure/edge",
+    "/products/iot/azure/hub",
+    "/products/iot/azure/sphere",
+    "/products/database/azure/sql-edge"
   ],
   "intersect": {
     "domains": [

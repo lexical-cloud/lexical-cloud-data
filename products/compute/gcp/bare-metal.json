@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Bare Metal Solution",
+  "providers": ["gcp"],
+  "services": ["compute","migration"],
+  "domains": ["architecture","modernization"],
+  "categories": ["rehosting"],
+  "links" {
+    "self": "/products/compute/gcp/bare-metal"
+  }
+}
+

@@ -1,6 +1,8 @@
 {
   "title": "Application Debugger",
   "url": "https://en.wikipedia.org/wiki/Debugger",
-  "permalink": "/glossary/application-debugger"
+  "links": {
+    "self": "/glossary/application-debugger"
+  }
 }
 

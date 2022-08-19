@@ -2,6 +2,8 @@
   "title": "Machine Learning (ML)",
   "url": "https://en.wikipedia.org/wiki/Machine_learning",
   "services": ["ai"],
-  "permalink": "/glossary/machine-learning"
+  "links": {
+    "self": "/glossary/machine-learning"
+  }
 }
 

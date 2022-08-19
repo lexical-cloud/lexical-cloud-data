@@ -1,17 +1,17 @@
 {
   "instance": [
-    "/docs/integration/aws/eventbridge",
-    "/docs/integration/aws/kinesis",
-    "/docs/integration/aws/sns",
-    "/docs/integration/aws/sqs",
-    "/docs/integration/azure/event-grid",
-    "/docs/integration/azure/event-hubs",
-    "/docs/integration/azure/notification-hubs",
-    "/docs/storage/azure/queue-storage",
-    "/docs/integration/azure/service-bus",
-    "/docs/integration/azure/signalr",
-    "/docs/integration/gcp/dataflow",
-    "/docs/integration/gcp/pubsub"
+    "/products/integration/aws/eventbridge",
+    "/products/integration/aws/kinesis",
+    "/products/integration/aws/sns",
+    "/products/integration/aws/sqs",
+    "/products/integration/azure/event-grid",
+    "/products/integration/azure/event-hubs",
+    "/products/integration/azure/notification-hubs",
+    "/products/storage/azure/queue-storage",
+    "/products/integration/azure/service-bus",
+    "/products/integration/azure/signalr",
+    "/products/integration/gcp/dataflow",
+    "/products/integration/gcp/pubsub"
   ],
   "intersect": {
     "services": [

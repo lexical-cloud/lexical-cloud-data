@@ -2,11 +2,15 @@
   "id": "directory-gateway",
   "name": "directory gateway",
   "type": "category",
-  "permalink": "/categories/directory-gateway",
+  "links": {
+    "self": "/categories/directory-gateway",
+  },
   "definition": {
     "title": "Directory Gateway",
     "services": ["identity"],
     "domains": ["directory service"],
-    "permalink": "/glossary/directory-gateway"
+    "links": {
+      "self": "/glossary/directory-gateway"
+    }
   }
 }

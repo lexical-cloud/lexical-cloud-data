@@ -2,9 +2,13 @@
   "id": "gcp",
   "name": "gcp",
   "type": "provider",
-  "permalink": "/providers/gcp",
+  "links": {
+    "self": "/providers/gcp",
+  },
   "definition": {
     "title": "Google Cloud",
-    "permalink": "/glossary/gcp"
+    "links": {
+      "self": "/glossary/gcp"
+    }
   }
 }

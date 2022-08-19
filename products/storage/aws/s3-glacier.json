@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Simple Storage Service Glacier",
+  "providers": ["aws"],
+  "services": ["storage"],
+  "domains": ["data management","serverless"],
+  "categories": ["object storage","data archive"],
+  "links" {
+    "self": "/products/storage/aws/s3-glacier"
+  }
+}
+

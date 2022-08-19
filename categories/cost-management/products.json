@@ -1,0 +1,100 @@
+[
+  {
+    "name": "AWS Budgets",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/aws/budgets"
+    }
+  },
+  {
+    "name": "AWS Cost and Usage Report",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "links" {
+      "self": "/products/governance/aws/cost-and-usage-report"
+    }
+  },
+  {
+    "name": "AWS Cost Explorer",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost forecast"],
+    "links" {
+      "self": "/products/governance/aws/cost-explorer"
+    }
+  },
+  {
+    "name": "AWS Pricing Calculator",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/aws/pricing-calculator"
+    }
+  },
+  {
+    "name": "Azure Cost Management",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts","cost forecast"],
+    "links" {
+      "self": "/products/governance/azure/cost-management"
+    }
+  },
+  {
+    "name": "Azure Pricing Calculator",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/azure/pricing-calculator"
+    }
+  },
+  {
+    "name": "Azure Total Cost of Ownership Calculator",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/azure/tco-calculator"
+    }
+  },
+  {
+    "name": "Google Cloud Budgets",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/gcp/budgets"
+    }
+  },
+  {
+    "name": "Google Cloud Pricing Calculator",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/gcp/pricing-calculator"
+    }
+  }
+]

@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Composer",
-  "providers": ["gcp"],
-  "services": ["integration"],
-  "domains": ["managed service","process modeling"],
-  "categories": ["multi-cloud","workflow engine"],
-  "permalink": "/docs/integration/gcp/composer"
-}
-

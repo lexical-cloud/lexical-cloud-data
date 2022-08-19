@@ -1,6 +1,8 @@
 {
   "title": "Data Management",
   "url": "https://en.wikipedia.org/wiki/Data_management",
-  "permalink": "/glossary/data-management"
+  "links": {
+    "self": "/glossary/data-management"
+  }
 }
 

@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/migration/aws/drs"
+    "/products/migration/aws/drs"
   ],
   "intersect": {
     "domains": [

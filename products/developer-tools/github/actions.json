@@ -1,0 +1,11 @@
+{
+  "name": "Github Actions",
+  "providers": ["github"],
+  "services": ["developer tools"],
+  "domains": ["devops"],
+  "categories": ["continuous delivery","continuous integration"],
+  "links" {
+    "self": "/products/developer-tools/github/actions"
+  }
+}
+

@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/integration/aws/sqs",
-    "/docs/storage/azure/queue-storage",
-    "/docs/integration/azure/service-bus",
-    "/docs/integration/gcp/pubsub"
+    "/products/integration/aws/sqs",
+    "/products/storage/azure/queue-storage",
+    "/products/integration/azure/service-bus",
+    "/products/integration/gcp/pubsub"
   ],
   "intersect": {
     "domains": [

@@ -1,0 +1,43 @@
+[
+  {
+    "name": "AWS CodeCommit",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","devops"],
+    "categories": ["source control"],
+    "links" {
+      "self": "/products/developer-tools/aws/codecommit"
+    }
+  },
+  {
+    "name": "Azure Repos",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","devops"],
+    "categories": ["source control"],
+    "links" {
+      "self": "/products/developer-tools/azure/repos"
+    }
+  },
+  {
+    "name": "Github",
+    "providers": ["github"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","project management"],
+    "categories": ["source control","project planning"],
+    "features": ["community"],
+    "links" {
+      "self": "/products/developer-tools/github/github"
+    }
+  },
+  {
+    "name": "Google Cloud Source Repos",
+    "providers": ["gcp"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","devops"],
+    "categories": ["source control"],
+    "links" {
+      "self": "/products/developer-tools/gcp/cloud-source-repos"
+    }
+  }
+]

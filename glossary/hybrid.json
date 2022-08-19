@@ -1,5 +1,7 @@
 {
   "title": "Hybrid",
-  "permalink": "/glossary/hybrid"
+  "links": {
+    "self": "/glossary/hybrid"
+  }
 }
 

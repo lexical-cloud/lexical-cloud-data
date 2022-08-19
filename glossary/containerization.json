@@ -1,6 +1,8 @@
 {
   "title": "Containerization",
   "url": "https://glossary.cncf.io/containerization/",
-  "permalink": "/glossary/containerization"
+  "links": {
+    "self": "/glossary/containerization"
+  }
 }
 

@@ -2,12 +2,16 @@
   "id": "pub-sub",
   "name": "pub-sub",
   "type": "category",
-  "permalink": "/categories/pub-sub",
+  "links": {
+    "self": "/categories/pub-sub",
+  },
   "definition": {
     "title": "Publish-Subscribe (Pub-Sub)",
     "url": "https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern",
     "services": ["integration"],
     "domains": ["eventing"],
-    "permalink": "/glossary/pub-sub"
+    "links": {
+      "self": "/glossary/pub-sub"
+    }
   }
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Simple Storage Service",
+  "providers": ["aws"],
+  "services": ["storage"],
+  "domains": ["data management","serverless"],
+  "categories": ["object storage"],
+  "links" {
+    "self": "/products/storage/aws/s3"
+  }
+}
+

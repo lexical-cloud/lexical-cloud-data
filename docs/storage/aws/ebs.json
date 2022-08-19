@@ -1,9 +1,0 @@
-{
-  "name": "Amazon Elastic Block Storage",
-  "providers": ["aws"],
-  "services": ["storage"],
-  "domains": ["data management"],
-  "categories": ["block storage"],
-  "permalink": "/docs/storage/aws/ebs"
-}
-

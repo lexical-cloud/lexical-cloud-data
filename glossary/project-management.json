@@ -2,6 +2,8 @@
   "title": "Project Management",
   "url": "https://en.wikipedia.org/wiki/Project_management",
   "services": ["developer tools"],
-  "permalink": "/glossary/project-management"
+  "links": {
+    "self": "/glossary/project-management"
+  }
 }
 

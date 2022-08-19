@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/database/aws/athena",
-    "/docs/database/gcp/bigquery"
+    "/products/database/aws/athena",
+    "/products/database/gcp/bigquery"
   ],
   "intersect": {
     "domains": [

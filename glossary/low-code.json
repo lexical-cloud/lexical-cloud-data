@@ -1,6 +1,8 @@
 {
   "title": "Low-Code",
   "url": "https://en.wikipedia.org/wiki/Low-code_development_platform",
-  "permalink": "/glossary/low-code"
+  "links": {
+    "self": "/glossary/low-code"
+  }
 }
 

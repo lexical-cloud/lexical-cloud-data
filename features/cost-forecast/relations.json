@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/governance/aws/cost-explorer",
-    "/docs/governance/azure/cost-management"
+    "/products/governance/aws/cost-explorer",
+    "/products/governance/azure/cost-management"
   ],
   "intersect": {
     "domains": [

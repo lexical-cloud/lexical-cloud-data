@@ -1,0 +1,11 @@
+{
+  "name": "AWS Cloud Adoption Framework",
+  "providers": ["aws"],
+  "services": ["framework"],
+  "domains": ["modernization"],
+  "categories": ["decision making"],
+  "links" {
+    "self": "/products/framework/aws/cloud-adoption"
+  }
+}
+

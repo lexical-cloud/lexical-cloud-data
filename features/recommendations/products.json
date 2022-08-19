@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Azure Cognitive Services",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing","computer vision","decision making"],
+    "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
+    "links" {
+      "self": "/products/ai/azure/cognitive-services"
+    }
+  },
+  {
+    "name": "Azure Cognitive Services Personalizer",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["decision making"],
+    "features": ["personalization","recommendations","prebuilt models"],
+    "links" {
+      "self": "/products/ai/azure/cognitive-services-personalizer"
+    }
+  }
+]

@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Test_plan",
   "services": ["developer tools"],
   "domains": ["developer toolkit"],
-  "permalink": "/glossary/test-planning"
+  "links": {
+    "self": "/glossary/test-planning"
+  }
 }
 

@@ -2,10 +2,14 @@
   "id": "application-debugger",
   "name": "application debugger",
   "type": "category",
-  "permalink": "/categories/application-debugger",
+  "links": {
+    "self": "/categories/application-debugger",
+  },
   "definition": {
     "title": "Application Debugger",
     "url": "https://en.wikipedia.org/wiki/Debugger",
-    "permalink": "/glossary/application-debugger"
+    "links": {
+      "self": "/glossary/application-debugger"
+    }
   }
 }

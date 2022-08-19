@@ -1,0 +1,11 @@
+{
+  "name": "AWS Schema Conversion Tool",
+  "providers": ["aws"],
+  "services": ["database","migration"],
+  "domains": ["data management"],
+  "categories": ["database migration"],
+  "links" {
+    "self": "/products/migration/aws/sct"
+  }
+}
+

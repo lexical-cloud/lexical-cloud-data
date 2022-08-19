@@ -1,11 +1,11 @@
 {
   "instance": [
-    "/docs/governance/azure/management-groups",
-    "/docs/governance/azure/policy",
-    "/docs/governance/azure/policy-initiative",
-    "/docs/governance/azure/resource-groups",
-    "/docs/governance/azure/subscriptions",
-    "/docs/governance/gcp/projects"
+    "/products/governance/azure/management-groups",
+    "/products/governance/azure/policy",
+    "/products/governance/azure/policy-initiative",
+    "/products/governance/azure/resource-groups",
+    "/products/governance/azure/subscriptions",
+    "/products/governance/gcp/projects"
   ],
   "intersect": {
     "services": [

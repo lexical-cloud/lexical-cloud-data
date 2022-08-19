@@ -1,0 +1,11 @@
+{
+  "name": "Azure Databricks",
+  "providers": ["azure"],
+  "services": ["analytics"],
+  "domains": ["big data"],
+  "categories": ["data processing"],
+  "links" {
+    "self": "/products/analytics/azure/databricks"
+  }
+}
+

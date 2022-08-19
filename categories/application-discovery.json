@@ -2,9 +2,13 @@
   "id": "application-discovery",
   "name": "application discovery",
   "type": "category",
-  "permalink": "/categories/application-discovery",
+  "links": {
+    "self": "/categories/application-discovery",
+  },
   "definition": {
     "title": "Application Discovery",
-    "permalink": "/glossary/application-discovery"
+    "links": {
+      "self": "/glossary/application-discovery"
+    }
   }
 }

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Amazon CloudTrail",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["auditing"],
+    "links" {
+      "self": "/products/monitor/aws/cloudtrail"
+    }
+  },
+  {
+    "name": "AWS Artifact",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["compliance","auditing"],
+    "links" {
+      "self": "/products/governance/aws/artifact"
+    }
+  },
+  {
+    "name": "AWS Config",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["systems management"],
+    "categories": ["auditing","configuration management","risk assessment"],
+    "links" {
+      "self": "/products/monitor/aws/config"
+    }
+  },
+  {
+    "name": "AWS Key Management Service",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management","managed service"],
+    "categories": ["data security","key management","auditing"],
+    "links" {
+      "self": "/products/security/aws/kms"
+    }
+  },
+  {
+    "name": "Azure Key Vault",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["auditing","data security","key management","secret management"],
+    "links" {
+      "self": "/products/security/azure/key-vault"
+    }
+  },
+  {
+    "name": "Azure Monitor",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","auditing"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/monitor/azure/monitor"
+    }
+  },
+  {
+    "name": "Google Cloud Logs",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","auditing"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-logging"
+    }
+  },
+  {
+    "name": "Google Cloud Security Command Center",
+    "providers": ["gcp"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","auditing"],
+    "links" {
+      "self": "/products/security/gcp/security-command-center"
+    }
+  },
+  {
+    "name": "Microsoft Defender for Cloud",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","auditing"],
+    "links" {
+      "self": "/products/security/azure/defender-for-cloud"
+    }
+  }
+]

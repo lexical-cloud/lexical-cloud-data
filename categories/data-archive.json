@@ -2,11 +2,15 @@
   "id": "data-archive",
   "name": "data archive",
   "type": "category",
-  "permalink": "/categories/data-archive",
+  "links": {
+    "self": "/categories/data-archive",
+  },
   "definition": {
     "title": "Data Archive",
     "url": "https://en.wikipedia.org/wiki/Archive",
     "domains": ["systems management"],
-    "permalink": "/glossary/data-archive"
+    "links": {
+      "self": "/glossary/data-archive"
+    }
   }
 }

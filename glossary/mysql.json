@@ -2,6 +2,8 @@
   "title": "MySQL Database",
   "url": "https://en.wikipedia.org/wiki/MySQL",
   "services": ["database"],
-  "permalink": "/glossary/mysql"
+  "links": {
+    "self": "/glossary/mysql"
+  }
 }
 

@@ -4,6 +4,8 @@
   "services": ["ai"],
   "domains": ["machine learning"],
   "categories": ["computer vision"],
-  "permalink": "/glossary/object-detection"
+  "links": {
+    "self": "/glossary/object-detection"
+  }
 }
 

@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/database/aws/redshift",
-    "/docs/analytics/azure/synapse-analytics",
-    "/docs/database/gcp/bigquery"
+    "/products/database/aws/redshift",
+    "/products/analytics/azure/synapse-analytics",
+    "/products/database/gcp/bigquery"
   ],
   "intersect": {
     "domains": [

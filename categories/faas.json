@@ -2,12 +2,16 @@
   "id": "faas",
   "name": "faas",
   "type": "category",
-  "permalink": "/categories/faas",
+  "links": {
+    "self": "/categories/faas",
+  },
   "definition": {
     "title": "Function as a Service (FaaS)",
     "url": "https://glossary.cncf.io/function-as-a-service/",
     "services": ["compute"],
     "domains": ["serverless","stateless"],
-    "permalink": "/glossary/faas"
+    "links": {
+      "self": "/glossary/faas"
+    }
   }
 }

@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/integration/aws/sns",
-    "/docs/integration/azure/notification-hubs"
+    "/products/integration/aws/sns",
+    "/products/integration/azure/notification-hubs"
   ],
   "intersect": {
     "domains": [

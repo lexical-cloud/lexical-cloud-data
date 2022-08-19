@@ -1,6 +1,8 @@
 {
   "title": "Continuous Deployment",
   "url": "https://glossary.cncf.io/continuous-deployment/",
-  "permalink": "/glossary/continuous-deployment"
+  "links": {
+    "self": "/glossary/continuous-deployment"
+  }
 }
 

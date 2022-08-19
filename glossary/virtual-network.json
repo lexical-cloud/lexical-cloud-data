@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Network_virtualization",
   "services": ["network"],
   "domains": ["connectivity"],
-  "permalink": "/glossary/virtual-network"
+  "links": {
+    "self": "/glossary/virtual-network"
+  }
 }
 

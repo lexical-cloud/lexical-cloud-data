@@ -1,0 +1,403 @@
+[
+  {
+    "name": "Amazon Athena",
+    "providers": ["aws"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["sql compliant","unstructured data"],
+    "links" {
+      "self": "/products/database/aws/athena"
+    }
+  },
+  {
+    "name": "Amazon Aurora",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql"],
+    "links" {
+      "self": "/products/database/aws/aurora"
+    }
+  },
+  {
+    "name": "Amazon DynamoDB",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","key-value store","nosql db"],
+    "links" {
+      "self": "/products/database/aws/dynamodb"
+    }
+  },
+  {
+    "name": "Amazon Elastic Block Storage",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/aws/ebs"
+    }
+  },
+  {
+    "name": "Amazon Elastic File Storage",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/aws/efs"
+    }
+  },
+  {
+    "name": "Amazon Macie",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data privacy","risk assessment"],
+    "links" {
+      "self": "/products/security/aws/macie"
+    }
+  },
+  {
+    "name": "Amazon Relational Database Service",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "links" {
+      "self": "/products/database/aws/rds"
+    }
+  },
+  {
+    "name": "Amazon Redshift",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["data warehousing"],
+    "links" {
+      "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage"],
+    "links" {
+      "self": "/products/storage/aws/s3"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service Glacier",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/aws/s3-glacier"
+    }
+  },
+  {
+    "name": "AWS Backup",
+    "providers": ["aws"],
+    "services": ["storage","hybrid"],
+    "domains": ["data management","systems management"],
+    "categories": ["data security"],
+    "links" {
+      "self": "/products/storage/aws/backup"
+    }
+  },
+  {
+    "name": "AWS CloudHSM",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data security","key management"],
+    "links" {
+      "self": "/products/security/aws/cloudhsm"
+    }
+  },
+  {
+    "name": "AWS Database Migration Service",
+    "providers": ["aws"],
+    "services": ["migration","database"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/aws/dms"
+    }
+  },
+  {
+    "name": "AWS Elastic Disaster Recovery",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["data management","systems management"],
+    "categories": ["disaster recovery","data security"],
+    "links" {
+      "self": "/products/migration/aws/drs"
+    }
+  },
+  {
+    "name": "AWS Key Management Service",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management","managed service"],
+    "categories": ["data security","key management","auditing"],
+    "links" {
+      "self": "/products/security/aws/kms"
+    }
+  },
+  {
+    "name": "AWS Schema Conversion Tool",
+    "providers": ["aws"],
+    "services": ["database","migration"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/aws/sct"
+    }
+  },
+  {
+    "name": "AWS Secrets Manager",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data security","secret management"],
+    "links" {
+      "self": "/products/security/aws/secrets-manager"
+    }
+  },
+  {
+    "name": "Azure Blob Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["data archive","object storage"],
+    "links" {
+      "self": "/products/storage/azure/blob-storage"
+    }
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/azure/cosmosdb"
+    }
+  },
+  {
+    "name": "Azure Database for MySQL",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql"],
+    "links" {
+      "self": "/products/database/azure/db-for-mysql"
+    }
+  },
+  {
+    "name": "Azure Database for PostgreSQL",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["postgresql"],
+    "links" {
+      "self": "/products/database/azure/db-for-postresql"
+    }
+  },
+  {
+    "name": "Azure Database Migration Service",
+    "providers": ["azure"],
+    "services": ["migration","database"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/azure/dms"
+    }
+  },
+  {
+    "name": "Azure Disk Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/azure/disk-storage"
+    }
+  },
+  {
+    "name": "Azure Files",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/azure/files"
+    }
+  },
+  {
+    "name": "Azure Key Vault",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["auditing","data security","key management","secret management"],
+    "links" {
+      "self": "/products/security/azure/key-vault"
+    }
+  },
+  {
+    "name": "Azure SQL Database",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-db"
+    }
+  },
+  {
+    "name": "Azure SQL Edge",
+    "providers": ["azure"],
+    "services": ["database","iot"],
+    "domains": ["data management","edge computing"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-edge"
+    }
+  },
+  {
+    "name": "Azure SQL Managed Instance",
+    "providers": ["azure"],
+    "services": ["database","hybrid"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-managed-instance"
+    }
+  },
+  {
+    "name": "Azure Table Storage",
+    "providers": ["azure"],
+    "services": ["database","storage"],
+    "domains": ["data management"],
+    "categories": ["nosql db","key-value store"],
+    "links" {
+      "self": "/products/storage/azure/table-storage"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/bigquery"
+    }
+  },
+  {
+    "name": "Google Cloud Bigtable",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["nosql db","key-value store"],
+    "links" {
+      "self": "/products/database/gcp/bigtable"
+    }
+  },
+  {
+    "name": "Google Cloud Filestore",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","managed service"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/gcp/filestore"
+    }
+  },
+  {
+    "name": "Google Cloud Firestore",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/gcp/firestore"
+    }
+  },
+  {
+    "name": "Google Cloud Persistent Disk",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/gcp/peristent-disk"
+    }
+  },
+  {
+    "name": "Google Cloud Spanner",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/spanner"
+    }
+  },
+  {
+    "name": "Google Cloud SQL",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","sql server"],
+    "links" {
+      "self": "/products/database/gcp/cloud-sql"
+    }
+  },
+  {
+    "name": "Google Cloud Storage",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage"],
+    "links" {
+      "self": "/products/storage/gcp/cloud-storage"
+      "models": [
+        "/products/storage/gcp/cloud-storage/archive",
+        "/products/storage/gcp/cloud-storage/coldline",
+        "/products/storage/gcp/cloud-storage/nearline",
+        "/products/storage/gcp/cloud-storage/standard"
+      ]
+    }
+  },
+  {
+    "name": "Google Cloud Storage Archive",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/gcp/cloud-storage-archive"
+    }
+  },
+  {
+    "name": "Microsoft Sentinel",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["siem"],
+    "links" {
+      "self": "/products/security/azure/sentinel"
+    }
+  }
+]

@@ -4,6 +4,8 @@
   "services": ["database"],
   "domains": ["data management"],
   "categories": ["nosql db"],
-  "permalink": "/glossary/document-db"
+  "links": {
+    "self": "/glossary/document-db"
+  }
 }
 

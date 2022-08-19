@@ -2,13 +2,17 @@
   "id": "document-db",
   "name": "document db",
   "type": "category",
-  "permalink": "/categories/document-db",
+  "links": {
+    "self": "/categories/document-db",
+  },
   "definition": {
     "title": "Document Database",
     "url": "https://en.wikipedia.org/wiki/Document-oriented_database",
     "services": ["database"],
     "domains": ["data management"],
     "categories": ["nosql db"],
-    "permalink": "/glossary/document-db"
+    "links": {
+      "self": "/glossary/document-db"
+    }
   }
 }

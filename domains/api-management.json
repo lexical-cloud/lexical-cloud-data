@@ -2,11 +2,15 @@
   "id": "api-management",
   "name": "api management",
   "type": "domain",
-  "permalink": "/domains/api-management",
+  "links": {
+    "self": "/domains/api-management",
+  },
   "definition": {
     "title": "API Management",
     "url": "https://en.wikipedia.org/wiki/API_management",
     "services": ["integration"],
-    "permalink": "/glossary/api-management"
+    "links": {
+      "self": "/glossary/api-management"
+    }
   }
 }

@@ -1,12 +1,12 @@
 {
   "instance": [
-    "/docs/ai/aws/polly",
-    "/docs/ai/azure/bot-service",
-    "/docs/ai/azure/cognitive-services",
-    "/docs/ai/azure/qna-maker",
-    "/docs/ai/gcp/dialogflow",
-    "/docs/ai/gcp/speech-to-text",
-    "/docs/ai/gcp/text-to-speech"
+    "/products/ai/aws/polly",
+    "/products/ai/azure/bot-service",
+    "/products/ai/azure/cognitive-services",
+    "/products/ai/azure/qna-maker",
+    "/products/ai/gcp/dialogflow",
+    "/products/ai/gcp/speech-to-text",
+    "/products/ai/gcp/text-to-speech"
   ],
   "intersect": {
     "domains": [

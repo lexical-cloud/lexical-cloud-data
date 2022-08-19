@@ -2,9 +2,13 @@
   "id": "hybrid",
   "name": "hybrid",
   "type": "service",
-  "permalink": "/services/hybrid",
+  "links": {
+    "self": "/services/hybrid",
+  },
   "definition": {
     "title": "Hybrid",
-    "permalink": "/glossary/hybrid"
+    "links": {
+      "self": "/glossary/hybrid"
+    }
   }
 }

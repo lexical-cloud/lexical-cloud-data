@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/developer-tools/aws/codecommit",
-    "/docs/developer-tools/azure/repos",
-    "/docs/developer-tools/github/github",
-    "/docs/developer-tools/gcp/cloud-source-repos"
+    "/products/developer-tools/aws/codecommit",
+    "/products/developer-tools/azure/repos",
+    "/products/developer-tools/github/github",
+    "/products/developer-tools/gcp/cloud-source-repos"
   ],
   "intersect": {
     "domains": [

@@ -2,6 +2,8 @@
   "title": "Portfolio Management",
   "url": "https://en.wikipedia.org/wiki/IT_portfolio_management",
   "services": ["governance"],
-  "permalink": "/glossary/portfolio-management"
+  "links": {
+    "self": "/glossary/portfolio-management"
+  }
 }
 

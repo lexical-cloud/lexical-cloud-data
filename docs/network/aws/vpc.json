@@ -1,9 +1,0 @@
-{
-  "name": "Amazon Virtual Private Cloud",
-  "providers": ["aws"],
-  "services": ["network"],
-  "domains": ["connectivity"],
-  "categories": ["virtual network"],
-  "permalink": "/docs/network/aws/vpc"
-}
-

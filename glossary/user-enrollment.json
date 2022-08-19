@@ -1,6 +1,8 @@
 {
   "title": "User Enrollment",
   "services": ["identity"],
-  "permalink": "/glossary/user-enrollment"
+  "links": {
+    "self": "/glossary/user-enrollment"
+  }
 }
 

@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amazon Relational Database Service",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "links" {
+      "self": "/products/database/aws/rds"
+    }
+  }
+]

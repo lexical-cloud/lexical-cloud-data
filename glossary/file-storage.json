@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems",
   "services": ["storage"],
   "domains": ["data management"],
-  "permalink": "/glossary/file-storage"
+  "links": {
+    "self": "/glossary/file-storage"
+  }
 }
 

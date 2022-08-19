@@ -1,0 +1,568 @@
+[
+  {
+    "name": "Amazon Inspector",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["virtualization","systems management"],
+    "categories": ["vulnerability management","risk assessment"],
+    "features": ["agent-based"],
+    "links" {
+      "self": "/products/monitor/aws/inspector"
+    }
+  },
+  {
+    "name": "Amazon Route 53",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "features": ["traffic routing"],
+    "links" {
+      "self": "/products/network/aws/route-53"
+    }
+  },
+  {
+    "name": "AWS accounts",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "links" {
+      "self": "/products/governance/aws/accounts"
+    }
+  },
+  {
+    "name": "AWS Artifact",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["compliance","auditing"],
+    "links" {
+      "self": "/products/governance/aws/artifact"
+    }
+  },
+  {
+    "name": "AWS Backup",
+    "providers": ["aws"],
+    "services": ["storage","hybrid"],
+    "domains": ["data management","systems management"],
+    "categories": ["data security"],
+    "links" {
+      "self": "/products/storage/aws/backup"
+    }
+  },
+  {
+    "name": "AWS Budgets",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/aws/budgets"
+    }
+  },
+  {
+    "name": "AWS Certificate Manager",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["certificates"],
+    "links" {
+      "self": "/products/security/aws/certificate-manager"
+    }
+  },
+  {
+    "name": "AWS Config",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["systems management"],
+    "categories": ["auditing","configuration management","risk assessment"],
+    "links" {
+      "self": "/products/monitor/aws/config"
+    }
+  },
+  {
+    "name": "AWS Control Tower",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["compliance","resource management"],
+    "links" {
+      "self": "/products/governance/aws/control-tower"
+    }
+  },
+  {
+    "name": "AWS Cost and Usage Report",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "links" {
+      "self": "/products/governance/aws/cost-and-usage-report"
+    }
+  },
+  {
+    "name": "AWS Cost Explorer",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost forecast"],
+    "links" {
+      "self": "/products/governance/aws/cost-explorer"
+    }
+  },
+  {
+    "name": "AWS Detective",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","root cause analysis"],
+    "links" {
+      "self": "/products/security/aws/detective"
+    }
+  },
+  {
+    "name": "AWS Elastic Disaster Recovery",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["data management","systems management"],
+    "categories": ["disaster recovery","data security"],
+    "links" {
+      "self": "/products/migration/aws/drs"
+    }
+  },
+  {
+    "name": "AWS GuardDuty",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability","systems management"],
+    "categories": ["risks assessment","threat detection"],
+    "features": ["agentless"],
+    "links" {
+      "self": "/products/monitor/aws/guardduty"
+    }
+  },
+  {
+    "name": "AWS OpsWorks",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["virtualization","systems management"],
+    "categories": ["configuration management"],
+    "links" {
+      "self": "/products/developer-tools/aws/opsworks"
+    }
+  },
+  {
+    "name": "AWS Organizations",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "links" {
+      "self": "/products/governance/aws/organizations"
+    }
+  },
+  {
+    "name": "AWS Pricing Calculator",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/aws/pricing-calculator"
+    }
+  },
+  {
+    "name": "AWS resource",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "links" {
+      "self": "/products/governance/aws/resource"
+    }
+  },
+  {
+    "name": "AWS Resource Groups",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "links" {
+      "self": "/products/governance/aws/resource-groups"
+    }
+  },
+  {
+    "name": "AWS Service Catalog",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["compliance","portfolio management"],
+    "links" {
+      "self": "/products/governance/aws/service-catalog"
+    }
+  },
+  {
+    "name": "AWS Service Control Policies",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["access control"],
+    "links" {
+      "self": "/products/governance/aws/service-control-policies"
+    }
+  },
+  {
+    "name": "AWS Shield",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["ddos protection"],
+    "links" {
+      "self": "/products/security/aws/shield"
+    }
+  },
+  {
+    "name": "AWS Systems Manager",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management"],
+    "links" {
+      "self": "/products/developer-tools/aws/systems-manager"
+    }
+  },
+  {
+    "name": "AWS Systems Manager Parameter Store",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management","secret management"],
+    "links" {
+      "self": "/products/developer-tools/aws/systems-manager-parameter-store"
+    }
+  },
+  {
+    "name": "AWS Trusted Advisor",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["risk assessment","best practices"],
+    "links" {
+      "self": "/products/governance/aws/trusted-advisor"
+    }
+  },
+  {
+    "name": "AWS WAF - Web Application Firewall",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["web application firewall"],
+    "links" {
+      "self": "/products/security/aws/waf"
+    }
+  },
+  {
+    "name": "AWS X-Ray",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["systems management"],
+    "categories": ["application debugger","root cause analysis"],
+    "links" {
+      "self": "/products/monitor/aws/xray"
+    }
+  },
+  {
+    "name": "Azure Advisor",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["risk assessment","best practices"],
+    "links" {
+      "self": "/products/governance/azure/advisor"
+    }
+  },
+  {
+    "name": "Azure Automation",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management"],
+    "links" {
+      "self": "/products/developer-tools/azure/automation"
+    }
+  },
+  {
+    "name": "Azure Blueprints",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management","environment management"],
+    "links" {
+      "self": "/products/governance/azure/blueprints"
+    }
+  },
+  {
+    "name": "Azure Cost Management",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts","cost forecast"],
+    "links" {
+      "self": "/products/governance/azure/cost-management"
+    }
+  },
+  {
+    "name": "Azure DDoS Protection",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["ddos protection"],
+    "links" {
+      "self": "/products/security/azure/ddos-protection"
+    }
+  },
+  {
+    "name": "Azure DevTest Labs",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","systems management"],
+    "categories": ["environment management"],
+    "links" {
+      "self": "/products/developer-tools/azure/devtest-labs"
+    }
+  },
+  {
+    "name": "Azure DNS",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "links" {
+      "self": "/products/network/azure/dns"
+    }
+  },
+  {
+    "name": "Azure Front Door",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["edge computing","systems management"],
+    "categories": ["content delivery","web application firewall","ddos protection","certificates"],
+    "links" {
+      "self": "/products/network/azure/front-door"
+    }
+  },
+  {
+    "name": "Azure Management Groups",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "links" {
+      "self": "/products/governance/azure/management-groups"
+    }
+  },
+  {
+    "name": "Azure Policy",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "links" {
+      "self": "/products/governance/azure/policy"
+    }
+  },
+  {
+    "name": "Azure Policy Initiative",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management"],
+    "links" {
+      "self": "/products/governance/azure/policy-initiative"
+    }
+  },
+  {
+    "name": "Azure Pricing Calculator",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/azure/pricing-calculator"
+    }
+  },
+  {
+    "name": "Azure resource",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "features": ["resource locks"],
+    "links" {
+      "self": "/products/governance/azure/resource"
+    }
+  },
+  {
+    "name": "Azure Resource Groups",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "features": ["resource locks"],
+    "links" {
+      "self": "/products/governance/azure/resource-groups"
+    }
+  },
+  {
+    "name": "Azure Resource Manager",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops","systems management"],
+    "categories": ["infrastructure as code","deployment management"],
+    "links" {
+      "self": "/products/developer-tools/azure/arm"
+    }
+  },
+  {
+    "name": "Azure Subscriptions",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "features": ["resource locks"],
+    "links" {
+      "self": "/products/governance/azure/subscriptions"
+    }
+  },
+  {
+    "name": "Azure Total Cost of Ownership Calculator",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/azure/tco-calculator"
+    }
+  },
+  {
+    "name": "Azure Trust Center",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": "systems management",
+    "categories": ["compliance"],
+    "links" {
+      "self": "/products/governance/azure/trust-center"
+    }
+  },
+  {
+    "name": "Google Cloud Budgets",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/gcp/budgets"
+    }
+  },
+  {
+    "name": "Google Cloud Compliance Reports Manager",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["compliance"],
+    "links" {
+      "self": "/products/governance/gcp/compliance-reports-manager"
+    }
+  },
+  {
+    "name": "Google Cloud Debugger",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["systems management","observability"],
+    "categories": ["application debugger","root cause analysis"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-debugger"
+    }
+  },
+  {
+    "name": "Google Cloud DNS",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "links" {
+      "self": "/products/network/gcp/dns"
+    }
+  },
+  {
+    "name": "Google Cloud Pricing Calculator",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/gcp/pricing-calculator"
+    }
+  },
+  {
+    "name": "Google Cloud Projects",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "links" {
+      "self": "/products/governance/gcp/projects"
+    }
+  },
+  {
+    "name": "Google Cloud Quotas",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["resource management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/gcp/quotas"
+    }
+  },
+  {
+    "name": "Google Cloud Security Command Center",
+    "providers": ["gcp"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","auditing"],
+    "links" {
+      "self": "/products/security/gcp/security-command-center"
+    }
+  },
+  {
+    "name": "Google Cloud VM Manager",
+    "providers": ["gcp"],
+    "services": ["developer tools"],
+    "domains": ["systems management","virtualization"],
+    "categories": ["virtual machines"],
+    "links" {
+      "self": "/products/developer-tools/gcp/vm-manager"
+    }
+  },
+  {
+    "name": "Microsoft Defender for Cloud",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","auditing"],
+    "links" {
+      "self": "/products/security/azure/defender-for-cloud"
+    }
+  }
+]

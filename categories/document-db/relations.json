@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/database/aws/dynamodb",
-    "/docs/database/azure/cosmosdb",
-    "/docs/database/gcp/firestore"
+    "/products/database/aws/dynamodb",
+    "/products/database/azure/cosmosdb",
+    "/products/database/gcp/firestore"
   ],
   "intersect": {
     "categories": [

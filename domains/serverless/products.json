@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Amazon API Gateway",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api lifecycle"],
+    "features": ["rest api","http api","websocket api"],
+    "links" {
+      "self": "/products/integration/aws/api-gateway"
+    }
+  },
+  {
+    "name": "Amazon Athena",
+    "providers": ["aws"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["sql compliant","unstructured data"],
+    "links" {
+      "self": "/products/database/aws/athena"
+    }
+  },
+  {
+    "name": "Amazon Aurora",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql"],
+    "links" {
+      "self": "/products/database/aws/aurora"
+    }
+  },
+  {
+    "name": "Amazon DynamoDB",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","key-value store","nosql db"],
+    "links" {
+      "self": "/products/database/aws/dynamodb"
+    }
+  },
+  {
+    "name": "Amazon Elastic File Storage",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/aws/efs"
+    }
+  },
+  {
+    "name": "Amazon EventBridge",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["event bus","pub-sub"],
+    "links" {
+      "self": "/products/integration/aws/eventbridge"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming"],
+    "links" {
+      "self": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Amaxon Lex",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/aws/lex"
+    }
+  },
+  {
+    "name": "Amazon Polly",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["speech processing"],
+    "features": ["text-to-speech"],
+    "links" {
+      "self": "/products/ai/aws/polly"
+    }
+  },
+  {
+    "name": "Amazon QuickSight",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["serverless","big data"],
+    "categories": ["dashboards"],
+    "links" {
+      "self": "/products/analytics/aws/quicksight"
+    }
+  },
+  {
+    "name": "Amazon Redshift",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["data warehousing"],
+    "links" {
+      "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage"],
+    "links" {
+      "self": "/products/storage/aws/s3"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service Glacier",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/aws/s3-glacier"
+    }
+  },
+  {
+    "name": "Amazon Sagemaker",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["model training"],
+    "links" {
+      "self": "/products/ai/aws/sagemaker"
+    }
+  },
+  {
+    "name": "Amazon Sagemaker Autopilot",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["prebuilt models"],
+    "links" {
+      "self": "/products/ai/aws/sagemaker-autopilot"
+    }
+  },
+  {
+    "name": "Amazon Simple Notification Service",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["pub-sub","push notifications"],
+    "links" {
+      "self": "/products/integration/aws/sns"
+    }
+  },
+  {
+    "name": "Amazon Simple Queue Service",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue"],
+    "links" {
+      "self": "/products/integration/aws/sqs"
+    }
+  },
+  {
+    "name": "AWS Fargate",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/aws/fargate"
+    }
+  },
+  {
+    "name": "AWS Lambda",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/aws/lambda"
+    }
+  },
+  {
+    "name": "Azure Logic Apps",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","no-code","workflow engine"],
+    "links" {
+      "self": "/products/integration/azure/logic-apps"
+    }
+  },
+  {
+    "name": "AWS Serverless Application Model",
+    "providers": ["aws"],
+    "services": ["framework"],
+    "domains": ["serverless"],
+    "categories": ["deployment management"],
+    "links" {
+      "self": "/products/framework/aws/sam"
+    }
+  },
+  {
+    "name": "AWS Step Functions",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","workflow engine"],
+    "links" {
+      "self": "/products/integration/aws/step-functions"
+    }
+  },
+  {
+    "name": "Azure API Management",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api gateway","api lifecycle","api portal"],
+    "features": ["rest api","http api","websocket api"],
+    "links" {
+      "self": "/products/integration/azure/api-management"
+    }
+  },
+  {
+    "name": "Azure Blob Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["data archive","object storage"],
+    "links" {
+      "self": "/products/storage/azure/blob-storage"
+    }
+  },
+  {
+    "name": "Azure Bot Service",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/bot-service"
+    }
+  },
+  {
+    "name": "Azure Cognitive Services",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing","computer vision","decision making"],
+    "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
+    "links" {
+      "self": "/products/ai/azure/cognitive-services"
+    }
+  },
+  {
+    "name": "Azure Container Apps",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/container-apps"
+    }
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/azure/cosmosdb"
+    }
+  },
+  {
+    "name": "Azure Event Grid",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["pub-sub"],
+    "links" {
+      "self": "/products/integration/azure/event-grid"
+    }
+  },
+  {
+    "name": "Azure Event Hubs",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming"],
+    "links" {
+      "self": "/products/integration/azure/event-hubs"
+    }
+  },
+  {
+    "name": "Azure Files",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/azure/files"
+    }
+  },
+  {
+    "name": "Azure Functions",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/azure/functions"
+    }
+  },
+  {
+    "name": "Azure Language Understanding",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/luis"
+    }
+  },
+  {
+    "name": "Azure Notification Hubs",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["push notifications"],
+    "links" {
+      "self": "/products/integration/azure/notification-hubs"
+    }
+  },
+  {
+    "name": "Azure QnA Maker",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/qna-maker"
+    }
+  },
+  {
+    "name": "Azure Queue Storage",
+    "providers": ["azure"],
+    "services": ["integration","storage"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue"],
+    "links" {
+      "self": "/products/storage/azure/queue-storage"
+    }
+  },
+  {
+    "name": "Azure Service Bus",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue","pub-sub"],
+    "links" {
+      "self": "/products/integration/azure/service-bus"
+    }
+  },
+  {
+    "name": "Azure SignalR Service",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["real-time communication"],
+    "features": ["websocket api"],
+    "links" {
+      "self": "/products/integration/azure/signalr"
+    }
+  },
+  {
+    "name": "Azure SQL Database",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-db"
+    }
+  },
+  {
+    "name": "Google Cloud API Gateway",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api gateway","api lifecycle"],
+    "features": ["rest api","http api","websocket api"],
+    "links" {
+      "self": "/products/integration/gcp/api-gateway"
+    }
+  },
+  {
+    "name": "Google Cloud Apigee API Management",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api lifecycle","api gateway","api portal"],
+    "features": ["rest api","http api","websocket api"],
+    "links" {
+      "self": "/products/integration/gcp/apigee"
+    }
+  },
+  {
+    "name": "Google Cloud AutoML",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["model training"],
+    "links" {
+      "self": "/products/ai/gcp/automl"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/bigquery"
+    }
+  },
+  {
+    "name": "Google Cloud Dataflow",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming"],
+    "links" {
+      "self": "/products/integration/gcp/dataflow"
+    }
+  },
+  {
+    "name": "Google Cloud Dialogflow",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/gcp/dialogflow"
+    }
+  },
+  {
+    "name": "Google Cloud Endpoints",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api gateway"],
+    "features": ["rest api","http api"],
+    "links" {
+      "self": "/products/integration/gcp/cloud-endpoints"
+    }
+  },
+  {
+    "name": "Google Cloud Firestore",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/gcp/firestore"
+    }
+  },
+  {
+    "name": "Google Cloud Functions",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/gcp/cloud-functions"
+    }
+  },
+  {
+    "name": "Google Cloud Looker",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["serverless","big data"],
+    "categories": ["dashboards"],
+    "links" {
+      "self": "/products/analytics/gcp/looker"
+    }
+  },
+  {
+    "name": "Google Cloud Natural Language AI",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["sentiment analysis","language translation","prebuilt models"],
+    "links" {
+      "self": "/products/ai/gcp/natural-language-ai"
+    }
+  },
+  {
+    "name": "Google Cloud Pub/Sub",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue","pub-sub"],
+    "links" {
+      "self": "/products/integration/gcp/pubsub"
+    }
+  },
+  {
+    "name": "Google Cloud Run",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/gcp/cloud-run"
+    }
+  },
+  {
+    "name": "Google Cloud Speech-to-Text",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["speech processing"],
+    "features": ["speech-to-text","prebuilt models"],
+    "links" {
+      "self": "/products/ai/gcp/speech-to-text"
+    }
+  },
+  {
+    "name": "Google Cloud Storage",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage"],
+    "links" {
+      "self": "/products/storage/gcp/cloud-storage"
+      "models": [
+        "/products/storage/gcp/cloud-storage/archive",
+        "/products/storage/gcp/cloud-storage/coldline",
+        "/products/storage/gcp/cloud-storage/nearline",
+        "/products/storage/gcp/cloud-storage/standard"
+      ]
+    }
+  },
+  {
+    "name": "Google Cloud Storage Archive",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/gcp/cloud-storage-archive"
+    }
+  },
+  {
+    "name": "Google Cloud Text-to-Speech",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["speech processing"],
+    "features": ["text-to-speech","prebuilt models"],
+    "links" {
+      "self": "/products/ai/gcp/text-to-speech"
+    }
+  },
+  {
+    "name": "Google Cloud Workflows",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["process modeling","serverless"],
+    "categories": ["workflow engine"],
+    "links" {
+      "self": "/products/integration/gcp/workflows"
+    }
+  },
+  {
+    "name": "Microsoft Power Virtual Agents",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/power-virtual-agents"
+    }
+  }
+]

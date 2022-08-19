@@ -1,0 +1,11 @@
+{
+  "name": "AWS VPC Peering",
+  "providers": ["aws"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["virtual network"],
+  "links" {
+    "self": "/products/network/aws/vpc-peering"
+  }
+}
+

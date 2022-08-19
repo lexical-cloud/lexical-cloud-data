@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Amazon EC2 Security Group",
+    "providers": ["aws"],
+    "services": ["security","compute"],
+    "domains": ["virtualization"],
+    "categories": ["firewall"],
+    "features": ["stateful"],
+    "links" {
+      "self": "/products/security/aws/security-group"
+    }
+  },
+  {
+    "name": "Azure Network Security Group",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "features": ["stateful"],
+    "links" {
+      "self": "/products/network/azure/security-groups"
+    }
+  }
+]

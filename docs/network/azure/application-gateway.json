@@ -1,9 +1,0 @@
-{
-  "name": "Azure Application Gateway",
-  "providers": ["azure"],
-  "services": ["network"],
-  "domains": ["connectivity"],
-  "categories": ["load balancer","application load balancer","web application firewall"],
-  "permalink": "/docs/network/azure/application-gateway"
-}
-

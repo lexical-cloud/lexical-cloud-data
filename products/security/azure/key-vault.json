@@ -1,0 +1,11 @@
+{
+  "name": "Azure Key Vault",
+  "providers": ["azure"],
+  "services": ["security"],
+  "domains": ["data management"],
+  "categories": ["auditing","data security","key management","secret management"],
+  "links" {
+    "self": "/products/security/azure/key-vault"
+  }
+}
+

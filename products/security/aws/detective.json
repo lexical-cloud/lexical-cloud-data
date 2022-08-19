@@ -1,0 +1,11 @@
+{
+  "name": "AWS Detective",
+  "providers": ["aws"],
+  "services": ["security"],
+  "domains": ["systems management"],
+  "categories": ["security monitoring","root cause analysis"],
+  "links" {
+    "self": "/products/security/aws/detective"
+  }
+}
+

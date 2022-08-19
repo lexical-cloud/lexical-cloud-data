@@ -1,0 +1,12 @@
+{
+  "name": "Azure Service Health",
+  "providers": ["azure"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["health"],
+  "features": ["alerts","maintenance schedule","reports","personalization"],
+  "links" {
+    "self": "/products/monitor/azure/service-health"
+  }
+}
+

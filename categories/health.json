@@ -2,5 +2,6 @@
   "id": "health",
   "name": "health",
   "type": "category",
-  "permalink": "/categories/health"
+  "links": {
+    "self": "/categories/health"
 }

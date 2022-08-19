@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/compute/aws/batch"
+    "/products/compute/aws/batch"
   ],
   "intersect": {
     "domains": [

@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/network/aws/transit-gateway",
-    "/docs/network/azure/virtual-wan"
+    "/products/network/aws/transit-gateway",
+    "/products/network/azure/virtual-wan"
   ],
   "intersect": {
     "domains": [

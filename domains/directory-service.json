@@ -2,10 +2,14 @@
   "id": "directory-service",
   "name": "directory service",
   "type": "domain",
-  "permalink": "/domains/directory-service",
+  "links": {
+    "self": "/domains/directory-service",
+  },
   "definition": {
     "title": "Directory Service",
     "services": ["identity"],
-    "permalink": "/glossary/directory-service"
+    "links": {
+      "self": "/glossary/directory-service"
+    }
   }
 }

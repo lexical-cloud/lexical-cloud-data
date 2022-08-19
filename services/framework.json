@@ -2,9 +2,13 @@
   "id": "framework",
   "name": "framework",
   "type": "service",
-  "permalink": "/services/framework",
+  "links": {
+    "self": "/services/framework",
+  },
   "definition": {
     "title": "Framework",
-    "permalink": "/glossary/framework"
+    "links": {
+      "self": "/glossary/framework"
+    }
   }
 }

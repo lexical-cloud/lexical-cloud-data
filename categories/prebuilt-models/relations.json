@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/ai/aws/sagemaker-autopilot",
-    "/docs/ai/gcp/ai-hub"
+    "/products/ai/aws/sagemaker-autopilot",
+    "/products/ai/gcp/ai-hub"
   ],
   "intersect": {
     "domains": [

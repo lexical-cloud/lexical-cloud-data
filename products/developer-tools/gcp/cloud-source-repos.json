@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Source Repos",
+  "providers": ["gcp"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","devops"],
+  "categories": ["source control"],
+  "links" {
+    "self": "/products/developer-tools/gcp/cloud-source-repos"
+  }
+}
+

@@ -1,11 +1,11 @@
 {
   "instance": [
-    "/docs/hybrid/aws/outposts",
-    "/docs/framework/aws/well-architected",
-    "/docs/framework/azure/well-architected",
-    "/docs/hybrid/gcp/anthos",
-    "/docs/framework/gcp/architecture",
-    "/docs/compute/gcp/bare-metal"
+    "/products/hybrid/aws/outposts",
+    "/products/framework/aws/well-architected",
+    "/products/framework/azure/well-architected",
+    "/products/hybrid/gcp/anthos",
+    "/products/framework/gcp/architecture",
+    "/products/compute/gcp/bare-metal"
   ],
   "intersect": {},
   "symdiff": {

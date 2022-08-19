@@ -2,13 +2,17 @@
   "id": "sentiment-analysis",
   "name": "sentiment analysis",
   "type": "feature",
-  "permalink": "/features/sentiment-analysis",
+  "links": {
+    "self": "/features/sentiment-analysis",
+  },
   "definition": {
     "title": "Sentiment Analysis",
     "url": "https://en.wikipedia.org/wiki/Sentiment_analysis",
     "services": ["ai"],
     "domains": ["machine learning"],
     "categories": ["language processing"],
-    "permalink": "/glossary/sentiment-analysis"
+    "links": {
+      "self": "/glossary/sentiment-analysis"
+    }
   }
 }

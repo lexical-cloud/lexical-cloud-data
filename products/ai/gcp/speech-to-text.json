@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Speech-to-Text",
+  "providers": ["gcp"],
+  "services": ["ai"],
+  "domains": ["machine learning","serverless"],
+  "categories": ["speech processing"],
+  "features": ["speech-to-text","prebuilt models"],
+  "links" {
+    "self": "/products/ai/gcp/speech-to-text"
+  }
+}
+

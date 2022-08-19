@@ -2,9 +2,13 @@
   "id": "monitor",
   "name": "monitor",
   "type": "service",
-  "permalink": "/services/monitor",
+  "links": {
+    "self": "/services/monitor",
+  },
   "definition": {
     "title": "Monitor",
-    "permalink": "/glossary/monitor"
+    "links": {
+      "self": "/glossary/monitor"
+    }
   }
 }

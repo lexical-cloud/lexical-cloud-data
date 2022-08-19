@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AWS Secrets Manager",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data security","secret management"],
+    "links" {
+      "self": "/products/security/aws/secrets-manager"
+    }
+  },
+  {
+    "name": "AWS Systems Manager Parameter Store",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management","secret management"],
+    "links" {
+      "self": "/products/developer-tools/aws/systems-manager-parameter-store"
+    }
+  },
+  {
+    "name": "Azure Key Vault",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["auditing","data security","key management","secret management"],
+    "links" {
+      "self": "/products/security/azure/key-vault"
+    }
+  }
+]

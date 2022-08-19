@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/governance/aws/pricing-calculator",
-    "/docs/governance/azure/pricing-calculator",
-    "/docs/governance/azure/tco-calculator",
-    "/docs/governance/gcp/pricing-calculator"
+    "/products/governance/aws/pricing-calculator",
+    "/products/governance/azure/pricing-calculator",
+    "/products/governance/azure/tco-calculator",
+    "/products/governance/gcp/pricing-calculator"
   ],
   "intersect": {
     "domains": [

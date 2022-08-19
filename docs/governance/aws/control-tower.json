@@ -1,9 +1,0 @@
-{
-  "name": "AWS Control Tower",
-  "providers": ["aws"],
-  "services": ["governance"],
-  "domains": ["systems management"],
-  "categories": ["compliance","resource management"],
-  "permalink": "/docs/governance/aws/control-tower"
-}
-

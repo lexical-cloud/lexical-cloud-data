@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/developer-tools/aws/codeartifact",
-    "/docs/developer-tools/azure/artifacts"
+    "/products/developer-tools/aws/codeartifact",
+    "/products/developer-tools/azure/artifacts"
   ],
   "intersect": {},
   "symdiff": {

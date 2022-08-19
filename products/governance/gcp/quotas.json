@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Quotas",
+  "providers": ["gcp"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["resource management"],
+  "features": ["alerts"],
+  "links" {
+    "self": "/products/governance/gcp/quotas"
+  }
+}
+

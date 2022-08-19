@@ -1,9 +1,0 @@
-{
-  "name": "AWS Service Catalog",
-  "providers": ["aws"],
-  "services": ["governance"],
-  "domains": ["systems management"],
-  "categories": ["compliance","portfolio management"],
-  "permalink": "/docs/governance/aws/service-catalog"
-}
-

@@ -1,0 +1,11 @@
+{
+  "name": "AWS Control Tower",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["compliance","resource management"],
+  "links" {
+    "self": "/products/governance/aws/control-tower"
+  }
+}
+

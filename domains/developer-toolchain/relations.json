@@ -1,14 +1,14 @@
 {
   "instance": [
-    "/docs/developer-tools/aws/cloud9",
-    "/docs/developer-tools/aws/codecommit",
-    "/docs/developer-tools/aws/codestar",
-    "/docs/developer-tools/azure/boards",
-    "/docs/developer-tools/azure/devtest-labs",
-    "/docs/developer-tools/azure/repos",
-    "/docs/developer-tools/azure/test-plans",
-    "/docs/developer-tools/github/github",
-    "/docs/developer-tools/gcp/cloud-source-repos"
+    "/products/developer-tools/aws/cloud9",
+    "/products/developer-tools/aws/codecommit",
+    "/products/developer-tools/aws/codestar",
+    "/products/developer-tools/azure/boards",
+    "/products/developer-tools/azure/devtest-labs",
+    "/products/developer-tools/azure/repos",
+    "/products/developer-tools/azure/test-plans",
+    "/products/developer-tools/github/github",
+    "/products/developer-tools/gcp/cloud-source-repos"
   ],
   "intersect": {},
   "symdiff": {

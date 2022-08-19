@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Identity and Access Management",
-  "providers": ["gcp"],
-  "services": ["identity"],
-  "domains": ["identity management"],
-  "categories": ["access control"],
-  "permalink": "/docs/identity/gcp/iam"
-}
-

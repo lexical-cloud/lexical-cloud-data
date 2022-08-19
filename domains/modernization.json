@@ -2,10 +2,14 @@
   "id": "modernization",
   "name": "modernization",
   "type": "domain",
-  "permalink": "/domains/modernization",
+  "links": {
+    "self": "/domains/modernization",
+  },
   "definition": {
     "title": "Modernization",
     "url": "https://en.wikipedia.org/wiki/Software_modernization",
-    "permalink": "/glossary/modernization"
+    "links": {
+      "self": "/glossary/modernization"
+    }
   }
 }

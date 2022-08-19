@@ -1,9 +1,0 @@
-{
-  "name": "AWS Config",
-  "providers": ["aws"],
-  "services": ["monitor"],
-  "domains": ["systems management"],
-  "categories": ["auditing","configuration management","risk assessment"],
-  "permalink": "/docs/monitor/aws/config"
-}
-

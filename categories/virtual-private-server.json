@@ -2,11 +2,15 @@
   "id": "virtual-private-server",
   "name": "virtual private server",
   "type": "category",
-  "permalink": "/categories/virtual-private-server",
+  "links": {
+    "self": "/categories/virtual-private-server",
+  },
   "definition": {
     "title": "Virtual Private Server",
     "url": "https://en.wikipedia.org/wiki/Virtual_private_server",
     "domains": ["virtualization"],
-    "permalink": "/glossary/virtual-private-server"
+    "links": {
+      "self": "/glossary/virtual-private-server"
+    }
   }
 }

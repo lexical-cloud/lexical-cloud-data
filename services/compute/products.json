@@ -1,0 +1,280 @@
+[
+  {
+    "name": "Amazon Elastic Compute Cloud",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "links" {
+      "self": "/products/compute/aws/ec2"
+    }
+  },
+  {
+    "name": "Amazon EC2 Auto Scaling",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "features": ["auto scaling"],
+    "links" {
+      "self": "/products/compute/aws/ec2-auto-scaling"
+    }
+  },
+  {
+    "name": "Amazon EC2 Security Group",
+    "providers": ["aws"],
+    "services": ["security","compute"],
+    "domains": ["virtualization"],
+    "categories": ["firewall"],
+    "features": ["stateful"],
+    "links" {
+      "self": "/products/security/aws/security-group"
+    }
+  },
+  {
+    "name": "Amazon Elastic Container Service",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/aws/ecs"
+    }
+  },
+  {
+    "name": "Amazon Elastic Kubernetes Service",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator","kubernetes"],
+    "links" {
+      "self": "/products/compute/aws/eks"
+    }
+  },
+  {
+    "name": "Amazon Lightsail",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service","virtualization"],
+    "categories": ["virtual private server"],
+    "links" {
+      "self": "/products/compute/aws/lightsail"
+    }
+  },
+  {
+    "name": "Amazon WorkSpaces",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual desktop"],
+    "links" {
+      "self": "/products/compute/aws/workspaces"
+    }
+  },
+  {
+    "name": "AWS Batch",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["batch processing"],
+    "links" {
+      "self": "/products/compute/aws/batch"
+    }
+  },
+  {
+    "name": "AWS Elastic Beanstalk",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "links" {
+      "self": "/products/compute/aws/beanstalk"
+    }
+  },
+  {
+    "name": "AWS Fargate",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/aws/fargate"
+    }
+  },
+  {
+    "name": "AWS Lambda",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/aws/lambda"
+    }
+  },
+  {
+    "name": "Azure App Service",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "links" {
+      "self": "/products/compute/azure/app-service"
+    }
+  },
+  {
+    "name": "Azure Container Apps",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/container-apps"
+    }
+  },
+  {
+    "name": "Azure Container Instances",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/container-instances"
+    }
+  },
+  {
+    "name": "Azure Functions",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/azure/functions"
+    }
+  },
+  {
+    "name": "Azure Kubernetes Service",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator","kubernetes"],
+    "links" {
+      "self": "/products/compute/azure/aks"
+    }
+  },
+  {
+    "name": "Azure Service Fabric",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/service-fabric"
+    }
+  },
+  {
+    "name": "Azure Virtual Machines",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "links" {
+      "self": "/products/compute/azure/vm"
+    }
+  },
+  {
+    "name": "Azure Virtual Machine Scaled Sets",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "features": ["auto scaling"],
+    "links" {
+      "self": "/products/compute/azure/vm-scaled-sets"
+    }
+  },
+  {
+    "name": "Google App Engine",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "links" {
+      "self": "/products/compute/gcp/app-engine"
+      "models": [
+        "/products/compute/gcp/app-engine/flexible",
+        "/products/compute/gcp/app-engine/standard"
+      ]
+    }
+  },
+  {
+    "name": "Google Cloud Bare Metal Solution",
+    "providers": ["gcp"],
+    "services": ["compute","migration"],
+    "domains": ["architecture","modernization"],
+    "categories": ["rehosting"],
+    "links" {
+      "self": "/products/compute/gcp/bare-metal"
+    }
+  },
+  {
+    "name": "Google Cloud Compute Engine",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "links" {
+      "self": "/products/compute/gcp/compute-engine"
+    }
+  },
+  {
+    "name": "Google Cloud Functions",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/gcp/cloud-functions"
+    }
+  },
+  {
+    "name": "Google Cloud Managed Instance Groups",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "features": ["auto scaling"],
+    "links" {
+      "self": "/products/compute/gcp/managed-instance-groups"
+    }
+  },
+  {
+    "name": "Google Cloud Run",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/gcp/cloud-run"
+    }
+  },
+  {
+    "name": "Google Cloud VMware Engine",
+    "providers": ["gcp"],
+    "services": ["compute","migration"],
+    "domains": ["managed service","modernization","virtualization"],
+    "categories": ["virtual machines","rehosting"],
+    "links" {
+      "self": "/products/compute/gcp/vmware-engine"
+    }
+  },
+  {
+    "name": "Google Kubernetes Engine",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator","kubernetes"],
+    "links" {
+      "self": "/products/compute/gcp/gke"
+    }
+  }
+]

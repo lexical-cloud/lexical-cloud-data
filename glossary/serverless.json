@@ -1,6 +1,8 @@
 {
   "title": "Serverless",
   "url": "https://glossary.cncf.io/serverless/",
-  "permalink": "/glossary/serverless"
+  "links": {
+    "self": "/glossary/serverless"
+  }
 }
 

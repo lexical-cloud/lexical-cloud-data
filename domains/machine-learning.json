@@ -2,11 +2,15 @@
   "id": "machine-learning",
   "name": "machine learning",
   "type": "domain",
-  "permalink": "/domains/machine-learning",
+  "links": {
+    "self": "/domains/machine-learning",
+  },
   "definition": {
     "title": "Machine Learning (ML)",
     "url": "https://en.wikipedia.org/wiki/Machine_learning",
     "services": ["ai"],
-    "permalink": "/glossary/machine-learning"
+    "links": {
+      "self": "/glossary/machine-learning"
+    }
   }
 }

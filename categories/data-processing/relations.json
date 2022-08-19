@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/analytics/azure/data-lake-analytics",
-    "/docs/analytics/azure/databricks",
-    "/docs/analytics/azure/hdinsight",
-    "/docs/analytics/gcp/dataproc"
+    "/products/analytics/azure/data-lake-analytics",
+    "/products/analytics/azure/databricks",
+    "/products/analytics/azure/hdinsight",
+    "/products/analytics/gcp/dataproc"
   ],
   "intersect": {
     "domains": [

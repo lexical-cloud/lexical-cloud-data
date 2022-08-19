@@ -2,9 +2,13 @@
   "id": "security",
   "name": "security",
   "type": "service",
-  "permalink": "/services/security",
+  "links": {
+    "self": "/services/security",
+  },
   "definition": {
     "title": "Security",
-    "permalink": "/glossary/security"
+    "links": {
+      "self": "/glossary/security"
+    }
   }
 }

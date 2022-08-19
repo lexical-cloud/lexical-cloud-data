@@ -1,14 +1,14 @@
 {
   "instance": [
-    "/docs/compute/aws/ecs",
-    "/docs/compute/aws/eks",
-    "/docs/compute/aws/fargate",
-    "/docs/compute/azure/container-apps",
-    "/docs/compute/azure/container-instances",
-    "/docs/compute/azure/aks",
-    "/docs/compute/azure/service-fabric",
-    "/docs/compute/gcp/cloud-run",
-    "/docs/compute/gcp/gke"
+    "/products/compute/aws/ecs",
+    "/products/compute/aws/eks",
+    "/products/compute/aws/fargate",
+    "/products/compute/azure/container-apps",
+    "/products/compute/azure/container-instances",
+    "/products/compute/azure/aks",
+    "/products/compute/azure/service-fabric",
+    "/products/compute/gcp/cloud-run",
+    "/products/compute/gcp/gke"
   ],
   "intersect": {
     "domains": [

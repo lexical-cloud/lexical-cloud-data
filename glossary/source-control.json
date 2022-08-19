@@ -3,6 +3,8 @@
   "url": "https://glossary.cncf.io/version-control/",
   "services": ["developer tools"],
   "domains": ["developer toolchain","devops"],
-  "permalink": "/glossary/source-control"
+  "links": {
+    "self": "/glossary/source-control"
+  }
 }
 

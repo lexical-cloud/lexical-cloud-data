@@ -2,6 +2,8 @@
   "title": "Platform as a Service (PaaS)",
   "url": "https://en.wikipedia.org/wiki/Platform_as_a_service",
   "domains": ["architecture"],
-  "permalink": "/glossary/paas"
+  "links": {
+    "self": "/glossary/paas"
+  }
 }
 

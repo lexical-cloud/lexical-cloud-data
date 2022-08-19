@@ -1,5 +1,7 @@
 {
   "title": "Amazon Web Services",
-  "permalink": "/glossary/aws"
+  "links": {
+    "self": "/glossary/aws"
+  }
 }
 

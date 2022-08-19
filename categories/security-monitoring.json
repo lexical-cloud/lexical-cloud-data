@@ -2,12 +2,16 @@
   "id": "security-monitoring",
   "name": "security monitoring",
   "type": "category",
-  "permalink": "/categories/security-monitoring",
+  "links": {
+    "self": "/categories/security-monitoring",
+  },
   "definition": {
     "title": "Security Monitoring",
     "url": "https://en.wikipedia.org/wiki/Application_performance_management",
     "services": ["monitor","security"],
     "domains": ["systems management"],
-    "permalink": "/glossary/security-monitoring"
+    "links": {
+      "self": "/glossary/security-monitoring"
+    }
   }
 }

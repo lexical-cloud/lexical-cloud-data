@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Stateful",
   "services": ["compute"],
   "domains": ["architecture"],
-  "permalink": "/glossary/stateful"
+  "links": {
+    "self": "/glossary/stateful"
+  }
 }
 

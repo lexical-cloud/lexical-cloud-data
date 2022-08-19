@@ -2,12 +2,16 @@
   "id": "api-lifecycle",
   "name": "api lifecycle",
   "type": "category",
-  "permalink": "/categories/api-lifecycle",
+  "links": {
+    "self": "/categories/api-lifecycle",
+  },
   "definition": {
     "title": "API Lifecycle",
     "url": "https://en.wikipedia.org/wiki/Application_lifecycle_management",
     "services": ["integration"],
     "domains": ["api management"],
-    "permalink": "/glossary/api-lifecycle"
+    "links": {
+      "self": "/glossary/api-lifecycle"
+    }
   }
 }

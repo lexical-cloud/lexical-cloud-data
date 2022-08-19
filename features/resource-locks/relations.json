@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/governance/azure/resource",
-    "/docs/governance/azure/resource-groups",
-    "/docs/governance/azure/subscriptions"
+    "/products/governance/azure/resource",
+    "/products/governance/azure/resource-groups",
+    "/products/governance/azure/subscriptions"
   ],
   "intersect": {
     "services": [

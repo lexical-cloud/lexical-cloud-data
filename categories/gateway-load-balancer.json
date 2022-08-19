@@ -2,12 +2,16 @@
   "id": "gateway-load-balancer",
   "name": "gateway load balancer",
   "type": "category",
-  "permalink": "/categories/gateway-load-balancer",
+  "links": {
+    "self": "/categories/gateway-load-balancer",
+  },
   "definition": {
     "title": "Gateway Load Balancer",
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer"],
-    "permalink": "/glossary/gateway-load-balancer"
+    "links": {
+      "self": "/glossary/gateway-load-balancer"
+    }
   }
 }

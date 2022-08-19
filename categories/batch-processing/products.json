@@ -1,0 +1,12 @@
+[
+  {
+    "name": "AWS Batch",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["batch processing"],
+    "links" {
+      "self": "/products/compute/aws/batch"
+    }
+  }
+]

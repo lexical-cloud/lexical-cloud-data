@@ -2,9 +2,13 @@
   "id": "migration",
   "name": "migration",
   "type": "service",
-  "permalink": "/services/migration",
+  "links": {
+    "self": "/services/migration",
+  },
   "definition": {
     "title": "Migration",
-    "permalink": "/glossary/migration"
+    "links": {
+      "self": "/glossary/migration"
+    }
   }
 }

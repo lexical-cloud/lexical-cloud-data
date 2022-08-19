@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/developer-tools/aws/cloudformation",
-    "/docs/framework/aws/sam",
-    "/docs/developer-tools/azure/arm"
+    "/products/developer-tools/aws/cloudformation",
+    "/products/framework/aws/sam",
+    "/products/developer-tools/azure/arm"
   ],
   "intersect": {
     "domains": [

@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Filestore",
+  "providers": ["gcp"],
+  "services": ["storage"],
+  "domains": ["data management","managed service"],
+  "categories": ["file storage"],
+  "links" {
+    "self": "/products/storage/gcp/filestore"
+  }
+}
+

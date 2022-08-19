@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Firestore",
-  "providers": ["gcp"],
-  "services": ["database"],
-  "domains": ["data management","serverless"],
-  "categories": ["document db","nosql db"],
-  "permalink": "/docs/database/gcp/firestore"
-}
-

@@ -2,12 +2,16 @@
   "id": "nosql-db",
   "name": "nosql db",
   "type": "category",
-  "permalink": "/categories/nosql-db",
+  "links": {
+    "self": "/categories/nosql-db",
+  },
   "definition": {
     "title": "NoSQL Database",
     "url": "https://en.wikipedia.org/wiki/NoSQL",
     "services": ["database"],
     "domains": ["data management"],
-    "permalink": "/glossary/nosql-db"
+    "links": {
+      "self": "/glossary/nosql-db"
+    }
   }
 }

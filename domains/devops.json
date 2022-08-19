@@ -2,10 +2,14 @@
   "id": "devops",
   "name": "devops",
   "type": "domain",
-  "permalink": "/domains/devops",
+  "links": {
+    "self": "/domains/devops",
+  },
   "definition": {
     "title": "DevOps",
     "url": "https://glossary.cncf.io/devops/",
-    "permalink": "/glossary/devops"
+    "links": {
+      "self": "/glossary/devops"
+    }
   }
 }

@@ -1,9 +1,0 @@
-{
-  "name": "AWS Storage Gateway",
-  "providers": ["aws"],
-  "services": ["hybrid","storage"],
-  "domains": ["modernization"],
-  "categories": ["on-premises"],
-  "permalink": "/docs/hybrid/aws/storage-gateway"
-}
-

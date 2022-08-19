@@ -1,5 +1,7 @@
 {
   "title": "Migration",
-  "permalink": "/glossary/migration"
+  "links": {
+    "self": "/glossary/migration"
+  }
 }
 

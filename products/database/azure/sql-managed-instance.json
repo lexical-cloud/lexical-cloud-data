@@ -1,0 +1,11 @@
+{
+  "name": "Azure SQL Managed Instance",
+  "providers": ["azure"],
+  "services": ["database","hybrid"],
+  "domains": ["data management","managed service"],
+  "categories": ["relational db","sql compliant"],
+  "links" {
+    "self": "/products/database/azure/sql-managed-instance"
+  }
+}
+

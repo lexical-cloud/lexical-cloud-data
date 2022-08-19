@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/database/aws/dynamodb",
-    "/docs/storage/azure/table-storage",
-    "/docs/database/gcp/bigtable"
+    "/products/database/aws/dynamodb",
+    "/products/storage/azure/table-storage",
+    "/products/database/gcp/bigtable"
   ],
   "intersect": {
     "categories": [

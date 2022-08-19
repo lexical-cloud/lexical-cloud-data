@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/compute/aws/lightsail"
+    "/products/compute/aws/lightsail"
   ],
   "intersect": {
     "domains": [

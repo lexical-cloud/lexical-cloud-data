@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/governance/azure/blueprints",
-    "/docs/developer-tools/azure/devtest-labs"
+    "/products/governance/azure/blueprints",
+    "/products/developer-tools/azure/devtest-labs"
   ],
   "intersect": {},
   "symdiff": {

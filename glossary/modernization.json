@@ -1,6 +1,8 @@
 {
   "title": "Modernization",
   "url": "https://en.wikipedia.org/wiki/Software_modernization",
-  "permalink": "/glossary/modernization"
+  "links": {
+    "self": "/glossary/modernization"
+  }
 }
 

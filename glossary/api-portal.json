@@ -2,6 +2,8 @@
   "title": "API Portal",
   "services": ["integration"],
   "domains": ["api management"],
-  "permalink": "/glossary/api-portal"
+  "links": {
+    "self": "/glossary/api-portal"
+  }
 }
 

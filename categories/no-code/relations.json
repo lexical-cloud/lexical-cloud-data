@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/integration/azure/logic-apps",
-    "/docs/ai/azure/qna-maker",
-    "/docs/ai/azure/power-virtual-agents"
+    "/products/integration/azure/logic-apps",
+    "/products/ai/azure/qna-maker",
+    "/products/ai/azure/power-virtual-agents"
   ],
   "intersect": {},
   "symdiff": {

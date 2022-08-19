@@ -1,0 +1,12 @@
+{
+  "name": "Azure Network Security Group",
+  "providers": ["azure"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["firewall"],
+  "features": ["stateful"],
+  "links" {
+    "self": "/products/network/azure/security-groups"
+  }
+}
+

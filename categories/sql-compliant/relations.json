@@ -1,16 +1,16 @@
 {
   "instance": [
-    "/docs/database/aws/athena",
-    "/docs/database/aws/aurora",
-    "/docs/database/aws/rds",
-    "/docs/database/azure/db-for-mysql",
-    "/docs/database/azure/db-for-postresql",
-    "/docs/database/azure/sql-db",
-    "/docs/database/azure/sql-edge",
-    "/docs/database/azure/sql-managed-instance",
-    "/docs/database/gcp/bigquery",
-    "/docs/database/gcp/spanner",
-    "/docs/database/gcp/cloud-sql"
+    "/products/database/aws/athena",
+    "/products/database/aws/aurora",
+    "/products/database/aws/rds",
+    "/products/database/azure/db-for-mysql",
+    "/products/database/azure/db-for-postresql",
+    "/products/database/azure/sql-db",
+    "/products/database/azure/sql-edge",
+    "/products/database/azure/sql-managed-instance",
+    "/products/database/gcp/bigquery",
+    "/products/database/gcp/spanner",
+    "/products/database/gcp/cloud-sql"
   ],
   "intersect": {
     "domains": [

@@ -1,0 +1,11 @@
+{
+  "name": "AWS OpsWorks",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["virtualization","systems management"],
+  "categories": ["configuration management"],
+  "links" {
+    "self": "/products/developer-tools/aws/opsworks"
+  }
+}
+

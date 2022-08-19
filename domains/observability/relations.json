@@ -1,19 +1,19 @@
 {
   "instance": [
-    "/docs/monitor/aws/cloudtrail",
-    "/docs/monitor/aws/cloudwatch",
-    "/docs/monitor/aws/cloudwatch-app-insights",
-    "/docs/monitor/aws/guardduty",
-    "/docs/monitor/aws/health-dashboard",
-    "/docs/monitor/azure/monitor",
-    "/docs/monitor/azure/monitor-app-insights",
-    "/docs/monitor/azure/service-health",
-    "/docs/monitor/gcp/cloud-debugger",
-    "/docs/monitor/gcp/error-reporting",
-    "/docs/monitor/gcp/cloud-logging",
-    "/docs/monitor/gcp/cloud-monitoring",
-    "/docs/monitor/gcp/cloud-profiler",
-    "/docs/monitor/gcp/cloud-trace"
+    "/products/monitor/aws/cloudtrail",
+    "/products/monitor/aws/cloudwatch",
+    "/products/monitor/aws/cloudwatch-app-insights",
+    "/products/monitor/aws/guardduty",
+    "/products/monitor/aws/health-dashboard",
+    "/products/monitor/azure/monitor",
+    "/products/monitor/azure/monitor-app-insights",
+    "/products/monitor/azure/service-health",
+    "/products/monitor/gcp/cloud-debugger",
+    "/products/monitor/gcp/error-reporting",
+    "/products/monitor/gcp/cloud-logging",
+    "/products/monitor/gcp/cloud-monitoring",
+    "/products/monitor/gcp/cloud-profiler",
+    "/products/monitor/gcp/cloud-trace"
   ],
   "intersect": {
     "services": [

@@ -2,13 +2,17 @@
   "id": "speech-to-text",
   "name": "speech-to-text",
   "type": "feature",
-  "permalink": "/features/speech-to-text",
+  "links": {
+    "self": "/features/speech-to-text",
+  },
   "definition": {
     "title": "Speech-to-Text",
     "url": "https://en.wikipedia.org/wiki/Speech_recognition",
     "services": ["ai"],
     "domains": ["machine learning"],
     "categories": ["speech processing"],
-    "permalink": "/glossary/speech-to-text"
+    "links": {
+      "self": "/glossary/speech-to-text"
+    }
   }
 }

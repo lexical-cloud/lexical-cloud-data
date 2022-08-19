@@ -2,5 +2,6 @@
   "id": "on-premises",
   "name": "on-premises",
   "type": "category",
-  "permalink": "/categories/on-premises"
+  "links": {
+    "self": "/categories/on-premises"
 }

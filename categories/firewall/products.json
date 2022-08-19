@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Amazon EC2 Security Group",
+    "providers": ["aws"],
+    "services": ["security","compute"],
+    "domains": ["virtualization"],
+    "categories": ["firewall"],
+    "features": ["stateful"],
+    "links" {
+      "self": "/products/security/aws/security-group"
+    }
+  },
+  {
+    "name": "AWS Network Access Control List",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "features": ["stateless"],
+    "links" {
+      "self": "/products/network/aws/access-control-list"
+    }
+  },
+  {
+    "name": "AWS Network Firewall",
+    "providers": ["aws"],
+    "services": ["security","network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "links" {
+      "self": "/products/security/aws/network-firewall"
+    }
+  },
+  {
+    "name": "Azure Firewall",
+    "providers": ["azure"],
+    "services": ["security","network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "links" {
+      "self": "/products/security/azure/firewall"
+    }
+  },
+  {
+    "name": "Azure Network Security Group",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "features": ["stateful"],
+    "links" {
+      "self": "/products/network/azure/security-groups"
+    }
+  },
+  {
+    "name": "Google Cloud Firewall",
+    "providers": ["gcp"],
+    "services": ["security","network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "links" {
+      "self": "/products/security/gcp/firewall"
+    }
+  }
+]

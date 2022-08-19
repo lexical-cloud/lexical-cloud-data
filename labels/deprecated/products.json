@@ -1,0 +1,35 @@
+[
+  {
+    "name": "AWS Cloud Endure",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/migration/aws/cloud-endure"
+    }
+  },
+  {
+    "name": "AWS Server Migration Service",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/migration/aws/sms"
+    }
+  },
+  {
+    "name": "Google Cloud Debugger",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["systems management","observability"],
+    "categories": ["application debugger","root cause analysis"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-debugger"
+    }
+  }
+]

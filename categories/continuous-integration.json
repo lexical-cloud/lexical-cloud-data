@@ -2,10 +2,14 @@
   "id": "continuous-integration",
   "name": "continuous integration",
   "type": "category",
-  "permalink": "/categories/continuous-integration",
+  "links": {
+    "self": "/categories/continuous-integration",
+  },
   "definition": {
     "title": "Continuous Integration",
     "url": "https://glossary.cncf.io/continuous-integration/",
-    "permalink": "/glossary/continuous-integration"
+    "links": {
+      "self": "/glossary/continuous-integration"
+    }
   }
 }

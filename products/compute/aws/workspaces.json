@@ -1,0 +1,11 @@
+{
+  "name": "Amazon WorkSpaces",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["virtualization"],
+  "categories": ["virtual desktop"],
+  "links" {
+    "self": "/products/compute/aws/workspaces"
+  }
+}
+

@@ -1,5 +1,7 @@
 {
   "title": "Governance",
-  "permalink": "/glossary/governance"
+  "links": {
+    "self": "/glossary/governance"
+  }
 }
 

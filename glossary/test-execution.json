@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Test_execution_engine",
   "services": ["developer tools"],
   "domains": ["developer toolkit"],
-  "permalink": "/glossary/test-execution"
+  "links": {
+    "self": "/glossary/test-execution"
+  }
 }
 

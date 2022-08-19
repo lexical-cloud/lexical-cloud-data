@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Security Command Center",
-  "providers": ["gcp"],
-  "services": ["security"],
-  "domains": ["systems management"],
-  "categories": ["security monitoring","auditing"],
-  "permalink": "/docs/security/gcp/security-command-center"
-}
-

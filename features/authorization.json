@@ -2,11 +2,15 @@
   "id": "authorization",
   "name": "authorization",
   "type": "feature",
-  "permalink": "/features/authorization",
+  "links": {
+    "self": "/features/authorization",
+  },
   "definition": {
     "title": "Authorization (AuthZ)",
     "url": "https://en.wikipedia.org/wiki/Authorization",
     "services": ["security"],
-    "permalink": "/glossary/authorization"
+    "links": {
+      "self": "/glossary/authorization"
+    }
   }
 }

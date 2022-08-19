@@ -1,11 +1,11 @@
 {
   "instance": [
-    "/docs/monitor/aws/cloudwatch",
-    "/docs/monitor/aws/cloudwatch-app-insights",
-    "/docs/monitor/azure/monitor",
-    "/docs/monitor/azure/monitor-app-insights",
-    "/docs/monitor/gcp/cloud-logging",
-    "/docs/monitor/gcp/cloud-monitoring"
+    "/products/monitor/aws/cloudwatch",
+    "/products/monitor/aws/cloudwatch-app-insights",
+    "/products/monitor/azure/monitor",
+    "/products/monitor/azure/monitor-app-insights",
+    "/products/monitor/gcp/cloud-logging",
+    "/products/monitor/gcp/cloud-monitoring"
   ],
   "intersect": {
     "domains": [

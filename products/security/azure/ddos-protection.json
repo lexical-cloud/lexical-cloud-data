@@ -1,0 +1,11 @@
+{
+  "name": "Azure DDoS Protection",
+  "providers": ["azure"],
+  "services": ["security"],
+  "domains": ["systems management"],
+  "categories": ["ddos protection"],
+  "links" {
+    "self": "/products/security/azure/ddos-protection"
+  }
+}
+

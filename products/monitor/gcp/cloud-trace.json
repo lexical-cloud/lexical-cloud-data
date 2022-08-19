@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Trace",
+  "providers": ["gcp"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["root cause analysis","performance monitoring"],
+  "features": ["open telemetry"],
+  "links" {
+    "self": "/products/monitor/gcp/cloud-trace"
+  }
+}
+

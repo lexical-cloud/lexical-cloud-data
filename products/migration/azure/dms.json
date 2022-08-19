@@ -1,0 +1,11 @@
+{
+  "name": "Azure Database Migration Service",
+  "providers": ["azure"],
+  "services": ["migration","database"],
+  "domains": ["data management"],
+  "categories": ["database migration"],
+  "links" {
+    "self": "/products/migration/azure/dms"
+  }
+}
+

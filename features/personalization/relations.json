@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/monitor/aws/health-dashboard",
-    "/docs/ai/azure/cognitive-services-personalizer",
-    "/docs/monitor/azure/service-health"
+    "/products/monitor/aws/health-dashboard",
+    "/products/ai/azure/cognitive-services-personalizer",
+    "/products/monitor/azure/service-health"
   ],
   "intersect": {},
   "symdiff": {

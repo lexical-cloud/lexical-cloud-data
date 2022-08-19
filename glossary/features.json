@@ -1,5 +1,7 @@
 {
   "title": "Features",
-  "permalink": "/glossary/features"
+  "links": {
+    "self": "/glossary/features"
+  }
 }
 

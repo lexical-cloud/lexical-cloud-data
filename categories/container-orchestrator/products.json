@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Amazon Elastic Container Service",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/aws/ecs"
+    }
+  },
+  {
+    "name": "Amazon Elastic Kubernetes Service",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator","kubernetes"],
+    "links" {
+      "self": "/products/compute/aws/eks"
+    }
+  },
+  {
+    "name": "AWS Fargate",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/aws/fargate"
+    }
+  },
+  {
+    "name": "Azure Container Apps",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/container-apps"
+    }
+  },
+  {
+    "name": "Azure Container Instances",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/container-instances"
+    }
+  },
+  {
+    "name": "Azure Kubernetes Service",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator","kubernetes"],
+    "links" {
+      "self": "/products/compute/azure/aks"
+    }
+  },
+  {
+    "name": "Azure Service Fabric",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/service-fabric"
+    }
+  },
+  {
+    "name": "Google Cloud Run",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/gcp/cloud-run"
+    }
+  },
+  {
+    "name": "Google Kubernetes Engine",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator","kubernetes"],
+    "links" {
+      "self": "/products/compute/gcp/gke"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "AWS Identity and Access Management",
+  "providers": ["aws"],
+  "services": ["identity"],
+  "domains": ["identity management"],
+  "categories": ["access control","identity provider"],
+  "links" {
+    "self": "/products/identity/aws/iam"
+  }
+}
+

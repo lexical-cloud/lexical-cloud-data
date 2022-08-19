@@ -2,6 +2,8 @@
   "title": "Model Training",
   "url": "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets",
   "domains": ["machine learning"],
-  "permalink": "/glossary/model-training"
+  "links": {
+    "self": "/glossary/model-training"
+  }
 }
 

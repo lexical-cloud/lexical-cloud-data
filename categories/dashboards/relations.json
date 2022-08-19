@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/monitor/aws/cloudwatch-app-insights",
-    "/docs/analytics/aws/quicksight",
-    "/docs/monitor/azure/monitor-app-insights",
-    "/docs/analytics/gcp/looker",
-    "/docs/monitor/gcp/cloud-monitoring"
+    "/products/monitor/aws/cloudwatch-app-insights",
+    "/products/analytics/aws/quicksight",
+    "/products/monitor/azure/monitor-app-insights",
+    "/products/analytics/gcp/looker",
+    "/products/monitor/gcp/cloud-monitoring"
   ],
   "intersect": {
     "services": [

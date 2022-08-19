@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AWS Lambda",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/aws/lambda"
+    }
+  },
+  {
+    "name": "Azure Functions",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/azure/functions"
+    }
+  },
+  {
+    "name": "Google Cloud Functions",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/gcp/cloud-functions"
+    }
+  }
+]

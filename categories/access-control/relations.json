@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/identity/aws/iam",
-    "/docs/governance/aws/service-control-policies",
-    "/docs/identity/azure/rbac",
-    "/docs/identity/gcp/iam"
+    "/products/identity/aws/iam",
+    "/products/governance/aws/service-control-policies",
+    "/products/identity/azure/rbac",
+    "/products/identity/gcp/iam"
   ],
   "intersect": {
     "domains": [

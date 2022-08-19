@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Identity and Access Management",
+  "providers": ["gcp"],
+  "services": ["identity"],
+  "domains": ["identity management"],
+  "categories": ["access control"],
+  "links" {
+    "self": "/products/identity/gcp/iam"
+  }
+}
+

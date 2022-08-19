@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/integration/aws/eventbridge",
-    "/docs/integration/aws/sns",
-    "/docs/integration/azure/event-grid",
-    "/docs/integration/azure/service-bus",
-    "/docs/integration/gcp/pubsub"
+    "/products/integration/aws/eventbridge",
+    "/products/integration/aws/sns",
+    "/products/integration/azure/event-grid",
+    "/products/integration/azure/service-bus",
+    "/products/integration/gcp/pubsub"
   ],
   "intersect": {
     "domains": [

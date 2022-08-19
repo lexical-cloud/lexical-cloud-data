@@ -1,0 +1,905 @@
+[
+  {
+    "name": "Azure Cache for Redis",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["managed service"],
+    "categories": ["caching"],
+    "links" {
+      "self": "/products/database/azure/cache-for-redis"
+    }
+  },
+  {
+    "name": "Azure Logic Apps",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","no-code","workflow engine"],
+    "links" {
+      "self": "/products/integration/azure/logic-apps"
+    }
+  },
+  {
+    "name": "Azure Active Directory",
+    "providers": ["azure"],
+    "services": ["identity"],
+    "domains": ["directory service","identity management"],
+    "categories": ["identity provider"],
+    "links" {
+      "self": "/products/identity/azure/ad"
+    }
+  },
+  {
+    "name": "Azure Advisor",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["risk assessment","best practices"],
+    "links" {
+      "self": "/products/governance/azure/advisor"
+    }
+  },
+  {
+    "name": "Azure API Management",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["api management","serverless"],
+    "categories": ["api gateway","api lifecycle","api portal"],
+    "features": ["rest api","http api","websocket api"],
+    "links" {
+      "self": "/products/integration/azure/api-management"
+    }
+  },
+  {
+    "name": "Azure App Configuration",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous configuration"],
+    "links" {
+      "self": "/products/developer-tools/azure/appconfig"
+    }
+  },
+  {
+    "name": "Azure App Service",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "links" {
+      "self": "/products/compute/azure/app-service"
+    }
+  },
+  {
+    "name": "Azure Application Gateway",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","web application firewall"],
+    "links" {
+      "self": "/products/network/azure/application-gateway"
+    }
+  },
+  {
+    "name": "Azure Artifacts",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["artifact repository"],
+    "links" {
+      "self": "/products/developer-tools/azure/artifacts"
+    }
+  },
+  {
+    "name": "Azure Automation",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["systems management"],
+    "categories": ["configuration management"],
+    "links" {
+      "self": "/products/developer-tools/azure/automation"
+    }
+  },
+  {
+    "name": "Azure Blob Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["data archive","object storage"],
+    "links" {
+      "self": "/products/storage/azure/blob-storage"
+    }
+  },
+  {
+    "name": "Azure Blueprints",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management","environment management"],
+    "links" {
+      "self": "/products/governance/azure/blueprints"
+    }
+  },
+  {
+    "name": "Azure Boards",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","project management"],
+    "categories": ["project planning"],
+    "links" {
+      "self": "/products/developer-tools/azure/boards"
+    }
+  },
+  {
+    "name": "Azure Bot Service",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/bot-service"
+    }
+  },
+  {
+    "name": "Azure CDN",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["edge computing"],
+    "categories": ["content delivery"],
+    "links" {
+      "self": "/products/network/azure/cdn"
+    }
+  },
+  {
+    "name": "Azure Cloud Adoption Framework",
+    "providers": ["azure"],
+    "services": ["framework"],
+    "domains": ["modernization"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/azure/cloud-adoption"
+    }
+  },
+  {
+    "name": "Azure Cognitive Services",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing","computer vision","decision making"],
+    "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
+    "links" {
+      "self": "/products/ai/azure/cognitive-services"
+    }
+  },
+  {
+    "name": "Azure Cognitive Services Personalizer",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["decision making"],
+    "features": ["personalization","recommendations","prebuilt models"],
+    "links" {
+      "self": "/products/ai/azure/cognitive-services-personalizer"
+    }
+  },
+  {
+    "name": "Azure Container Apps",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/container-apps"
+    }
+  },
+  {
+    "name": "Azure Container Instances",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/container-instances"
+    }
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/azure/cosmosdb"
+    }
+  },
+  {
+    "name": "Azure Cost Management",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts","cost forecast"],
+    "links" {
+      "self": "/products/governance/azure/cost-management"
+    }
+  },
+  {
+    "name": "Azure Data Lake Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links" {
+      "self": "/products/analytics/azure/data-lake-analytics"
+    }
+  },
+  {
+    "name": "Azure Database for MySQL",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql"],
+    "links" {
+      "self": "/products/database/azure/db-for-mysql"
+    }
+  },
+  {
+    "name": "Azure Database for PostgreSQL",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["postgresql"],
+    "links" {
+      "self": "/products/database/azure/db-for-postresql"
+    }
+  },
+  {
+    "name": "Azure Database Migration Service",
+    "providers": ["azure"],
+    "services": ["migration","database"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/azure/dms"
+    }
+  },
+  {
+    "name": "Azure Databricks",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links" {
+      "self": "/products/analytics/azure/databricks"
+    }
+  },
+  {
+    "name": "Azure DDoS Protection",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["ddos protection"],
+    "links" {
+      "self": "/products/security/azure/ddos-protection"
+    }
+  },
+  {
+    "name": "Azure DevTest Labs",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","systems management"],
+    "categories": ["environment management"],
+    "links" {
+      "self": "/products/developer-tools/azure/devtest-labs"
+    }
+  },
+  {
+    "name": "Azure Disk Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/azure/disk-storage"
+    }
+  },
+  {
+    "name": "Azure DNS",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "links" {
+      "self": "/products/network/azure/dns"
+    }
+  },
+  {
+    "name": "Azure Event Grid",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["pub-sub"],
+    "links" {
+      "self": "/products/integration/azure/event-grid"
+    }
+  },
+  {
+    "name": "Azure Event Hubs",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming"],
+    "links" {
+      "self": "/products/integration/azure/event-hubs"
+    }
+  },
+  {
+    "name": "Azure ExpressRoute",
+    "providers": ["azure"],
+    "services": ["hybrid","network"],
+    "domains": ["connectivity"],
+    "categories": ["on-premises","private network"],
+    "links" {
+      "self": "/products/network/azure/expressroute"
+    }
+  },
+  {
+    "name": "Azure Files",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/azure/files"
+    }
+  },
+  {
+    "name": "Azure Firewall",
+    "providers": ["azure"],
+    "services": ["security","network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "links" {
+      "self": "/products/security/azure/firewall"
+    }
+  },
+  {
+    "name": "Azure Front Door",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["edge computing","systems management"],
+    "categories": ["content delivery","web application firewall","ddos protection","certificates"],
+    "links" {
+      "self": "/products/network/azure/front-door"
+    }
+  },
+  {
+    "name": "Azure Functions",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "links" {
+      "self": "/products/compute/azure/functions"
+    }
+  },
+  {
+    "name": "Azure HDInsights",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links" {
+      "self": "/products/analytics/azure/hdinsight"
+    }
+  },
+  {
+    "name": "Azure IoT Central",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot management"],
+    "links" {
+      "self": "/products/iot/azure/central"
+    }
+  },
+  {
+    "name": "Azure IoT Edge",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot processing"],
+    "features": ["container-based"],
+    "links" {
+      "self": "/products/iot/azure/edge"
+    }
+  },
+  {
+    "name": "Azure IoT Hub",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot communication"],
+    "links" {
+      "self": "/products/iot/azure/hub"
+    }
+  },
+  {
+    "name": "Azure Key Vault",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["auditing","data security","key management","secret management"],
+    "links" {
+      "self": "/products/security/azure/key-vault"
+    }
+  },
+  {
+    "name": "Azure Kubernetes Service",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","managed service"],
+    "categories": ["container orchestrator","kubernetes"],
+    "links" {
+      "self": "/products/compute/azure/aks"
+    }
+  },
+  {
+    "name": "Azure Load Balancer",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","network load balancer"],
+    "links" {
+      "self": "/products/network/azure/load-balancer"
+    }
+  },
+  {
+    "name": "Azure Language Understanding",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/luis"
+    }
+  },
+  {
+    "name": "Azure Management Groups",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "links" {
+      "self": "/products/governance/azure/management-groups"
+    }
+  },
+  {
+    "name": "Azure Monitor",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","auditing"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/monitor/azure/monitor"
+    }
+  },
+  {
+    "name": "Azure Monitor Application Insights",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "links" {
+      "self": "/products/monitor/azure/monitor-app-insights"
+    }
+  },
+  {
+    "name": "Azure Network Security Group",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "features": ["stateful"],
+    "links" {
+      "self": "/products/network/azure/security-groups"
+    }
+  },
+  {
+    "name": "Azure Network Watcher",
+    "providers": ["azure"],
+    "services": ["network","monitor"],
+    "domains": ["connectivity"],
+    "categories": ["network monitoring"],
+    "links" {
+      "self": "/products/network/azure/network-watcher"
+    }
+  },
+  {
+    "name": "Azure Notification Hubs",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["push notifications"],
+    "links" {
+      "self": "/products/integration/azure/notification-hubs"
+    }
+  },
+  {
+    "name": "Azure Pipelines",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["continuous integration","continuous deployment","continuous delivery"],
+    "links" {
+      "self": "/products/developer-tools/azure/pipelines"
+    }
+  },
+  {
+    "name": "Azure Policy",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "links" {
+      "self": "/products/governance/azure/policy"
+    }
+  },
+  {
+    "name": "Azure Policy Initiative",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management"],
+    "links" {
+      "self": "/products/governance/azure/policy-initiative"
+    }
+  },
+  {
+    "name": "Azure Pricing Calculator",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/azure/pricing-calculator"
+    }
+  },
+  {
+    "name": "Azure QnA Maker",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/qna-maker"
+    }
+  },
+  {
+    "name": "Azure Queue Storage",
+    "providers": ["azure"],
+    "services": ["integration","storage"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue"],
+    "links" {
+      "self": "/products/storage/azure/queue-storage"
+    }
+  },
+  {
+    "name": "Azure Role Based Access Control",
+    "providers": ["azure"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control"],
+    "links" {
+      "self": "/products/identity/azure/rbac"
+    }
+  },
+  {
+    "name": "Azure Repos",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","devops"],
+    "categories": ["source control"],
+    "links" {
+      "self": "/products/developer-tools/azure/repos"
+    }
+  },
+  {
+    "name": "Azure resource",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["resource management"],
+    "features": ["resource locks"],
+    "links" {
+      "self": "/products/governance/azure/resource"
+    }
+  },
+  {
+    "name": "Azure Resource Groups",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "features": ["resource locks"],
+    "links" {
+      "self": "/products/governance/azure/resource-groups"
+    }
+  },
+  {
+    "name": "Azure Resource Manager",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops","systems management"],
+    "categories": ["infrastructure as code","deployment management"],
+    "links" {
+      "self": "/products/developer-tools/azure/arm"
+    }
+  },
+  {
+    "name": "Azure Service Bus",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue","pub-sub"],
+    "links" {
+      "self": "/products/integration/azure/service-bus"
+    }
+  },
+  {
+    "name": "Azure Service Fabric",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization"],
+    "categories": ["container orchestrator"],
+    "links" {
+      "self": "/products/compute/azure/service-fabric"
+    }
+  },
+  {
+    "name": "Azure Service Health",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "links" {
+      "self": "/products/monitor/azure/service-health"
+    }
+  },
+  {
+    "name": "Azure SignalR Service",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["real-time communication"],
+    "features": ["websocket api"],
+    "links" {
+      "self": "/products/integration/azure/signalr"
+    }
+  },
+  {
+    "name": "Azure Sphere",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot hardware","iot security"],
+    "links" {
+      "self": "/products/iot/azure/sphere"
+    }
+  },
+  {
+    "name": "Azure SQL Database",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-db"
+    }
+  },
+  {
+    "name": "Azure SQL Edge",
+    "providers": ["azure"],
+    "services": ["database","iot"],
+    "domains": ["data management","edge computing"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-edge"
+    }
+  },
+  {
+    "name": "Azure SQL Managed Instance",
+    "providers": ["azure"],
+    "services": ["database","hybrid"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-managed-instance"
+    }
+  },
+  {
+    "name": "Azure Subscriptions",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["policy management","resource management"],
+    "features": ["resource locks"],
+    "links" {
+      "self": "/products/governance/azure/subscriptions"
+    }
+  },
+  {
+    "name": "Azure Synapse Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data warehousing"],
+    "links" {
+      "self": "/products/analytics/azure/synapse-analytics"
+    }
+  },
+  {
+    "name": "Azure Table Storage",
+    "providers": ["azure"],
+    "services": ["database","storage"],
+    "domains": ["data management"],
+    "categories": ["nosql db","key-value store"],
+    "links" {
+      "self": "/products/storage/azure/table-storage"
+    }
+  },
+  {
+    "name": "Azure Total Cost of Ownership Calculator",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/azure/tco-calculator"
+    }
+  },
+  {
+    "name": "Azure Test Plans",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["test planning","test execution"],
+    "links" {
+      "self": "/products/developer-tools/azure/test-plans"
+    }
+  },
+  {
+    "name": "Azure Traffic Manager",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer"],
+    "features": ["traffic routing"],
+    "links" {
+      "self": "/products/network/azure/traffic-manager"
+    }
+  },
+  {
+    "name": "Azure Trust Center",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": "systems management",
+    "categories": ["compliance"],
+    "links" {
+      "self": "/products/governance/azure/trust-center"
+    }
+  },
+  {
+    "name": "Azure Virtual Machines",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "links" {
+      "self": "/products/compute/azure/vm"
+    }
+  },
+  {
+    "name": "Azure Virtual WAN",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network transit hub","virtual network"],
+    "links" {
+      "self": "/products/network/azure/virtual-wan"
+    }
+  },
+  {
+    "name": "Azure Virtual Machine Scaled Sets",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "features": ["auto scaling"],
+    "links" {
+      "self": "/products/compute/azure/vm-scaled-sets"
+    }
+  },
+  {
+    "name": "Azure Virtual Network",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "links" {
+      "self": "/products/network/azure/vnet"
+    }
+  },
+  {
+    "name": "Azure Virtual Network Service Endpoint",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/azure/vnet-service-endpoint"
+    }
+  },
+  {
+    "name": "Azure VPN Gateway",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/azure/vpn-gateway"
+    }
+  },
+  {
+    "name": "Azure Well-Architected Framework",
+    "providers": ["azure"],
+    "services": ["framework"],
+    "domains": ["architecture"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/azure/well-architected"
+    }
+  },
+  {
+    "name": "Microsoft Defender for Cloud",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["security monitoring","auditing"],
+    "links" {
+      "self": "/products/security/azure/defender-for-cloud"
+    }
+  },
+  {
+    "name": "Microsoft Power Virtual Agents",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/power-virtual-agents"
+    }
+  },
+  {
+    "name": "Microsoft Sentinel",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["siem"],
+    "links" {
+      "self": "/products/security/azure/sentinel"
+    }
+  }
+]

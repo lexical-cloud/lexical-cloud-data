@@ -2,12 +2,16 @@
   "id": "stateful",
   "name": "stateful",
   "type": "feature",
-  "permalink": "/features/stateful",
+  "links": {
+    "self": "/features/stateful",
+  },
   "definition": {
     "title": "Stateful",
     "url": "https://en.wikipedia.org/wiki/Stateful",
     "services": ["compute"],
     "domains": ["architecture"],
-    "permalink": "/glossary/stateful"
+    "links": {
+      "self": "/glossary/stateful"
+    }
   }
 }

@@ -1,6 +1,8 @@
 {
   "title": "Managed Services",
   "url": "https://glossary.cncf.io/managed-services/",
-  "permalink": "/glossary/managed-services"
+  "links": {
+    "self": "/glossary/managed-services"
+  }
 }
 

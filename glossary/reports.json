@@ -1,6 +1,8 @@
 {
   "title": "Reports",
   "url": "https://en.wikipedia.org/wiki/Report",
-  "permalink": "/glossary/reports"
+  "links": {
+    "self": "/glossary/reports"
+  }
 }
 

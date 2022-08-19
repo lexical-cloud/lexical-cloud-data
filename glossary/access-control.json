@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Access_control",
   "services": ["identity"],
   "domains": ["identity management"],
-  "permalink": "/glossary/access-control"
+  "links": {
+    "self": "/glossary/access-control"
+  }
 }
 

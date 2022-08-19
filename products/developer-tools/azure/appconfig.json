@@ -1,0 +1,11 @@
+{
+  "name": "Azure App Configuration",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["devops"],
+  "categories": ["continuous configuration"],
+  "links" {
+    "self": "/products/developer-tools/azure/appconfig"
+  }
+}
+

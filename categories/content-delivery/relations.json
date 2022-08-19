@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/network/aws/cloudfront",
-    "/docs/network/azure/cdn",
-    "/docs/network/azure/front-door",
-    "/docs/network/gcp/cdn"
+    "/products/network/aws/cloudfront",
+    "/products/network/azure/cdn",
+    "/products/network/azure/front-door",
+    "/products/network/gcp/cdn"
   ],
   "intersect": {
     "domains": [

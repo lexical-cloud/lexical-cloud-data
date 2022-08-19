@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/security/aws/cloudhsm",
-    "/docs/security/aws/kms",
-    "/docs/security/azure/key-vault"
+    "/products/security/aws/cloudhsm",
+    "/products/security/aws/kms",
+    "/products/security/azure/key-vault"
   ],
   "intersect": {
     "categories": [

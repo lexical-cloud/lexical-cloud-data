@@ -2,11 +2,15 @@
   "id": "community",
   "name": "community",
   "type": "feature",
-  "permalink": "/features/community",
+  "links": {
+    "self": "/features/community",
+  },
   "definition": {
     "title": "Community",
     "url": "https://en.wikipedia.org/wiki/Community",
     "services": ["governance"],
-    "permalink": "/glossary/community"
+    "links": {
+      "self": "/glossary/community"
+    }
   }
 }

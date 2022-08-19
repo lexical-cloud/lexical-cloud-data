@@ -1,0 +1,11 @@
+{
+  "name": "Azure Automation",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["systems management"],
+  "categories": ["configuration management"],
+  "links" {
+    "self": "/products/developer-tools/azure/automation"
+  }
+}
+

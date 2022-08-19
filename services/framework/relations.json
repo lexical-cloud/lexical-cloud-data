@@ -1,12 +1,12 @@
 {
   "instance": [
-    "/docs/framework/aws/cloud-adoption",
-    "/docs/framework/aws/sam",
-    "/docs/framework/aws/well-architected",
-    "/docs/framework/azure/cloud-adoption",
-    "/docs/framework/azure/well-architected",
-    "/docs/framework/gcp/cloud-adoption",
-    "/docs/framework/gcp/architecture"
+    "/products/framework/aws/cloud-adoption",
+    "/products/framework/aws/sam",
+    "/products/framework/aws/well-architected",
+    "/products/framework/azure/cloud-adoption",
+    "/products/framework/azure/well-architected",
+    "/products/framework/gcp/cloud-adoption",
+    "/products/framework/gcp/architecture"
   ],
   "intersect": {},
   "symdiff": {

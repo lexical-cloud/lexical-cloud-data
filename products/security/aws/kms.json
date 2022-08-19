@@ -1,0 +1,11 @@
+{
+  "name": "AWS Key Management Service",
+  "providers": ["aws"],
+  "services": ["security"],
+  "domains": ["data management","managed service"],
+  "categories": ["data security","key management","auditing"],
+  "links" {
+    "self": "/products/security/aws/kms"
+  }
+}
+

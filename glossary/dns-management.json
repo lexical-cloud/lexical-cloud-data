@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Domain_Name_System",
   "services": ["network"],
   "domains": ["systems management"],
-  "permalink": "/glossary/dns-management"
+  "links": {
+    "self": "/glossary/dns-management"
+  }
 }
 

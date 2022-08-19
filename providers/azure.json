@@ -2,9 +2,13 @@
   "id": "azure",
   "name": "azure",
   "type": "provider",
-  "permalink": "/providers/azure",
+  "links": {
+    "self": "/providers/azure",
+  },
   "definition": {
     "title": "Microsoft Azure",
-    "permalink": "/glossary/azure"
+    "links": {
+      "self": "/glossary/azure"
+    }
   }
 }

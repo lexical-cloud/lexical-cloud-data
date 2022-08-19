@@ -1,9 +1,0 @@
-{
-  "name": "Azure Trust Center",
-  "providers": ["azure"],
-  "services": ["governance"],
-  "domains": "systems management",
-  "categories": ["compliance"],
-  "permalink": "/docs/governance/azure/trust-center"
-}
-

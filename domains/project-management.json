@@ -2,11 +2,15 @@
   "id": "project-management",
   "name": "project management",
   "type": "domain",
-  "permalink": "/domains/project-management",
+  "links": {
+    "self": "/domains/project-management",
+  },
   "definition": {
     "title": "Project Management",
     "url": "https://en.wikipedia.org/wiki/Project_management",
     "services": ["developer tools"],
-    "permalink": "/glossary/project-management"
+    "links": {
+      "self": "/glossary/project-management"
+    }
   }
 }

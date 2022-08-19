@@ -2,10 +2,14 @@
   "id": "personalization",
   "name": "personalization",
   "type": "feature",
-  "permalink": "/features/personalization",
+  "links": {
+    "self": "/features/personalization",
+  },
   "definition": {
     "title": "Personalization",
     "url": "https://en.wikipedia.org/wiki/Personalization",
-    "permalink": "/glossary/personalization"
+    "links": {
+      "self": "/glossary/personalization"
+    }
   }
 }

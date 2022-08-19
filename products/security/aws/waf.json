@@ -1,0 +1,11 @@
+{
+  "name": "AWS WAF - Web Application Firewall",
+  "providers": ["aws"],
+  "services": ["security"],
+  "domains": ["systems management"],
+  "categories": ["web application firewall"],
+  "links" {
+    "self": "/products/security/aws/waf"
+  }
+}
+

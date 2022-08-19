@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/monitor/aws/health-dashboard",
-    "/docs/monitor/azure/service-health"
+    "/products/monitor/aws/health-dashboard",
+    "/products/monitor/azure/service-health"
   ],
   "intersect": {},
   "symdiff": {

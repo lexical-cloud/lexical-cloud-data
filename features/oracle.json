@@ -2,11 +2,15 @@
   "id": "oracle",
   "name": "oracle",
   "type": "feature",
-  "permalink": "/features/oracle",
+  "links": {
+    "self": "/features/oracle",
+  },
   "definition": {
     "title": "Oracle Database",
     "url": "https://en.wikipedia.org/wiki/Oracle_Database",
     "services": ["database"],
-    "permalink": "/glossary/oracle"
+    "links": {
+      "self": "/glossary/oracle"
+    }
   }
 }

@@ -1,0 +1,11 @@
+{
+  "name": "AWS Step Functions",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["end-user computing","process modeling","serverless"],
+  "categories": ["low-code","workflow engine"],
+  "links" {
+    "self": "/products/integration/aws/step-functions"
+  }
+}
+

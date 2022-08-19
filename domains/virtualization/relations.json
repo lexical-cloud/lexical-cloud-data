@@ -1,19 +1,19 @@
 {
   "instance": [
-    "/docs/compute/aws/ec2",
-    "/docs/compute/aws/ec2-auto-scaling",
-    "/docs/security/aws/security-group",
-    "/docs/monitor/aws/inspector",
-    "/docs/compute/aws/lightsail",
-    "/docs/compute/aws/workspaces",
-    "/docs/governance/aws/license-manager",
-    "/docs/developer-tools/aws/opsworks",
-    "/docs/compute/azure/vm",
-    "/docs/compute/azure/vm-scaled-sets",
-    "/docs/compute/gcp/compute-engine",
-    "/docs/compute/gcp/managed-instance-groups",
-    "/docs/developer-tools/gcp/vm-manager",
-    "/docs/compute/gcp/vmware-engine"
+    "/products/compute/aws/ec2",
+    "/products/compute/aws/ec2-auto-scaling",
+    "/products/security/aws/security-group",
+    "/products/monitor/aws/inspector",
+    "/products/compute/aws/lightsail",
+    "/products/compute/aws/workspaces",
+    "/products/governance/aws/license-manager",
+    "/products/developer-tools/aws/opsworks",
+    "/products/compute/azure/vm",
+    "/products/compute/azure/vm-scaled-sets",
+    "/products/compute/gcp/compute-engine",
+    "/products/compute/gcp/managed-instance-groups",
+    "/products/developer-tools/gcp/vm-manager",
+    "/products/compute/gcp/vmware-engine"
   ],
   "intersect": {},
   "symdiff": {

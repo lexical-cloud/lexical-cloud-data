@@ -1,5 +1,7 @@
 {
   "title": "Labels",
-  "permalink": "/glossary/labels"
+  "links": {
+    "self": "/glossary/labels"
+  }
 }
 

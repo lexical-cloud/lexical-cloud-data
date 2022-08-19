@@ -1,9 +1,0 @@
-{
-  "name": "Azure Synapse Analytics",
-  "providers": ["azure"],
-  "services": ["analytics"],
-  "domains": ["big data"],
-  "categories": ["data warehousing"],
-  "permalink": "/docs/analytics/azure/synapse-analytics"
-}
-

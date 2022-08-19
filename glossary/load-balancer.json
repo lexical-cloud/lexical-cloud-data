@@ -2,6 +2,8 @@
   "title": "Load Balancer",
   "url": "https://glossary.cncf.io/load-balancer/",
   "domains": ["architecture","connectivity"],
-  "permalink": "/glossary/load-balancer"
+  "links": {
+    "self": "/glossary/load-balancer"
+  }
 }
 

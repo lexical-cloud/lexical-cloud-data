@@ -1,5 +1,7 @@
 {
   "title": "Google Cloud",
-  "permalink": "/glossary/gcp"
+  "links": {
+    "self": "/glossary/gcp"
+  }
 }
 

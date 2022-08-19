@@ -2,10 +2,14 @@
   "id": "containerization",
   "name": "containerization",
   "type": "domain",
-  "permalink": "/domains/containerization",
+  "links": {
+    "self": "/domains/containerization",
+  },
   "definition": {
     "title": "Containerization",
     "url": "https://glossary.cncf.io/containerization/",
-    "permalink": "/glossary/containerization"
+    "links": {
+      "self": "/glossary/containerization"
+    }
   }
 }

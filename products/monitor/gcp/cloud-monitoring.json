@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Monitoring",
+  "providers": ["gcp"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["dashboards","telemetry data"],
+  "features": ["alerts","open telemetry"],
+  "links" {
+    "self": "/products/monitor/gcp/cloud-monitoring"
+  }
+}
+

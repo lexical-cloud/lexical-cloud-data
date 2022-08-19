@@ -2,9 +2,13 @@
   "id": "identity",
   "name": "identity",
   "type": "service",
-  "permalink": "/services/identity",
+  "links": {
+    "self": "/services/identity",
+  },
   "definition": {
     "title": "Identity",
-    "permalink": "/glossary/identity"
+    "links": {
+      "self": "/glossary/identity"
+    }
   }
 }

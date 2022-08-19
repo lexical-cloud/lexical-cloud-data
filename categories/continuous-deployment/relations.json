@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/developer-tools/aws/codedeploy",
-    "/docs/developer-tools/azure/pipelines"
+    "/products/developer-tools/aws/codedeploy",
+    "/products/developer-tools/azure/pipelines"
   ],
   "intersect": {},
   "symdiff": {

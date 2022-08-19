@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/monitor/aws/cloudwatch-app-insights",
-    "/docs/monitor/azure/monitor-app-insights"
+    "/products/monitor/aws/cloudwatch-app-insights",
+    "/products/monitor/azure/monitor-app-insights"
   ],
   "intersect": {
     "domains": [

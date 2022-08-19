@@ -2,9 +2,13 @@
   "id": "analytics",
   "name": "analytics",
   "type": "service",
-  "permalink": "/services/analytics",
+  "links": {
+    "self": "/services/analytics",
+  },
   "definition": {
     "title": "Analytics",
-    "permalink": "/glossary/analytics"
+    "links": {
+      "self": "/glossary/analytics"
+    }
   }
 }

@@ -2,11 +2,15 @@
   "id": "conversational-interface",
   "name": "conversational interface",
   "type": "feature",
-  "permalink": "/features/conversational-interface",
+  "links": {
+    "self": "/features/conversational-interface",
+  },
   "definition": {
     "title": "Conversational Interface",
     "url": "https://en.wikipedia.org/wiki/Conversational_user_interface",
     "services": ["ai"],
-    "permalink": "/glossary/conversational-interface"
+    "links": {
+      "self": "/glossary/conversational-interface"
+    }
   }
 }

@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Storage",
-  "providers": ["gcp"],
-  "services": ["storage"],
-  "domains": ["data management","serverless"],
-  "categories": ["object storage"],
-  "permalink": "/docs/storage/gcp/cloud-storage"
-}
-

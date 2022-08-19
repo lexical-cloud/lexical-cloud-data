@@ -2,11 +2,15 @@
   "id": "unstructured-data",
   "name": "unstructured data",
   "type": "category",
-  "permalink": "/categories/unstructured-data",
+  "links": {
+    "self": "/categories/unstructured-data",
+  },
   "definition": {
     "title": "Unstructured Data",
     "url": "https://en.wikipedia.org/wiki/Unstructured_data",
     "domains": ["data management","big data"],
-    "permalink": "/glossary/unstructured-data"
+    "links": {
+      "self": "/glossary/unstructured-data"
+    }
   }
 }

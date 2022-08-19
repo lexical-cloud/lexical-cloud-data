@@ -1,6 +1,8 @@
 {
   "title": "Alerts",
   "url": "https://en.wikipedia.org/wiki/Alert_messaging",
-  "permalink": "/glossary/alerts"
+  "links": {
+    "self": "/glossary/alerts"
+  }
 }
 

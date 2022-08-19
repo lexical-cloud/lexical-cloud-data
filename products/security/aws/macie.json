@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Macie",
+  "providers": ["aws"],
+  "services": ["security"],
+  "domains": ["data management"],
+  "categories": ["data privacy","risk assessment"],
+  "links" {
+    "self": "/products/security/aws/macie"
+  }
+}
+

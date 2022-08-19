@@ -2,6 +2,8 @@
   "title": "Certificates",
   "url": "https://en.wikipedia.org/wiki/Public_key_certificate",
   "services": ["identity","security"],
-  "permalink": "/glossary/certificates"
+  "links": {
+    "self": "/glossary/certificates"
+  }
 }
 

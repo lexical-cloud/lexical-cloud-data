@@ -1,9 +1,0 @@
-{
-  "name": "AWS License Manager",
-  "providers": ["aws"],
-  "services": ["governance"],
-  "domains": ["virtualization"],
-  "categories": ["license management"],
-  "permalink": "/docs/governance/aws/license-manager"
-}
-

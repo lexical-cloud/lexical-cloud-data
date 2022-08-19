@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud DNS",
-  "providers": ["gcp"],
-  "services": ["network"],
-  "domains": ["systems management"],
-  "categories": ["dns management"],
-  "permalink": "/docs/network/gcp/dns"
-}
-

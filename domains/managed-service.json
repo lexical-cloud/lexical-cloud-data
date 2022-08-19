@@ -2,11 +2,15 @@
   "id": "managed-service",
   "name": "managed service",
   "type": "domain",
-  "permalink": "/domains/managed-service",
+  "links": {
+    "self": "/domains/managed-service",
+  },
   "definition": {
     "title": "Managed Service",
     "url": "https://en.wikipedia.org/wiki/Managed_services",
     "domains": ["architecture"],
-    "permalink": "/glossary/managed-service"
+    "links": {
+      "self": "/glossary/managed-service"
+    }
   }
 }

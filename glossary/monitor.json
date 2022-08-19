@@ -1,5 +1,7 @@
 {
   "title": "Monitor",
-  "permalink": "/glossary/monitor"
+  "links": {
+    "self": "/glossary/monitor"
+  }
 }
 

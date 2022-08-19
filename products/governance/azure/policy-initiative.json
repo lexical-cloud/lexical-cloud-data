@@ -1,0 +1,11 @@
+{
+  "name": "Azure Policy Initiative",
+  "providers": ["azure"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["policy management"],
+  "links" {
+    "self": "/products/governance/azure/policy-initiative"
+  }
+}
+

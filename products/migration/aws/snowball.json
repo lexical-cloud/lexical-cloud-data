@@ -1,0 +1,11 @@
+{
+  "name": "AWS Snowball",
+  "providers": ["aws"],
+  "services": ["migration"],
+  "domains": ["modernization"],
+  "categories": ["data transfer"],
+  "links" {
+    "self": "/products/migration/aws/snowball"
+  }
+}
+

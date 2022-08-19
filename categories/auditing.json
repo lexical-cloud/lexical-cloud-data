@@ -2,5 +2,6 @@
   "id": "auditing",
   "name": "auditing",
   "type": "category",
-  "permalink": "/categories/auditing"
+  "links": {
+    "self": "/categories/auditing"
 }

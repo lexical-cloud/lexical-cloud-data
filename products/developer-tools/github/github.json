@@ -1,0 +1,12 @@
+{
+  "name": "Github",
+  "providers": ["github"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","project management"],
+  "categories": ["source control","project planning"],
+  "features": ["community"],
+  "links" {
+    "self": "/products/developer-tools/github/github"
+  }
+}
+

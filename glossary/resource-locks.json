@@ -2,6 +2,8 @@
   "title": "Resource Locks",
   "url": "https://en.wikipedia.org/wiki/Concurrency_control",
   "services": ["governance"],
-  "permalink": "/glossary/resource-locks"
+  "links": {
+    "self": "/glossary/resource-locks"
+  }
 }
 

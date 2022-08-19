@@ -2,6 +2,8 @@
   "title": "Workflow Engine",
   "url": "https://en.wikipedia.org/wiki/Workflow_engine",
   "services": ["integration"],
-  "permalink": "/glossary/workflow-engine"
+  "links": {
+    "self": "/glossary/workflow-engine"
+  }
 }
 

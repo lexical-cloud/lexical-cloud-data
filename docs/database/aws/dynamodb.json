@@ -1,9 +1,0 @@
-{
-  "name": "Amazon DynamoDB",
-  "providers": ["aws"],
-  "services": ["database"],
-  "domains": ["data management","serverless"],
-  "categories": ["document db","key-value store","nosql db"],
-  "permalink": "/docs/database/aws/dynamodb"
-}
-

@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Amazon CloudWatch",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "links" {
+      "self": "/products/monitor/aws/cloudwatch"
+    }
+  },
+  {
+    "name": "Amazon CloudWatch Application Insights",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "links" {
+      "self": "/products/monitor/aws/cloudwatch-app-insights"
+    }
+  },
+  {
+    "name": "AWS Budgets",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/aws/budgets"
+    }
+  },
+  {
+    "name": "AWS Health Dashboard",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "links" {
+      "self": "/products/monitor/aws/health-dashboard"
+    }
+  },
+  {
+    "name": "Azure Cost Management",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts","cost forecast"],
+    "links" {
+      "self": "/products/governance/azure/cost-management"
+    }
+  },
+  {
+    "name": "Azure Monitor",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","auditing"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/monitor/azure/monitor"
+    }
+  },
+  {
+    "name": "Azure Monitor Application Insights",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "links" {
+      "self": "/products/monitor/azure/monitor-app-insights"
+    }
+  },
+  {
+    "name": "Azure Service Health",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "links" {
+      "self": "/products/monitor/azure/service-health"
+    }
+  },
+  {
+    "name": "Google Cloud Budgets",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/gcp/budgets"
+    }
+  },
+  {
+    "name": "Google Cloud Monitoring",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["dashboards","telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-monitoring"
+    }
+  },
+  {
+    "name": "Google Cloud Quotas",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["resource management"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/governance/gcp/quotas"
+    }
+  }
+]

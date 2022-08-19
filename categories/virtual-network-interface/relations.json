@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/network/aws/vgw",
-    "/docs/network/aws/vpc-endpoint",
-    "/docs/network/azure/vnet-service-endpoint",
-    "/docs/network/azure/vpn-gateway",
-    "/docs/network/gcp/cloud-router"
+    "/products/network/aws/vgw",
+    "/products/network/aws/vpc-endpoint",
+    "/products/network/azure/vnet-service-endpoint",
+    "/products/network/azure/vpn-gateway",
+    "/products/network/gcp/cloud-router"
   ],
   "intersect": {
     "domains": [

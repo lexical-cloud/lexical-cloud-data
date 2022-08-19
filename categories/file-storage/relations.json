@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/storage/aws/efs",
-    "/docs/storage/azure/files",
-    "/docs/storage/gcp/filestore"
+    "/products/storage/aws/efs",
+    "/products/storage/azure/files",
+    "/products/storage/gcp/filestore"
   ],
   "intersect": {
     "domains": [

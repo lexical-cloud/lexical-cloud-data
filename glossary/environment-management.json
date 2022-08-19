@@ -1,5 +1,7 @@
 {
   "title": "Environment Management",
-  "permalink": "/glossary/environment-management"
+  "links": {
+    "self": "/glossary/environment-management"
+  }
 }
 

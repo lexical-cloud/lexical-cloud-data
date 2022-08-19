@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Batch_processing",
   "services": ["compute"],
   "domains": ["architecture"],
-  "permalink": "/glossary/batch-processing"
+  "links": {
+    "self": "/glossary/batch-processing"
+  }
 }
 

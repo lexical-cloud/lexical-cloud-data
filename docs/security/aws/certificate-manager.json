@@ -1,9 +1,0 @@
-{
-  "name": "AWS Certificate Manager",
-  "providers": ["aws"],
-  "services": ["security"],
-  "domains": ["systems management"],
-  "categories": ["certificates"],
-  "permalink": "/docs/security/aws/certificate-manager"
-}
-

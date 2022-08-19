@@ -2,12 +2,16 @@
   "id": "sql-compliant",
   "name": "sql compliant",
   "type": "category",
-  "permalink": "/categories/sql-compliant",
+  "links": {
+    "self": "/categories/sql-compliant",
+  },
   "definition": {
     "title": "SQL Compliant",
     "url": "https://en.wikipedia.org/wiki/SQL",
     "services": ["database"],
     "domains": ["data management"],
-    "permalink": "/glossary/sql-compliant"
+    "links": {
+      "self": "/glossary/sql-compliant"
+    }
   }
 }

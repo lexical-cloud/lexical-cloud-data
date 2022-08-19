@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Amazon CloudWatch Application Insights",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "links" {
+      "self": "/products/monitor/aws/cloudwatch-app-insights"
+    }
+  },
+  {
+    "name": "Amazon QuickSight",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["serverless","big data"],
+    "categories": ["dashboards"],
+    "links" {
+      "self": "/products/analytics/aws/quicksight"
+    }
+  },
+  {
+    "name": "Azure Monitor Application Insights",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "links" {
+      "self": "/products/monitor/azure/monitor-app-insights"
+    }
+  },
+  {
+    "name": "Google Cloud Looker",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["serverless","big data"],
+    "categories": ["dashboards"],
+    "links" {
+      "self": "/products/analytics/gcp/looker"
+    }
+  },
+  {
+    "name": "Google Cloud Monitoring",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["dashboards","telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-monitoring"
+    }
+  }
+]

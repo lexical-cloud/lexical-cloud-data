@@ -1,9 +1,0 @@
-{
-  "name": "Azure Databricks",
-  "providers": ["azure"],
-  "services": ["analytics"],
-  "domains": ["big data"],
-  "categories": ["data processing"],
-  "permalink": "/docs/analytics/azure/databricks"
-}
-

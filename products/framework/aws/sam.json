@@ -1,0 +1,11 @@
+{
+  "name": "AWS Serverless Application Model",
+  "providers": ["aws"],
+  "services": ["framework"],
+  "domains": ["serverless"],
+  "categories": ["deployment management"],
+  "links" {
+    "self": "/products/framework/aws/sam"
+  }
+}
+

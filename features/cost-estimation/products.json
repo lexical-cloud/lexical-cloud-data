@@ -1,0 +1,46 @@
+[
+  {
+    "name": "AWS Pricing Calculator",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/aws/pricing-calculator"
+    }
+  },
+  {
+    "name": "Azure Pricing Calculator",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/azure/pricing-calculator"
+    }
+  },
+  {
+    "name": "Azure Total Cost of Ownership Calculator",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/azure/tco-calculator"
+    }
+  },
+  {
+    "name": "Google Cloud Pricing Calculator",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": ["finops","systems management"],
+    "categories": ["cost management"],
+    "features": ["cost estimation","no account required"],
+    "links" {
+      "self": "/products/governance/gcp/pricing-calculator"
+    }
+  }
+]

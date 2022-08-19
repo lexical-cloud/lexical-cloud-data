@@ -1,13 +1,13 @@
 {
   "instance": [
-    "/docs/framework/aws/cloud-adoption",
-    "/docs/framework/aws/well-architected",
-    "/docs/framework/azure/cloud-adoption",
-    "/docs/ai/azure/cognitive-services",
-    "/docs/ai/azure/cognitive-services-personalizer",
-    "/docs/framework/azure/well-architected",
-    "/docs/framework/gcp/cloud-adoption",
-    "/docs/framework/gcp/architecture"
+    "/products/framework/aws/cloud-adoption",
+    "/products/framework/aws/well-architected",
+    "/products/framework/azure/cloud-adoption",
+    "/products/ai/azure/cognitive-services",
+    "/products/ai/azure/cognitive-services-personalizer",
+    "/products/framework/azure/well-architected",
+    "/products/framework/gcp/cloud-adoption",
+    "/products/framework/gcp/architecture"
   ],
   "intersect": {},
   "symdiff": {

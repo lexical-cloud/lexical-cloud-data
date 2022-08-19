@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Private_network",
   "services": ["network","security"],
   "domains": ["connectivity"],
-  "permalink": "/glossary/private-network"
+  "links": {
+    "self": "/glossary/private-network"
+  }
 }
 

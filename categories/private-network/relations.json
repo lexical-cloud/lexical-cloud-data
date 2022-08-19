@@ -1,15 +1,15 @@
 {
   "instance": [
-    "/docs/network/aws/direct-connect",
-    "/docs/network/aws/privatelink",
-    "/docs/network/aws/vgw",
-    "/docs/network/aws/vpc-endpoint",
-    "/docs/network/azure/expressroute",
-    "/docs/network/azure/vnet-service-endpoint",
-    "/docs/network/azure/vpn-gateway",
-    "/docs/network/gcp/interconnect",
-    "/docs/network/gcp/cloud-nat",
-    "/docs/network/gcp/cloud-router"
+    "/products/network/aws/direct-connect",
+    "/products/network/aws/privatelink",
+    "/products/network/aws/vgw",
+    "/products/network/aws/vpc-endpoint",
+    "/products/network/azure/expressroute",
+    "/products/network/azure/vnet-service-endpoint",
+    "/products/network/azure/vpn-gateway",
+    "/products/network/gcp/interconnect",
+    "/products/network/gcp/cloud-nat",
+    "/products/network/gcp/cloud-router"
   ],
   "intersect": {
     "domains": [

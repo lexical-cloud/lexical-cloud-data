@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Pub/Sub",
+  "providers": ["gcp"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["message queue","pub-sub"],
+  "links" {
+    "self": "/products/integration/gcp/pubsub"
+  }
+}
+

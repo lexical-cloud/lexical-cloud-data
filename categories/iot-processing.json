@@ -2,11 +2,15 @@
   "id": "iot-processing",
   "name": "iot processing",
   "type": "category",
-  "permalink": "/categories/iot-processing",
+  "links": {
+    "self": "/categories/iot-processing",
+  },
   "definition": {
     "title": "IoT Processing",
     "services": ["iot"],
     "domains": ["edge computing"],
-    "permalink": "/glossary/iot-processing"
+    "links": {
+      "self": "/glossary/iot-processing"
+    }
   }
 }

@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Anthos",
-  "providers": ["gcp"],
-  "services": ["hybrid"],
-  "domains": ["architecture"],
-  "categories": ["on-premises","multi-cloud"],
-  "permalink": "/docs/hybrid/gcp/anthos"
-}
-

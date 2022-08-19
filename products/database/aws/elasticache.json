@@ -1,0 +1,11 @@
+{
+  "name": "Amazon ElastiCache",
+  "providers": ["aws"],
+  "services": ["database"],
+  "domains": ["managed service"],
+  "categories": ["caching"],
+  "links" {
+    "self": "/products/database/aws/elasticache"
+  }
+}
+

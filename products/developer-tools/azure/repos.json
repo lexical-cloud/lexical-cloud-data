@@ -1,0 +1,11 @@
+{
+  "name": "Azure Repos",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","devops"],
+  "categories": ["source control"],
+  "links" {
+    "self": "/products/developer-tools/azure/repos"
+  }
+}
+

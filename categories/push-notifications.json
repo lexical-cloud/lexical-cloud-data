@@ -2,12 +2,16 @@
   "id": "push-notifications",
   "name": "push notifications",
   "type": "category",
-  "permalink": "/categories/push-notifications",
+  "links": {
+    "self": "/categories/push-notifications",
+  },
   "definition": {
     "title": "Push Notifications",
     "url": "https://en.wikipedia.org/wiki/Push_technology#Push_notification",
     "services": ["integration"],
     "domains": ["eventing"],
-    "permalink": "/glossary/push-notifications"
+    "links": {
+      "self": "/glossary/push-notifications"
+    }
   }
 }

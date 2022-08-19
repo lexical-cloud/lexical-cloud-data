@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Google App Engine",
+    "model": "Standard environment",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "features": ["scale-to-zero"],
+    "links" {
+      "self": "/products/compute/gcp/app-engine/standard"
+      "parent": "/products/compute/gcp/app-engine"
+    }
+  }
+]

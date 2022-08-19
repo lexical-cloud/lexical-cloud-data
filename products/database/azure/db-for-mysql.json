@@ -1,0 +1,12 @@
+{
+  "name": "Azure Database for MySQL",
+  "providers": ["azure"],
+  "services": ["database"],
+  "domains": ["data management","managed service"],
+  "categories": ["relational db","sql compliant"],
+  "features": ["mysql"],
+  "links" {
+    "self": "/products/database/azure/db-for-mysql"
+  }
+}
+

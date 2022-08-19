@@ -2,6 +2,8 @@
   "title": "Prebuilt Models",
   "services": ["ai"],
   "domains": ["machine learning"],
-  "permalink": "/glossary/prebuilt-models"
+  "links": {
+    "self": "/glossary/prebuilt-models"
+  }
 }
 

@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Compliance Reports Manager",
+  "providers": ["gcp"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["compliance"],
+  "links" {
+    "self": "/products/governance/gcp/compliance-reports-manager"
+  }
+}
+

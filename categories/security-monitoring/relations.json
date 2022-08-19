@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/security/aws/detective",
-    "/docs/security/gcp/security-command-center",
-    "/docs/security/azure/defender-for-cloud"
+    "/products/security/aws/detective",
+    "/products/security/gcp/security-command-center",
+    "/products/security/azure/defender-for-cloud"
   ],
   "intersect": {
     "domains": [

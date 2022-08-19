@@ -2,11 +2,15 @@
   "id": "paas",
   "name": "paas",
   "type": "category",
-  "permalink": "/categories/paas",
+  "links": {
+    "self": "/categories/paas",
+  },
   "definition": {
     "title": "Platform as a Service (PaaS)",
     "url": "https://en.wikipedia.org/wiki/Platform_as_a_service",
     "domains": ["architecture"],
-    "permalink": "/glossary/paas"
+    "links": {
+      "self": "/glossary/paas"
+    }
   }
 }

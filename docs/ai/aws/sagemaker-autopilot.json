@@ -1,9 +1,0 @@
-{
-  "name": "Amazon Sagemaker Autopilot",
-  "providers": ["aws"],
-  "services": ["ai"],
-  "domains": ["machine learning","serverless"],
-  "categories": ["prebuilt models"],
-  "permalink": "/docs/ai/aws/sagemaker-autopilot"
-}
-

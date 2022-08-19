@@ -1,6 +1,8 @@
 {
   "title": "Reliability",
   "url": "https://glossary.cncf.io/reliability/",
-  "permalink": "/glossary/high-availability"
+  "links": {
+    "self": "/glossary/high-availability"
+  }
 }
 

@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/migration/aws/cloud-endure",
-    "/docs/migration/aws/sms",
-    "/docs/monitor/gcp/cloud-debugger"
+    "/products/migration/aws/cloud-endure",
+    "/products/migration/aws/sms",
+    "/products/monitor/gcp/cloud-debugger"
   ],
   "intersect": {},
   "symdiff": {

@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
   "services": ["ai"],
   "domains": ["machine learning"],
-  "permalink": "/glossary/language-processing"
+  "links": {
+    "self": "/glossary/language-processing"
+  }
 }
 

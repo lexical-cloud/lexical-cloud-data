@@ -1,6 +1,8 @@
 {
   "title": "Agentless",
   "domains": ["systems management"],
-  "permalink": "/glossary/agentless"
+  "links": {
+    "self": "/glossary/agentless"
+  }
 }
 

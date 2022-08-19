@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Amazon Athena",
+    "providers": ["aws"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["sql compliant","unstructured data"],
+    "links" {
+      "self": "/products/database/aws/athena"
+    }
+  },
+  {
+    "name": "Amazon Aurora",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql"],
+    "links" {
+      "self": "/products/database/aws/aurora"
+    }
+  },
+  {
+    "name": "Azure Cache for Redis",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["managed service"],
+    "categories": ["caching"],
+    "links" {
+      "self": "/products/database/azure/cache-for-redis"
+    }
+  },
+  {
+    "name": "Amazon DynamoDB",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","key-value store","nosql db"],
+    "links" {
+      "self": "/products/database/aws/dynamodb"
+    }
+  },
+  {
+    "name": "Amazon ElastiCache",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["managed service"],
+    "categories": ["caching"],
+    "links" {
+      "self": "/products/database/aws/elasticache"
+    }
+  },
+  {
+    "name": "Amazon Relational Database Service",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "links" {
+      "self": "/products/database/aws/rds"
+    }
+  },
+  {
+    "name": "Amazon Redshift",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["data warehousing"],
+    "links" {
+      "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "AWS Database Migration Service",
+    "providers": ["aws"],
+    "services": ["migration","database"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/aws/dms"
+    }
+  },
+  {
+    "name": "AWS Schema Conversion Tool",
+    "providers": ["aws"],
+    "services": ["database","migration"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/aws/sct"
+    }
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/azure/cosmosdb"
+    }
+  },
+  {
+    "name": "Azure Database for MySQL",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql"],
+    "links" {
+      "self": "/products/database/azure/db-for-mysql"
+    }
+  },
+  {
+    "name": "Azure Database for PostgreSQL",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["postgresql"],
+    "links" {
+      "self": "/products/database/azure/db-for-postresql"
+    }
+  },
+  {
+    "name": "Azure Database Migration Service",
+    "providers": ["azure"],
+    "services": ["migration","database"],
+    "domains": ["data management"],
+    "categories": ["database migration"],
+    "links" {
+      "self": "/products/migration/azure/dms"
+    }
+  },
+  {
+    "name": "Azure SQL Database",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-db"
+    }
+  },
+  {
+    "name": "Azure SQL Edge",
+    "providers": ["azure"],
+    "services": ["database","iot"],
+    "domains": ["data management","edge computing"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-edge"
+    }
+  },
+  {
+    "name": "Azure SQL Managed Instance",
+    "providers": ["azure"],
+    "services": ["database","hybrid"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/azure/sql-managed-instance"
+    }
+  },
+  {
+    "name": "Azure Table Storage",
+    "providers": ["azure"],
+    "services": ["database","storage"],
+    "domains": ["data management"],
+    "categories": ["nosql db","key-value store"],
+    "links" {
+      "self": "/products/storage/azure/table-storage"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/bigquery"
+    }
+  },
+  {
+    "name": "Google Cloud Bigtable",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["nosql db","key-value store"],
+    "links" {
+      "self": "/products/database/gcp/bigtable"
+    }
+  },
+  {
+    "name": "Google Cloud Firestore",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/gcp/firestore"
+    }
+  },
+  {
+    "name": "Google Cloud Spanner",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/spanner"
+    }
+  },
+  {
+    "name": "Google Cloud SQL",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","sql server"],
+    "links" {
+      "self": "/products/database/gcp/cloud-sql"
+    }
+  }
+]

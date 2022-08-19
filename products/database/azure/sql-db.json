@@ -1,0 +1,11 @@
+{
+  "name": "Azure SQL Database",
+  "providers": ["azure"],
+  "services": ["database"],
+  "domains": ["data management","managed service","serverless"],
+  "categories": ["relational db","sql compliant"],
+  "links" {
+    "self": "/products/database/azure/sql-db"
+  }
+}
+

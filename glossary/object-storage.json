@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Object_storage",
   "services": ["storage"],
   "domains": ["data management"],
-  "permalink": "/glossary/object-storage"
+  "links": {
+    "self": "/glossary/object-storage"
+  }
 }
 

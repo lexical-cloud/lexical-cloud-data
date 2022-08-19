@@ -1,0 +1,23 @@
+[
+  {
+    "name": "AWS X-Ray",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["systems management"],
+    "categories": ["application debugger","root cause analysis"],
+    "links" {
+      "self": "/products/monitor/aws/xray"
+    }
+  },
+  {
+    "name": "Google Cloud Debugger",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["systems management","observability"],
+    "categories": ["application debugger","root cause analysis"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-debugger"
+    }
+  }
+]

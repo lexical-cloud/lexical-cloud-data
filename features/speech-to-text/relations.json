@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/ai/azure/cognitive-services",
-    "/docs/ai/gcp/speech-to-text"
+    "/products/ai/azure/cognitive-services",
+    "/products/ai/gcp/speech-to-text"
   ],
   "intersect": {
     "categories": [

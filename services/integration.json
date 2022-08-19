@@ -2,9 +2,13 @@
   "id": "integration",
   "name": "integration",
   "type": "service",
-  "permalink": "/services/integration",
+  "links": {
+    "self": "/services/integration",
+  },
   "definition": {
     "title": "Integration",
-    "permalink": "/glossary/integration"
+    "links": {
+      "self": "/glossary/integration"
+    }
   }
 }

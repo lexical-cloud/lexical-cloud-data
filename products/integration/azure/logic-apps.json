@@ -1,0 +1,11 @@
+{
+  "name": "Azure Logic Apps",
+  "providers": ["azure"],
+  "services": ["integration"],
+  "domains": ["end-user computing","process modeling","serverless"],
+  "categories": ["low-code","no-code","workflow engine"],
+  "links" {
+    "self": "/products/integration/azure/logic-apps"
+  }
+}
+
