@@ -1,6 +1,8 @@
 {
   "title": "Continuous Integration",
   "url": "https://glossary.cncf.io/continuous-integration/",
-  "permalink": "/glossary/continuous-integration"
+  "links": {
+    "self": "/glossary/continuous-integration"
+  }
 }
 

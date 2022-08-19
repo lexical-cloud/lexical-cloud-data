@@ -2,10 +2,14 @@
   "id": "edge-computing",
   "name": "edge computing",
   "type": "domain",
-  "permalink": "/domains/edge-computing",
+  "links": {
+    "self": "/domains/edge-computing",
+  },
   "definition": {
     "title": "Edge Computing",
     "url": "https://en.wikipedia.org/wiki/Edge_computing",
-    "permalink": "/glossary/edge-computing"
+    "links": {
+      "self": "/glossary/edge-computing"
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/governance/aws/service-catalog"
+    "/products/governance/aws/service-catalog"
   ],
   "intersect": {
     "services": [

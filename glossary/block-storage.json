@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Block_(data_storage)",
   "services": ["storage"],
   "domains": ["data management"],
-  "permalink": "/glossary/block-storage"
+  "links": {
+    "self": "/glossary/block-storage"
+  }
 }
 

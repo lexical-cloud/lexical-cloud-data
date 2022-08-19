@@ -1,0 +1,12 @@
+{
+  "name": "Azure Cognitive Services Personalizer",
+  "providers": ["azure"],
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "categories": ["decision making"],
+  "features": ["personalization","recommendations","prebuilt models"],
+  "links" {
+    "self": "/products/ai/azure/cognitive-services-personalizer"
+  }
+}
+

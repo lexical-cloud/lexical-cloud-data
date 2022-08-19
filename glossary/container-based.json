@@ -3,6 +3,8 @@
   "url": "https://glossary.cncf.io/container/",
   "services": ["compute"],
   "domains": ["containerization"],
-  "permalink": "/glossary/container-based"
+  "links": {
+    "self": "/glossary/container-based"
+  }
 }
 

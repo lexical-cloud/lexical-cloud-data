@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/integration/azure/api-management",
-    "/docs/integration/gcp/apigee"
+    "/products/integration/azure/api-management",
+    "/products/integration/gcp/apigee"
   ],
   "intersect": {
     "domains": [

@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/integration/aws/eventbridge"
+    "/products/integration/aws/eventbridge"
   ],
   "intersect": {
     "domains": [

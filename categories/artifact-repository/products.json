@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AWS CodeArtifact",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["artifact repository"],
+    "links" {
+      "self": "/products/developer-tools/aws/codeartifact"
+    }
+  },
+  {
+    "name": "Azure Artifacts",
+    "providers": ["azure"],
+    "services": ["developer tools"],
+    "domains": ["devops"],
+    "categories": ["artifact repository"],
+    "links" {
+      "self": "/products/developer-tools/azure/artifacts"
+    }
+  }
+]

@@ -2,11 +2,15 @@
   "id": "api-portal",
   "name": "api portal",
   "type": "category",
-  "permalink": "/categories/api-portal",
+  "links": {
+    "self": "/categories/api-portal",
+  },
   "definition": {
     "title": "API Portal",
     "services": ["integration"],
     "domains": ["api management"],
-    "permalink": "/glossary/api-portal"
+    "links": {
+      "self": "/glossary/api-portal"
+    }
   }
 }

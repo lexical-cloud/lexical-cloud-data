@@ -1,0 +1,11 @@
+{
+  "name": "Azure Test Plans",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain"],
+  "categories": ["test planning","test execution"],
+  "links" {
+    "self": "/products/developer-tools/azure/test-plans"
+  }
+}
+

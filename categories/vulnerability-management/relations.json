@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/monitor/aws/inspector"
+    "/products/monitor/aws/inspector"
   ],
   "intersect": {
     "domains": [

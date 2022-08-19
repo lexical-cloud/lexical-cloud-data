@@ -1,0 +1,11 @@
+{
+  "name": "Azure Container Instances",
+  "providers": ["azure"],
+  "services": ["compute"],
+  "domains": ["containerization","managed service"],
+  "categories": ["container orchestrator"],
+  "links" {
+    "self": "/products/compute/azure/container-instances"
+  }
+}
+

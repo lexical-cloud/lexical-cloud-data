@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AWS Backup",
+    "providers": ["aws"],
+    "services": ["storage","hybrid"],
+    "domains": ["data management","systems management"],
+    "categories": ["data security"],
+    "links" {
+      "self": "/products/storage/aws/backup"
+    }
+  },
+  {
+    "name": "AWS CloudHSM",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data security","key management"],
+    "links" {
+      "self": "/products/security/aws/cloudhsm"
+    }
+  },
+  {
+    "name": "AWS Elastic Disaster Recovery",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["data management","systems management"],
+    "categories": ["disaster recovery","data security"],
+    "links" {
+      "self": "/products/migration/aws/drs"
+    }
+  },
+  {
+    "name": "AWS Key Management Service",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management","managed service"],
+    "categories": ["data security","key management","auditing"],
+    "links" {
+      "self": "/products/security/aws/kms"
+    }
+  },
+  {
+    "name": "AWS Secrets Manager",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["data security","secret management"],
+    "links" {
+      "self": "/products/security/aws/secrets-manager"
+    }
+  },
+  {
+    "name": "Azure Key Vault",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["data management"],
+    "categories": ["auditing","data security","key management","secret management"],
+    "links" {
+      "self": "/products/security/azure/key-vault"
+    }
+  }
+]

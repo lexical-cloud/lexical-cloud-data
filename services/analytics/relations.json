@@ -1,15 +1,15 @@
 {
   "instance": [
-    "/docs/database/aws/athena",
-    "/docs/analytics/aws/quicksight",
-    "/docs/database/aws/redshift",
-    "/docs/analytics/azure/data-lake-analytics",
-    "/docs/analytics/azure/databricks",
-    "/docs/analytics/azure/hdinsight",
-    "/docs/analytics/azure/synapse-analytics",
-    "/docs/database/gcp/bigquery",
-    "/docs/analytics/gcp/dataproc",
-    "/docs/analytics/gcp/looker"
+    "/products/database/aws/athena",
+    "/products/analytics/aws/quicksight",
+    "/products/database/aws/redshift",
+    "/products/analytics/azure/data-lake-analytics",
+    "/products/analytics/azure/databricks",
+    "/products/analytics/azure/hdinsight",
+    "/products/analytics/azure/synapse-analytics",
+    "/products/database/gcp/bigquery",
+    "/products/analytics/gcp/dataproc",
+    "/products/analytics/gcp/looker"
   ],
   "intersect": {},
   "symdiff": {

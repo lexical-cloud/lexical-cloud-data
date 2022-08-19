@@ -1,0 +1,8 @@
+{
+  "name": "Machine Learning (ML)",
+  "services": ["ai"],
+  "links" {
+    "self": "/products/ai/azure/machine-learning"
+  }
+}
+

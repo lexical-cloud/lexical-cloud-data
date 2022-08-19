@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/compute/aws/eks",
-    "/docs/compute/azure/aks",
-    "/docs/compute/gcp/gke"
+    "/products/compute/aws/eks",
+    "/products/compute/azure/aks",
+    "/products/compute/gcp/gke"
   ],
   "intersect": {
     "categories": [

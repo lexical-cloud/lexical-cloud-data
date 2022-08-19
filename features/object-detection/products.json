@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Azure Cognitive Services",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing","computer vision","decision making"],
+    "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
+    "links" {
+      "self": "/products/ai/azure/cognitive-services"
+    }
+  },
+  {
+    "name": "Google Cloud Vision AI",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["computer vision"],
+    "features": ["object detection","prebuilt models"],
+    "links" {
+      "self": "/products/ai/gcp/vision-ai"
+    }
+  }
+]

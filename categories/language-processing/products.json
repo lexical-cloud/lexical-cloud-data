@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Amaxon Lex",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/aws/lex"
+    }
+  },
+  {
+    "name": "Azure Bot Service",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/bot-service"
+    }
+  },
+  {
+    "name": "Azure Cognitive Services",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing","computer vision","decision making"],
+    "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
+    "links" {
+      "self": "/products/ai/azure/cognitive-services"
+    }
+  },
+  {
+    "name": "Azure Language Understanding",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/luis"
+    }
+  },
+  {
+    "name": "Azure QnA Maker",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/qna-maker"
+    }
+  },
+  {
+    "name": "Google Cloud Dialogflow",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/gcp/dialogflow"
+    }
+  },
+  {
+    "name": "Google Cloud Natural Language AI",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["sentiment analysis","language translation","prebuilt models"],
+    "links" {
+      "self": "/products/ai/gcp/natural-language-ai"
+    }
+  },
+  {
+    "name": "Microsoft Power Virtual Agents",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/power-virtual-agents"
+    }
+  }
+]

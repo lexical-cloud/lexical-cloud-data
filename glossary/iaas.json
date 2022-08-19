@@ -2,6 +2,8 @@
   "title": "Infrastructure as a Service (IaaS)",
   "url": "https://glossary.cncf.io/infrastructure-as-a-service/",
   "domains": ["architecture"],
-  "permalink": "/glossary/iaas"
+  "links": {
+    "self": "/glossary/iaas"
+  }
 }
 

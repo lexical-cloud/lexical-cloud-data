@@ -2,12 +2,16 @@
   "id": "container-based",
   "name": "container-based",
   "type": "feature",
-  "permalink": "/features/container-based",
+  "links": {
+    "self": "/features/container-based",
+  },
   "definition": {
     "title": "Container-based",
     "url": "https://glossary.cncf.io/container/",
     "services": ["compute"],
     "domains": ["containerization"],
-    "permalink": "/glossary/container-based"
+    "links": {
+      "self": "/glossary/container-based"
+    }
   }
 }

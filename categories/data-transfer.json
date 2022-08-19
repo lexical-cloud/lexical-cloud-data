@@ -2,11 +2,15 @@
   "id": "data-transfer",
   "name": "data transfer",
   "type": "category",
-  "permalink": "/categories/data-transfer",
+  "links": {
+    "self": "/categories/data-transfer",
+  },
   "definition": {
     "title": "Data Transfer",
     "url": "https://en.wikipedia.org/wiki/Data_communication",
     "domains": ["data management"],
-    "permalink": "/glossary/data-transfer"
+    "links": {
+      "self": "/glossary/data-transfer"
+    }
   }
 }

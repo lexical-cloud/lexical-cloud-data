@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/identity/aws/ad-connector"
+    "/products/identity/aws/ad-connector"
   ],
   "intersect": {
     "domains": [

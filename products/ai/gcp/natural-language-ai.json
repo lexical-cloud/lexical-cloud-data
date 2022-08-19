@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Natural Language AI",
+  "providers": ["gcp"],
+  "services": ["ai"],
+  "domains": ["machine learning","serverless"],
+  "categories": ["language processing"],
+  "features": ["sentiment analysis","language translation","prebuilt models"],
+  "links" {
+    "self": "/products/ai/gcp/natural-language-ai"
+  }
+}
+

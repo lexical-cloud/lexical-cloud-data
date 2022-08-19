@@ -2,11 +2,15 @@
   "id": "load-balancer",
   "name": "load balancer",
   "type": "category",
-  "permalink": "/categories/load-balancer",
+  "links": {
+    "self": "/categories/load-balancer",
+  },
   "definition": {
     "title": "Load Balancer",
     "url": "https://glossary.cncf.io/load-balancer/",
     "domains": ["architecture","connectivity"],
-    "permalink": "/glossary/load-balancer"
+    "links": {
+      "self": "/glossary/load-balancer"
+    }
   }
 }

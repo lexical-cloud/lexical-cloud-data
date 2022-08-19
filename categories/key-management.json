@@ -2,12 +2,16 @@
   "id": "key-management",
   "name": "key management",
   "type": "category",
-  "permalink": "/categories/key-management",
+  "links": {
+    "self": "/categories/key-management",
+  },
   "definition": {
     "title": "Key Management",
     "url": "https://en.wikipedia.org/wiki/Key_management",
     "domains": ["data management"],
     "categories": ["data security"],
-    "permalink": "/glossary/key-management"
+    "links": {
+      "self": "/glossary/key-management"
+    }
   }
 }

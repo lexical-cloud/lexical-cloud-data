@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/database/aws/aurora",
-    "/docs/database/aws/rds",
-    "/docs/database/azure/db-for-postresql",
-    "/docs/database/gcp/cloud-sql"
+    "/products/database/aws/aurora",
+    "/products/database/aws/rds",
+    "/products/database/azure/db-for-postresql",
+    "/products/database/gcp/cloud-sql"
   ],
   "intersect": {
     "services": [

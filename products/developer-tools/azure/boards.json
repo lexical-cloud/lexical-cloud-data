@@ -1,0 +1,11 @@
+{
+  "name": "Azure Boards",
+  "providers": ["azure"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","project management"],
+  "categories": ["project planning"],
+  "links" {
+    "self": "/products/developer-tools/azure/boards"
+  }
+}
+

@@ -1,9 +1,0 @@
-{
-  "name": "Azure Advisor",
-  "providers": ["azure"],
-  "services": ["governance"],
-  "domains": ["systems management"],
-  "categories": ["risk assessment","best practices"],
-  "permalink": "/docs/governance/azure/advisor"
-}
-

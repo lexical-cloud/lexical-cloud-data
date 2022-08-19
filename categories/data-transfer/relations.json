@@ -1,11 +1,11 @@
 {
   "instance": [
-    "/docs/migration/aws/datasync",
-    "/docs/migration/aws/snowball",
-    "/docs/migration/aws/snowcone",
-    "/docs/migration/aws/snowmobile",
-    "/docs/migration/gcp/storage-transfer-service",
-    "/docs/migration/gcp/transfer-appliance"
+    "/products/migration/aws/datasync",
+    "/products/migration/aws/snowball",
+    "/products/migration/aws/snowcone",
+    "/products/migration/aws/snowmobile",
+    "/products/migration/gcp/storage-transfer-service",
+    "/products/migration/gcp/transfer-appliance"
   ],
   "intersect": {
     "domains": [

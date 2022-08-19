@@ -1,9 +1,0 @@
-{
-  "name": "AWS Network Firewall",
-  "providers": ["aws"],
-  "services": ["security","network"],
-  "domains": ["connectivity"],
-  "categories": ["firewall"],
-  "permalink": "/docs/security/aws/network-firewall"
-}
-

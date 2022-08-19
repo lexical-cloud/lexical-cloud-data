@@ -1,0 +1,11 @@
+{
+  "name": "Azure Container Apps",
+  "providers": ["azure"],
+  "services": ["compute"],
+  "domains": ["containerization","serverless"],
+  "categories": ["container orchestrator"],
+  "links" {
+    "self": "/products/compute/azure/container-apps"
+  }
+}
+

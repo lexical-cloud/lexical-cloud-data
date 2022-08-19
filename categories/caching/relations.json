@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/database/azure/cache-for-redis",
-    "/docs/database/aws/elasticache"
+    "/products/database/azure/cache-for-redis",
+    "/products/database/aws/elasticache"
   ],
   "intersect": {
     "domains": [

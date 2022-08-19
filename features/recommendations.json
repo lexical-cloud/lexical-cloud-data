@@ -2,12 +2,16 @@
   "id": "recommendations",
   "name": "recommendations",
   "type": "feature",
-  "permalink": "/features/recommendations",
+  "links": {
+    "self": "/features/recommendations",
+  },
   "definition": {
     "title": "Recommendations",
     "url": "https://en.wikipedia.org/wiki/Recommender_system",
     "services": ["ai"],
     "domains": ["machine learning"],
-    "permalink": "/glossary/recommendations"
+    "links": {
+      "self": "/glossary/recommendations"
+    }
   }
 }

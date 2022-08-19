@@ -1,5 +1,7 @@
 {
   "title": "Application Discovery",
-  "permalink": "/glossary/application-discovery"
+  "links": {
+    "self": "/glossary/application-discovery"
+  }
 }
 

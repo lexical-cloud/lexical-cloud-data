@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/monitor/aws/cloudwatch",
-    "/docs/monitor/gcp/cloud-monitoring",
-    "/docs/monitor/gcp/cloud-trace"
+    "/products/monitor/aws/cloudwatch",
+    "/products/monitor/gcp/cloud-monitoring",
+    "/products/monitor/gcp/cloud-trace"
   ],
   "intersect": {
     "domains": [

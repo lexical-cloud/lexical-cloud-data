@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/governance/aws/artifact",
-    "/docs/governance/aws/control-tower",
-    "/docs/governance/aws/service-catalog",
-    "/docs/governance/azure/trust-center",
-    "/docs/governance/gcp/compliance-reports-manager"
+    "/products/governance/aws/artifact",
+    "/products/governance/aws/control-tower",
+    "/products/governance/aws/service-catalog",
+    "/products/governance/azure/trust-center",
+    "/products/governance/gcp/compliance-reports-manager"
   ],
   "intersect": {
     "domains": [

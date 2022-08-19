@@ -1,5 +1,7 @@
 {
   "title": "Artificial Intelligence (AI)",
-  "permalink": "/glossary/ai"
+  "links": {
+    "self": "/glossary/ai"
+  }
 }
 

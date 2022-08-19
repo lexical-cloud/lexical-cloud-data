@@ -1,0 +1,12 @@
+{
+  "name": "Amazon EC2 Security Group",
+  "providers": ["aws"],
+  "services": ["security","compute"],
+  "domains": ["virtualization"],
+  "categories": ["firewall"],
+  "features": ["stateful"],
+  "links" {
+    "self": "/products/security/aws/security-group"
+  }
+}
+

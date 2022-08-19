@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AWS Shield",
+    "providers": ["aws"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["ddos protection"],
+    "links" {
+      "self": "/products/security/aws/shield"
+    }
+  },
+  {
+    "name": "Azure DDoS Protection",
+    "providers": ["azure"],
+    "services": ["security"],
+    "domains": ["systems management"],
+    "categories": ["ddos protection"],
+    "links" {
+      "self": "/products/security/azure/ddos-protection"
+    }
+  },
+  {
+    "name": "Azure Front Door",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["edge computing","systems management"],
+    "categories": ["content delivery","web application firewall","ddos protection","certificates"],
+    "links" {
+      "self": "/products/network/azure/front-door"
+    }
+  }
+]

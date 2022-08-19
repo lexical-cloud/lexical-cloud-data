@@ -2,11 +2,15 @@
   "id": "firewall",
   "name": "firewall",
   "type": "category",
-  "permalink": "/categories/firewall",
+  "links": {
+    "self": "/categories/firewall",
+  },
   "definition": {
     "title": "Firewall",
     "url": "https://glossary.cncf.io/firewall/",
     "services": ["security"],
-    "permalink": "/glossary/firewall"
+    "links": {
+      "self": "/glossary/firewall"
+    }
   }
 }

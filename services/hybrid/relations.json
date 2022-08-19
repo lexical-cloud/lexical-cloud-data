@@ -1,13 +1,13 @@
 {
   "instance": [
-    "/docs/storage/aws/backup",
-    "/docs/network/aws/direct-connect",
-    "/docs/hybrid/aws/outposts",
-    "/docs/network/aws/privatelink",
-    "/docs/hybrid/aws/storage-gateway",
-    "/docs/network/azure/expressroute",
-    "/docs/database/azure/sql-managed-instance",
-    "/docs/hybrid/gcp/anthos"
+    "/products/storage/aws/backup",
+    "/products/network/aws/direct-connect",
+    "/products/hybrid/aws/outposts",
+    "/products/network/aws/privatelink",
+    "/products/hybrid/aws/storage-gateway",
+    "/products/network/azure/expressroute",
+    "/products/database/azure/sql-managed-instance",
+    "/products/hybrid/gcp/anthos"
   ],
   "intersect": {},
   "symdiff": {

@@ -1,0 +1,15 @@
+{
+  "name": "Google App Engine",
+  "providers": ["gcp"],
+  "services": ["compute"],
+  "domains": ["managed service"],
+  "categories": ["paas"],
+  "links" {
+    "self": "/products/compute/gcp/app-engine"
+    "models": [
+      "/products/compute/gcp/app-engine/flexible",
+      "/products/compute/gcp/app-engine/standard"
+    ]
+  }
+}
+

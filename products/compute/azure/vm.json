@@ -1,0 +1,11 @@
+{
+  "name": "Azure Virtual Machines",
+  "providers": ["azure"],
+  "services": ["compute"],
+  "domains": ["virtualization"],
+  "categories": ["virtual machines"],
+  "links" {
+    "self": "/products/compute/azure/vm"
+  }
+}
+

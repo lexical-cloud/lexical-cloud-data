@@ -1,0 +1,17 @@
+{
+  "name": "Google Cloud Storage",
+  "providers": ["gcp"],
+  "services": ["storage"],
+  "domains": ["data management","serverless"],
+  "categories": ["object storage"],
+  "links" {
+    "self": "/products/storage/gcp/cloud-storage"
+    "models": [
+      "/products/storage/gcp/cloud-storage/archive",
+      "/products/storage/gcp/cloud-storage/coldline",
+      "/products/storage/gcp/cloud-storage/nearline",
+      "/products/storage/gcp/cloud-storage/standard"
+    ]
+  }
+}
+

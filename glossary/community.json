@@ -2,6 +2,8 @@
   "title": "Community",
   "url": "https://en.wikipedia.org/wiki/Community",
   "services": ["governance"],
-  "permalink": "/glossary/community"
+  "links": {
+    "self": "/glossary/community"
+  }
 }
 

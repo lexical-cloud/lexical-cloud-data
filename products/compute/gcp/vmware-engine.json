@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud VMware Engine",
+  "providers": ["gcp"],
+  "services": ["compute","migration"],
+  "domains": ["managed service","modernization","virtualization"],
+  "categories": ["virtual machines","rehosting"],
+  "links" {
+    "self": "/products/compute/gcp/vmware-engine"
+  }
+}
+

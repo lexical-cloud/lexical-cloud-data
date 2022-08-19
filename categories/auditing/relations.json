@@ -1,14 +1,14 @@
 {
   "instance": [
-    "/docs/monitor/aws/cloudtrail",
-    "/docs/governance/aws/artifact",
-    "/docs/monitor/aws/config",
-    "/docs/security/aws/kms",
-    "/docs/security/azure/key-vault",
-    "/docs/monitor/azure/monitor",
-    "/docs/monitor/gcp/cloud-logging",
-    "/docs/security/gcp/security-command-center",
-    "/docs/security/azure/defender-for-cloud"
+    "/products/monitor/aws/cloudtrail",
+    "/products/governance/aws/artifact",
+    "/products/monitor/aws/config",
+    "/products/security/aws/kms",
+    "/products/security/azure/key-vault",
+    "/products/monitor/azure/monitor",
+    "/products/monitor/gcp/cloud-logging",
+    "/products/security/gcp/security-command-center",
+    "/products/security/azure/defender-for-cloud"
   ],
   "intersect": {},
   "symdiff": {

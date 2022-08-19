@@ -1,6 +1,8 @@
 {
   "title": "Cost Management",
   "domains": ["finops"],
-  "permalink": "/glossary/cost-management"
+  "links": {
+    "self": "/glossary/cost-management"
+  }
 }
 

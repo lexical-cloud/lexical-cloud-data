@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Azure IoT Hub",
+    "providers": ["azure"],
+    "services": ["iot"],
+    "domains": ["edge computing"],
+    "categories": ["iot communication"],
+    "links" {
+      "self": "/products/iot/azure/hub"
+    }
+  }
+]

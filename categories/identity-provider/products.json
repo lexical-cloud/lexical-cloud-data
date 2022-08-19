@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Amazon Cognito",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["identity provider"],
+    "features": ["user enrollment","authentication","authorization"],
+    "links" {
+      "self": "/products/identity/aws/cognito"
+    }
+  },
+  {
+    "name": "AWS Active Directory Connector",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["directory service","identity management"],
+    "categories": ["directory gateway","identity provider"],
+    "links" {
+      "self": "/products/identity/aws/ad-connector"
+    }
+  },
+  {
+    "name": "AWS Identity and Access Management",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control","identity provider"],
+    "links" {
+      "self": "/products/identity/aws/iam"
+    }
+  },
+  {
+    "name": "Azure Active Directory",
+    "providers": ["azure"],
+    "services": ["identity"],
+    "domains": ["directory service","identity management"],
+    "categories": ["identity provider"],
+    "links" {
+      "self": "/products/identity/azure/ad"
+    }
+  },
+  {
+    "name": "Google Cloud Identity",
+    "providers": ["gcp"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["identity provider"],
+    "links" {
+      "self": "/products/identity/gcp/identity"
+    }
+  }
+]

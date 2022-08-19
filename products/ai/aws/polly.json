@@ -1,0 +1,12 @@
+{
+  "name": "Amazon Polly",
+  "providers": ["aws"],
+  "services": ["ai"],
+  "domains": ["machine learning","serverless"],
+  "categories": ["speech processing"],
+  "features": ["text-to-speech"],
+  "links" {
+    "self": "/products/ai/aws/polly"
+  }
+}
+

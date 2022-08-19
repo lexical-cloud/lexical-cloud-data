@@ -1,0 +1,14 @@
+{
+  "name": "Google App Engine",
+  "model": "Flexible environment",
+  "providers": ["gcp"],
+  "services": ["compute"],
+  "domains": ["managed service"],
+  "categories": ["paas"],
+  "features": ["container-based"],
+  "links" {
+    "self": "/products/compute/gcp/app-engine/flexible"
+    "parent": "/products/compute/gcp/app-engine"
+  }
+}
+

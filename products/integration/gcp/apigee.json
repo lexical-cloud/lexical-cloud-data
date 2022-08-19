@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Apigee API Management",
+  "providers": ["gcp"],
+  "services": ["integration"],
+  "domains": ["api management","serverless"],
+  "categories": ["api lifecycle","api gateway","api portal"],
+  "features": ["rest api","http api","websocket api"],
+  "links" {
+    "self": "/products/integration/gcp/apigee"
+  }
+}
+

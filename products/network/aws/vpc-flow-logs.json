@@ -1,0 +1,11 @@
+{
+  "name": "AWS VPC Flow Logs",
+  "providers": ["aws"],
+  "services": ["network","monitor"],
+  "domains": ["connectivity"],
+  "categories": ["network monitoring"],
+  "links" {
+    "self": "/products/network/aws/vpc-flow-logs"
+  }
+}
+

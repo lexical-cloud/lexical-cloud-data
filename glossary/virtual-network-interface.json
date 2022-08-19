@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Virtual_network_interface",
   "services": ["network"],
   "domains": ["connectivity"],
-  "permalink": "/glossary/virtual-network-interface"
+  "links": {
+    "self": "/glossary/virtual-network-interface"
+  }
 }
 

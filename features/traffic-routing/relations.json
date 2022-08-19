@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/network/aws/route-53",
-    "/docs/network/azure/traffic-manager"
+    "/products/network/aws/route-53",
+    "/products/network/azure/traffic-manager"
   ],
   "intersect": {
     "domains": [

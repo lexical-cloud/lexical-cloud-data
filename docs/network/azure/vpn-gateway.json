@@ -1,9 +1,0 @@
-{
-  "name": "Azure VPN Gateway",
-  "providers": ["azure"],
-  "services": ["network"],
-  "domains": ["connectivity"],
-  "categories": ["virtual network interface","private network"],
-  "permalink": "/docs/network/azure/vpn-gateway"
-}
-

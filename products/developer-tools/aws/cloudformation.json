@@ -1,0 +1,11 @@
+{
+  "name": "AWS CloudFormation",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["devops"],
+  "categories": ["infrastructure as code","deployment management"],
+  "links" {
+    "self": "/products/developer-tools/aws/cloudformation"
+  }
+}
+

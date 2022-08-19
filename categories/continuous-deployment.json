@@ -2,10 +2,14 @@
   "id": "continuous-deployment",
   "name": "continuous deployment",
   "type": "category",
-  "permalink": "/categories/continuous-deployment",
+  "links": {
+    "self": "/categories/continuous-deployment",
+  },
   "definition": {
     "title": "Continuous Deployment",
     "url": "https://glossary.cncf.io/continuous-deployment/",
-    "permalink": "/glossary/continuous-deployment"
+    "links": {
+      "self": "/glossary/continuous-deployment"
+    }
   }
 }

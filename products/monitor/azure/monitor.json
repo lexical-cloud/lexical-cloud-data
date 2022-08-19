@@ -1,0 +1,12 @@
+{
+  "name": "Azure Monitor",
+  "providers": ["azure"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["telemetry data","auditing"],
+  "features": ["alerts"],
+  "links" {
+    "self": "/products/monitor/azure/monitor"
+  }
+}
+

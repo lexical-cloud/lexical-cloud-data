@@ -1,11 +1,11 @@
 {
   "instance": [
-    "/docs/ai/azure/cognitive-services",
-    "/docs/ai/azure/cognitive-services-personalizer",
-    "/docs/ai/gcp/natural-language-ai",
-    "/docs/ai/gcp/speech-to-text",
-    "/docs/ai/gcp/text-to-speech",
-    "/docs/ai/gcp/vision-ai"
+    "/products/ai/azure/cognitive-services",
+    "/products/ai/azure/cognitive-services-personalizer",
+    "/products/ai/gcp/natural-language-ai",
+    "/products/ai/gcp/speech-to-text",
+    "/products/ai/gcp/text-to-speech",
+    "/products/ai/gcp/vision-ai"
   ],
   "intersect": {
     "domains": [

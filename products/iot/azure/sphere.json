@@ -1,0 +1,11 @@
+{
+  "name": "Azure Sphere",
+  "providers": ["azure"],
+  "services": ["iot"],
+  "domains": ["edge computing"],
+  "categories": ["iot hardware","iot security"],
+  "links" {
+    "self": "/products/iot/azure/sphere"
+  }
+}
+

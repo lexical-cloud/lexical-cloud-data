@@ -1,9 +1,0 @@
-{
-  "name": "Azure Virtual WAN",
-  "providers": ["azure"],
-  "services": ["network"],
-  "domains": ["connectivity"],
-  "categories": ["network transit hub","virtual network"],
-  "permalink": "/docs/network/azure/virtual-wan"
-}
-

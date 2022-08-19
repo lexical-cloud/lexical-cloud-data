@@ -2,12 +2,16 @@
   "id": "test-execution",
   "name": "test execution",
   "type": "category",
-  "permalink": "/categories/test-execution",
+  "links": {
+    "self": "/categories/test-execution",
+  },
   "definition": {
     "title": "Test Execution",
     "url": "https://en.wikipedia.org/wiki/Test_execution_engine",
     "services": ["developer tools"],
     "domains": ["developer toolkit"],
-    "permalink": "/glossary/test-execution"
+    "links": {
+      "self": "/glossary/test-execution"
+    }
   }
 }

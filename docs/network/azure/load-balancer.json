@@ -1,9 +1,0 @@
-{
-  "name": "Azure Load Balancer",
-  "providers": ["azure"],
-  "services": ["network"],
-  "domains": ["connectivity"],
-  "categories": ["load balancer","network load balancer"],
-  "permalink": "/docs/network/azure/load-balancer"
-}
-

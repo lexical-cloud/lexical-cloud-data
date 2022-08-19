@@ -1,9 +1,0 @@
-{
-  "name": "AWS Backup",
-  "providers": ["aws"],
-  "services": ["storage","hybrid"],
-  "domains": ["data management","systems management"],
-  "categories": ["data security"],
-  "permalink": "/docs/storage/aws/backup"
-}
-

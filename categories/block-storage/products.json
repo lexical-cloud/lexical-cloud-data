@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amazon Elastic Block Storage",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/aws/ebs"
+    }
+  },
+  {
+    "name": "Azure Disk Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/azure/disk-storage"
+    }
+  },
+  {
+    "name": "Google Cloud Persistent Disk",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/gcp/peristent-disk"
+    }
+  }
+]

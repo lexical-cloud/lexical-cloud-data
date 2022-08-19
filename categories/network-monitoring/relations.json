@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/network/aws/vpc-flow-logs",
-    "/docs/network/azure/network-watcher"
+    "/products/network/aws/vpc-flow-logs",
+    "/products/network/azure/network-watcher"
   ],
   "intersect": {
     "domains": [

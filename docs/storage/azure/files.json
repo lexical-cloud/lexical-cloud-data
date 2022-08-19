@@ -1,9 +1,0 @@
-{
-  "name": "Azure Files",
-  "providers": ["azure"],
-  "services": ["storage"],
-  "domains": ["data management","serverless"],
-  "categories": ["file storage"],
-  "permalink": "/docs/storage/azure/files"
-}
-

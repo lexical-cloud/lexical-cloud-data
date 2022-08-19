@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/compute/aws/lambda",
-    "/docs/compute/azure/functions",
-    "/docs/compute/gcp/cloud-functions"
+    "/products/compute/aws/lambda",
+    "/products/compute/azure/functions",
+    "/products/compute/gcp/cloud-functions"
   ],
   "intersect": {
     "domains": [

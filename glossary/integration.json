@@ -1,5 +1,7 @@
 {
   "title": "Integration",
-  "permalink": "/glossary/integration"
+  "links": {
+    "self": "/glossary/integration"
+  }
 }
 

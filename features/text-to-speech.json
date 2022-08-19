@@ -2,13 +2,17 @@
   "id": "text-to-speech",
   "name": "text-to-speech",
   "type": "feature",
-  "permalink": "/features/text-to-speech",
+  "links": {
+    "self": "/features/text-to-speech",
+  },
   "definition": {
     "title": "Text-to-Speech",
     "url": "https://en.wikipedia.org/wiki/Speech_synthesis",
     "services": ["ai"],
     "domains": ["machine learning"],
     "categories": ["speech processing"],
-    "permalink": "/glossary/text-to-speech"
+    "links": {
+      "self": "/glossary/text-to-speech"
+    }
   }
 }

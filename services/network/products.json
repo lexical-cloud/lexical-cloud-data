@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Amazon Cloudfront",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["edge computing"],
+    "categories": ["content delivery"],
+    "links" {
+      "self": "/products/network/aws/cloudfront"
+    }
+  },
+  {
+    "name": "Amazon Route 53",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "features": ["traffic routing"],
+    "links" {
+      "self": "/products/network/aws/route-53"
+    }
+  },
+  {
+    "name": "Amazon Virtual Private Cloud",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "links" {
+      "self": "/products/network/aws/vpc"
+    }
+  },
+  {
+    "name": "AWS Direct Connect",
+    "providers": ["aws"],
+    "services": ["hybrid","network"],
+    "domains": ["connectivity"],
+    "categories": ["on-premises","private network"],
+    "links" {
+      "self": "/products/network/aws/direct-connect"
+    }
+  },
+  {
+    "name": "Amazon Elastic Load Balancing",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links" {
+      "self": "/products/network/aws/elb"
+    }
+  },
+  {
+    "name": "AWS Network Access Control List",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "features": ["stateless"],
+    "links" {
+      "self": "/products/network/aws/access-control-list"
+    }
+  },
+  {
+    "name": "AWS Network Firewall",
+    "providers": ["aws"],
+    "services": ["security","network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "links" {
+      "self": "/products/security/aws/network-firewall"
+    }
+  },
+  {
+    "name": "AWS PrivateLink",
+    "providers": ["aws"],
+    "services": ["hybrid","network"],
+    "domains": ["connectivity"],
+    "categories": ["on-premises","private network","virtual network"],
+    "links" {
+      "self": "/products/network/aws/privatelink"
+    }
+  },
+  {
+    "name": "AWS Transit Gateway",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network transit hub","virtual network"],
+    "links" {
+      "self": "/products/network/aws/transit-gateway"
+    }
+  },
+  {
+    "name": "AWS Virtual Private Gateway",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/aws/vgw"
+    }
+  },
+  {
+    "name": "AWS VPC Endpoint",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/aws/vpc-endpoint"
+    }
+  },
+  {
+    "name": "AWS VPC Flow Logs",
+    "providers": ["aws"],
+    "services": ["network","monitor"],
+    "domains": ["connectivity"],
+    "categories": ["network monitoring"],
+    "links" {
+      "self": "/products/network/aws/vpc-flow-logs"
+    }
+  },
+  {
+    "name": "AWS VPC Peering",
+    "providers": ["aws"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "links" {
+      "self": "/products/network/aws/vpc-peering"
+    }
+  },
+  {
+    "name": "Azure Application Gateway",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","web application firewall"],
+    "links" {
+      "self": "/products/network/azure/application-gateway"
+    }
+  },
+  {
+    "name": "Azure CDN",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["edge computing"],
+    "categories": ["content delivery"],
+    "links" {
+      "self": "/products/network/azure/cdn"
+    }
+  },
+  {
+    "name": "Azure DNS",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "links" {
+      "self": "/products/network/azure/dns"
+    }
+  },
+  {
+    "name": "Azure ExpressRoute",
+    "providers": ["azure"],
+    "services": ["hybrid","network"],
+    "domains": ["connectivity"],
+    "categories": ["on-premises","private network"],
+    "links" {
+      "self": "/products/network/azure/expressroute"
+    }
+  },
+  {
+    "name": "Azure Firewall",
+    "providers": ["azure"],
+    "services": ["security","network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "links" {
+      "self": "/products/security/azure/firewall"
+    }
+  },
+  {
+    "name": "Azure Front Door",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["edge computing","systems management"],
+    "categories": ["content delivery","web application firewall","ddos protection","certificates"],
+    "links" {
+      "self": "/products/network/azure/front-door"
+    }
+  },
+  {
+    "name": "Azure Load Balancer",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","network load balancer"],
+    "links" {
+      "self": "/products/network/azure/load-balancer"
+    }
+  },
+  {
+    "name": "Azure Network Security Group",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "features": ["stateful"],
+    "links" {
+      "self": "/products/network/azure/security-groups"
+    }
+  },
+  {
+    "name": "Azure Network Watcher",
+    "providers": ["azure"],
+    "services": ["network","monitor"],
+    "domains": ["connectivity"],
+    "categories": ["network monitoring"],
+    "links" {
+      "self": "/products/network/azure/network-watcher"
+    }
+  },
+  {
+    "name": "Azure Traffic Manager",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer"],
+    "features": ["traffic routing"],
+    "links" {
+      "self": "/products/network/azure/traffic-manager"
+    }
+  },
+  {
+    "name": "Azure Virtual WAN",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network transit hub","virtual network"],
+    "links" {
+      "self": "/products/network/azure/virtual-wan"
+    }
+  },
+  {
+    "name": "Azure Virtual Network",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "links" {
+      "self": "/products/network/azure/vnet"
+    }
+  },
+  {
+    "name": "Azure Virtual Network Service Endpoint",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/azure/vnet-service-endpoint"
+    }
+  },
+  {
+    "name": "Azure VPN Gateway",
+    "providers": ["azure"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/azure/vpn-gateway"
+    }
+  },
+  {
+    "name": "Google Cloud CDN",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["edge computing"],
+    "categories": ["content delivery"],
+    "links" {
+      "self": "/products/network/gcp/cdn"
+    }
+  },
+  {
+    "name": "Google Cloud DNS",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["systems management"],
+    "categories": ["dns management"],
+    "links" {
+      "self": "/products/network/gcp/dns"
+    }
+  },
+  {
+    "name": "Google Cloud Firewall",
+    "providers": ["gcp"],
+    "services": ["security","network"],
+    "domains": ["connectivity"],
+    "categories": ["firewall"],
+    "links" {
+      "self": "/products/security/gcp/firewall"
+    }
+  },
+  {
+    "name": "Google Cloud Interconnect",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["on-premises","private network"],
+    "links" {
+      "self": "/products/network/gcp/interconnect"
+    }
+  },
+  {
+    "name": "Google Cloud Load Balancing",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links" {
+      "self": "/products/network/gcp/load-balancing"
+    }
+  },
+  {
+    "name": "Google Cloud NAT",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["network address translation","private network"],
+    "links" {
+      "self": "/products/network/gcp/cloud-nat"
+    }
+  },
+  {
+    "name": "Google Cloud Router",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network interface","private network"],
+    "links" {
+      "self": "/products/network/gcp/cloud-router"
+    }
+  },
+  {
+    "name": "Google Cloud Virtual Private Cloud",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["virtual network"],
+    "links" {
+      "self": "/products/network/gcp/vpc"
+      "models": [
+        "/products/network/gcp/vpc/auto-mode",
+        "/products/network/gcp/vpc/custom"
+      ]
+    }
+  }
+]

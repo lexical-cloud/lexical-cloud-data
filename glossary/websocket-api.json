@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/WebSocket",
   "services": ["integration"],
   "domains": ["api management"],
-  "permalink": "/glossary/websocket-api"
+  "links": {
+    "self": "/glossary/websocket-api"
+  }
 }
 

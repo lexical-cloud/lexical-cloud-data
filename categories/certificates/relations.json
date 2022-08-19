@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/security/aws/certificate-manager",
-    "/docs/network/azure/front-door"
+    "/products/security/aws/certificate-manager",
+    "/products/network/azure/front-door"
   ],
   "intersect": {
     "services": [

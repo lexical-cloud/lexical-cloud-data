@@ -1,0 +1,11 @@
+{
+  "name": "AWS Transit Gateway",
+  "providers": ["aws"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["network transit hub","virtual network"],
+  "links" {
+    "self": "/products/network/aws/transit-gateway"
+  }
+}
+

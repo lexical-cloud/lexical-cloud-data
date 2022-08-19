@@ -1,9 +1,0 @@
-{
-  "name": "AWS Organizations",
-  "providers": ["aws"],
-  "services": ["governance"],
-  "domains": ["systems management"],
-  "categories": ["resource management"],
-  "permalink": "/docs/governance/aws/organizations"
-}
-

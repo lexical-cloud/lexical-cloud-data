@@ -2,12 +2,16 @@
   "id": "object-storage",
   "name": "object storage",
   "type": "category",
-  "permalink": "/categories/object-storage",
+  "links": {
+    "self": "/categories/object-storage",
+  },
   "definition": {
     "title": "Object Storage",
     "url": "https://en.wikipedia.org/wiki/Object_storage",
     "services": ["storage"],
     "domains": ["data management"],
-    "permalink": "/glossary/object-storage"
+    "links": {
+      "self": "/glossary/object-storage"
+    }
   }
 }

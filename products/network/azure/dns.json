@@ -1,0 +1,11 @@
+{
+  "name": "Azure DNS",
+  "providers": ["azure"],
+  "services": ["network"],
+  "domains": ["systems management"],
+  "categories": ["dns management"],
+  "links" {
+    "self": "/products/network/azure/dns"
+  }
+}
+

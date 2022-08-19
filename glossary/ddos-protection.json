@@ -2,6 +2,8 @@
   "title": "DDoS Protection",
   "url": "https://en.wikipedia.org/wiki/DDoS_mitigation",
   "domains": ["systems management"],
-  "permalink": "/glossary/ddos-protection"
+  "links": {
+    "self": "/glossary/ddos-protection"
+  }
 }
 

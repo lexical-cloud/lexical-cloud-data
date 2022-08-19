@@ -2,12 +2,16 @@
   "id": "language-processing",
   "name": "language processing",
   "type": "category",
-  "permalink": "/categories/language-processing",
+  "links": {
+    "self": "/categories/language-processing",
+  },
   "definition": {
     "title": "Natural Language Processing (NLP)",
     "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
     "services": ["ai"],
     "domains": ["machine learning"],
-    "permalink": "/glossary/language-processing"
+    "links": {
+      "self": "/glossary/language-processing"
+    }
   }
 }

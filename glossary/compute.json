@@ -1,5 +1,7 @@
 {
   "title": "Compute",
-  "permalink": "/glossary/compute"
+  "links": {
+    "self": "/glossary/compute"
+  }
 }
 

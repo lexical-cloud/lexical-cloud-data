@@ -1,0 +1,11 @@
+{
+  "name": "AWS Trusted Advisor",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["risk assessment","best practices"],
+  "links" {
+    "self": "/products/governance/aws/trusted-advisor"
+  }
+}
+

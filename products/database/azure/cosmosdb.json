@@ -1,0 +1,11 @@
+{
+  "name": "Azure Cosmos DB",
+  "providers": ["azure"],
+  "services": ["database"],
+  "domains": ["data management","managed service","serverless"],
+  "categories": ["document db","nosql db"],
+  "links" {
+    "self": "/products/database/azure/cosmosdb"
+  }
+}
+

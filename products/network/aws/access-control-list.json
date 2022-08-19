@@ -1,0 +1,12 @@
+{
+  "name": "AWS Network Access Control List",
+  "providers": ["aws"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["firewall"],
+  "features": ["stateless"],
+  "links" {
+    "self": "/products/network/aws/access-control-list"
+  }
+}
+

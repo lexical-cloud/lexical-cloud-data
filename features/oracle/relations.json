@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/database/aws/rds"
+    "/products/database/aws/rds"
   ],
   "intersect": {
     "services": [

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amazon DynamoDB",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","key-value store","nosql db"],
+    "links" {
+      "self": "/products/database/aws/dynamodb"
+    }
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/azure/cosmosdb"
+    }
+  },
+  {
+    "name": "Google Cloud Firestore",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","nosql db"],
+    "links" {
+      "self": "/products/database/gcp/firestore"
+    }
+  }
+]

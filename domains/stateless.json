@@ -2,12 +2,16 @@
   "id": "stateless",
   "name": "stateless",
   "type": "domain",
-  "permalink": "/domains/stateless",
+  "links": {
+    "self": "/domains/stateless",
+  },
   "definition": {
     "title": "Stateless",
     "url": "https://en.wikipedia.org/wiki/Stateless_protocol",
     "services": ["compute"],
     "domains": ["architecture"],
-    "permalink": "/glossary/stateless"
+    "links": {
+      "self": "/glossary/stateless"
+    }
   }
 }

@@ -1,6 +1,8 @@
 {
   "title": "Directory Service",
   "services": ["identity"],
-  "permalink": "/glossary/directory-service"
+  "links": {
+    "self": "/glossary/directory-service"
+  }
 }
 

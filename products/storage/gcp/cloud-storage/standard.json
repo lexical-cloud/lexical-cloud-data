@@ -1,0 +1,13 @@
+{
+  "name": "Google Cloud Storage",
+  "model": "Standard Storage",
+  "providers": ["gcp"],
+  "services": ["storage"],
+  "domains": ["data management","serverless"],
+  "categories": ["object storage"],
+  "links" {
+    "self": "/products/storage/gcp/cloud-storage/standard"
+    "parent": "/products/storage/gcp/cloud-storage"
+  }
+}
+

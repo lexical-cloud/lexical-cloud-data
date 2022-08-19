@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amazon Redshift",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["data warehousing"],
+    "links" {
+      "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "Azure Synapse Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data warehousing"],
+    "links" {
+      "self": "/products/analytics/azure/synapse-analytics"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/bigquery"
+    }
+  }
+]

@@ -1,5 +1,7 @@
 {
   "title": "Providers",
-  "permalink": "/glossary/providers"
+  "links": {
+    "self": "/glossary/providers"
+  }
 }
 

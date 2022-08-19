@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/compute/aws/workspaces"
+    "/products/compute/aws/workspaces"
   ],
   "intersect": {
     "domains": [

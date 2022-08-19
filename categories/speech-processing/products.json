@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Amazon Polly",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["speech processing"],
+    "features": ["text-to-speech"],
+    "links" {
+      "self": "/products/ai/aws/polly"
+    }
+  },
+  {
+    "name": "Azure Bot Service",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/bot-service"
+    }
+  },
+  {
+    "name": "Azure Cognitive Services",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing","computer vision","decision making"],
+    "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
+    "links" {
+      "self": "/products/ai/azure/cognitive-services"
+    }
+  },
+  {
+    "name": "Azure QnA Maker",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/qna-maker"
+    }
+  },
+  {
+    "name": "Google Cloud Dialogflow",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/gcp/dialogflow"
+    }
+  },
+  {
+    "name": "Google Cloud Speech-to-Text",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["speech processing"],
+    "features": ["speech-to-text","prebuilt models"],
+    "links" {
+      "self": "/products/ai/gcp/speech-to-text"
+    }
+  },
+  {
+    "name": "Google Cloud Text-to-Speech",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["speech processing"],
+    "features": ["text-to-speech","prebuilt models"],
+    "links" {
+      "self": "/products/ai/gcp/text-to-speech"
+    }
+  }
+]

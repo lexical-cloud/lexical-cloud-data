@@ -2,12 +2,16 @@
   "id": "root-cause-analysis",
   "name": "root cause analysis",
   "type": "category",
-  "permalink": "/categories/root-cause-analysis",
+  "links": {
+    "self": "/categories/root-cause-analysis",
+  },
   "definition": {
     "title": "Root Cause Analysis",
     "url": "https://en.wikipedia.org/wiki/Root_cause_analysis",
     "services": ["monitor"],
     "domains": ["systems management"],
-    "permalink": "/glossary/root-cause-analysis"
+    "links": {
+      "self": "/glossary/root-cause-analysis"
+    }
   }
 }

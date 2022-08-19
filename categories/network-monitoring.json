@@ -2,12 +2,16 @@
   "id": "network-monitoring",
   "name": "network monitoring",
   "type": "category",
-  "permalink": "/categories/network-monitoring",
+  "links": {
+    "self": "/categories/network-monitoring",
+  },
   "definition": {
     "title": "Network Monitoring",
     "url": "https://en.wikipedia.org/wiki/Network_monitoring",
     "services": ["network","monitor"],
     "domains": ["connectivity","observability"],
-    "permalink": "/glossary/network-monitoring"
+    "links": {
+      "self": "/glossary/network-monitoring"
+    }
   }
 }

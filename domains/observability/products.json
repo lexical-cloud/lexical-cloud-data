@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Amazon CloudTrail",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["auditing"],
+    "links" {
+      "self": "/products/monitor/aws/cloudtrail"
+    }
+  },
+  {
+    "name": "Amazon CloudWatch",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "links" {
+      "self": "/products/monitor/aws/cloudwatch"
+    }
+  },
+  {
+    "name": "Amazon CloudWatch Application Insights",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "links" {
+      "self": "/products/monitor/aws/cloudwatch-app-insights"
+    }
+  },
+  {
+    "name": "AWS GuardDuty",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability","systems management"],
+    "categories": ["risks assessment","threat detection"],
+    "features": ["agentless"],
+    "links" {
+      "self": "/products/monitor/aws/guardduty"
+    }
+  },
+  {
+    "name": "AWS Health Dashboard",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "links" {
+      "self": "/products/monitor/aws/health-dashboard"
+    }
+  },
+  {
+    "name": "Azure Monitor",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","auditing"],
+    "features": ["alerts"],
+    "links" {
+      "self": "/products/monitor/azure/monitor"
+    }
+  },
+  {
+    "name": "Azure Monitor Application Insights",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","dashboards"],
+    "features": ["alerts","automation"],
+    "links" {
+      "self": "/products/monitor/azure/monitor-app-insights"
+    }
+  },
+  {
+    "name": "Azure Service Health",
+    "providers": ["azure"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["health"],
+    "features": ["alerts","maintenance schedule","reports","personalization"],
+    "links" {
+      "self": "/products/monitor/azure/service-health"
+    }
+  },
+  {
+    "name": "Google Cloud Debugger",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["systems management","observability"],
+    "categories": ["application debugger","root cause analysis"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-debugger"
+    }
+  },
+  {
+    "name": "Google Cloud Error Reporting",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis"],
+    "links" {
+      "self": "/products/monitor/gcp/error-reporting"
+    }
+  },
+  {
+    "name": "Google Cloud Logs",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["telemetry data","auditing"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-logging"
+    }
+  },
+  {
+    "name": "Google Cloud Monitoring",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["dashboards","telemetry data"],
+    "features": ["alerts","open telemetry"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-monitoring"
+    }
+  },
+  {
+    "name": "Google Cloud Profiler",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-profiler"
+    }
+  },
+  {
+    "name": "Google Cloud Trace",
+    "providers": ["gcp"],
+    "services": ["monitor"],
+    "domains": ["observability"],
+    "categories": ["root cause analysis","performance monitoring"],
+    "features": ["open telemetry"],
+    "links" {
+      "self": "/products/monitor/gcp/cloud-trace"
+    }
+  }
+]

@@ -1,9 +1,0 @@
-{
-  "name": "Azure Service Bus",
-  "providers": ["azure"],
-  "services": ["integration"],
-  "domains": ["eventing","serverless"],
-  "categories": ["message queue","pub-sub"],
-  "permalink": "/docs/integration/azure/service-bus"
-}
-

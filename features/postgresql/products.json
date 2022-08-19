@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Amazon Aurora",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql"],
+    "links" {
+      "self": "/products/database/aws/aurora"
+    }
+  },
+  {
+    "name": "Amazon Relational Database Service",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "links" {
+      "self": "/products/database/aws/rds"
+    }
+  },
+  {
+    "name": "Azure Database for PostgreSQL",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["postgresql"],
+    "links" {
+      "self": "/products/database/azure/db-for-postresql"
+    }
+  },
+  {
+    "name": "Google Cloud SQL",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","sql server"],
+    "links" {
+      "self": "/products/database/gcp/cloud-sql"
+    }
+  }
+]

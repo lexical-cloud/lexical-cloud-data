@@ -1,0 +1,11 @@
+{
+  "name": "Azure Network Watcher",
+  "providers": ["azure"],
+  "services": ["network","monitor"],
+  "domains": ["connectivity"],
+  "categories": ["network monitoring"],
+  "links" {
+    "self": "/products/network/azure/network-watcher"
+  }
+}
+

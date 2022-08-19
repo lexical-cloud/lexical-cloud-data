@@ -2,9 +2,13 @@
   "id": "network",
   "name": "network",
   "type": "service",
-  "permalink": "/services/network",
+  "links": {
+    "self": "/services/network",
+  },
   "definition": {
     "title": "Network",
-    "permalink": "/glossary/network"
+    "links": {
+      "self": "/glossary/network"
+    }
   }
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Azure Event Hubs",
+  "providers": ["azure"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["data streaming"],
+  "links" {
+    "self": "/products/integration/azure/event-hubs"
+  }
+}
+

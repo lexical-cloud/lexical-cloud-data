@@ -2,12 +2,16 @@
   "id": "network-address-translation",
   "name": "network address translation",
   "type": "category",
-  "permalink": "/categories/network-address-translation",
+  "links": {
+    "self": "/categories/network-address-translation",
+  },
   "definition": {
     "title": "Network Address Translation (NAT)",
     "url": "https://en.wikipedia.org/wiki/Network_address_translation",
     "services": ["network"],
     "domains": ["connectivity"],
-    "permalink": "/glossary/network-address-translation"
+    "links": {
+      "self": "/glossary/network-address-translation"
+    }
   }
 }

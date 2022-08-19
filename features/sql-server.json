@@ -2,11 +2,15 @@
   "id": "sql-server",
   "name": "sql server",
   "type": "feature",
-  "permalink": "/features/sql-server",
+  "links": {
+    "self": "/features/sql-server",
+  },
   "definition": {
     "title": "SQL Server",
     "url": "https://en.wikipedia.org/wiki/Microsoft_SQL_Server",
     "services": ["database"],
-    "permalink": "/glossary/sql-server"
+    "links": {
+      "self": "/glossary/sql-server"
+    }
   }
 }

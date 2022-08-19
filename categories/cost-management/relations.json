@@ -1,14 +1,14 @@
 {
   "instance": [
-    "/docs/governance/aws/budgets",
-    "/docs/governance/aws/cost-and-usage-report",
-    "/docs/governance/aws/cost-explorer",
-    "/docs/governance/aws/pricing-calculator",
-    "/docs/governance/azure/cost-management",
-    "/docs/governance/azure/pricing-calculator",
-    "/docs/governance/azure/tco-calculator",
-    "/docs/governance/gcp/budgets",
-    "/docs/governance/gcp/pricing-calculator"
+    "/products/governance/aws/budgets",
+    "/products/governance/aws/cost-and-usage-report",
+    "/products/governance/aws/cost-explorer",
+    "/products/governance/aws/pricing-calculator",
+    "/products/governance/azure/cost-management",
+    "/products/governance/azure/pricing-calculator",
+    "/products/governance/azure/tco-calculator",
+    "/products/governance/gcp/budgets",
+    "/products/governance/gcp/pricing-calculator"
   ],
   "intersect": {
     "domains": [

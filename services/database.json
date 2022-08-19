@@ -2,9 +2,13 @@
   "id": "database",
   "name": "database",
   "type": "service",
-  "permalink": "/services/database",
+  "links": {
+    "self": "/services/database",
+  },
   "definition": {
     "title": "Database",
-    "permalink": "/glossary/database"
+    "links": {
+      "self": "/glossary/database"
+    }
   }
 }

@@ -1,9 +1,0 @@
-{
-  "name": "Azure App Configuration",
-  "providers": ["azure"],
-  "services": ["developer tools"],
-  "domains": ["devops"],
-  "categories": ["continuous configuration"],
-  "permalink": "/docs/developer-tools/azure/appconfig"
-}
-

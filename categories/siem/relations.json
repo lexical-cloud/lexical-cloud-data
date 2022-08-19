@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/security/azure/sentinel"
+    "/products/security/azure/sentinel"
   ],
   "intersect": {
     "domains": [

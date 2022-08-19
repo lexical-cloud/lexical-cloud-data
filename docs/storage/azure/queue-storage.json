@@ -1,9 +1,0 @@
-{
-  "name": "Azure Queue Storage",
-  "providers": ["azure"],
-  "services": ["integration","storage"],
-  "domains": ["eventing","serverless"],
-  "categories": ["message queue"],
-  "permalink": "/docs/storage/azure/queue-storage"
-}
-

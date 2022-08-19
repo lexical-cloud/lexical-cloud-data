@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Interconnect",
-  "providers": ["gcp"],
-  "services": ["network"],
-  "domains": ["connectivity"],
-  "categories": ["on-premises","private network"],
-  "permalink": "/docs/network/gcp/interconnect"
-}
-

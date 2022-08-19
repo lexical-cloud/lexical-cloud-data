@@ -1,6 +1,8 @@
 {
   "title": "Financial Operations (FinOps)",
   "services": ["governance"],
-  "permalink": "/glossary/finops"
+  "links": {
+    "self": "/glossary/finops"
+  }
 }
 

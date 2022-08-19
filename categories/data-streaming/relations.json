@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/integration/aws/kinesis",
-    "/docs/integration/azure/event-hubs",
-    "/docs/integration/gcp/dataflow"
+    "/products/integration/aws/kinesis",
+    "/products/integration/azure/event-hubs",
+    "/products/integration/gcp/dataflow"
   ],
   "intersect": {
     "domains": [

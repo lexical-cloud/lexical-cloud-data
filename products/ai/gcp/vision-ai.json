@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Vision AI",
+  "providers": ["gcp"],
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "categories": ["computer vision"],
+  "features": ["object detection","prebuilt models"],
+  "links" {
+    "self": "/products/ai/gcp/vision-ai"
+  }
+}
+

@@ -2,12 +2,16 @@
   "id": "dns-management",
   "name": "dns management",
   "type": "category",
-  "permalink": "/categories/dns-management",
+  "links": {
+    "self": "/categories/dns-management",
+  },
   "definition": {
     "title": "Domain Name System (DNS) Management",
     "url": "https://en.wikipedia.org/wiki/Domain_Name_System",
     "services": ["network"],
     "domains": ["systems management"],
-    "permalink": "/glossary/dns-management"
+    "links": {
+      "self": "/glossary/dns-management"
+    }
   }
 }

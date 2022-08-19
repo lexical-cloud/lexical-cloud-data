@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Security_information_and_event_management",
   "services": ["security"],
   "domains": ["data management"],
-  "permalink": "/glossary/siem"
+  "links": {
+    "self": "/glossary/siem"
+  }
 }
 

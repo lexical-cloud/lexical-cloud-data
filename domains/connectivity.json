@@ -2,10 +2,14 @@
   "id": "connectivity",
   "name": "connectivity",
   "type": "domain",
-  "permalink": "/domains/connectivity",
+  "links": {
+    "self": "/domains/connectivity",
+  },
   "definition": {
     "title": "Connectivity",
     "services": ["network"],
-    "permalink": "/glossary/connectivity"
+    "links": {
+      "self": "/glossary/connectivity"
+    }
   }
 }

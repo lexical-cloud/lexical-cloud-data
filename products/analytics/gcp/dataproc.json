@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Dataproc",
+  "providers": ["gcp"],
+  "services": ["analytics"],
+  "domains": ["big data"],
+  "categories": ["data processing"],
+  "links" {
+    "self": "/products/analytics/gcp/dataproc"
+  }
+}
+

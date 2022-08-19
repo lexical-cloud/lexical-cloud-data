@@ -2,11 +2,15 @@
   "id": "resource-management",
   "name": "resource management",
   "type": "category",
-  "permalink": "/categories/resource-management",
+  "links": {
+    "self": "/categories/resource-management",
+  },
   "definition": {
     "title": "Resource Management",
     "url": "https://en.wikipedia.org/wiki/Resource_management_(computing)",
     "services": ["governance"],
-    "permalink": "/glossary/resource-management"
+    "links": {
+      "self": "/glossary/resource-management"
+    }
   }
 }

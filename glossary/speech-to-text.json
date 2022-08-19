@@ -4,6 +4,8 @@
   "services": ["ai"],
   "domains": ["machine learning"],
   "categories": ["speech processing"],
-  "permalink": "/glossary/speech-to-text"
+  "links": {
+    "self": "/glossary/speech-to-text"
+  }
 }
 

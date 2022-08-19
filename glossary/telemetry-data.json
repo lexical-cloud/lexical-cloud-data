@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Telemetry",
   "services": ["monitor"],
   "domains": ["observability"],
-  "permalink": "/glossary/telemetry-data"
+  "links": {
+    "self": "/glossary/telemetry-data"
+  }
 }
 

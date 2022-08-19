@@ -1,0 +1,9 @@
+{
+  "name": "Model Training",
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "links" {
+    "self": "/products/ai/azure/model-training"
+  }
+}
+

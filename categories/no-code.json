@@ -2,10 +2,14 @@
   "id": "no-code",
   "name": "no-code",
   "type": "category",
-  "permalink": "/categories/no-code",
+  "links": {
+    "self": "/categories/no-code",
+  },
   "definition": {
     "title": "No-Code",
     "url": "https://en.wikipedia.org/wiki/No-code_development_platform",
-    "permalink": "/glossary/no-code"
+    "links": {
+      "self": "/glossary/no-code"
+    }
   }
 }

@@ -1,9 +1,0 @@
-{
-  "name": "AWS AppConfig",
-  "providers": ["aws"],
-  "services": ["developer tools"],
-  "domains": ["devops"],
-  "categories": ["continuous configuration"],
-  "permalink": "/docs/developer-tools/aws/appconfig"
-}
-

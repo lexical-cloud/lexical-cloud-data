@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Elastic Compute Cloud",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["virtualization"],
+  "categories": ["virtual machines"],
+  "links" {
+    "self": "/products/compute/aws/ec2"
+  }
+}
+

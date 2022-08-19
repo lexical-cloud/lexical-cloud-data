@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AWS Identity and Access Management",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control","identity provider"],
+    "links" {
+      "self": "/products/identity/aws/iam"
+    }
+  },
+  {
+    "name": "AWS Service Control Policies",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": ["systems management"],
+    "categories": ["access control"],
+    "links" {
+      "self": "/products/governance/aws/service-control-policies"
+    }
+  },
+  {
+    "name": "Azure Role Based Access Control",
+    "providers": ["azure"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control"],
+    "links" {
+      "self": "/products/identity/azure/rbac"
+    }
+  },
+  {
+    "name": "Google Cloud Identity and Access Management",
+    "providers": ["gcp"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["access control"],
+    "links" {
+      "self": "/products/identity/gcp/iam"
+    }
+  }
+]

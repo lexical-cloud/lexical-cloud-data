@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud VM Manager",
-  "providers": ["gcp"],
-  "services": ["developer tools"],
-  "domains": ["systems management","virtualization"],
-  "categories": ["virtual machines"],
-  "permalink": "/docs/developer-tools/gcp/vm-manager"
-}
-

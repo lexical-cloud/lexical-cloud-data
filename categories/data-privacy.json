@@ -2,11 +2,15 @@
   "id": "data-privacy",
   "name": "data privacy",
   "type": "category",
-  "permalink": "/categories/data-privacy",
+  "links": {
+    "self": "/categories/data-privacy",
+  },
   "definition": {
     "title": "Data Privacy",
     "url": "https://en.wikipedia.org/wiki/Information_privacy",
     "domains": ["data management"],
-    "permalink": "/glossary/data-privacy"
+    "links": {
+      "self": "/glossary/data-privacy"
+    }
   }
 }

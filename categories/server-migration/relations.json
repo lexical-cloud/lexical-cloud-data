@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/migration/aws/mgn",
-    "/docs/migration/aws/cloud-endure",
-    "/docs/migration/aws/hub",
-    "/docs/migration/aws/sms"
+    "/products/migration/aws/mgn",
+    "/products/migration/aws/cloud-endure",
+    "/products/migration/aws/hub",
+    "/products/migration/aws/sms"
   ],
   "intersect": {
     "domains": [

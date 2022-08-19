@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/integration/aws/api-gateway",
-    "/docs/integration/azure/api-management",
-    "/docs/integration/gcp/api-gateway",
-    "/docs/integration/gcp/apigee"
+    "/products/integration/aws/api-gateway",
+    "/products/integration/azure/api-management",
+    "/products/integration/gcp/api-gateway",
+    "/products/integration/gcp/apigee"
   ],
   "intersect": {
     "domains": [

@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Routing",
   "services": ["network"],
   "domains": ["connectivity"],
-  "permalink": "/glossary/traffic-routing"
+  "links": {
+    "self": "/glossary/traffic-routing"
+  }
 }
 

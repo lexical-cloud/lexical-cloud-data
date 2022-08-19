@@ -2,10 +2,14 @@
   "id": "reports",
   "name": "reports",
   "type": "feature",
-  "permalink": "/features/reports",
+  "links": {
+    "self": "/features/reports",
+  },
   "definition": {
     "title": "Reports",
     "url": "https://en.wikipedia.org/wiki/Report",
-    "permalink": "/glossary/reports"
+    "links": {
+      "self": "/glossary/reports"
+    }
   }
 }

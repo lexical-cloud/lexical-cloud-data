@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Logs",
+  "providers": ["gcp"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["telemetry data","auditing"],
+  "links" {
+    "self": "/products/monitor/gcp/cloud-logging"
+  }
+}
+

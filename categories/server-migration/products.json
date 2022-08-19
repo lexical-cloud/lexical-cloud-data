@@ -1,0 +1,44 @@
+[
+  {
+    "name": "AWS Application Migration Service",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "links" {
+      "self": "/products/migration/aws/mgn"
+    }
+  },
+  {
+    "name": "AWS Cloud Endure",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/migration/aws/cloud-endure"
+    }
+  },
+  {
+    "name": "AWS Migration Hub",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "links" {
+      "self": "/products/migration/aws/hub"
+    }
+  },
+  {
+    "name": "AWS Server Migration Service",
+    "providers": ["aws"],
+    "services": ["migration"],
+    "domains": ["modernization"],
+    "categories": ["server migration"],
+    "labels": ["deprecated"],
+    "links" {
+      "self": "/products/migration/aws/sms"
+    }
+  }
+]

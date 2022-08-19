@@ -2,12 +2,16 @@
   "id": "caching",
   "name": "caching",
   "type": "category",
-  "permalink": "/categories/caching",
+  "links": {
+    "self": "/categories/caching",
+  },
   "definition": {
     "title": "Caching",
     "url": "https://en.wikipedia.org/wiki/Cache_(computing)",
     "services": ["database"],
     "domains": ["architecture"],
-    "permalink": "/glossary/caching"
+    "links": {
+      "self": "/glossary/caching"
+    }
   }
 }

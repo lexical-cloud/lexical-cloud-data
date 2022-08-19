@@ -1,0 +1,11 @@
+{
+  "name": "AWS Cost and Usage Report",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["cost management"],
+  "links" {
+    "self": "/products/governance/aws/cost-and-usage-report"
+  }
+}
+

@@ -2,9 +2,13 @@
   "id": "no-account-required",
   "name": "no account required",
   "type": "feature",
-  "permalink": "/features/no-account-required",
+  "links": {
+    "self": "/features/no-account-required",
+  },
   "definition": {
     "title": "No Account Required",
-    "permalink": "/glossary/no-account-required"
+    "links": {
+      "self": "/glossary/no-account-required"
+    }
   }
 }

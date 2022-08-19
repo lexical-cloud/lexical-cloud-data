@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/developer-tools/github/github",
-    "/docs/developer-tools/github/actions"
+    "/products/developer-tools/github/github",
+    "/products/developer-tools/github/actions"
   ],
   "intersect": {},
   "symdiff": {

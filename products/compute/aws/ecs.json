@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Elastic Container Service",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["containerization","managed service"],
+  "categories": ["container orchestrator"],
+  "links" {
+    "self": "/products/compute/aws/ecs"
+  }
+}
+

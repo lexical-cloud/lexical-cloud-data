@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Elastic File Storage",
+  "providers": ["aws"],
+  "services": ["storage"],
+  "domains": ["data management","serverless"],
+  "categories": ["file storage"],
+  "links" {
+    "self": "/products/storage/aws/efs"
+  }
+}
+

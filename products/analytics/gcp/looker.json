@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Looker",
+  "providers": ["gcp"],
+  "services": ["analytics"],
+  "domains": ["serverless","big data"],
+  "categories": ["dashboards"],
+  "links" {
+    "self": "/products/analytics/gcp/looker"
+  }
+}
+

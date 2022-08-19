@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Budgets",
+  "providers": ["gcp"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["cost management"],
+  "features": ["alerts"],
+  "links" {
+    "self": "/products/governance/gcp/budgets"
+  }
+}
+

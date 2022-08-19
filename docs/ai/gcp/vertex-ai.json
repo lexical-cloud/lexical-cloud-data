@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Vertex AI",
-  "providers": ["gcp"],
-  "services": ["ai"],
-  "domains": ["machine learning","managed service"],
-  "categories": ["model training"],
-  "permalink": "/docs/ai/gcp/vertex-ai"
-}
-

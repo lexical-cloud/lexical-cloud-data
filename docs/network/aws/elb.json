@@ -1,9 +1,0 @@
-{
-  "name": "Amazon Elastic Load Balancing",
-  "providers": ["aws"],
-  "services": ["network"],
-  "domains": ["connectivity"],
-  "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-  "permalink": "/docs/network/aws/elb"
-}
-

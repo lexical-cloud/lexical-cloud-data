@@ -1,0 +1,11 @@
+{
+  "name": "AWS Resource Groups",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["resource management"],
+  "links" {
+    "self": "/products/governance/aws/resource-groups"
+  }
+}
+

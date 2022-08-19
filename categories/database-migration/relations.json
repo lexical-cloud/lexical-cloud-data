@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/migration/aws/dms",
-    "/docs/migration/aws/sct",
-    "/docs/migration/azure/dms"
+    "/products/migration/aws/dms",
+    "/products/migration/aws/sct",
+    "/products/migration/azure/dms"
   ],
   "intersect": {
     "domains": [

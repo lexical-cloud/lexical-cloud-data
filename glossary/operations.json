@@ -1,6 +1,8 @@
 {
   "title": "Operations",
   "services": ["governance","monitor","security","storage"],
-  "permalink": "/glossary/operations"
+  "links": {
+    "self": "/glossary/operations"
+  }
 }
 

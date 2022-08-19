@@ -1,5 +1,7 @@
 {
   "title": "Scalability",
-  "permalink": "/glossary/scalability"
+  "links": {
+    "self": "/glossary/scalability"
+  }
 }
 

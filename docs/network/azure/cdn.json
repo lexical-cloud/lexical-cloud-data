@@ -1,9 +1,0 @@
-{
-  "name": "Azure CDN",
-  "providers": ["azure"],
-  "services": ["network"],
-  "domains": ["edge computing"],
-  "categories": ["content delivery"],
-  "permalink": "/docs/network/azure/cdn"
-}
-

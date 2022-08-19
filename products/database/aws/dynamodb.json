@@ -1,0 +1,11 @@
+{
+  "name": "Amazon DynamoDB",
+  "providers": ["aws"],
+  "services": ["database"],
+  "domains": ["data management","serverless"],
+  "categories": ["document db","key-value store","nosql db"],
+  "links" {
+    "self": "/products/database/aws/dynamodb"
+  }
+}
+

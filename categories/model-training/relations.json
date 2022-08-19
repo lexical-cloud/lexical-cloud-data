@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/ai/aws/sagemaker",
-    "/docs/ai/gcp/automl",
-    "/docs/ai/gcp/vertex-ai"
+    "/products/ai/aws/sagemaker",
+    "/products/ai/gcp/automl",
+    "/products/ai/gcp/vertex-ai"
   ],
   "intersect": {
     "domains": [

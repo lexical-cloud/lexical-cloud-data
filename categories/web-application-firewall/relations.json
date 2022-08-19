@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/security/aws/waf",
-    "/docs/network/azure/application-gateway",
-    "/docs/network/azure/front-door"
+    "/products/security/aws/waf",
+    "/products/network/azure/application-gateway",
+    "/products/network/azure/front-door"
   ],
   "intersect": {
     "categories": [

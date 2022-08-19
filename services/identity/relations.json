@@ -1,12 +1,12 @@
 {
   "instance": [
-    "/docs/identity/aws/cognito",
-    "/docs/identity/aws/ad-connector",
-    "/docs/identity/aws/iam",
-    "/docs/identity/azure/ad",
-    "/docs/identity/azure/rbac",
-    "/docs/identity/gcp/iam",
-    "/docs/identity/gcp/identity"
+    "/products/identity/aws/cognito",
+    "/products/identity/aws/ad-connector",
+    "/products/identity/aws/iam",
+    "/products/identity/azure/ad",
+    "/products/identity/azure/rbac",
+    "/products/identity/gcp/iam",
+    "/products/identity/gcp/identity"
   ],
   "intersect": {},
   "symdiff": {

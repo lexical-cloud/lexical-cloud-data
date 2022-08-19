@@ -2,13 +2,17 @@
   "id": "object-detection",
   "name": "object detection",
   "type": "feature",
-  "permalink": "/features/object-detection",
+  "links": {
+    "self": "/features/object-detection",
+  },
   "definition": {
     "title": "Object Detection",
     "url": "https://en.wikipedia.org/wiki/Object_detection",
     "services": ["ai"],
     "domains": ["machine learning"],
     "categories": ["computer vision"],
-    "permalink": "/glossary/object-detection"
+    "links": {
+      "self": "/glossary/object-detection"
+    }
   }
 }

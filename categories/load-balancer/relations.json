@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/network/aws/elb",
-    "/docs/network/azure/application-gateway",
-    "/docs/network/azure/load-balancer",
-    "/docs/network/azure/traffic-manager",
-    "/docs/network/gcp/load-balancing"
+    "/products/network/aws/elb",
+    "/products/network/azure/application-gateway",
+    "/products/network/azure/load-balancer",
+    "/products/network/azure/traffic-manager",
+    "/products/network/gcp/load-balancing"
   ],
   "intersect": {
     "domains": [

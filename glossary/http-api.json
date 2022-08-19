@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
   "services": ["integration"],
   "domains": ["api management"],
-  "permalink": "/glossary/http-api"
+  "links": {
+    "self": "/glossary/http-api"
+  }
 }
 

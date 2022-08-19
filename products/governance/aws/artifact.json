@@ -1,0 +1,11 @@
+{
+  "name": "AWS Artifact",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["compliance","auditing"],
+  "links" {
+    "self": "/products/governance/aws/artifact"
+  }
+}
+

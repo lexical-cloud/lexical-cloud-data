@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud AI Hub",
+  "providers": ["gcp"],
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "categories": ["prebuilt models"],
+  "links" {
+    "self": "/products/ai/gcp/ai-hub"
+  }
+}
+

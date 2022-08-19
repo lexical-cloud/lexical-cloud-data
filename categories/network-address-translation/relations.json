@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/network/gcp/cloud-nat"
+    "/products/network/gcp/cloud-nat"
   ],
   "intersect": {
     "domains": [

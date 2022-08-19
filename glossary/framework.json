@@ -1,5 +1,7 @@
 {
   "title": "Framework",
-  "permalink": "/glossary/framework"
+  "links": {
+    "self": "/glossary/framework"
+  }
 }
 

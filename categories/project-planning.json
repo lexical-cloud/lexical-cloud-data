@@ -2,12 +2,16 @@
   "id": "project-planning",
   "name": "project planning",
   "type": "category",
-  "permalink": "/categories/project-planning",
+  "links": {
+    "self": "/categories/project-planning",
+  },
   "definition": {
     "title": "Project Planning",
     "url": "https://en.wikipedia.org/wiki/Project_planning",
     "services": ["developer tools"],
     "domains": ["project management"],
-    "permalink": "/glossary/project-planning"
+    "links": {
+      "self": "/glossary/project-planning"
+    }
   }
 }

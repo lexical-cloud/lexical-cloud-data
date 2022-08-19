@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Persistent Disk",
+  "providers": ["gcp"],
+  "services": ["storage"],
+  "domains": ["data management"],
+  "categories": ["block storage"],
+  "links" {
+    "self": "/products/storage/gcp/peristent-disk"
+  }
+}
+

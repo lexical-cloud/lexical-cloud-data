@@ -2,6 +2,8 @@
   "title": "Threat Detection",
   "services": ["monitor"],
   "domains": ["systems management"],
-  "permalink": "/glossary/threat-detection"
+  "links": {
+    "self": "/glossary/threat-detection"
+  }
 }
 

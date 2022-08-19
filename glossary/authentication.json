@@ -2,6 +2,8 @@
   "title": "Authentication (AuthN)",
   "url": "https://en.wikipedia.org/wiki/Authentication",
   "services": ["security"],
-  "permalink": "/glossary/authentication"
+  "links": {
+    "self": "/glossary/authentication"
+  }
 }
 

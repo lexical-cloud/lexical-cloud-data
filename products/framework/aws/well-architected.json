@@ -1,0 +1,11 @@
+{
+  "name": "AWS Well-Architected Framework",
+  "providers": ["aws"],
+  "services": ["framework"],
+  "domains": ["architecture"],
+  "categories": ["decision making"],
+  "links" {
+    "self": "/products/framework/aws/well-architected"
+  }
+}
+

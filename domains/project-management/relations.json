@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/developer-tools/azure/boards",
-    "/docs/developer-tools/github/github"
+    "/products/developer-tools/azure/boards",
+    "/products/developer-tools/github/github"
   ],
   "intersect": {
     "services": [

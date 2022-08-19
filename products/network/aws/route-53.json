@@ -1,0 +1,12 @@
+{
+  "name": "Amazon Route 53",
+  "providers": ["aws"],
+  "services": ["network"],
+  "domains": ["systems management"],
+  "categories": ["dns management"],
+  "features": ["traffic routing"],
+  "links" {
+    "self": "/products/network/aws/route-53"
+  }
+}
+

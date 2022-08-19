@@ -2,9 +2,13 @@
   "id": "governance",
   "name": "governance",
   "type": "service",
-  "permalink": "/services/governance",
+  "links": {
+    "self": "/services/governance",
+  },
   "definition": {
     "title": "Governance",
-    "permalink": "/glossary/governance"
+    "links": {
+      "self": "/glossary/governance"
+    }
   }
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Bigtable",
+  "providers": ["gcp"],
+  "services": ["database"],
+  "domains": ["data management","managed service"],
+  "categories": ["nosql db","key-value store"],
+  "links" {
+    "self": "/products/database/gcp/bigtable"
+  }
+}
+

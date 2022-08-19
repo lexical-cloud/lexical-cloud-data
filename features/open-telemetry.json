@@ -2,10 +2,14 @@
   "id": "open-telemetry",
   "name": "open telemetry",
   "type": "feature",
-  "permalink": "/features/open-telemetry",
+  "links": {
+    "self": "/features/open-telemetry",
+  },
   "definition": {
     "title": "Open Telemetry",
     "domains": ["observability"],
-    "permalink": "/glossary/open-telemetry"
+    "links": {
+      "self": "/glossary/open-telemetry"
+    }
   }
 }

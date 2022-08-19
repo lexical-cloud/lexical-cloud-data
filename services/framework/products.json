@@ -1,0 +1,72 @@
+[
+  {
+    "name": "AWS Cloud Adoption Framework",
+    "providers": ["aws"],
+    "services": ["framework"],
+    "domains": ["modernization"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/aws/cloud-adoption"
+    }
+  },
+  {
+    "name": "AWS Serverless Application Model",
+    "providers": ["aws"],
+    "services": ["framework"],
+    "domains": ["serverless"],
+    "categories": ["deployment management"],
+    "links" {
+      "self": "/products/framework/aws/sam"
+    }
+  },
+  {
+    "name": "AWS Well-Architected Framework",
+    "providers": ["aws"],
+    "services": ["framework"],
+    "domains": ["architecture"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/aws/well-architected"
+    }
+  },
+  {
+    "name": "Azure Cloud Adoption Framework",
+    "providers": ["azure"],
+    "services": ["framework"],
+    "domains": ["modernization"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/azure/cloud-adoption"
+    }
+  },
+  {
+    "name": "Azure Well-Architected Framework",
+    "providers": ["azure"],
+    "services": ["framework"],
+    "domains": ["architecture"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/azure/well-architected"
+    }
+  },
+  {
+    "name": "Google Cloud Adoption Framework",
+    "providers": ["gcp"],
+    "services": ["framework"],
+    "domains": ["modernization"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/gcp/cloud-adoption"
+    }
+  },
+  {
+    "name": "Google Cloud Architecture Framework",
+    "providers": ["gcp"],
+    "services": ["framework"],
+    "domains": ["architecture"],
+    "categories": ["decision making"],
+    "links" {
+      "self": "/products/framework/gcp/architecture"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Projects",
+  "providers": ["gcp"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["policy management","resource management"],
+  "links" {
+    "self": "/products/governance/gcp/projects"
+  }
+}
+

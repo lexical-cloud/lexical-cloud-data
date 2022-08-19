@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/monitor/gcp/cloud-profiler",
-    "/docs/monitor/gcp/cloud-trace"
+    "/products/monitor/gcp/cloud-profiler",
+    "/products/monitor/gcp/cloud-trace"
   ],
   "intersect": {
     "domains": [

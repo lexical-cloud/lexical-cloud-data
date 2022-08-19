@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/storage/aws/s3",
-    "/docs/storage/aws/s3-glacier",
-    "/docs/storage/azure/blob-storage",
-    "/docs/storage/gcp/cloud-storage",
-    "/docs/storage/gcp/cloud-storage-archive"
+    "/products/storage/aws/s3",
+    "/products/storage/aws/s3-glacier",
+    "/products/storage/azure/blob-storage",
+    "/products/storage/gcp/cloud-storage",
+    "/products/storage/gcp/cloud-storage-archive"
   ],
   "intersect": {
     "domains": [

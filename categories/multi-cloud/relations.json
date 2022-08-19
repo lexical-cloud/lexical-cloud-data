@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/hybrid/gcp/anthos",
-    "/docs/integration/gcp/composer"
+    "/products/hybrid/gcp/anthos",
+    "/products/integration/gcp/composer"
   ],
   "intersect": {
     "domains": [

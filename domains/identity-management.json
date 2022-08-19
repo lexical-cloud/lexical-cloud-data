@@ -2,11 +2,15 @@
   "id": "identity-management",
   "name": "identity management",
   "type": "domain",
-  "permalink": "/domains/identity-management",
+  "links": {
+    "self": "/domains/identity-management",
+  },
   "definition": {
     "title": "Identity Management (IdM)",
     "url": "https://en.wikipedia.org/wiki/Identity_management",
     "services": ["identity"],
-    "permalink": "/glossary/identity-management"
+    "links": {
+      "self": "/glossary/identity-management"
+    }
   }
 }

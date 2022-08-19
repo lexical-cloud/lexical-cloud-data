@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Amazon Elastic Block Storage",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/aws/ebs"
+    }
+  },
+  {
+    "name": "Amazon Elastic File Storage",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/aws/efs"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage"],
+    "links" {
+      "self": "/products/storage/aws/s3"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service Glacier",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/aws/s3-glacier"
+    }
+  },
+  {
+    "name": "AWS Backup",
+    "providers": ["aws"],
+    "services": ["storage","hybrid"],
+    "domains": ["data management","systems management"],
+    "categories": ["data security"],
+    "links" {
+      "self": "/products/storage/aws/backup"
+    }
+  },
+  {
+    "name": "AWS Storage Gateway",
+    "providers": ["aws"],
+    "services": ["hybrid","storage"],
+    "domains": ["modernization"],
+    "categories": ["on-premises"],
+    "links" {
+      "self": "/products/hybrid/aws/storage-gateway"
+    }
+  },
+  {
+    "name": "Azure Blob Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["data archive","object storage"],
+    "links" {
+      "self": "/products/storage/azure/blob-storage"
+    }
+  },
+  {
+    "name": "Azure Disk Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/azure/disk-storage"
+    }
+  },
+  {
+    "name": "Azure Files",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/azure/files"
+    }
+  },
+  {
+    "name": "Azure Queue Storage",
+    "providers": ["azure"],
+    "services": ["integration","storage"],
+    "domains": ["eventing","serverless"],
+    "categories": ["message queue"],
+    "links" {
+      "self": "/products/storage/azure/queue-storage"
+    }
+  },
+  {
+    "name": "Azure Table Storage",
+    "providers": ["azure"],
+    "services": ["database","storage"],
+    "domains": ["data management"],
+    "categories": ["nosql db","key-value store"],
+    "links" {
+      "self": "/products/storage/azure/table-storage"
+    }
+  },
+  {
+    "name": "Google Cloud Filestore",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","managed service"],
+    "categories": ["file storage"],
+    "links" {
+      "self": "/products/storage/gcp/filestore"
+    }
+  },
+  {
+    "name": "Google Cloud Persistent Disk",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management"],
+    "categories": ["block storage"],
+    "links" {
+      "self": "/products/storage/gcp/peristent-disk"
+    }
+  },
+  {
+    "name": "Google Cloud Storage",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage"],
+    "links" {
+      "self": "/products/storage/gcp/cloud-storage"
+      "models": [
+        "/products/storage/gcp/cloud-storage/archive",
+        "/products/storage/gcp/cloud-storage/coldline",
+        "/products/storage/gcp/cloud-storage/nearline",
+        "/products/storage/gcp/cloud-storage/standard"
+      ]
+    }
+  },
+  {
+    "name": "Google Cloud Storage Archive",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/gcp/cloud-storage-archive"
+    }
+  }
+]

@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Data_warehouse",
   "services": ["analytics"],
   "domains": ["data management"],
-  "permalink": "/glossary/data-warehousing"
+  "links": {
+    "self": "/glossary/data-warehousing"
+  }
 }
 

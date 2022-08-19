@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Amazon EC2 Auto Scaling",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "features": ["auto scaling"],
+    "links" {
+      "self": "/products/compute/aws/ec2-auto-scaling"
+    }
+  },
+  {
+    "name": "Azure Virtual Machine Scaled Sets",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "features": ["auto scaling"],
+    "links" {
+      "self": "/products/compute/azure/vm-scaled-sets"
+    }
+  },
+  {
+    "name": "Google Cloud Managed Instance Groups",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["virtualization"],
+    "categories": ["virtual machines"],
+    "features": ["auto scaling"],
+    "links" {
+      "self": "/products/compute/gcp/managed-instance-groups"
+    }
+  }
+]

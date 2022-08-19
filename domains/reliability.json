@@ -2,5 +2,6 @@
   "id": "reliability",
   "name": "reliability",
   "type": "domain",
-  "permalink": "/domains/reliability"
+  "links": {
+    "self": "/domains/reliability"
 }

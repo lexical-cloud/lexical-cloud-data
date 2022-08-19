@@ -2,6 +2,8 @@
   "title": "Oracle Database",
   "url": "https://en.wikipedia.org/wiki/Oracle_Database",
   "services": ["database"],
-  "permalink": "/glossary/oracle"
+  "links": {
+    "self": "/glossary/oracle"
+  }
 }
 

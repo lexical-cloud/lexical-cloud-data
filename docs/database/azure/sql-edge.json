@@ -1,9 +1,0 @@
-{
-  "name": "Azure SQL Edge",
-  "providers": ["azure"],
-  "services": ["database","iot"],
-  "domains": ["data management","edge computing"],
-  "categories": ["relational db","sql compliant"],
-  "permalink": "/docs/database/azure/sql-edge"
-}
-

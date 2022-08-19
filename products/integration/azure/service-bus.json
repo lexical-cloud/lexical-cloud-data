@@ -1,0 +1,11 @@
+{
+  "name": "Azure Service Bus",
+  "providers": ["azure"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["message queue","pub-sub"],
+  "links" {
+    "self": "/products/integration/azure/service-bus"
+  }
+}
+

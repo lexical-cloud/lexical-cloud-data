@@ -4,6 +4,8 @@
   "services": ["database"],
   "domains": ["data management"],
   "categories": ["nosql db"],
-  "permalink": "/glossary/key-value-store"
+  "links": {
+    "self": "/glossary/key-value-store"
+  }
 }
 

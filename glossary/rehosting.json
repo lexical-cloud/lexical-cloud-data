@@ -2,6 +2,8 @@
   "title": "Rehosting",
   "services": ["migration"],
   "domains": ["architecture","modernization"],
-  "permalink": "/glossary/rehosting"
+  "links": {
+    "self": "/glossary/rehosting"
+  }
 }
 

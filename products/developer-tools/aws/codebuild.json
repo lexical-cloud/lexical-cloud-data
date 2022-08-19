@@ -1,0 +1,11 @@
+{
+  "name": "AWS CodeBuild",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["devops"],
+  "categories": ["continuous integration"],
+  "links" {
+    "self": "/products/developer-tools/aws/codebuild"
+  }
+}
+

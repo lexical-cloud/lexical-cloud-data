@@ -1,0 +1,11 @@
+{
+  "name": "AWS Config",
+  "providers": ["aws"],
+  "services": ["monitor"],
+  "domains": ["systems management"],
+  "categories": ["auditing","configuration management","risk assessment"],
+  "links" {
+    "self": "/products/monitor/aws/config"
+  }
+}
+

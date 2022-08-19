@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/ai/azure/cognitive-services",
-    "/docs/ai/gcp/natural-language-ai"
+    "/products/ai/azure/cognitive-services",
+    "/products/ai/gcp/natural-language-ai"
   ],
   "intersect": {
     "services": [

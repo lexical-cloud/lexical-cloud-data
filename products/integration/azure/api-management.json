@@ -1,0 +1,12 @@
+{
+  "name": "Azure API Management",
+  "providers": ["azure"],
+  "services": ["integration"],
+  "domains": ["api management","serverless"],
+  "categories": ["api gateway","api lifecycle","api portal"],
+  "features": ["rest api","http api","websocket api"],
+  "links" {
+    "self": "/products/integration/azure/api-management"
+  }
+}
+

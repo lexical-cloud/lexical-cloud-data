@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Amazon Inspector",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["virtualization","systems management"],
+    "categories": ["vulnerability management","risk assessment"],
+    "features": ["agent-based"],
+    "links" {
+      "self": "/products/monitor/aws/inspector"
+    }
+  }
+]

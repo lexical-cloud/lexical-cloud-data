@@ -2,6 +2,8 @@
   "title": "Hosted Integrated Dev Environment (IDE)",
   "url": "https://en.wikipedia.org/wiki/Online_integrated_development_environment",
   "services": ["developer tools"],
-  "permalink": "/glossary/hosted-ide"
+  "links": {
+    "self": "/glossary/hosted-ide"
+  }
 }
 

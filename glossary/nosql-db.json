@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/NoSQL",
   "services": ["database"],
   "domains": ["data management"],
-  "permalink": "/glossary/nosql-db"
+  "links": {
+    "self": "/glossary/nosql-db"
+  }
 }
 

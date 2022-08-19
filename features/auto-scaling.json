@@ -2,11 +2,15 @@
   "id": "auto-scaling",
   "name": "auto scaling",
   "type": "feature",
-  "permalink": "/features/auto-scaling",
+  "links": {
+    "self": "/features/auto-scaling",
+  },
   "definition": {
     "title": "Auto Scaling",
     "url": "https://glossary.cncf.io/auto-scaling/",
     "domains": ["virtualization"],
-    "permalink": "/glossary/auto-scaling"
+    "links": {
+      "self": "/glossary/auto-scaling"
+    }
   }
 }

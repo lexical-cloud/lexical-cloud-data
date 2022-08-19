@@ -1,6 +1,6 @@
 {
   "instance": [
-    "/docs/monitor/aws/guardduty"
+    "/products/monitor/aws/guardduty"
   ],
   "intersect": {},
   "symdiff": {

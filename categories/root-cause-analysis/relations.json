@@ -1,11 +1,11 @@
 {
   "instance": [
-    "/docs/security/aws/detective",
-    "/docs/monitor/aws/xray",
-    "/docs/monitor/gcp/cloud-debugger",
-    "/docs/monitor/gcp/error-reporting",
-    "/docs/monitor/gcp/cloud-profiler",
-    "/docs/monitor/gcp/cloud-trace"
+    "/products/security/aws/detective",
+    "/products/monitor/aws/xray",
+    "/products/monitor/gcp/cloud-debugger",
+    "/products/monitor/gcp/error-reporting",
+    "/products/monitor/gcp/cloud-profiler",
+    "/products/monitor/gcp/cloud-trace"
   ],
   "intersect": {
     "domains": [

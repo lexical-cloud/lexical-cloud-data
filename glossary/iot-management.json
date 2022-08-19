@@ -2,6 +2,8 @@
   "title": "IoT Management",
   "services": ["iot"],
   "domains": ["edge computing"],
-  "permalink": "/glossary/iot-management"
+  "links": {
+    "self": "/glossary/iot-management"
+  }
 }
 

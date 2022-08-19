@@ -1,9 +1,0 @@
-{
-  "name": "Microsoft Defender for Cloud",
-  "providers": ["azure"],
-  "services": ["security"],
-  "domains": ["systems management"],
-  "categories": ["security monitoring","auditing"],
-  "permalink": "/docs/security/azure/defender-for-cloud"
-}
-

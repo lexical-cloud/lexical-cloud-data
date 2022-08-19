@@ -1,0 +1,12 @@
+{
+  "name": "AWS Pricing Calculator",
+  "providers": ["aws"],
+  "services": ["governance"],
+  "domains": ["finops","systems management"],
+  "categories": ["cost management"],
+  "features": ["cost estimation","no account required"],
+  "links" {
+    "self": "/products/governance/aws/pricing-calculator"
+  }
+}
+

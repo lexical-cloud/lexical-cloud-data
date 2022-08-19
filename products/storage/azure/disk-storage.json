@@ -1,0 +1,11 @@
+{
+  "name": "Azure Disk Storage",
+  "providers": ["azure"],
+  "services": ["storage"],
+  "domains": ["data management"],
+  "categories": ["block storage"],
+  "links" {
+    "self": "/products/storage/azure/disk-storage"
+  }
+}
+

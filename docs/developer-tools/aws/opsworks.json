@@ -1,9 +1,0 @@
-{
-  "name": "AWS OpsWorks",
-  "providers": ["aws"],
-  "services": ["developer tools"],
-  "domains": ["virtualization","systems management"],
-  "categories": ["configuration management"],
-  "permalink": "/docs/developer-tools/aws/opsworks"
-}
-

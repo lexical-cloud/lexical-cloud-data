@@ -1,9 +1,0 @@
-{
-  "name": "Azure ExpressRoute",
-  "providers": ["azure"],
-  "services": ["hybrid","network"],
-  "domains": ["connectivity"],
-  "categories": ["on-premises","private network"],
-  "permalink": "/docs/network/azure/expressroute"
-}
-

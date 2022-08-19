@@ -3,6 +3,8 @@
   "services": ["network"],
   "domains": ["connectivity"],
   "categories": ["load balancer"],
-  "permalink": "/glossary/network-load-balancer"
+  "links": {
+    "self": "/glossary/network-load-balancer"
+  }
 }
 

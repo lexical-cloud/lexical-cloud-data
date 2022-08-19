@@ -2,10 +2,14 @@
   "id": "serverless",
   "name": "serverless",
   "type": "domain",
-  "permalink": "/domains/serverless",
+  "links": {
+    "self": "/domains/serverless",
+  },
   "definition": {
     "title": "Serverless",
     "url": "https://glossary.cncf.io/serverless/",
-    "permalink": "/glossary/serverless"
+    "links": {
+      "self": "/glossary/serverless"
+    }
   }
 }

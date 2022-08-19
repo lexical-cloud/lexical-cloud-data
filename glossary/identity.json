@@ -1,5 +1,7 @@
 {
   "title": "Identity",
-  "permalink": "/glossary/identity"
+  "links": {
+    "self": "/glossary/identity"
+  }
 }
 

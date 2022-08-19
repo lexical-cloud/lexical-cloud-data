@@ -1,9 +1,0 @@
-{
-  "name": "AWS Outposts",
-  "providers": ["aws"],
-  "services": ["hybrid"],
-  "domains": ["architecture","edge computing"],
-  "categories": ["on-premises"],
-  "permalink": "/docs/hybrid/aws/outposts"
-}
-

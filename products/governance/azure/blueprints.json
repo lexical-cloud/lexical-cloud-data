@@ -1,0 +1,11 @@
+{
+  "name": "Azure Blueprints",
+  "providers": ["azure"],
+  "services": ["governance"],
+  "domains": ["systems management"],
+  "categories": ["resource management","environment management"],
+  "links" {
+    "self": "/products/governance/azure/blueprints"
+  }
+}
+

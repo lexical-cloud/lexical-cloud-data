@@ -1,0 +1,11 @@
+{
+  "name": "Azure Cache for Redis",
+  "providers": ["azure"],
+  "services": ["database"],
+  "domains": ["managed service"],
+  "categories": ["caching"],
+  "links" {
+    "self": "/products/database/azure/cache-for-redis"
+  }
+}
+

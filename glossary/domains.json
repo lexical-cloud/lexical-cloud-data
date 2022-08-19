@@ -1,5 +1,7 @@
 {
   "title": "Domains",
-  "permalink": "/glossary/domains"
+  "links": {
+    "self": "/glossary/domains"
+  }
 }
 

@@ -1,0 +1,12 @@
+{
+  "name": "Amazon EC2 Auto Scaling",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["virtualization"],
+  "categories": ["virtual machines"],
+  "features": ["auto scaling"],
+  "links" {
+    "self": "/products/compute/aws/ec2-auto-scaling"
+  }
+}
+

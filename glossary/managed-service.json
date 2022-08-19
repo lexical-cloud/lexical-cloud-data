@@ -2,6 +2,8 @@
   "title": "Managed Service",
   "url": "https://en.wikipedia.org/wiki/Managed_services",
   "domains": ["architecture"],
-  "permalink": "/glossary/managed-service"
+  "links": {
+    "self": "/glossary/managed-service"
+  }
 }
 

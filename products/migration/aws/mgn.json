@@ -1,0 +1,11 @@
+{
+  "name": "AWS Application Migration Service",
+  "providers": ["aws"],
+  "services": ["migration"],
+  "domains": ["modernization"],
+  "categories": ["server migration"],
+  "links" {
+    "self": "/products/migration/aws/mgn"
+  }
+}
+

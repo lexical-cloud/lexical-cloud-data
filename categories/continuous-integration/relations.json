@@ -1,9 +1,9 @@
 {
   "instance": [
-    "/docs/developer-tools/aws/codebuild",
-    "/docs/developer-tools/aws/codestar",
-    "/docs/developer-tools/azure/pipelines",
-    "/docs/developer-tools/github/actions"
+    "/products/developer-tools/aws/codebuild",
+    "/products/developer-tools/aws/codestar",
+    "/products/developer-tools/azure/pipelines",
+    "/products/developer-tools/github/actions"
   ],
   "intersect": {},
   "symdiff": {

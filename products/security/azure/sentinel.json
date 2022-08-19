@@ -1,0 +1,11 @@
+{
+  "name": "Microsoft Sentinel",
+  "providers": ["azure"],
+  "services": ["security"],
+  "domains": ["data management"],
+  "categories": ["siem"],
+  "links" {
+    "self": "/products/security/azure/sentinel"
+  }
+}
+

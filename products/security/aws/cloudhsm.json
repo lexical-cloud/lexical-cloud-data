@@ -1,0 +1,11 @@
+{
+  "name": "AWS CloudHSM",
+  "providers": ["aws"],
+  "services": ["security"],
+  "domains": ["data management"],
+  "categories": ["data security","key management"],
+  "links" {
+    "self": "/products/security/aws/cloudhsm"
+  }
+}
+

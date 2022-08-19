@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Profiler",
-  "providers": ["gcp"],
-  "services": ["monitor"],
-  "domains": ["observability"],
-  "categories": ["root cause analysis","performance monitoring"],
-  "permalink": "/docs/monitor/gcp/cloud-profiler"
-}
-

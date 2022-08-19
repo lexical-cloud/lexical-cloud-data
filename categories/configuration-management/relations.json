@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/monitor/aws/config",
-    "/docs/developer-tools/aws/opsworks",
-    "/docs/developer-tools/aws/systems-manager",
-    "/docs/developer-tools/aws/systems-manager-parameter-store",
-    "/docs/developer-tools/azure/automation"
+    "/products/monitor/aws/config",
+    "/products/developer-tools/aws/opsworks",
+    "/products/developer-tools/aws/systems-manager",
+    "/products/developer-tools/aws/systems-manager-parameter-store",
+    "/products/developer-tools/azure/automation"
   ],
   "intersect": {
     "domains": [

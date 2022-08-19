@@ -1,9 +1,0 @@
-{
-  "name": "Azure Virtual Machines",
-  "providers": ["azure"],
-  "services": ["compute"],
-  "domains": ["virtualization"],
-  "categories": ["virtual machines"],
-  "permalink": "/docs/compute/azure/vm"
-}
-

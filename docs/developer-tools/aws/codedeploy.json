@@ -1,9 +1,0 @@
-{
-  "name": "AWS CodeDeploy",
-  "providers": ["aws"],
-  "services": ["developer tools"],
-  "domains": ["devops"],
-  "categories": ["continuous deployment"],
-  "permalink": "/docs/developer-tools/aws/codedeploy"
-}
-

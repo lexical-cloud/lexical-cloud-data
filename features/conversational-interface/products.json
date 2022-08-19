@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Amaxon Lex",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/aws/lex"
+    }
+  },
+  {
+    "name": "Azure Bot Service",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/bot-service"
+    }
+  },
+  {
+    "name": "Azure Language Understanding",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/luis"
+    }
+  },
+  {
+    "name": "Azure QnA Maker",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/qna-maker"
+    }
+  },
+  {
+    "name": "Google Cloud Dialogflow",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","serverless"],
+    "categories": ["language processing","speech processing"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/gcp/dialogflow"
+    }
+  },
+  {
+    "name": "Microsoft Power Virtual Agents",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["end-user computing","machine learning","serverless"],
+    "categories": ["language processing","no-code"],
+    "features": ["conversational interface"],
+    "links" {
+      "self": "/products/ai/azure/power-virtual-agents"
+    }
+  }
+]

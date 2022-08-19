@@ -1,0 +1,12 @@
+{
+  "name": "Amazon Aurora",
+  "providers": ["aws"],
+  "services": ["database"],
+  "domains": ["data management","managed service","serverless"],
+  "categories": ["relational db","sql compliant"],
+  "features": ["mysql","postgresql"],
+  "links" {
+    "self": "/products/database/aws/aurora"
+  }
+}
+

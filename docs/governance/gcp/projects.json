@@ -1,9 +1,0 @@
-{
-  "name": "Google Cloud Projects",
-  "providers": ["gcp"],
-  "services": ["governance"],
-  "domains": ["systems management"],
-  "categories": ["policy management","resource management"],
-  "permalink": "/docs/governance/gcp/projects"
-}
-

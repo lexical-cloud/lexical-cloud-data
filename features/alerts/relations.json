@@ -1,16 +1,16 @@
 {
   "instance": [
-    "/docs/monitor/aws/cloudwatch",
-    "/docs/monitor/aws/cloudwatch-app-insights",
-    "/docs/governance/aws/budgets",
-    "/docs/monitor/aws/health-dashboard",
-    "/docs/governance/azure/cost-management",
-    "/docs/monitor/azure/monitor",
-    "/docs/monitor/azure/monitor-app-insights",
-    "/docs/monitor/azure/service-health",
-    "/docs/governance/gcp/budgets",
-    "/docs/monitor/gcp/cloud-monitoring",
-    "/docs/governance/gcp/quotas"
+    "/products/monitor/aws/cloudwatch",
+    "/products/monitor/aws/cloudwatch-app-insights",
+    "/products/governance/aws/budgets",
+    "/products/monitor/aws/health-dashboard",
+    "/products/governance/azure/cost-management",
+    "/products/monitor/azure/monitor",
+    "/products/monitor/azure/monitor-app-insights",
+    "/products/monitor/azure/service-health",
+    "/products/governance/gcp/budgets",
+    "/products/monitor/gcp/cloud-monitoring",
+    "/products/governance/gcp/quotas"
   ],
   "intersect": {},
   "symdiff": {

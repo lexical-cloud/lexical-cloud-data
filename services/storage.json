@@ -2,9 +2,13 @@
   "id": "storage",
   "name": "storage",
   "type": "service",
-  "permalink": "/services/storage",
+  "links": {
+    "self": "/services/storage",
+  },
   "definition": {
     "title": "Storage",
-    "permalink": "/glossary/storage"
+    "links": {
+      "self": "/glossary/storage"
+    }
   }
 }

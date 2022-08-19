@@ -1,0 +1,11 @@
+{
+  "name": "Amazon EventBridge",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["event bus","pub-sub"],
+  "links" {
+    "self": "/products/integration/aws/eventbridge"
+  }
+}
+

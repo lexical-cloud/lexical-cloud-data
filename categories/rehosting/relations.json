@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/compute/gcp/bare-metal",
-    "/docs/compute/gcp/vmware-engine"
+    "/products/compute/gcp/bare-metal",
+    "/products/compute/gcp/vmware-engine"
   ],
   "intersect": {
     "domains": [

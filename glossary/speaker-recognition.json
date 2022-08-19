@@ -4,6 +4,8 @@
   "services": ["ai"],
   "domains": ["machine learning"],
   "categories": ["speech processing"],
-  "permalink": "/glossary/speaker-recognition"
+  "links": {
+    "self": "/glossary/speaker-recognition"
+  }
 }
 

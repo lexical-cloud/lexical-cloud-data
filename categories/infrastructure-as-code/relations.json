@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/developer-tools/aws/cloudformation",
-    "/docs/developer-tools/azure/arm"
+    "/products/developer-tools/aws/cloudformation",
+    "/products/developer-tools/azure/arm"
   ],
   "intersect": {},
   "symdiff": {

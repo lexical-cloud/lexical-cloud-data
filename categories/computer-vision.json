@@ -2,12 +2,16 @@
   "id": "computer-vision",
   "name": "computer vision",
   "type": "category",
-  "permalink": "/categories/computer-vision",
+  "links": {
+    "self": "/categories/computer-vision",
+  },
   "definition": {
     "title": "Computer Vision",
     "url": "https://en.wikipedia.org/wiki/Computer_vision",
     "services": ["ai"],
     "domains": ["machine learning"],
-    "permalink": "/glossary/computer-vision"
+    "links": {
+      "self": "/glossary/computer-vision"
+    }
   }
 }

@@ -2,11 +2,15 @@
   "id": "prebuilt-models",
   "name": "prebuilt models",
   "type": "category",
-  "permalink": "/categories/prebuilt-models",
+  "links": {
+    "self": "/categories/prebuilt-models",
+  },
   "definition": {
     "title": "Prebuilt Models",
     "services": ["ai"],
     "domains": ["machine learning"],
-    "permalink": "/glossary/prebuilt-models"
+    "links": {
+      "self": "/glossary/prebuilt-models"
+    }
   }
 }

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Amazon Athena",
+    "providers": ["aws"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["sql compliant","unstructured data"],
+    "links" {
+      "self": "/products/database/aws/athena"
+    }
+  },
+  {
+    "name": "Amazon QuickSight",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["serverless","big data"],
+    "categories": ["dashboards"],
+    "links" {
+      "self": "/products/analytics/aws/quicksight"
+    }
+  },
+  {
+    "name": "Azure Data Lake Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links" {
+      "self": "/products/analytics/azure/data-lake-analytics"
+    }
+  },
+  {
+    "name": "Azure Databricks",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links" {
+      "self": "/products/analytics/azure/databricks"
+    }
+  },
+  {
+    "name": "Azure HDInsights",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links" {
+      "self": "/products/analytics/azure/hdinsight"
+    }
+  },
+  {
+    "name": "Azure Synapse Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data warehousing"],
+    "links" {
+      "self": "/products/analytics/azure/synapse-analytics"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/bigquery"
+    }
+  },
+  {
+    "name": "Google Cloud Dataproc",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links" {
+      "self": "/products/analytics/gcp/dataproc"
+    }
+  },
+  {
+    "name": "Google Cloud Looker",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["serverless","big data"],
+    "categories": ["dashboards"],
+    "links" {
+      "self": "/products/analytics/gcp/looker"
+    }
+  }
+]

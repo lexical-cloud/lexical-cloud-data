@@ -1,0 +1,11 @@
+{
+  "name": "AWS Lambda",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["serverless"],
+  "categories": ["faas"],
+  "links" {
+    "self": "/products/compute/aws/lambda"
+  }
+}
+

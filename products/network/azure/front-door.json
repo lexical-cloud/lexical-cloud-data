@@ -1,0 +1,11 @@
+{
+  "name": "Azure Front Door",
+  "providers": ["azure"],
+  "services": ["network"],
+  "domains": ["edge computing","systems management"],
+  "categories": ["content delivery","web application firewall","ddos protection","certificates"],
+  "links" {
+    "self": "/products/network/azure/front-door"
+  }
+}
+

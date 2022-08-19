@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Debugger",
+  "providers": ["gcp"],
+  "services": ["monitor"],
+  "domains": ["systems management","observability"],
+  "categories": ["application debugger","root cause analysis"],
+  "labels": ["deprecated"],
+  "links" {
+    "self": "/products/monitor/gcp/cloud-debugger"
+  }
+}
+

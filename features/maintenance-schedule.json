@@ -2,12 +2,16 @@
   "id": "maintenance-schedule",
   "name": "maintenance schedule",
   "type": "feature",
-  "permalink": "/features/maintenance-schedule",
+  "links": {
+    "self": "/features/maintenance-schedule",
+  },
   "definition": {
     "title": "Maintenance Schedule",
     "url": "https://en.wikipedia.org/wiki/Maintenance_(technical)#Planned_maintenance",
     "services": ["governance"],
     "domains": ["systems management"],
-    "permalink": "/glossary/maintenance-schedule"
+    "links": {
+      "self": "/glossary/maintenance-schedule"
+    }
   }
 }

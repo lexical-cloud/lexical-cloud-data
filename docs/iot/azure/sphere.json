@@ -1,9 +1,0 @@
-{
-  "name": "Azure Sphere",
-  "providers": ["azure"],
-  "services": ["iot"],
-  "domains": ["edge computing"],
-  "categories": ["iot hardware","iot security"],
-  "permalink": "/docs/iot/azure/sphere"
-}
-

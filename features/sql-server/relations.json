@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/database/aws/rds",
-    "/docs/database/gcp/cloud-sql"
+    "/products/database/aws/rds",
+    "/products/database/gcp/cloud-sql"
   ],
   "intersect": {
     "services": [

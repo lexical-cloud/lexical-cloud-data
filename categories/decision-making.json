@@ -2,10 +2,14 @@
   "id": "decision-making",
   "name": "decision making",
   "type": "category",
-  "permalink": "/categories/decision-making",
+  "links": {
+    "self": "/categories/decision-making",
+  },
   "definition": {
     "title": "Decision Making",
     "url": "https://en.wikipedia.org/wiki/Decision-making",
-    "permalink": "/glossary/decision-making"
+    "links": {
+      "self": "/glossary/decision-making"
+    }
   }
 }

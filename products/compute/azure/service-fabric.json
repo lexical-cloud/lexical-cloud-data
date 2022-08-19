@@ -1,0 +1,11 @@
+{
+  "name": "Azure Service Fabric",
+  "providers": ["azure"],
+  "services": ["compute"],
+  "domains": ["containerization"],
+  "categories": ["container orchestrator"],
+  "links" {
+    "self": "/products/compute/azure/service-fabric"
+  }
+}
+

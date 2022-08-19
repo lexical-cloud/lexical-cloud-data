@@ -2,6 +2,8 @@
   "title": "MariaDB",
   "url": "https://en.wikipedia.org/wiki/MariaDB",
   "services": ["database"],
-  "permalink": "/glossary/mariadb"
+  "links": {
+    "self": "/glossary/mariadb"
+  }
 }
 

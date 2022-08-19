@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Relational_database",
   "services": ["database"],
   "domains": ["data management"],
-  "permalink": "/glossary/relational-db"
+  "links": {
+    "self": "/glossary/relational-db"
+  }
 }
 

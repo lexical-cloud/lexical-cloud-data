@@ -2,12 +2,16 @@
   "id": "telemetry-data",
   "name": "telemetry data",
   "type": "category",
-  "permalink": "/categories/telemetry-data",
+  "links": {
+    "self": "/categories/telemetry-data",
+  },
   "definition": {
     "title": "Telemetry Data",
     "url": "https://en.wikipedia.org/wiki/Telemetry",
     "services": ["monitor"],
     "domains": ["observability"],
-    "permalink": "/glossary/telemetry-data"
+    "links": {
+      "self": "/glossary/telemetry-data"
+    }
   }
 }

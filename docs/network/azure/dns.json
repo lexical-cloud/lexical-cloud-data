@@ -1,9 +1,0 @@
-{
-  "name": "Azure DNS",
-  "providers": ["azure"],
-  "services": ["network"],
-  "domains": ["systems management"],
-  "categories": ["dns management"],
-  "permalink": "/docs/network/azure/dns"
-}
-

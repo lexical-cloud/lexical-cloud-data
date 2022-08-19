@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amazon Simple Storage Service Glacier",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/aws/s3-glacier"
+    }
+  },
+  {
+    "name": "Azure Blob Storage",
+    "providers": ["azure"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["data archive","object storage"],
+    "links" {
+      "self": "/products/storage/azure/blob-storage"
+    }
+  },
+  {
+    "name": "Google Cloud Storage Archive",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage","data archive"],
+    "links" {
+      "self": "/products/storage/gcp/cloud-storage-archive"
+    }
+  }
+]

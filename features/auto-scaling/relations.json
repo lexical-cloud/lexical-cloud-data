@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/compute/aws/ec2-auto-scaling",
-    "/docs/compute/azure/vm-scaled-sets",
-    "/docs/compute/gcp/managed-instance-groups"
+    "/products/compute/aws/ec2-auto-scaling",
+    "/products/compute/azure/vm-scaled-sets",
+    "/products/compute/gcp/managed-instance-groups"
   ],
   "intersect": {
     "domains": [

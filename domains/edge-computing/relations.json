@@ -1,15 +1,15 @@
 {
   "instance": [
-    "/docs/network/aws/cloudfront",
-    "/docs/hybrid/aws/outposts",
-    "/docs/network/azure/cdn",
-    "/docs/network/azure/front-door",
-    "/docs/iot/azure/central",
-    "/docs/iot/azure/edge",
-    "/docs/iot/azure/hub",
-    "/docs/iot/azure/sphere",
-    "/docs/database/azure/sql-edge",
-    "/docs/network/gcp/cdn"
+    "/products/network/aws/cloudfront",
+    "/products/hybrid/aws/outposts",
+    "/products/network/azure/cdn",
+    "/products/network/azure/front-door",
+    "/products/iot/azure/central",
+    "/products/iot/azure/edge",
+    "/products/iot/azure/hub",
+    "/products/iot/azure/sphere",
+    "/products/database/azure/sql-edge",
+    "/products/network/gcp/cdn"
   ],
   "intersect": {},
   "symdiff": {

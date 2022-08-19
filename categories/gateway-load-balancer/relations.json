@@ -1,7 +1,7 @@
 {
   "instance": [
-    "/docs/network/aws/elb",
-    "/docs/network/gcp/load-balancing"
+    "/products/network/aws/elb",
+    "/products/network/gcp/load-balancing"
   ],
   "intersect": {
     "categories": [

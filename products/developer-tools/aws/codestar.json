@@ -1,0 +1,11 @@
+{
+  "name": "AWS CodeStar",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain"],
+  "categories": ["continuous delivery","continuous integration"],
+  "links" {
+    "self": "/products/developer-tools/aws/codestar"
+  }
+}
+

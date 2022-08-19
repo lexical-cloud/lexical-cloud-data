@@ -3,6 +3,8 @@
   "url": "https://en.wikipedia.org/wiki/Cache_(computing)",
   "services": ["database"],
   "domains": ["architecture"],
-  "permalink": "/glossary/caching"
+  "links": {
+    "self": "/glossary/caching"
+  }
 }
 

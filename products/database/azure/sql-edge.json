@@ -1,0 +1,11 @@
+{
+  "name": "Azure SQL Edge",
+  "providers": ["azure"],
+  "services": ["database","iot"],
+  "domains": ["data management","edge computing"],
+  "categories": ["relational db","sql compliant"],
+  "links" {
+    "self": "/products/database/azure/sql-edge"
+  }
+}
+

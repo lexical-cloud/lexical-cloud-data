@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud CDN",
+  "providers": ["gcp"],
+  "services": ["network"],
+  "domains": ["edge computing"],
+  "categories": ["content delivery"],
+  "links" {
+    "self": "/products/network/gcp/cdn"
+  }
+}
+

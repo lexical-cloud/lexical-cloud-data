@@ -2,11 +2,15 @@
   "id": "big-data",
   "name": "big data",
   "type": "domain",
-  "permalink": "/domains/big-data",
+  "links": {
+    "self": "/domains/big-data",
+  },
   "definition": {
     "title": "Big Data",
     "url": "https://en.wikipedia.org/wiki/Big_data",
     "services": ["analytics","database"],
-    "permalink": "/glossary/big-data"
+    "links": {
+      "self": "/glossary/big-data"
+    }
   }
 }

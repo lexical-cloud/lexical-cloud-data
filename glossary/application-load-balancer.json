@@ -4,6 +4,8 @@
   "services": ["network"],
   "domains": ["connectivity"],
   "categories": ["load balancer"],
-  "permalink": "/glossary/application-load-balancer"
+  "links": {
+    "self": "/glossary/application-load-balancer"
+  }
 }
 

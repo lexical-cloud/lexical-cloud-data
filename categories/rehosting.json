@@ -2,11 +2,15 @@
   "id": "rehosting",
   "name": "rehosting",
   "type": "category",
-  "permalink": "/categories/rehosting",
+  "links": {
+    "self": "/categories/rehosting",
+  },
   "definition": {
     "title": "Rehosting",
     "services": ["migration"],
     "domains": ["architecture","modernization"],
-    "permalink": "/glossary/rehosting"
+    "links": {
+      "self": "/glossary/rehosting"
+    }
   }
 }

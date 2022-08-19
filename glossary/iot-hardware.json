@@ -2,6 +2,8 @@
   "title": "IoT Hardware",
   "services": ["iot"],
   "domains": ["edge computing"],
-  "permalink": "/glossary/iot-hardware"
+  "links": {
+    "self": "/glossary/iot-hardware"
+  }
 }
 

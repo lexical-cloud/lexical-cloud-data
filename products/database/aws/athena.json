@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Athena",
+  "providers": ["aws"],
+  "services": ["database","analytics"],
+  "domains": ["big data","data management","serverless"],
+  "categories": ["sql compliant","unstructured data"],
+  "links" {
+    "self": "/products/database/aws/athena"
+  }
+}
+

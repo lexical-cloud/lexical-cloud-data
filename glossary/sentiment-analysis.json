@@ -4,6 +4,8 @@
   "services": ["ai"],
   "domains": ["machine learning"],
   "categories": ["language processing"],
-  "permalink": "/glossary/sentiment-analysis"
+  "links": {
+    "self": "/glossary/sentiment-analysis"
+  }
 }
 

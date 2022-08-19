@@ -1,5 +1,7 @@
 {
   "title": "Network",
-  "permalink": "/glossary/network"
+  "links": {
+    "self": "/glossary/network"
+  }
 }
 

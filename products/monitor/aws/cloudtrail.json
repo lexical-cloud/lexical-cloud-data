@@ -1,0 +1,11 @@
+{
+  "name": "Amazon CloudTrail",
+  "providers": ["aws"],
+  "services": ["monitor"],
+  "domains": ["observability"],
+  "categories": ["auditing"],
+  "links" {
+    "self": "/products/monitor/aws/cloudtrail"
+  }
+}
+

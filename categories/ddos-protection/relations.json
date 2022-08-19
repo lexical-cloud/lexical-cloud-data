@@ -1,8 +1,8 @@
 {
   "instance": [
-    "/docs/security/aws/shield",
-    "/docs/security/azure/ddos-protection",
-    "/docs/network/azure/front-door"
+    "/products/security/aws/shield",
+    "/products/security/azure/ddos-protection",
+    "/products/network/azure/front-door"
   ],
   "intersect": {
     "domains": [

@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/integration/aws/api-gateway",
-    "/docs/integration/azure/api-management",
-    "/docs/integration/gcp/api-gateway",
-    "/docs/integration/gcp/apigee",
-    "/docs/integration/gcp/cloud-endpoints"
+    "/products/integration/aws/api-gateway",
+    "/products/integration/azure/api-management",
+    "/products/integration/gcp/api-gateway",
+    "/products/integration/gcp/apigee",
+    "/products/integration/gcp/cloud-endpoints"
   ],
   "intersect": {
     "services": [

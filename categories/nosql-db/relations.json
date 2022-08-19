@@ -1,10 +1,10 @@
 {
   "instance": [
-    "/docs/database/aws/dynamodb",
-    "/docs/database/azure/cosmosdb",
-    "/docs/storage/azure/table-storage",
-    "/docs/database/gcp/bigtable",
-    "/docs/database/gcp/firestore"
+    "/products/database/aws/dynamodb",
+    "/products/database/azure/cosmosdb",
+    "/products/storage/azure/table-storage",
+    "/products/database/gcp/bigtable",
+    "/products/database/gcp/firestore"
   ],
   "intersect": {
     "domains": [

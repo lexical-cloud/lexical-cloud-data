@@ -1,6 +1,8 @@
 {
   "title": "Server Migration",
   "domains": ["modernization"],
-  "permalink": "/glossary/server-migration"
+  "links": {
+    "self": "/glossary/server-migration"
+  }
 }
 

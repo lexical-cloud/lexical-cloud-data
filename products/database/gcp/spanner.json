@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Spanner",
+  "providers": ["gcp"],
+  "services": ["database"],
+  "domains": ["data management","managed service"],
+  "categories": ["relational db","sql compliant"],
+  "links" {
+    "self": "/products/database/gcp/spanner"
+  }
+}
+
