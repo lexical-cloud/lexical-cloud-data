@@ -3,7 +3,7 @@
   "name": "developer toolchain",
   "type": "domain",
   "links": {
-    "self": "/domains/developer-toolchain",
+    "self": "/domains/developer-toolchain"
   },
   "definition": {
     "title": "Developer Toolchain",

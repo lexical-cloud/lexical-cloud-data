@@ -3,7 +3,7 @@
   "name": "test planning",
   "type": "category",
   "links": {
-    "self": "/categories/test-planning",
+    "self": "/categories/test-planning"
   },
   "definition": {
     "title": "Test Planning",

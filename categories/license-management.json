@@ -3,12 +3,13 @@
   "name": "license management",
   "type": "category",
   "links": {
-    "self": "/categories/license-management",
+    "self": "/categories/license-management"
   },
   "definition": {
     "title": "License Management",
     "url": "https://en.wikipedia.org/wiki/License_manager",
-    "domains": ["governance"],
+    "services": ["governance"],
+    "domains": ["systems management"],
     "links": {
       "self": "/glossary/license-management"
     }

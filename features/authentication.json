@@ -3,7 +3,7 @@
   "name": "authentication",
   "type": "feature",
   "links": {
-    "self": "/features/authentication",
+    "self": "/features/authentication"
   },
   "definition": {
     "title": "Authentication (AuthN)",

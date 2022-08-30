@@ -3,7 +3,7 @@
   "name": "framework",
   "type": "service",
   "links": {
-    "self": "/services/framework",
+    "self": "/services/framework"
   },
   "definition": {
     "title": "Framework",

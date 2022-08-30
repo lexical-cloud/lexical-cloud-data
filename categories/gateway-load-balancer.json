@@ -3,7 +3,7 @@
   "name": "gateway load balancer",
   "type": "category",
   "links": {
-    "self": "/categories/gateway-load-balancer",
+    "self": "/categories/gateway-load-balancer"
   },
   "definition": {
     "title": "Gateway Load Balancer",

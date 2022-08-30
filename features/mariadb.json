@@ -3,7 +3,7 @@
   "name": "mariadb",
   "type": "feature",
   "links": {
-    "self": "/features/mariadb",
+    "self": "/features/mariadb"
   },
   "definition": {
     "title": "MariaDB",

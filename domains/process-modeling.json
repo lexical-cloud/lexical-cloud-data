@@ -3,7 +3,7 @@
   "name": "process modeling",
   "type": "domain",
   "links": {
-    "self": "/domains/process-modeling",
+    "self": "/domains/process-modeling"
   },
   "definition": {
     "title": "Process Modeling",

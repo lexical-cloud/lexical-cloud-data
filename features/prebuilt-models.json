@@ -3,7 +3,7 @@
   "name": "prebuilt models",
   "type": "feature",
   "links": {
-    "self": "/features/prebuilt-models",
+    "self": "/features/prebuilt-models"
   },
   "definition": {
     "title": "Prebuilt Models",

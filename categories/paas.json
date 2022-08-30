@@ -3,7 +3,7 @@
   "name": "paas",
   "type": "category",
   "links": {
-    "self": "/categories/paas",
+    "self": "/categories/paas"
   },
   "definition": {
     "title": "Platform as a Service (PaaS)",

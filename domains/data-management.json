@@ -3,7 +3,7 @@
   "name": "data management",
   "type": "domain",
   "links": {
-    "self": "/domains/data-management",
+    "self": "/domains/data-management"
   },
   "definition": {
     "title": "Data Management",

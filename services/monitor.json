@@ -3,7 +3,7 @@
   "name": "monitor",
   "type": "service",
   "links": {
-    "self": "/services/monitor",
+    "self": "/services/monitor"
   },
   "definition": {
     "title": "Monitor",

@@ -3,7 +3,7 @@
   "name": "managed service",
   "type": "domain",
   "links": {
-    "self": "/domains/managed-service",
+    "self": "/domains/managed-service"
   },
   "definition": {
     "title": "Managed Service",

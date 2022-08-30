@@ -3,7 +3,7 @@
   "name": "container orchestrator",
   "type": "category",
   "links": {
-    "self": "/categories/container-orchestrator",
+    "self": "/categories/container-orchestrator"
   },
   "definition": {
     "title": "Container Orchestrator",

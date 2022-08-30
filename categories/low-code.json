@@ -3,11 +3,12 @@
   "name": "low-code",
   "type": "category",
   "links": {
-    "self": "/categories/low-code",
+    "self": "/categories/low-code"
   },
   "definition": {
     "title": "Low-Code",
     "url": "https://en.wikipedia.org/wiki/Low-code_development_platform",
+    "domains": ["end-user computing"],
     "links": {
       "self": "/glossary/low-code"
     }

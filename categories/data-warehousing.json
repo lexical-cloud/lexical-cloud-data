@@ -3,7 +3,7 @@
   "name": "data warehousing",
   "type": "category",
   "links": {
-    "self": "/categories/data-warehousing",
+    "self": "/categories/data-warehousing"
   },
   "definition": {
     "title": "Data Warehousing",

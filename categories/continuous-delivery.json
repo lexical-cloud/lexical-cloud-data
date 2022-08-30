@@ -3,7 +3,7 @@
   "name": "continuous delivery",
   "type": "category",
   "links": {
-    "self": "/categories/continuous-delivery",
+    "self": "/categories/continuous-delivery"
   },
   "definition": {
     "title": "Continuous Delivery",

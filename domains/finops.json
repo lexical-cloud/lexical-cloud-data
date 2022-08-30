@@ -3,7 +3,7 @@
   "name": "finops",
   "type": "domain",
   "links": {
-    "self": "/domains/finops",
+    "self": "/domains/finops"
   },
   "definition": {
     "title": "Financial Operations (FinOps)",

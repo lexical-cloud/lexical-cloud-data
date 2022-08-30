@@ -3,7 +3,7 @@
   "name": "virtualization",
   "type": "domain",
   "links": {
-    "self": "/domains/virtualization",
+    "self": "/domains/virtualization"
   },
   "definition": {
     "title": "Virtualization",

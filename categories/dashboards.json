@@ -3,7 +3,7 @@
   "name": "dashboards",
   "type": "category",
   "links": {
-    "self": "/categories/dashboards",
+    "self": "/categories/dashboards"
   },
   "definition": {
     "title": "Dashboards",

@@ -45,9 +45,9 @@
     "providers": ["gcp"],
     "services": ["storage"],
     "domains": ["data management","serverless"],
-    "categories": ["object storage"],
+    "categories": ["data archive","object storage"],
     "links" {
-      "self": "/products/storage/gcp/cloud-storage/archive"
+      "self": "/products/storage/gcp/cloud-storage/models/archive"
       "parent": "/products/storage/gcp/cloud-storage"
     }
   },
@@ -119,7 +119,7 @@
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
     "links" {
-      "self": "/products/storage/gcp/cloud-storage/coldline"
+      "self": "/products/storage/gcp/cloud-storage/models/coldline"
       "parent": "/products/storage/gcp/cloud-storage"
     }
   },
@@ -152,21 +152,11 @@
     "links" {
       "self": "/products/storage/gcp/cloud-storage"
       "models": [
-        "/products/storage/gcp/cloud-storage/archive",
-        "/products/storage/gcp/cloud-storage/coldline",
-        "/products/storage/gcp/cloud-storage/nearline",
-        "/products/storage/gcp/cloud-storage/standard"
+        "/products/storage/gcp/cloud-storage/models/archive",
+        "/products/storage/gcp/cloud-storage/models/coldline",
+        "/products/storage/gcp/cloud-storage/models/nearline",
+        "/products/storage/gcp/cloud-storage/models/standard"
       ]
-    }
-  },
-  {
-    "name": "Google Cloud Storage Archive",
-    "providers": ["gcp"],
-    "services": ["storage"],
-    "domains": ["data management","serverless"],
-    "categories": ["object storage","data archive"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage-archive"
     }
   },
   {
@@ -177,7 +167,7 @@
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
     "links" {
-      "self": "/products/storage/gcp/cloud-storage/nearline"
+      "self": "/products/storage/gcp/cloud-storage/models/nearline"
       "parent": "/products/storage/gcp/cloud-storage"
     }
   },
@@ -189,7 +179,7 @@
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
     "links" {
-      "self": "/products/storage/gcp/cloud-storage/standard"
+      "self": "/products/storage/gcp/cloud-storage/models/standard"
       "parent": "/products/storage/gcp/cloud-storage"
     }
   }

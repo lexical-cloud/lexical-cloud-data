@@ -3,7 +3,7 @@
   "name": "serverless",
   "type": "domain",
   "links": {
-    "self": "/domains/serverless",
+    "self": "/domains/serverless"
   },
   "definition": {
     "title": "Serverless",

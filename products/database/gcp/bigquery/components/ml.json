@@ -1,0 +1,13 @@
+{
+  "name": "Google Cloud BigQuery",
+  "component": "BigQuery ML",
+  "providers": ["gcp"],
+  "services": ["ai","database","analytics"],
+  "domains": ["machine learning","big data","data management","serverless"],
+  "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant"],
+  "links" {
+    "self": "/products/database/gcp/bigquery/components/ml"
+    "parent": "/products/database/gcp/bigquery"
+  }
+}
+

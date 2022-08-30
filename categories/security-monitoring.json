@@ -3,7 +3,7 @@
   "name": "security monitoring",
   "type": "category",
   "links": {
-    "self": "/categories/security-monitoring",
+    "self": "/categories/security-monitoring"
   },
   "definition": {
     "title": "Security Monitoring",

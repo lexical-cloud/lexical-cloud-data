@@ -3,7 +3,7 @@
   "name": "azure",
   "type": "provider",
   "links": {
-    "self": "/providers/azure",
+    "self": "/providers/azure"
   },
   "definition": {
     "title": "Microsoft Azure",

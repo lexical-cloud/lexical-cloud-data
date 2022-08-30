@@ -3,7 +3,7 @@
   "name": "data transfer",
   "type": "category",
   "links": {
-    "self": "/categories/data-transfer",
+    "self": "/categories/data-transfer"
   },
   "definition": {
     "title": "Data Transfer",

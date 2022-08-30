@@ -3,7 +3,7 @@
   "name": "directory service",
   "type": "domain",
   "links": {
-    "self": "/domains/directory-service",
+    "self": "/domains/directory-service"
   },
   "definition": {
     "title": "Directory Service",

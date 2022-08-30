@@ -3,7 +3,7 @@
   "name": "database",
   "type": "service",
   "links": {
-    "self": "/services/database",
+    "self": "/services/database"
   },
   "definition": {
     "title": "Database",

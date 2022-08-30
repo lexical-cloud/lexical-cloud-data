@@ -3,7 +3,7 @@
   "name": "disaster recovery",
   "type": "category",
   "links": {
-    "self": "/categories/disaster-recovery",
+    "self": "/categories/disaster-recovery"
   },
   "definition": {
     "title": "Disaster Recovery",

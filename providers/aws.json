@@ -3,7 +3,7 @@
   "name": "aws",
   "type": "provider",
   "links": {
-    "self": "/providers/aws",
+    "self": "/providers/aws"
   },
   "definition": {
     "title": "Amazon Web Services",

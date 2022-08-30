@@ -10,13 +10,25 @@
     }
   },
   {
-    "name": "Google Cloud AutoML",
-    "providers": ["gcp"],
+    "name": "Azure Machine Learning (ML)",
+    "providers": ["azure"],
     "services": ["ai"],
-    "domains": ["machine learning","serverless"],
+    "domains": ["machine learning"],
     "categories": ["model training"],
     "links" {
-      "self": "/products/ai/gcp/automl"
+      "self": "/products/ai/azure/machine-learning"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "component": "BigQuery ML",
+    "providers": ["gcp"],
+    "services": ["ai","database","analytics"],
+    "domains": ["machine learning","big data","data management","serverless"],
+    "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/bigquery/components/ml"
+      "parent": "/products/database/gcp/bigquery"
     }
   },
   {
@@ -27,6 +39,10 @@
     "categories": ["model training"],
     "links" {
       "self": "/products/ai/gcp/vertex-ai"
+      "components": [
+        "/products/ai/gcp/vertex-ai/components/automl",
+        "/products/ai/gcp/vertex-ai/components/workbench"
+      ]
     }
   }
 ]

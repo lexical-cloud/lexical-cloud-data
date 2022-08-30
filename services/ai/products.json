@@ -86,6 +86,16 @@
     }
   },
   {
+    "name": "Azure Machine Learning (ML)",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["model training"],
+    "links" {
+      "self": "/products/ai/azure/machine-learning"
+    }
+  },
+  {
     "name": "Azure QnA Maker",
     "providers": ["azure"],
     "services": ["ai"],
@@ -97,6 +107,18 @@
     }
   },
   {
+    "name": "Google Cloud BigQuery",
+    "component": "BigQuery ML",
+    "providers": ["gcp"],
+    "services": ["ai","database","analytics"],
+    "domains": ["machine learning","big data","data management","serverless"],
+    "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/bigquery/components/ml"
+      "parent": "/products/database/gcp/bigquery"
+    }
+  },
+  {
     "name": "Google Cloud AI Hub",
     "providers": ["gcp"],
     "services": ["ai"],
@@ -104,16 +126,6 @@
     "categories": ["prebuilt models"],
     "links" {
       "self": "/products/ai/gcp/ai-hub"
-    }
-  },
-  {
-    "name": "Google Cloud AutoML",
-    "providers": ["gcp"],
-    "services": ["ai"],
-    "domains": ["machine learning","serverless"],
-    "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/automl"
     }
   },
   {
@@ -168,6 +180,10 @@
     "categories": ["model training"],
     "links" {
       "self": "/products/ai/gcp/vertex-ai"
+      "components": [
+        "/products/ai/gcp/vertex-ai/components/automl",
+        "/products/ai/gcp/vertex-ai/components/workbench"
+      ]
     }
   },
   {
@@ -182,13 +198,6 @@
     }
   },
   {
-    "name": "Machine Learning (ML)",
-    "services": ["ai"],
-    "links" {
-      "self": "/products/ai/azure/machine-learning"
-    }
-  },
-  {
     "name": "Microsoft Power Virtual Agents",
     "providers": ["azure"],
     "services": ["ai"],
@@ -197,14 +206,6 @@
     "features": ["conversational interface"],
     "links" {
       "self": "/products/ai/azure/power-virtual-agents"
-    }
-  },
-  {
-    "name": "Model Training",
-    "services": ["ai"],
-    "domains": ["machine learning"],
-    "links" {
-      "self": "/products/ai/azure/model-training"
     }
   }
 ]

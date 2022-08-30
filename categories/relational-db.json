@@ -3,7 +3,7 @@
   "name": "relational db",
   "type": "category",
   "links": {
-    "self": "/categories/relational-db",
+    "self": "/categories/relational-db"
   },
   "definition": {
     "title": "Relational Database (RDBMS)",

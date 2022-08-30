@@ -3,7 +3,7 @@
   "name": "eventing",
   "type": "domain",
   "links": {
-    "self": "/domains/eventing",
+    "self": "/domains/eventing"
   },
   "definition": {
     "title": "Eventing",

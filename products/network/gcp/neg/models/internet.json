@@ -1,0 +1,7 @@
+{
+  "name": "Google Cloud Network Endpoint Group (internet)",
+  "links" {
+    "self": "/products/network/gcp/neg/models/internet"
+  }
+}
+

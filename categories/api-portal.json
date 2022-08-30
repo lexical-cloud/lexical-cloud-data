@@ -3,7 +3,7 @@
   "name": "api portal",
   "type": "category",
   "links": {
-    "self": "/categories/api-portal",
+    "self": "/categories/api-portal"
   },
   "definition": {
     "title": "API Portal",

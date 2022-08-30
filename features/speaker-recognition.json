@@ -3,7 +3,7 @@
   "name": "speaker recognition",
   "type": "feature",
   "links": {
-    "self": "/features/speaker-recognition",
+    "self": "/features/speaker-recognition"
   },
   "definition": {
     "title": "Speaker Recognition",

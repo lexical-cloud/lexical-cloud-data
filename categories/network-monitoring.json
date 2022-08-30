@@ -3,7 +3,7 @@
   "name": "network monitoring",
   "type": "category",
   "links": {
-    "self": "/categories/network-monitoring",
+    "self": "/categories/network-monitoring"
   },
   "definition": {
     "title": "Network Monitoring",

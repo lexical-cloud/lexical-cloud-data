@@ -3,7 +3,7 @@
   "name": "firewall",
   "type": "category",
   "links": {
-    "self": "/categories/firewall",
+    "self": "/categories/firewall"
   },
   "definition": {
     "title": "Firewall",

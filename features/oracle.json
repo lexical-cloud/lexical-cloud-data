@@ -3,7 +3,7 @@
   "name": "oracle",
   "type": "feature",
   "links": {
-    "self": "/features/oracle",
+    "self": "/features/oracle"
   },
   "definition": {
     "title": "Oracle Database",

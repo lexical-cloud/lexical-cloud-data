@@ -4,6 +4,9 @@
   ],
   "intersect": {
     "domains": [
+      "systems management"
+    ],
+    "services": [
       "governance"
     ]
   },
@@ -13,9 +16,6 @@
     ],
     "providers": [
       "aws"
-    ],
-    "services": [
-      "governance"
     ]
   }
 }

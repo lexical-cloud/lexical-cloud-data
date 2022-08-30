@@ -1,12 +1,12 @@
 {
   "name": "Google Cloud Storage",
-  "model": "Coldline Storage",
+  "model": "Standard Storage",
   "providers": ["gcp"],
   "services": ["storage"],
   "domains": ["data management","serverless"],
   "categories": ["object storage"],
   "links" {
-    "self": "/products/storage/gcp/cloud-storage/coldline"
+    "self": "/products/storage/gcp/cloud-storage/models/standard"
     "parent": "/products/storage/gcp/cloud-storage"
   }
 }

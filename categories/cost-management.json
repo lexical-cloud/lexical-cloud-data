@@ -3,7 +3,7 @@
   "name": "cost management",
   "type": "category",
   "links": {
-    "self": "/categories/cost-management",
+    "self": "/categories/cost-management"
   },
   "definition": {
     "title": "Cost Management",

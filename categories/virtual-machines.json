@@ -3,7 +3,7 @@
   "name": "virtual machines",
   "type": "category",
   "links": {
-    "self": "/categories/virtual-machines",
+    "self": "/categories/virtual-machines"
   },
   "definition": {
     "title": "Virtual Machines",

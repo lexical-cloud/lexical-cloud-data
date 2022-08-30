@@ -38,7 +38,7 @@
     "domains": ["connectivity"],
     "categories": ["virtual network"],
     "links" {
-      "self": "/products/network/gcp/vpc/auto-mode"
+      "self": "/products/network/gcp/vpc/models/auto-mode"
       "parent": "/products/network/gcp/vpc"
     }
   },
@@ -273,7 +273,7 @@
     "domains": ["connectivity"],
     "categories": ["virtual network"],
     "links" {
-      "self": "/products/network/gcp/vpc/custom"
+      "self": "/products/network/gcp/vpc/models/custom"
       "parent": "/products/network/gcp/vpc"
     }
   },
@@ -328,6 +328,16 @@
     }
   },
   {
+    "name": "Google Cloud Network Endpoint Group (NEG)",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links" {
+      "self": "/products/network/gcp/neg"
+    }
+  },
+  {
     "name": "Google Cloud Router",
     "providers": ["gcp"],
     "services": ["network"],
@@ -346,9 +356,40 @@
     "links" {
       "self": "/products/network/gcp/vpc"
       "models": [
-        "/products/network/gcp/vpc/auto-mode",
-        "/products/network/gcp/vpc/custom"
+        "/products/network/gcp/vpc/models/auto-mode",
+        "/products/network/gcp/vpc/models/custom"
       ]
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (hybrid)",
+    "links" {
+      "self": "/products/network/gcp/neg/models/hybrid-connectivity"
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (internet)",
+    "links" {
+      "self": "/products/network/gcp/neg/models/internet"
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (private)",
+    "links" {
+      "self": "/products/network/gcp/neg/models/private-service-connect"
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (serverless)",
+    "links" {
+      "self": "/products/network/gcp/neg/models/serverless"
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (zonal)",
+    "features": ["container-based"],
+    "links" {
+      "self": "/products/network/gcp/neg/models/zonal"
     }
   }
 ]

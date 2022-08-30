@@ -1,5 +1,60 @@
 [
   {
+    "name": "AWS Lambda",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "features": ["scale-to-zero"],
+    "links" {
+      "self": "/products/compute/aws/lambda"
+    }
+  },
+  {
+    "name": "Azure Container Apps",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "features": ["scale-to-zero"],
+    "links" {
+      "self": "/products/compute/azure/container-apps"
+    }
+  },
+  {
+    "name": "Azure Functions",
+    "providers": ["azure"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "features": ["scale-to-zero"],
+    "links" {
+      "self": "/products/compute/azure/functions"
+    }
+  },
+  {
+    "name": "Google Cloud Functions",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["serverless"],
+    "categories": ["faas"],
+    "features": ["scale-to-zero"],
+    "links" {
+      "self": "/products/compute/gcp/cloud-functions"
+    }
+  },
+  {
+    "name": "Google Cloud Run",
+    "providers": ["gcp"],
+    "services": ["compute"],
+    "domains": ["containerization","serverless"],
+    "categories": ["container orchestrator"],
+    "features": ["scale-to-zero"],
+    "links" {
+      "self": "/products/compute/gcp/cloud-run"
+    }
+  },
+  {
     "name": "Google App Engine",
     "model": "Standard environment",
     "providers": ["gcp"],
@@ -8,7 +63,7 @@
     "categories": ["paas"],
     "features": ["scale-to-zero"],
     "links" {
-      "self": "/products/compute/gcp/app-engine/standard"
+      "self": "/products/compute/gcp/app-engine/models/standard"
       "parent": "/products/compute/gcp/app-engine"
     }
   }

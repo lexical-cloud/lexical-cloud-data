@@ -3,7 +3,7 @@
   "name": "container-based",
   "type": "feature",
   "links": {
-    "self": "/features/container-based",
+    "self": "/features/container-based"
   },
   "definition": {
     "title": "Container-based",

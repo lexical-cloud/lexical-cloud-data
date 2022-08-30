@@ -1,7 +1,8 @@
 {
   "instance": [
     "/products/iot/azure/edge",
-    "/products/compute/gcp/app-engine/flexible"
+    "/products/compute/gcp/app-engine/models/flexible",
+    "/products/network/gcp/neg/models/zonal"
   ],
   "intersect": {
     "domains": [

@@ -3,7 +3,7 @@
   "name": "web application firewall",
   "type": "category",
   "links": {
-    "self": "/categories/web-application-firewall",
+    "self": "/categories/web-application-firewall"
   },
   "definition": {
     "title": "Web Application Firewall (WAF)",

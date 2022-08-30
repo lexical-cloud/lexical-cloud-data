@@ -3,7 +3,7 @@
   "name": "cost estimation",
   "type": "feature",
   "links": {
-    "self": "/features/cost-estimation",
+    "self": "/features/cost-estimation"
   },
   "definition": {
     "title": "Cost Estimation",

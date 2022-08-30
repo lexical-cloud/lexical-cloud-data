@@ -3,7 +3,7 @@
   "name": "mysql",
   "type": "feature",
   "links": {
-    "self": "/features/mysql",
+    "self": "/features/mysql"
   },
   "definition": {
     "title": "MySQL Database",

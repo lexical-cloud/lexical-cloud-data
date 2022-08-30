@@ -334,6 +334,16 @@
     }
   },
   {
+    "name": "Google Cloud Network Endpoint Group (NEG)",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links" {
+      "self": "/products/network/gcp/neg"
+    }
+  },
+  {
     "name": "Google Cloud Router",
     "providers": ["gcp"],
     "services": ["network"],
@@ -352,8 +362,8 @@
     "links" {
       "self": "/products/network/gcp/vpc"
       "models": [
-        "/products/network/gcp/vpc/auto-mode",
-        "/products/network/gcp/vpc/custom"
+        "/products/network/gcp/vpc/models/auto-mode",
+        "/products/network/gcp/vpc/models/custom"
       ]
     }
   }

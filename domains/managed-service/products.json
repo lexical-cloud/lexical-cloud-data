@@ -202,8 +202,8 @@
     "links" {
       "self": "/products/compute/gcp/app-engine"
       "models": [
-        "/products/compute/gcp/app-engine/flexible",
-        "/products/compute/gcp/app-engine/standard"
+        "/products/compute/gcp/app-engine/models/flexible",
+        "/products/compute/gcp/app-engine/models/standard"
       ]
     }
   },
@@ -266,6 +266,10 @@
     "categories": ["model training"],
     "links" {
       "self": "/products/ai/gcp/vertex-ai"
+      "components": [
+        "/products/ai/gcp/vertex-ai/components/automl",
+        "/products/ai/gcp/vertex-ai/components/workbench"
+      ]
     }
   },
   {

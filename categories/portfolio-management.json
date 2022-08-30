@@ -3,7 +3,7 @@
   "name": "portfolio management",
   "type": "category",
   "links": {
-    "self": "/categories/portfolio-management",
+    "self": "/categories/portfolio-management"
   },
   "definition": {
     "title": "Portfolio Management",

@@ -4,6 +4,7 @@
   "services": ["compute"],
   "domains": ["serverless"],
   "categories": ["faas"],
+  "features": ["scale-to-zero"],
   "links" {
     "self": "/products/compute/gcp/cloud-functions"
   }

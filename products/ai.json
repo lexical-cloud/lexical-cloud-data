@@ -42,6 +42,18 @@
     }
   },
   {
+    "name": "Google Cloud Vertex AI",
+    "component": "AutoML",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","managed service"],
+    "categories": ["no-code","model training"],
+    "links" {
+      "self": "/products/ai/gcp/vertex-ai/components/automl"
+      "parent": "/products/ai/gcp/vertex-ai"
+    }
+  },
+  {
     "name": "Azure Bot Service",
     "providers": ["azure"],
     "services": ["ai"],
@@ -86,6 +98,16 @@
     }
   },
   {
+    "name": "Azure Machine Learning (ML)",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["model training"],
+    "links" {
+      "self": "/products/ai/azure/machine-learning"
+    }
+  },
+  {
     "name": "Azure QnA Maker",
     "providers": ["azure"],
     "services": ["ai"],
@@ -104,16 +126,6 @@
     "categories": ["prebuilt models"],
     "links" {
       "self": "/products/ai/gcp/ai-hub"
-    }
-  },
-  {
-    "name": "Google Cloud AutoML",
-    "providers": ["gcp"],
-    "services": ["ai"],
-    "domains": ["machine learning","serverless"],
-    "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/automl"
     }
   },
   {
@@ -168,6 +180,10 @@
     "categories": ["model training"],
     "links" {
       "self": "/products/ai/gcp/vertex-ai"
+      "components": [
+        "/products/ai/gcp/vertex-ai/components/automl",
+        "/products/ai/gcp/vertex-ai/components/workbench"
+      ]
     }
   },
   {
@@ -182,13 +198,6 @@
     }
   },
   {
-    "name": "Machine Learning (ML)",
-    "services": ["ai"],
-    "links" {
-      "self": "/products/ai/azure/machine-learning"
-    }
-  },
-  {
     "name": "Microsoft Power Virtual Agents",
     "providers": ["azure"],
     "services": ["ai"],
@@ -200,11 +209,16 @@
     }
   },
   {
-    "name": "Model Training",
+    "name": "Google Cloud Vertex AI",
+    "component": "Workbench",
+    "providers": ["gcp"],
     "services": ["ai"],
-    "domains": ["machine learning"],
+    "domains": ["machine learning","managed service"],
+    "categories": ["notebook","model training"],
+    "features": ["jupyter-based"],
     "links" {
-      "self": "/products/ai/azure/model-training"
+      "self": "/products/ai/gcp/vertex-ai/components/workbench"
+      "parent": "/products/ai/gcp/vertex-ai"
     }
   }
 ]

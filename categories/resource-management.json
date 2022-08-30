@@ -3,7 +3,7 @@
   "name": "resource management",
   "type": "category",
   "links": {
-    "self": "/categories/resource-management",
+    "self": "/categories/resource-management"
   },
   "definition": {
     "title": "Resource Management",

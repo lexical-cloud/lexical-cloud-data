@@ -3,7 +3,7 @@
   "name": "containerization",
   "type": "domain",
   "links": {
-    "self": "/domains/containerization",
+    "self": "/domains/containerization"
   },
   "definition": {
     "title": "Containerization",

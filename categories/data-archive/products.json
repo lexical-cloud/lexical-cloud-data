@@ -10,6 +10,18 @@
     }
   },
   {
+    "name": "Google Cloud Storage",
+    "model": "Archive Storage",
+    "providers": ["gcp"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["data archive","object storage"],
+    "links" {
+      "self": "/products/storage/gcp/cloud-storage/models/archive"
+      "parent": "/products/storage/gcp/cloud-storage"
+    }
+  },
+  {
     "name": "Azure Blob Storage",
     "providers": ["azure"],
     "services": ["storage"],
@@ -17,16 +29,6 @@
     "categories": ["data archive","object storage"],
     "links" {
       "self": "/products/storage/azure/blob-storage"
-    }
-  },
-  {
-    "name": "Google Cloud Storage Archive",
-    "providers": ["gcp"],
-    "services": ["storage"],
-    "domains": ["data management","serverless"],
-    "categories": ["object storage","data archive"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage-archive"
     }
   }
 ]

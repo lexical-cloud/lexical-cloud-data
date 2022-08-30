@@ -3,7 +3,7 @@
   "name": "kubernetes",
   "type": "category",
   "links": {
-    "self": "/categories/kubernetes",
+    "self": "/categories/kubernetes"
   },
   "definition": {
     "title": "Kubernetes",

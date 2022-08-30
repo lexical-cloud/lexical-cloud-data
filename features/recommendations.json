@@ -3,7 +3,7 @@
   "name": "recommendations",
   "type": "feature",
   "links": {
-    "self": "/features/recommendations",
+    "self": "/features/recommendations"
   },
   "definition": {
     "title": "Recommendations",

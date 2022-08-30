@@ -3,11 +3,12 @@
   "name": "no-code",
   "type": "category",
   "links": {
-    "self": "/categories/no-code",
+    "self": "/categories/no-code"
   },
   "definition": {
     "title": "No-Code",
     "url": "https://en.wikipedia.org/wiki/No-code_development_platform",
+    "domains": ["end-user computing"],
     "links": {
       "self": "/glossary/no-code"
     }

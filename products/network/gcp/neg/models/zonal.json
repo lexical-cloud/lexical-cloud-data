@@ -1,0 +1,8 @@
+{
+  "name": "Google Cloud Network Endpoint Group (zonal)",
+  "features": ["container-based"],
+  "links" {
+    "self": "/products/network/gcp/neg/models/zonal"
+  }
+}
+

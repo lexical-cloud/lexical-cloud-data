@@ -3,7 +3,7 @@
   "name": "edge computing",
   "type": "domain",
   "links": {
-    "self": "/domains/edge-computing",
+    "self": "/domains/edge-computing"
   },
   "definition": {
     "title": "Edge Computing",

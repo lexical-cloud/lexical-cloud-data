@@ -3,7 +3,7 @@
   "name": "open telemetry",
   "type": "feature",
   "links": {
-    "self": "/features/open-telemetry",
+    "self": "/features/open-telemetry"
   },
   "definition": {
     "title": "Open Telemetry",

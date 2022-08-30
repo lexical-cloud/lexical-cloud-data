@@ -3,7 +3,7 @@
   "name": "api management",
   "type": "domain",
   "links": {
-    "self": "/domains/api-management",
+    "self": "/domains/api-management"
   },
   "definition": {
     "title": "API Management",

@@ -3,11 +3,11 @@
   "name": "model training",
   "type": "category",
   "links": {
-    "self": "/categories/model-training",
+    "self": "/categories/model-training"
   },
   "definition": {
     "title": "Model Training",
-    "url": "https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets",
+    "services": ["ai"],
     "domains": ["machine learning"],
     "links": {
       "self": "/glossary/model-training"

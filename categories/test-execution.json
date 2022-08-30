@@ -3,7 +3,7 @@
   "name": "test execution",
   "type": "category",
   "links": {
-    "self": "/categories/test-execution",
+    "self": "/categories/test-execution"
   },
   "definition": {
     "title": "Test Execution",

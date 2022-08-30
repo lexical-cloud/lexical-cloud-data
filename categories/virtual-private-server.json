@@ -3,7 +3,7 @@
   "name": "virtual private server",
   "type": "category",
   "links": {
-    "self": "/categories/virtual-private-server",
+    "self": "/categories/virtual-private-server"
   },
   "definition": {
     "title": "Virtual Private Server",

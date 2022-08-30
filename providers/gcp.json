@@ -3,7 +3,7 @@
   "name": "gcp",
   "type": "provider",
   "links": {
-    "self": "/providers/gcp",
+    "self": "/providers/gcp"
   },
   "definition": {
     "title": "Google Cloud",

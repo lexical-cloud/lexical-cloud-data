@@ -1,8 +1,8 @@
 {
   "instance": [
     "/products/storage/aws/s3-glacier",
-    "/products/storage/azure/blob-storage",
-    "/products/storage/gcp/cloud-storage-archive"
+    "/products/storage/gcp/cloud-storage/models/archive",
+    "/products/storage/azure/blob-storage"
   ],
   "intersect": {
     "domains": [
@@ -19,8 +19,7 @@
     ],
     "providers": [
       "aws",
-      "azure",
-      "gcp"
+      "azure"
     ],
     "services": [
       "storage"

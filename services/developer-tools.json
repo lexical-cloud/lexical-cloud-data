@@ -3,7 +3,7 @@
   "name": "developer tools",
   "type": "service",
   "links": {
-    "self": "/services/developer-tools",
+    "self": "/services/developer-tools"
   },
   "definition": {
     "title": "Developer Tools",

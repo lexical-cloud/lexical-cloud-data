@@ -181,6 +181,9 @@
     "categories": ["data warehousing","unstructured data","sql compliant"],
     "links" {
       "self": "/products/database/gcp/bigquery"
+      "components": [
+        "/products/database/gcp/bigquery/components/ml"
+      ]
     }
   },
   {

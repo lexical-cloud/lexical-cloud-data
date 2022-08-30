@@ -3,7 +3,7 @@
   "name": "systems management",
   "type": "domain",
   "links": {
-    "self": "/domains/systems-management",
+    "self": "/domains/systems-management"
   },
   "definition": {
     "title": "Systems Management",

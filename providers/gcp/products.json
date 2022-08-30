@@ -8,8 +8,8 @@
     "links" {
       "self": "/products/compute/gcp/app-engine"
       "models": [
-        "/products/compute/gcp/app-engine/flexible",
-        "/products/compute/gcp/app-engine/standard"
+        "/products/compute/gcp/app-engine/models/flexible",
+        "/products/compute/gcp/app-engine/models/standard"
       ]
     }
   },
@@ -76,16 +76,6 @@
     }
   },
   {
-    "name": "Google Cloud AutoML",
-    "providers": ["gcp"],
-    "services": ["ai"],
-    "domains": ["machine learning","serverless"],
-    "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/automl"
-    }
-  },
-  {
     "name": "Google Cloud Bare Metal Solution",
     "providers": ["gcp"],
     "services": ["compute","migration"],
@@ -103,6 +93,9 @@
     "categories": ["data warehousing","unstructured data","sql compliant"],
     "links" {
       "self": "/products/database/gcp/bigquery"
+      "components": [
+        "/products/database/gcp/bigquery/components/ml"
+      ]
     }
   },
   {
@@ -275,6 +268,7 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/gcp/cloud-functions"
     }
@@ -383,6 +377,16 @@
     }
   },
   {
+    "name": "Google Cloud Network Endpoint Group (NEG)",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links" {
+      "self": "/products/network/gcp/neg"
+    }
+  },
+  {
     "name": "Google Cloud Persistent Disk",
     "providers": ["gcp"],
     "services": ["storage"],
@@ -460,6 +464,7 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/gcp/cloud-run"
     }
@@ -525,21 +530,11 @@
     "links" {
       "self": "/products/storage/gcp/cloud-storage"
       "models": [
-        "/products/storage/gcp/cloud-storage/archive",
-        "/products/storage/gcp/cloud-storage/coldline",
-        "/products/storage/gcp/cloud-storage/nearline",
-        "/products/storage/gcp/cloud-storage/standard"
+        "/products/storage/gcp/cloud-storage/models/archive",
+        "/products/storage/gcp/cloud-storage/models/coldline",
+        "/products/storage/gcp/cloud-storage/models/nearline",
+        "/products/storage/gcp/cloud-storage/models/standard"
       ]
-    }
-  },
-  {
-    "name": "Google Cloud Storage Archive",
-    "providers": ["gcp"],
-    "services": ["storage"],
-    "domains": ["data management","serverless"],
-    "categories": ["object storage","data archive"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage-archive"
     }
   },
   {
@@ -592,6 +587,10 @@
     "categories": ["model training"],
     "links" {
       "self": "/products/ai/gcp/vertex-ai"
+      "components": [
+        "/products/ai/gcp/vertex-ai/components/automl",
+        "/products/ai/gcp/vertex-ai/components/workbench"
+      ]
     }
   },
   {
@@ -634,8 +633,8 @@
     "links" {
       "self": "/products/network/gcp/vpc"
       "models": [
-        "/products/network/gcp/vpc/auto-mode",
-        "/products/network/gcp/vpc/custom"
+        "/products/network/gcp/vpc/models/auto-mode",
+        "/products/network/gcp/vpc/models/custom"
       ]
     }
   },

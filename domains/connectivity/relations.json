@@ -26,6 +26,7 @@
     "/products/network/gcp/interconnect",
     "/products/network/gcp/load-balancing",
     "/products/network/gcp/cloud-nat",
+    "/products/network/gcp/neg",
     "/products/network/gcp/cloud-router",
     "/products/network/gcp/vpc"
   ],

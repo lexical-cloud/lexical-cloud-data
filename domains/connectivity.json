@@ -3,7 +3,7 @@
   "name": "connectivity",
   "type": "domain",
   "links": {
-    "self": "/domains/connectivity",
+    "self": "/domains/connectivity"
   },
   "definition": {
     "title": "Connectivity",

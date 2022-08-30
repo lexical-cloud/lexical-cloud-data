@@ -19,8 +19,15 @@
     "categories": ["paas"],
     "features": ["container-based"],
     "links" {
-      "self": "/products/compute/gcp/app-engine/flexible"
+      "self": "/products/compute/gcp/app-engine/models/flexible"
       "parent": "/products/compute/gcp/app-engine"
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (zonal)",
+    "features": ["container-based"],
+    "links" {
+      "self": "/products/network/gcp/neg/models/zonal"
     }
   }
 ]

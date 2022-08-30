@@ -3,7 +3,7 @@
   "name": "iot hardware",
   "type": "category",
   "links": {
-    "self": "/categories/iot-hardware",
+    "self": "/categories/iot-hardware"
   },
   "definition": {
     "title": "IoT Hardware",

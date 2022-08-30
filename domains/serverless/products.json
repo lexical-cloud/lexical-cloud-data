@@ -189,6 +189,7 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/aws/lambda"
     }
@@ -272,6 +273,7 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/azure/container-apps"
     }
@@ -322,6 +324,7 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/azure/functions"
     }
@@ -422,16 +425,6 @@
     }
   },
   {
-    "name": "Google Cloud AutoML",
-    "providers": ["gcp"],
-    "services": ["ai"],
-    "domains": ["machine learning","serverless"],
-    "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/automl"
-    }
-  },
-  {
     "name": "Google Cloud BigQuery",
     "providers": ["gcp"],
     "services": ["database","analytics"],
@@ -439,6 +432,9 @@
     "categories": ["data warehousing","unstructured data","sql compliant"],
     "links" {
       "self": "/products/database/gcp/bigquery"
+      "components": [
+        "/products/database/gcp/bigquery/components/ml"
+      ]
     }
   },
   {
@@ -489,6 +485,7 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/gcp/cloud-functions"
     }
@@ -530,6 +527,7 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/gcp/cloud-run"
     }
@@ -554,21 +552,11 @@
     "links" {
       "self": "/products/storage/gcp/cloud-storage"
       "models": [
-        "/products/storage/gcp/cloud-storage/archive",
-        "/products/storage/gcp/cloud-storage/coldline",
-        "/products/storage/gcp/cloud-storage/nearline",
-        "/products/storage/gcp/cloud-storage/standard"
+        "/products/storage/gcp/cloud-storage/models/archive",
+        "/products/storage/gcp/cloud-storage/models/coldline",
+        "/products/storage/gcp/cloud-storage/models/nearline",
+        "/products/storage/gcp/cloud-storage/models/standard"
       ]
-    }
-  },
-  {
-    "name": "Google Cloud Storage Archive",
-    "providers": ["gcp"],
-    "services": ["storage"],
-    "domains": ["data management","serverless"],
-    "categories": ["object storage","data archive"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage-archive"
     }
   },
   {

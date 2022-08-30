@@ -3,7 +3,7 @@
   "name": "telemetry data",
   "type": "category",
   "links": {
-    "self": "/categories/telemetry-data",
+    "self": "/categories/telemetry-data"
   },
   "definition": {
     "title": "Telemetry Data",

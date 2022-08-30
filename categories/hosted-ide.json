@@ -3,7 +3,7 @@
   "name": "hosted ide",
   "type": "category",
   "links": {
-    "self": "/categories/hosted-ide",
+    "self": "/categories/hosted-ide"
   },
   "definition": {
     "title": "Hosted Integrated Dev Environment (IDE)",

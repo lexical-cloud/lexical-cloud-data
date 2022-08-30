@@ -3,7 +3,7 @@
   "name": "no account required",
   "type": "feature",
   "links": {
-    "self": "/features/no-account-required",
+    "self": "/features/no-account-required"
   },
   "definition": {
     "title": "No Account Required",

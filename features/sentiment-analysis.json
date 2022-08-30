@@ -3,7 +3,7 @@
   "name": "sentiment analysis",
   "type": "feature",
   "links": {
-    "self": "/features/sentiment-analysis",
+    "self": "/features/sentiment-analysis"
   },
   "definition": {
     "title": "Sentiment Analysis",

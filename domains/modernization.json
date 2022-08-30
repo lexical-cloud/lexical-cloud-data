@@ -3,7 +3,7 @@
   "name": "modernization",
   "type": "domain",
   "links": {
-    "self": "/domains/modernization",
+    "self": "/domains/modernization"
   },
   "definition": {
     "title": "Modernization",

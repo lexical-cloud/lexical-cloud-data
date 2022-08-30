@@ -1,5 +1,17 @@
 [
   {
+    "name": "Google Cloud Vertex AI",
+    "component": "AutoML",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning","managed service"],
+    "categories": ["no-code","model training"],
+    "links" {
+      "self": "/products/ai/gcp/vertex-ai/components/automl"
+      "parent": "/products/ai/gcp/vertex-ai"
+    }
+  },
+  {
     "name": "Azure Logic Apps",
     "providers": ["azure"],
     "services": ["integration"],
@@ -18,6 +30,18 @@
     "features": ["conversational interface"],
     "links" {
       "self": "/products/ai/azure/qna-maker"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "component": "BigQuery ML",
+    "providers": ["gcp"],
+    "services": ["ai","database","analytics"],
+    "domains": ["machine learning","big data","data management","serverless"],
+    "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant"],
+    "links" {
+      "self": "/products/database/gcp/bigquery/components/ml"
+      "parent": "/products/database/gcp/bigquery"
     }
   },
   {

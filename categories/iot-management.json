@@ -3,7 +3,7 @@
   "name": "iot management",
   "type": "category",
   "links": {
-    "self": "/categories/iot-management",
+    "self": "/categories/iot-management"
   },
   "definition": {
     "title": "IoT Management",

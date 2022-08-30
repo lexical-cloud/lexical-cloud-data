@@ -3,7 +3,7 @@
   "name": "identity management",
   "type": "domain",
   "links": {
-    "self": "/domains/identity-management",
+    "self": "/domains/identity-management"
   },
   "definition": {
     "title": "Identity Management (IdM)",

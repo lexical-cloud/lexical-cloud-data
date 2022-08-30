@@ -3,7 +3,7 @@
   "name": "deprecated",
   "type": "label",
   "links": {
-    "self": "/labels/deprecated",
+    "self": "/labels/deprecated"
   },
   "definition": {
     "title": "Deprecated",

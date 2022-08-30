@@ -68,8 +68,8 @@
     "links" {
       "self": "/products/network/gcp/vpc"
       "models": [
-        "/products/network/gcp/vpc/auto-mode",
-        "/products/network/gcp/vpc/custom"
+        "/products/network/gcp/vpc/models/auto-mode",
+        "/products/network/gcp/vpc/models/custom"
       ]
     }
   }

@@ -3,7 +3,7 @@
   "name": "http api",
   "type": "feature",
   "links": {
-    "self": "/features/http-api",
+    "self": "/features/http-api"
   },
   "definition": {
     "title": "HTTP API",

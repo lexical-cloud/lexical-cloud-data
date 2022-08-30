@@ -3,7 +3,7 @@
   "name": "big data",
   "type": "domain",
   "links": {
-    "self": "/domains/big-data",
+    "self": "/domains/big-data"
   },
   "definition": {
     "title": "Big Data",

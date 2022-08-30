@@ -3,7 +3,7 @@
   "name": "virtual network interface",
   "type": "category",
   "links": {
-    "self": "/categories/virtual-network-interface",
+    "self": "/categories/virtual-network-interface"
   },
   "definition": {
     "title": "Virtual Network Interface (VIF)",

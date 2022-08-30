@@ -3,7 +3,7 @@
   "name": "alerts",
   "type": "feature",
   "links": {
-    "self": "/features/alerts",
+    "self": "/features/alerts"
   },
   "definition": {
     "title": "Alerts",

@@ -3,7 +3,7 @@
   "name": "siem",
   "type": "category",
   "links": {
-    "self": "/categories/siem",
+    "self": "/categories/siem"
   },
   "definition": {
     "title": "Security Information and Event Management (SIEM)",

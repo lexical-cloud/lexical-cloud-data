@@ -3,7 +3,7 @@
   "name": "identity provider",
   "type": "category",
   "links": {
-    "self": "/categories/identity-provider",
+    "self": "/categories/identity-provider"
   },
   "definition": {
     "title": "Identity Provider (IdP)",

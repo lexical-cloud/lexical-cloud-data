@@ -107,6 +107,7 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/aws/lambda"
     }
@@ -127,6 +128,7 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/azure/container-apps"
     }
@@ -147,6 +149,7 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/azure/functions"
     }
@@ -201,8 +204,8 @@
     "links" {
       "self": "/products/compute/gcp/app-engine"
       "models": [
-        "/products/compute/gcp/app-engine/flexible",
-        "/products/compute/gcp/app-engine/standard"
+        "/products/compute/gcp/app-engine/models/flexible",
+        "/products/compute/gcp/app-engine/models/standard"
       ]
     }
   },
@@ -232,6 +235,7 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/gcp/cloud-functions"
     }
@@ -253,6 +257,7 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
+    "features": ["scale-to-zero"],
     "links" {
       "self": "/products/compute/gcp/cloud-run"
     }

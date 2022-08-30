@@ -3,7 +3,7 @@
   "name": "hybrid",
   "type": "service",
   "links": {
-    "self": "/services/hybrid",
+    "self": "/services/hybrid"
   },
   "definition": {
     "title": "Hybrid",
