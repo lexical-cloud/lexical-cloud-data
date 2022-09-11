@@ -4,7 +4,7 @@
   "services": ["compute"],
   "domains": ["virtualization"],
   "categories": ["virtual desktop"],
-  "links" {
+  "links": {
     "self": "/products/compute/aws/workspaces"
   }
 }

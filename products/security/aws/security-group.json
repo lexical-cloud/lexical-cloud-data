@@ -5,7 +5,7 @@
   "domains": ["virtualization"],
   "categories": ["firewall"],
   "features": ["stateful"],
-  "links" {
+  "links": {
     "self": "/products/security/aws/security-group"
   }
 }

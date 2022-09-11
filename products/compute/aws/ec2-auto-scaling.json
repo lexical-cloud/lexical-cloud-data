@@ -5,7 +5,7 @@
   "domains": ["virtualization"],
   "categories": ["virtual machines"],
   "features": ["auto scaling"],
-  "links" {
+  "links": {
     "self": "/products/compute/aws/ec2-auto-scaling"
   }
 }

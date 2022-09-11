@@ -5,7 +5,7 @@
   "domains": ["finops","systems management"],
   "categories": ["cost management"],
   "features": ["cost estimation","no account required"],
-  "links" {
+  "links": {
     "self": "/products/governance/aws/pricing-calculator"
   }
 }

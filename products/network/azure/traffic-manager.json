@@ -5,7 +5,7 @@
   "domains": ["connectivity"],
   "categories": ["load balancer"],
   "features": ["traffic routing"],
-  "links" {
+  "links": {
     "self": "/products/network/azure/traffic-manager"
   }
 }

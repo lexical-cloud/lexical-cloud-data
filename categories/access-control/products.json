@@ -5,7 +5,7 @@
     "services": ["identity"],
     "domains": ["identity management"],
     "categories": ["access control","identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/iam"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["access control"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/service-control-policies"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["identity"],
     "domains": ["identity management"],
     "categories": ["access control"],
-    "links" {
+    "links": {
       "self": "/products/identity/azure/rbac"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["identity"],
     "domains": ["identity management"],
     "categories": ["access control"],
-    "links" {
+    "links": {
       "self": "/products/identity/gcp/iam"
     }
   }

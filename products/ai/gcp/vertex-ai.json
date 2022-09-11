@@ -4,8 +4,8 @@
   "services": ["ai"],
   "domains": ["machine learning","managed service"],
   "categories": ["model training"],
-  "links" {
-    "self": "/products/ai/gcp/vertex-ai"
+  "links": {
+    "self": "/products/ai/gcp/vertex-ai",
     "components": [
       "/products/ai/gcp/vertex-ai/components/automl",
       "/products/ai/gcp/vertex-ai/components/workbench"

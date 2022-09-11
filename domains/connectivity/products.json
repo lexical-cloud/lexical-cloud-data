@@ -5,7 +5,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/direct-connect"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/elb"
     }
   },
@@ -36,7 +36,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateless"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/access-control-list"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/network-firewall"
     }
   },
@@ -56,7 +56,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/privatelink"
     }
   },
@@ -66,7 +66,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["network transit hub","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/transit-gateway"
     }
   },
@@ -76,7 +76,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vgw"
     }
   },
@@ -86,7 +86,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-endpoint"
     }
   },
@@ -96,7 +96,7 @@
     "services": ["network","monitor"],
     "domains": ["connectivity"],
     "categories": ["network monitoring"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-flow-logs"
     }
   },
@@ -106,7 +106,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-peering"
     }
   },
@@ -116,7 +116,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","web application firewall"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/application-gateway"
     }
   },
@@ -126,7 +126,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/expressroute"
     }
   },
@@ -136,7 +136,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/azure/firewall"
     }
   },
@@ -146,7 +146,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/load-balancer"
     }
   },
@@ -157,7 +157,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateful"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/security-groups"
     }
   },
@@ -167,7 +167,7 @@
     "services": ["network","monitor"],
     "domains": ["connectivity"],
     "categories": ["network monitoring"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/network-watcher"
     }
   },
@@ -178,7 +178,7 @@
     "domains": ["connectivity"],
     "categories": ["load balancer"],
     "features": ["traffic routing"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/traffic-manager"
     }
   },
@@ -188,7 +188,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["network transit hub","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/virtual-wan"
     }
   },
@@ -198,7 +198,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/vnet"
     }
   },
@@ -208,7 +208,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/vnet-service-endpoint"
     }
   },
@@ -218,7 +218,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/vpn-gateway"
     }
   },
@@ -228,7 +228,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/gcp/firewall"
     }
   },
@@ -238,7 +238,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/interconnect"
     }
   },
@@ -248,7 +248,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/load-balancing"
     }
   },
@@ -258,7 +258,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["network address translation","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cloud-nat"
     }
   },
@@ -268,7 +268,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/neg"
     }
   },
@@ -278,7 +278,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cloud-router"
     }
   },
@@ -288,8 +288,8 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
-      "self": "/products/network/gcp/vpc"
+    "links": {
+      "self": "/products/network/gcp/vpc",
       "models": [
         "/products/network/gcp/vpc/models/auto-mode",
         "/products/network/gcp/vpc/models/custom"

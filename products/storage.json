@@ -5,7 +5,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/ebs"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/efs"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/s3"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage","data archive"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/s3-glacier"
     }
   },
@@ -46,8 +46,8 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["data archive","object storage"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage/models/archive"
+    "links": {
+      "self": "/products/storage/gcp/cloud-storage/models/archive",
       "parent": "/products/storage/gcp/cloud-storage"
     }
   },
@@ -57,7 +57,7 @@
     "services": ["storage","hybrid"],
     "domains": ["data management","systems management"],
     "categories": ["data security"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/backup"
     }
   },
@@ -67,7 +67,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["data archive","object storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/blob-storage"
     }
   },
@@ -77,7 +77,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/disk-storage"
     }
   },
@@ -87,7 +87,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/files"
     }
   },
@@ -97,7 +97,7 @@
     "services": ["integration","storage"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/queue-storage"
     }
   },
@@ -107,7 +107,7 @@
     "services": ["database","storage"],
     "domains": ["data management"],
     "categories": ["nosql db","key-value store"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/table-storage"
     }
   },
@@ -118,8 +118,8 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage/models/coldline"
+    "links": {
+      "self": "/products/storage/gcp/cloud-storage/models/coldline",
       "parent": "/products/storage/gcp/cloud-storage"
     }
   },
@@ -129,7 +129,7 @@
     "services": ["storage"],
     "domains": ["data management","managed service"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/gcp/filestore"
     }
   },
@@ -139,7 +139,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/gcp/peristent-disk"
     }
   },
@@ -149,8 +149,8 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage"
+    "links": {
+      "self": "/products/storage/gcp/cloud-storage",
       "models": [
         "/products/storage/gcp/cloud-storage/models/archive",
         "/products/storage/gcp/cloud-storage/models/coldline",
@@ -166,8 +166,8 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage/models/nearline"
+    "links": {
+      "self": "/products/storage/gcp/cloud-storage/models/nearline",
       "parent": "/products/storage/gcp/cloud-storage"
     }
   },
@@ -178,8 +178,8 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage/models/standard"
+    "links": {
+      "self": "/products/storage/gcp/cloud-storage/models/standard",
       "parent": "/products/storage/gcp/cloud-storage"
     }
   }

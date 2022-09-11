@@ -5,7 +5,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/eks"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/aks"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/gke"
     }
   }

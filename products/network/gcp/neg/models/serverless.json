@@ -1,6 +1,6 @@
 {
   "name": "Google Cloud Network Endpoint Group (serverless)",
-  "links" {
+  "links": {
     "self": "/products/network/gcp/neg/models/serverless"
   }
 }

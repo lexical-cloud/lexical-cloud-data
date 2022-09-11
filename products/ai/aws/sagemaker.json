@@ -4,7 +4,7 @@
   "services": ["ai"],
   "domains": ["machine learning","serverless"],
   "categories": ["model training"],
-  "links" {
+  "links": {
     "self": "/products/ai/aws/sagemaker"
   }
 }

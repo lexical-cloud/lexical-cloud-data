@@ -5,7 +5,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data security","secret management"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/secrets-manager"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management","secret management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/systems-manager-parameter-store"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["auditing","data security","key management","secret management"],
-    "links" {
+    "links": {
       "self": "/products/security/azure/key-vault"
     }
   }

@@ -5,8 +5,8 @@
   "services": ["network"],
   "domains": ["connectivity"],
   "categories": ["virtual network"],
-  "links" {
-    "self": "/products/network/gcp/vpc/models/custom"
+  "links": {
+    "self": "/products/network/gcp/vpc/models/custom",
     "parent": "/products/network/gcp/vpc"
   }
 }

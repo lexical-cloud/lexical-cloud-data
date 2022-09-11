@@ -5,7 +5,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous configuration"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/appconfig"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain"],
     "categories": ["hosted ide"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/cloud9"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["infrastructure as code","deployment management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/cloudformation"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["artifact repository"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codeartifact"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous integration"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codebuild"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","devops"],
     "categories": ["source control"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codecommit"
     }
   },
@@ -65,7 +65,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous deployment"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codedeploy"
     }
   },
@@ -75,7 +75,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous delivery"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codepipeline"
     }
   },
@@ -85,7 +85,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain"],
     "categories": ["continuous delivery","continuous integration"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codestar"
     }
   },
@@ -95,7 +95,7 @@
     "services": ["developer tools"],
     "domains": ["virtualization","systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/opsworks"
     }
   },
@@ -105,7 +105,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/systems-manager"
     }
   },
@@ -115,7 +115,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management","secret management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/systems-manager-parameter-store"
     }
   },
@@ -125,7 +125,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous configuration"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/appconfig"
     }
   },
@@ -135,7 +135,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["artifact repository"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/artifacts"
     }
   },
@@ -145,7 +145,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/automation"
     }
   },
@@ -155,7 +155,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","project management"],
     "categories": ["project planning"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/boards"
     }
   },
@@ -165,7 +165,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","systems management"],
     "categories": ["environment management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/devtest-labs"
     }
   },
@@ -175,7 +175,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous integration","continuous deployment","continuous delivery"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/pipelines"
     }
   },
@@ -185,7 +185,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","devops"],
     "categories": ["source control"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/repos"
     }
   },
@@ -195,7 +195,7 @@
     "services": ["developer tools"],
     "domains": ["devops","systems management"],
     "categories": ["infrastructure as code","deployment management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/arm"
     }
   },
@@ -205,7 +205,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain"],
     "categories": ["test planning","test execution"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/test-plans"
     }
   },
@@ -216,7 +216,7 @@
     "domains": ["developer toolchain","project management"],
     "categories": ["source control","project planning"],
     "features": ["community"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/github/github"
     }
   },
@@ -226,7 +226,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous delivery","continuous integration"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/github/actions"
     }
   },
@@ -236,7 +236,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","devops"],
     "categories": ["source control"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/gcp/cloud-source-repos"
     }
   },
@@ -246,7 +246,7 @@
     "services": ["developer tools"],
     "domains": ["systems management","virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/gcp/vm-manager"
     }
   }

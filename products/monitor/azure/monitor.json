@@ -5,7 +5,7 @@
   "domains": ["observability"],
   "categories": ["telemetry data","auditing"],
   "features": ["alerts"],
-  "links" {
+  "links": {
     "self": "/products/monitor/azure/monitor"
   }
 }

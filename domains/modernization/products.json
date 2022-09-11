@@ -5,7 +5,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["application discovery"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/app-discovery"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["server migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/mgn"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/cloud-adoption"
     }
   },
@@ -36,7 +36,7 @@
     "domains": ["modernization"],
     "categories": ["server migration"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/cloud-endure"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/datasync"
     }
   },
@@ -56,7 +56,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["server migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/hub"
     }
   },
@@ -67,7 +67,7 @@
     "domains": ["modernization"],
     "categories": ["server migration"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/sms"
     }
   },
@@ -77,7 +77,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowball"
     }
   },
@@ -87,7 +87,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowcone"
     }
   },
@@ -97,7 +97,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowmobile"
     }
   },
@@ -107,7 +107,7 @@
     "services": ["hybrid","storage"],
     "domains": ["modernization"],
     "categories": ["on-premises"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/aws/storage-gateway"
     }
   },
@@ -117,7 +117,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/azure/cloud-adoption"
     }
   },
@@ -127,7 +127,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/gcp/cloud-adoption"
     }
   },
@@ -137,7 +137,7 @@
     "services": ["compute","migration"],
     "domains": ["architecture","modernization"],
     "categories": ["rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/bare-metal"
     }
   },
@@ -147,7 +147,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/gcp/storage-transfer-service"
     }
   },
@@ -157,7 +157,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/gcp/transfer-appliance"
     }
   },
@@ -167,7 +167,7 @@
     "services": ["compute","migration"],
     "domains": ["managed service","modernization","virtualization"],
     "categories": ["virtual machines","rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/vmware-engine"
     }
   }

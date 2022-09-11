@@ -5,7 +5,7 @@
     "services": ["storage","hybrid"],
     "domains": ["data management","systems management"],
     "categories": ["data security"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/backup"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data security","key management"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/cloudhsm"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["migration"],
     "domains": ["data management","systems management"],
     "categories": ["disaster recovery","data security"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/drs"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["security"],
     "domains": ["data management","managed service"],
     "categories": ["data security","key management","auditing"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/kms"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data security","secret management"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/secrets-manager"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["auditing","data security","key management","secret management"],
-    "links" {
+    "links": {
       "self": "/products/security/azure/key-vault"
     }
   }

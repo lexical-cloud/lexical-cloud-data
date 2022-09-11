@@ -5,7 +5,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/athena"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
-    "links" {
+    "links": {
       "self": "/products/analytics/aws/quicksight"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/data-lake-analytics"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/databricks"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/hdinsight"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data warehousing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/synapse-analytics"
     }
   },
@@ -65,8 +65,8 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant"],
-    "links" {
-      "self": "/products/database/gcp/bigquery"
+    "links": {
+      "self": "/products/database/gcp/bigquery",
       "components": [
         "/products/database/gcp/bigquery/components/ml"
       ]
@@ -78,7 +78,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/gcp/dataproc"
     }
   },
@@ -88,7 +88,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
-    "links" {
+    "links": {
       "self": "/products/analytics/gcp/looker"
     }
   }

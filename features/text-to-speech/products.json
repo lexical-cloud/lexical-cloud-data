@@ -6,7 +6,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["speech processing"],
     "features": ["text-to-speech"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/polly"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing","computer vision","decision making"],
     "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/cognitive-services"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["speech processing"],
     "features": ["text-to-speech","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/text-to-speech"
     }
   }

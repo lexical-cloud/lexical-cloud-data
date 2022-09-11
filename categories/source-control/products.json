@@ -5,7 +5,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","devops"],
     "categories": ["source control"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codecommit"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","devops"],
     "categories": ["source control"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/repos"
     }
   },
@@ -26,7 +26,7 @@
     "domains": ["developer toolchain","project management"],
     "categories": ["source control","project planning"],
     "features": ["community"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/github/github"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","devops"],
     "categories": ["source control"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/gcp/cloud-source-repos"
     }
   }

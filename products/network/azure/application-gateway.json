@@ -4,7 +4,7 @@
   "services": ["network"],
   "domains": ["connectivity"],
   "categories": ["load balancer","application load balancer","web application firewall"],
-  "links" {
+  "links": {
     "self": "/products/network/azure/application-gateway"
   }
 }

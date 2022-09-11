@@ -6,7 +6,7 @@
     "domains": ["virtualization"],
     "categories": ["firewall"],
     "features": ["stateful"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/security-group"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateless"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/access-control-list"
     }
   },
@@ -27,7 +27,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/network-firewall"
     }
   },
@@ -37,7 +37,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/azure/firewall"
     }
   },
@@ -48,7 +48,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateful"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/security-groups"
     }
   },
@@ -58,7 +58,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/gcp/firewall"
     }
   }

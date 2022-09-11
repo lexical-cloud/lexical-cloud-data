@@ -4,7 +4,7 @@
   "services": ["compute"],
   "domains": ["managed service","virtualization"],
   "categories": ["virtual private server"],
-  "links" {
+  "links": {
     "self": "/products/compute/aws/lightsail"
   }
 }

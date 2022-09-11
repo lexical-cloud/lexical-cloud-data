@@ -5,7 +5,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ec2"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ec2-auto-scaling"
     }
   },
@@ -26,7 +26,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/vm"
     }
   },
@@ -37,7 +37,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/vm-scaled-sets"
     }
   },
@@ -47,7 +47,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/compute-engine"
     }
   },
@@ -58,7 +58,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/managed-instance-groups"
     }
   },
@@ -68,7 +68,7 @@
     "services": ["developer tools"],
     "domains": ["systems management","virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/gcp/vm-manager"
     }
   },
@@ -78,7 +78,7 @@
     "services": ["compute","migration"],
     "domains": ["managed service","modernization","virtualization"],
     "categories": ["virtual machines","rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/vmware-engine"
     }
   }

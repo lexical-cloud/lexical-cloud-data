@@ -6,7 +6,7 @@
     "domains": ["edge computing"],
     "categories": ["iot processing"],
     "features": ["container-based"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/edge"
     }
   },
@@ -18,15 +18,15 @@
     "domains": ["managed service"],
     "categories": ["paas"],
     "features": ["container-based"],
-    "links" {
-      "self": "/products/compute/gcp/app-engine/models/flexible"
+    "links": {
+      "self": "/products/compute/gcp/app-engine/models/flexible",
       "parent": "/products/compute/gcp/app-engine"
     }
   },
   {
     "name": "Google Cloud Network Endpoint Group (zonal)",
     "features": ["container-based"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/neg/models/zonal"
     }
   }

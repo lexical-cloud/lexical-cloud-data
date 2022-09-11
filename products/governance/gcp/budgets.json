@@ -5,7 +5,7 @@
   "domains": ["finops","systems management"],
   "categories": ["cost management"],
   "features": ["alerts"],
-  "links" {
+  "links": {
     "self": "/products/governance/gcp/budgets"
   }
 }

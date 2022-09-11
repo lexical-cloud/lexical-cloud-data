@@ -5,7 +5,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage","data archive"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/s3-glacier"
     }
   },
@@ -16,8 +16,8 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["data archive","object storage"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage/models/archive"
+    "links": {
+      "self": "/products/storage/gcp/cloud-storage/models/archive",
       "parent": "/products/storage/gcp/cloud-storage"
     }
   },
@@ -27,7 +27,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["data archive","object storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/blob-storage"
     }
   }

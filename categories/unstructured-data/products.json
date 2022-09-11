@@ -5,7 +5,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/athena"
     }
   },
@@ -15,8 +15,8 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant"],
-    "links" {
-      "self": "/products/database/gcp/bigquery"
+    "links": {
+      "self": "/products/database/gcp/bigquery",
       "components": [
         "/products/database/gcp/bigquery/components/ml"
       ]

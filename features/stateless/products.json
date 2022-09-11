@@ -6,7 +6,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateless"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/access-control-list"
     }
   }

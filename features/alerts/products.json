@@ -6,7 +6,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch-app-insights"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/budgets"
     }
   },
@@ -39,7 +39,7 @@
     "domains": ["observability"],
     "categories": ["health"],
     "features": ["alerts","maintenance schedule","reports","personalization"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/health-dashboard"
     }
   },
@@ -50,7 +50,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts","cost forecast"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/cost-management"
     }
   },
@@ -61,7 +61,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","auditing"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/monitor"
     }
   },
@@ -72,7 +72,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/monitor-app-insights"
     }
   },
@@ -83,7 +83,7 @@
     "domains": ["observability"],
     "categories": ["health"],
     "features": ["alerts","maintenance schedule","reports","personalization"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/service-health"
     }
   },
@@ -94,7 +94,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/budgets"
     }
   },
@@ -105,7 +105,7 @@
     "domains": ["observability"],
     "categories": ["dashboards","telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-monitoring"
     }
   },
@@ -116,7 +116,7 @@
     "domains": ["finops","systems management"],
     "categories": ["resource management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/quotas"
     }
   }

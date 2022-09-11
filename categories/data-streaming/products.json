@@ -5,7 +5,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/kinesis"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/event-hubs"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/dataflow"
     }
   }

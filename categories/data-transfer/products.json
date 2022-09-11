@@ -5,7 +5,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/datasync"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowball"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowcone"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowmobile"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/gcp/storage-transfer-service"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/gcp/transfer-appliance"
     }
   }

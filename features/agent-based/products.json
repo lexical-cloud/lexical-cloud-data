@@ -6,7 +6,7 @@
     "domains": ["virtualization","systems management"],
     "categories": ["vulnerability management","risk assessment"],
     "features": ["agent-based"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/inspector"
     }
   }

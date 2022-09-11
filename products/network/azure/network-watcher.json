@@ -4,7 +4,7 @@
   "services": ["network","monitor"],
   "domains": ["connectivity"],
   "categories": ["network monitoring"],
-  "links" {
+  "links": {
     "self": "/products/network/azure/network-watcher"
   }
 }

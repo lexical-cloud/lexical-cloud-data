@@ -4,7 +4,7 @@
   "services": ["security"],
   "domains": ["data management"],
   "categories": ["data security","key management"],
-  "links" {
+  "links": {
     "self": "/products/security/aws/cloudhsm"
   }
 }

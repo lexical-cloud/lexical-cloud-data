@@ -5,8 +5,8 @@
   "services": ["ai"],
   "domains": ["machine learning","managed service"],
   "categories": ["no-code","model training"],
-  "links" {
-    "self": "/products/ai/gcp/vertex-ai/components/automl"
+  "links": {
+    "self": "/products/ai/gcp/vertex-ai/components/automl",
     "parent": "/products/ai/gcp/vertex-ai"
   }
 }

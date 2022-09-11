@@ -4,7 +4,7 @@
   "services": ["framework"],
   "domains": ["architecture"],
   "categories": ["decision making"],
-  "links" {
+  "links": {
     "self": "/products/framework/gcp/architecture"
   }
 }

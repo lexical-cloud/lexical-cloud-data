@@ -4,7 +4,7 @@
   "services": ["developer tools"],
   "domains": ["systems management"],
   "categories": ["configuration management","secret management"],
-  "links" {
+  "links": {
     "self": "/products/developer-tools/aws/systems-manager-parameter-store"
   }
 }

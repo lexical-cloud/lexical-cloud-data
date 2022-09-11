@@ -4,7 +4,7 @@
   "services": ["integration"],
   "domains": ["process modeling","serverless"],
   "categories": ["workflow engine"],
-  "links" {
+  "links": {
     "self": "/products/integration/gcp/workflows"
   }
 }

@@ -5,7 +5,7 @@
   "domains": ["eventing","serverless"],
   "categories": ["real-time communication"],
   "features": ["websocket api"],
-  "links" {
+  "links": {
     "self": "/products/integration/azure/signalr"
   }
 }

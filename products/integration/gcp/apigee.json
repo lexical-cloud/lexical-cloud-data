@@ -5,7 +5,7 @@
   "domains": ["api management","serverless"],
   "categories": ["api lifecycle","api gateway","api portal"],
   "features": ["rest api","http api","websocket api"],
-  "links" {
+  "links": {
     "self": "/products/integration/gcp/apigee"
   }
 }

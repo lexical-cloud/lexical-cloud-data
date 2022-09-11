@@ -5,7 +5,7 @@
     "services": ["iot"],
     "domains": ["edge computing"],
     "categories": ["iot communication"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/hub"
     }
   }

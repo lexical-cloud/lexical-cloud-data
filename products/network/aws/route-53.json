@@ -5,7 +5,7 @@
   "domains": ["systems management"],
   "categories": ["dns management"],
   "features": ["traffic routing"],
-  "links" {
+  "links": {
     "self": "/products/network/aws/route-53"
   }
 }

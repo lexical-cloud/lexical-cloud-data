@@ -4,7 +4,7 @@
   "services": ["compute"],
   "domains": ["containerization","managed service"],
   "categories": ["container orchestrator"],
-  "links" {
+  "links": {
     "self": "/products/compute/aws/ecs"
   }
 }

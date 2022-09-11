@@ -4,7 +4,7 @@
   "services": ["hybrid"],
   "domains": ["architecture"],
   "categories": ["on-premises","multi-cloud"],
-  "links" {
+  "links": {
     "self": "/products/hybrid/gcp/anthos"
   }
 }

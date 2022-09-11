@@ -5,7 +5,7 @@
     "services": ["monitor"],
     "domains": ["systems management"],
     "categories": ["auditing","configuration management","risk assessment"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/config"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["developer tools"],
     "domains": ["virtualization","systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/opsworks"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/systems-manager"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management","secret management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/systems-manager-parameter-store"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/automation"
     }
   }

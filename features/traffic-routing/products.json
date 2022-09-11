@@ -6,7 +6,7 @@
     "domains": ["systems management"],
     "categories": ["dns management"],
     "features": ["traffic routing"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/route-53"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["connectivity"],
     "categories": ["load balancer"],
     "features": ["traffic routing"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/traffic-manager"
     }
   }

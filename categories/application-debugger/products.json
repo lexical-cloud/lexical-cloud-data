@@ -5,7 +5,7 @@
     "services": ["monitor"],
     "domains": ["systems management"],
     "categories": ["application debugger","root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/xray"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["systems management","observability"],
     "categories": ["application debugger","root cause analysis"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-debugger"
     }
   }

@@ -6,7 +6,7 @@
     "domains": ["edge computing"],
     "categories": ["iot processing"],
     "features": ["container-based"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/edge"
     }
   }

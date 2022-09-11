@@ -5,7 +5,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain"],
     "categories": ["hosted ide"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/cloud9"
     }
   }

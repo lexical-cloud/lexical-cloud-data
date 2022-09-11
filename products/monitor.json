@@ -5,7 +5,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["auditing"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudtrail"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch"
     }
   },
@@ -27,7 +27,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch-app-insights"
     }
   },
@@ -38,7 +38,7 @@
     "domains": ["virtualization","systems management"],
     "categories": ["vulnerability management","risk assessment"],
     "features": ["agent-based"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/inspector"
     }
   },
@@ -48,7 +48,7 @@
     "services": ["monitor"],
     "domains": ["systems management"],
     "categories": ["auditing","configuration management","risk assessment"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/config"
     }
   },
@@ -59,7 +59,7 @@
     "domains": ["observability","systems management"],
     "categories": ["risks assessment","threat detection"],
     "features": ["agentless"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/guardduty"
     }
   },
@@ -70,7 +70,7 @@
     "domains": ["observability"],
     "categories": ["health"],
     "features": ["alerts","maintenance schedule","reports","personalization"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/health-dashboard"
     }
   },
@@ -80,7 +80,7 @@
     "services": ["monitor"],
     "domains": ["systems management"],
     "categories": ["application debugger","root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/xray"
     }
   },
@@ -91,7 +91,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","auditing"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/monitor"
     }
   },
@@ -102,7 +102,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/monitor-app-insights"
     }
   },
@@ -113,7 +113,7 @@
     "domains": ["observability"],
     "categories": ["health"],
     "features": ["alerts","maintenance schedule","reports","personalization"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/service-health"
     }
   },
@@ -124,7 +124,7 @@
     "domains": ["systems management","observability"],
     "categories": ["application debugger","root cause analysis"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-debugger"
     }
   },
@@ -134,7 +134,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/error-reporting"
     }
   },
@@ -144,7 +144,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["telemetry data","auditing"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-logging"
     }
   },
@@ -155,7 +155,7 @@
     "domains": ["observability"],
     "categories": ["dashboards","telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-monitoring"
     }
   },
@@ -165,7 +165,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["root cause analysis","performance monitoring"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-profiler"
     }
   },
@@ -176,7 +176,7 @@
     "domains": ["observability"],
     "categories": ["root cause analysis","performance monitoring"],
     "features": ["open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-trace"
     }
   }

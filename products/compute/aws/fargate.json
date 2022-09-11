@@ -4,7 +4,7 @@
   "services": ["compute"],
   "domains": ["containerization","serverless"],
   "categories": ["container orchestrator"],
-  "links" {
+  "links": {
     "self": "/products/compute/aws/fargate"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "Google Cloud Network Endpoint Group (hybrid)",
-  "links" {
+  "links": {
     "self": "/products/network/gcp/neg/models/hybrid-connectivity"
   }
 }

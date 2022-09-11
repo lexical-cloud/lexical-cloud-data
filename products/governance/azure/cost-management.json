@@ -5,7 +5,7 @@
   "domains": ["finops","systems management"],
   "categories": ["cost management"],
   "features": ["alerts","cost forecast"],
-  "links" {
+  "links": {
     "self": "/products/governance/azure/cost-management"
   }
 }

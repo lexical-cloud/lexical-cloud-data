@@ -4,7 +4,7 @@
   "services": ["database"],
   "domains": ["data management","managed service","serverless"],
   "categories": ["relational db","sql compliant"],
-  "links" {
+  "links": {
     "self": "/products/database/azure/sql-db"
   }
 }

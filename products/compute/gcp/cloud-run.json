@@ -5,7 +5,7 @@
   "domains": ["containerization","serverless"],
   "categories": ["container orchestrator"],
   "features": ["scale-to-zero"],
-  "links" {
+  "links": {
     "self": "/products/compute/gcp/cloud-run"
   }
 }

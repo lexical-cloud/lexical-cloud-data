@@ -4,7 +4,7 @@
   "services": ["migration"],
   "domains": ["data management","systems management"],
   "categories": ["disaster recovery","data security"],
-  "links" {
+  "links": {
     "self": "/products/migration/aws/drs"
   }
 }

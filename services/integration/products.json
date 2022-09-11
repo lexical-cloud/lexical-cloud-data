@@ -6,7 +6,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api lifecycle"],
     "features": ["rest api","http api","websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/api-gateway"
     }
   },
@@ -16,7 +16,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["event bus","pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/eventbridge"
     }
   },
@@ -26,7 +26,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/kinesis"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["pub-sub","push notifications"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/sns"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/sqs"
     }
   },
@@ -56,7 +56,7 @@
     "services": ["integration"],
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","no-code","workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/logic-apps"
     }
   },
@@ -66,7 +66,7 @@
     "services": ["integration"],
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/step-functions"
     }
   },
@@ -77,7 +77,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api gateway","api lifecycle","api portal"],
     "features": ["rest api","http api","websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/api-management"
     }
   },
@@ -87,7 +87,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/event-grid"
     }
   },
@@ -97,7 +97,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/event-hubs"
     }
   },
@@ -107,7 +107,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["push notifications"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/notification-hubs"
     }
   },
@@ -117,7 +117,7 @@
     "services": ["integration","storage"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/queue-storage"
     }
   },
@@ -127,7 +127,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue","pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/service-bus"
     }
   },
@@ -138,7 +138,7 @@
     "domains": ["eventing","serverless"],
     "categories": ["real-time communication"],
     "features": ["websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/signalr"
     }
   },
@@ -149,7 +149,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api gateway","api lifecycle"],
     "features": ["rest api","http api","websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/api-gateway"
     }
   },
@@ -160,7 +160,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api lifecycle","api gateway","api portal"],
     "features": ["rest api","http api","websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/apigee"
     }
   },
@@ -170,7 +170,7 @@
     "services": ["integration"],
     "domains": ["managed service","process modeling"],
     "categories": ["multi-cloud","workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/composer"
     }
   },
@@ -180,7 +180,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/dataflow"
     }
   },
@@ -191,7 +191,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api gateway"],
     "features": ["rest api","http api"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/cloud-endpoints"
     }
   },
@@ -201,7 +201,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue","pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/pubsub"
     }
   },
@@ -211,7 +211,7 @@
     "services": ["integration"],
     "domains": ["process modeling","serverless"],
     "categories": ["workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/workflows"
     }
   }

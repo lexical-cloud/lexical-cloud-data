@@ -4,8 +4,8 @@
   "services": ["database","analytics"],
   "domains": ["big data","data management","serverless"],
   "categories": ["data warehousing","unstructured data","sql compliant"],
-  "links" {
-    "self": "/products/database/gcp/bigquery"
+  "links": {
+    "self": "/products/database/gcp/bigquery",
     "components": [
       "/products/database/gcp/bigquery/components/ml"
     ]

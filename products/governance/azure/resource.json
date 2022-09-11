@@ -5,7 +5,7 @@
   "domains": ["systems management"],
   "categories": ["resource management"],
   "features": ["resource locks"],
-  "links" {
+  "links": {
     "self": "/products/governance/azure/resource"
   }
 }

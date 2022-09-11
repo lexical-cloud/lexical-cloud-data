@@ -4,7 +4,7 @@
   "services": ["network"],
   "domains": ["connectivity"],
   "categories": ["network transit hub","virtual network"],
-  "links" {
+  "links": {
     "self": "/products/network/azure/virtual-wan"
   }
 }

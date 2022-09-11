@@ -5,7 +5,7 @@
     "services": ["hybrid"],
     "domains": ["architecture","edge computing"],
     "categories": ["on-premises"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/aws/outposts"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/well-architected"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/azure/well-architected"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["hybrid"],
     "domains": ["architecture"],
     "categories": ["on-premises","multi-cloud"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/gcp/anthos"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/gcp/architecture"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["compute","migration"],
     "domains": ["architecture","modernization"],
     "categories": ["rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/bare-metal"
     }
   }

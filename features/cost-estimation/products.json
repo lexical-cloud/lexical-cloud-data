@@ -6,7 +6,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/pricing-calculator"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/pricing-calculator"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/tco-calculator"
     }
   },
@@ -39,7 +39,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/pricing-calculator"
     }
   }

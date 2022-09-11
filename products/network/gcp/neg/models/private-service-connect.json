@@ -1,6 +1,6 @@
 {
   "name": "Google Cloud Network Endpoint Group (private)",
-  "links" {
+  "links": {
     "self": "/products/network/gcp/neg/models/private-service-connect"
   }
 }

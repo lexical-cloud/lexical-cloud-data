@@ -6,7 +6,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch-app-insights"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","auditing"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/monitor"
     }
   },
@@ -39,7 +39,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/monitor-app-insights"
     }
   },
@@ -49,7 +49,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["telemetry data","auditing"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-logging"
     }
   },
@@ -60,7 +60,7 @@
     "domains": ["observability"],
     "categories": ["dashboards","telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-monitoring"
     }
   }

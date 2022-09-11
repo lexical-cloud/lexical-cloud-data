@@ -6,8 +6,8 @@
   "domains": ["managed service"],
   "categories": ["paas"],
   "features": ["container-based"],
-  "links" {
-    "self": "/products/compute/gcp/app-engine/models/flexible"
+  "links": {
+    "self": "/products/compute/gcp/app-engine/models/flexible",
     "parent": "/products/compute/gcp/app-engine"
   }
 }

@@ -5,7 +5,7 @@
   "domains": ["data management","managed service","serverless"],
   "categories": ["relational db","sql compliant"],
   "features": ["mysql","postgresql"],
-  "links" {
+  "links": {
     "self": "/products/database/aws/aurora"
   }
 }

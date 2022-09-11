@@ -6,7 +6,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/budgets"
     }
   },
@@ -16,7 +16,7 @@
     "services": ["governance"],
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/cost-and-usage-report"
     }
   },
@@ -27,7 +27,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost forecast"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/cost-explorer"
     }
   },
@@ -38,7 +38,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/pricing-calculator"
     }
   },
@@ -49,7 +49,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts","cost forecast"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/cost-management"
     }
   },
@@ -60,7 +60,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/pricing-calculator"
     }
   },
@@ -71,7 +71,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/tco-calculator"
     }
   },
@@ -82,7 +82,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/budgets"
     }
   },
@@ -93,7 +93,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/pricing-calculator"
     }
   }

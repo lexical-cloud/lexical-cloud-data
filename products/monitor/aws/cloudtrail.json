@@ -4,7 +4,7 @@
   "services": ["monitor"],
   "domains": ["observability"],
   "categories": ["auditing"],
-  "links" {
+  "links": {
     "self": "/products/monitor/aws/cloudtrail"
   }
 }

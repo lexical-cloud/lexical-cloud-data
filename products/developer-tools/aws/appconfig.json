@@ -4,7 +4,7 @@
   "services": ["developer tools"],
   "domains": ["devops"],
   "categories": ["continuous configuration"],
-  "links" {
+  "links": {
     "self": "/products/developer-tools/aws/appconfig"
   }
 }

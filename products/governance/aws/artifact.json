@@ -4,7 +4,7 @@
   "services": ["governance"],
   "domains": ["systems management"],
   "categories": ["compliance","auditing"],
-  "links" {
+  "links": {
     "self": "/products/governance/aws/artifact"
   }
 }

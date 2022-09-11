@@ -4,7 +4,7 @@
   "services": ["identity"],
   "domains": ["identity management"],
   "categories": ["access control","identity provider"],
-  "links" {
+  "links": {
     "self": "/products/identity/aws/iam"
   }
 }

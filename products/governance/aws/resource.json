@@ -4,7 +4,7 @@
   "services": ["governance"],
   "domains": ["systems management"],
   "categories": ["resource management"],
-  "links" {
+  "links": {
     "self": "/products/governance/aws/resource"
   }
 }

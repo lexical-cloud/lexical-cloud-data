@@ -5,8 +5,8 @@
   "services": ["storage"],
   "domains": ["data management","serverless"],
   "categories": ["data archive","object storage"],
-  "links" {
-    "self": "/products/storage/gcp/cloud-storage/models/archive"
+  "links": {
+    "self": "/products/storage/gcp/cloud-storage/models/archive",
     "parent": "/products/storage/gcp/cloud-storage"
   }
 }

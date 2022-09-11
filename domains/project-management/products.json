@@ -5,7 +5,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","project management"],
     "categories": ["project planning"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/boards"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["developer toolchain","project management"],
     "categories": ["source control","project planning"],
     "features": ["community"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/github/github"
     }
   }

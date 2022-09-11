@@ -4,7 +4,7 @@
   "services": ["ai"],
   "domains": ["machine learning"],
   "categories": ["model training"],
-  "links" {
+  "links": {
     "self": "/products/ai/azure/machine-learning"
   }
 }

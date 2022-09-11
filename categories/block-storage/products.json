@@ -5,7 +5,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/ebs"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/disk-storage"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/gcp/peristent-disk"
     }
   }

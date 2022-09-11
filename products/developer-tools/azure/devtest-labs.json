@@ -4,7 +4,7 @@
   "services": ["developer tools"],
   "domains": ["developer toolchain","systems management"],
   "categories": ["environment management"],
-  "links" {
+  "links": {
     "self": "/products/developer-tools/azure/devtest-labs"
   }
 }

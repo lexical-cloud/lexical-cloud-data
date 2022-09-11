@@ -5,7 +5,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ec2"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ec2-auto-scaling"
     }
   },
@@ -27,7 +27,7 @@
     "domains": ["virtualization"],
     "categories": ["firewall"],
     "features": ["stateful"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/security-group"
     }
   },
@@ -38,7 +38,7 @@
     "domains": ["virtualization","systems management"],
     "categories": ["vulnerability management","risk assessment"],
     "features": ["agent-based"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/inspector"
     }
   },
@@ -48,7 +48,7 @@
     "services": ["compute"],
     "domains": ["managed service","virtualization"],
     "categories": ["virtual private server"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/lightsail"
     }
   },
@@ -58,7 +58,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual desktop"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/workspaces"
     }
   },
@@ -68,7 +68,7 @@
     "services": ["governance"],
     "domains": ["virtualization"],
     "categories": ["license management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/license-manager"
     }
   },
@@ -78,7 +78,7 @@
     "services": ["developer tools"],
     "domains": ["virtualization","systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/opsworks"
     }
   },
@@ -88,7 +88,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/vm"
     }
   },
@@ -99,7 +99,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/vm-scaled-sets"
     }
   },
@@ -109,7 +109,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/compute-engine"
     }
   },
@@ -120,7 +120,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/managed-instance-groups"
     }
   },
@@ -130,7 +130,7 @@
     "services": ["developer tools"],
     "domains": ["systems management","virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/gcp/vm-manager"
     }
   },
@@ -140,7 +140,7 @@
     "services": ["compute","migration"],
     "domains": ["managed service","modernization","virtualization"],
     "categories": ["virtual machines","rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/vmware-engine"
     }
   }

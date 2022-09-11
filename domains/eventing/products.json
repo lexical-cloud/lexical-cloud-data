@@ -5,7 +5,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["event bus","pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/eventbridge"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/kinesis"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["pub-sub","push notifications"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/sns"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/sqs"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/event-grid"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/event-hubs"
     }
   },
@@ -65,7 +65,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["push notifications"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/notification-hubs"
     }
   },
@@ -75,7 +75,7 @@
     "services": ["integration","storage"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/queue-storage"
     }
   },
@@ -85,7 +85,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue","pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/service-bus"
     }
   },
@@ -96,7 +96,7 @@
     "domains": ["eventing","serverless"],
     "categories": ["real-time communication"],
     "features": ["websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/signalr"
     }
   },
@@ -106,7 +106,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/dataflow"
     }
   },
@@ -116,7 +116,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue","pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/pubsub"
     }
   }

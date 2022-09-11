@@ -5,7 +5,7 @@
     "services": ["network","monitor"],
     "domains": ["connectivity"],
     "categories": ["network monitoring"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-flow-logs"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["network","monitor"],
     "domains": ["connectivity"],
     "categories": ["network monitoring"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/network-watcher"
     }
   }

@@ -4,7 +4,7 @@
   "services": ["database"],
   "domains": ["data management","managed service"],
   "categories": ["nosql db","key-value store"],
-  "links" {
+  "links": {
     "self": "/products/database/gcp/bigtable"
   }
 }

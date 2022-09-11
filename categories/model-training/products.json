@@ -5,7 +5,7 @@
     "services": ["ai"],
     "domains": ["machine learning","serverless"],
     "categories": ["model training"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/sagemaker"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["ai"],
     "domains": ["machine learning"],
     "categories": ["model training"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/machine-learning"
     }
   },
@@ -26,8 +26,8 @@
     "services": ["ai","database","analytics"],
     "domains": ["machine learning","big data","data management","serverless"],
     "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant"],
-    "links" {
-      "self": "/products/database/gcp/bigquery/components/ml"
+    "links": {
+      "self": "/products/database/gcp/bigquery/components/ml",
       "parent": "/products/database/gcp/bigquery"
     }
   },
@@ -37,8 +37,8 @@
     "services": ["ai"],
     "domains": ["machine learning","managed service"],
     "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/vertex-ai"
+    "links": {
+      "self": "/products/ai/gcp/vertex-ai",
       "components": [
         "/products/ai/gcp/vertex-ai/components/automl",
         "/products/ai/gcp/vertex-ai/components/workbench"

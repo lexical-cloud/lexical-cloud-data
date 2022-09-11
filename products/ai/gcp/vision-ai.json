@@ -5,7 +5,7 @@
   "domains": ["machine learning"],
   "categories": ["computer vision"],
   "features": ["object detection","prebuilt models"],
-  "links" {
+  "links": {
     "self": "/products/ai/gcp/vision-ai"
   }
 }

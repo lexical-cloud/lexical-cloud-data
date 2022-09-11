@@ -5,7 +5,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/elb"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","web application firewall"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/application-gateway"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/load-balancer"
     }
   },
@@ -36,7 +36,7 @@
     "domains": ["connectivity"],
     "categories": ["load balancer"],
     "features": ["traffic routing"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/traffic-manager"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/load-balancing"
     }
   },
@@ -56,7 +56,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/neg"
     }
   }

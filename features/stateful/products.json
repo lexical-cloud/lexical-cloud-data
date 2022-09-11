@@ -6,7 +6,7 @@
     "domains": ["virtualization"],
     "categories": ["firewall"],
     "features": ["stateful"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/security-group"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateful"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/security-groups"
     }
   }

@@ -4,7 +4,7 @@
   "services": ["governance"],
   "domains": ["systems management"],
   "categories": ["policy management","resource management"],
-  "links" {
+  "links": {
     "self": "/products/governance/gcp/projects"
   }
 }
