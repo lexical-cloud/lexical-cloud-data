@@ -1,7 +1,13 @@
 {
-  "name": "Google Cloud Network Endpoint Group (serverless)",
+  "name": "Google Cloud Network Endpoint Group (NEG)",
+  "model": "Serverless NEG",
+  "providers": ["gcp"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
   "links": {
-    "self": "/products/network/gcp/neg/models/serverless"
+    "self": "/products/network/gcp/neg/models/serverless",
+    "parent": "/products/network/gcp/neg"
   }
 }
 
