@@ -3,7 +3,7 @@
   "name": "network address translation",
   "type": "category",
   "links": {
-    "self": "/categories/network-address-translation",
+    "self": "/categories/network-address-translation"
   },
   "definition": {
     "title": "Network Address Translation (NAT)",

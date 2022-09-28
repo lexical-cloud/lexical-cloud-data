@@ -3,7 +3,7 @@
   "name": "application debugger",
   "type": "category",
   "links": {
-    "self": "/categories/application-debugger",
+    "self": "/categories/application-debugger"
   },
   "definition": {
     "title": "Application Debugger",

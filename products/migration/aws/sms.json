@@ -5,7 +5,7 @@
   "domains": ["modernization"],
   "categories": ["server migration"],
   "labels": ["deprecated"],
-  "links" {
+  "links": {
     "self": "/products/migration/aws/sms"
   }
 }

@@ -3,7 +3,7 @@
   "name": "auto scaling",
   "type": "feature",
   "links": {
-    "self": "/features/auto-scaling",
+    "self": "/features/auto-scaling"
   },
   "definition": {
     "title": "Auto Scaling",

@@ -5,7 +5,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["application discovery"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/app-discovery"
     }
   }

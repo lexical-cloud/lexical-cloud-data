@@ -4,7 +4,7 @@
   "services": ["network"],
   "domains": ["connectivity"],
   "categories": ["network address translation","private network"],
-  "links" {
+  "links": {
     "self": "/products/network/gcp/cloud-nat"
   }
 }

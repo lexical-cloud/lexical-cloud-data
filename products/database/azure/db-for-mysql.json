@@ -5,7 +5,7 @@
   "domains": ["data management","managed service"],
   "categories": ["relational db","sql compliant"],
   "features": ["mysql"],
-  "links" {
+  "links": {
     "self": "/products/database/azure/db-for-mysql"
   }
 }

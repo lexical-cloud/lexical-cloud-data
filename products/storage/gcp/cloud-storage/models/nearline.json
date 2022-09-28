@@ -1,12 +1,12 @@
 {
   "name": "Google Cloud Storage",
-  "model": "Coldline Storage",
+  "model": "Nearline Storage",
   "providers": ["gcp"],
   "services": ["storage"],
   "domains": ["data management","serverless"],
   "categories": ["object storage"],
-  "links" {
-    "self": "/products/storage/gcp/cloud-storage/coldline"
+  "links": {
+    "self": "/products/storage/gcp/cloud-storage/models/nearline",
     "parent": "/products/storage/gcp/cloud-storage"
   }
 }

@@ -15,6 +15,9 @@
     ]
   },
   "symdiff": {
+    "features": [
+      "scale-to-zero"
+    ],
     "providers": [
       "aws",
       "azure",

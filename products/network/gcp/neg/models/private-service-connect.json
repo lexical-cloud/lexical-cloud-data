@@ -1,0 +1,13 @@
+{
+  "name": "Google Cloud Network Endpoint Group (NEG)",
+  "model": "Private Service Connect NEG",
+  "providers": ["gcp"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+  "links": {
+    "self": "/products/network/gcp/neg/models/private-service-connect",
+    "parent": "/products/network/gcp/neg"
+  }
+}
+

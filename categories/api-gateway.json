@@ -3,7 +3,7 @@
   "name": "api gateway",
   "type": "category",
   "links": {
-    "self": "/categories/api-gateway",
+    "self": "/categories/api-gateway"
   },
   "definition": {
     "title": "API Gateway",

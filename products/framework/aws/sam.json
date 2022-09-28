@@ -4,7 +4,7 @@
   "services": ["framework"],
   "domains": ["serverless"],
   "categories": ["deployment management"],
-  "links" {
+  "links": {
     "self": "/products/framework/aws/sam"
   }
 }

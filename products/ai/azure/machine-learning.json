@@ -1,7 +1,10 @@
 {
-  "name": "Machine Learning (ML)",
+  "name": "Azure Machine Learning (ML)",
+  "providers": ["azure"],
   "services": ["ai"],
-  "links" {
+  "domains": ["machine learning"],
+  "categories": ["model training"],
+  "links": {
     "self": "/products/ai/azure/machine-learning"
   }
 }

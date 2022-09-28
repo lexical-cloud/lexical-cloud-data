@@ -3,7 +3,7 @@
   "name": "integration",
   "type": "service",
   "links": {
-    "self": "/services/integration",
+    "self": "/services/integration"
   },
   "definition": {
     "title": "Integration",

@@ -6,7 +6,7 @@
     "domains": ["systems management"],
     "categories": ["resource management"],
     "features": ["resource locks"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/resource"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
     "features": ["resource locks"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/resource-groups"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
     "features": ["resource locks"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/subscriptions"
     }
   }

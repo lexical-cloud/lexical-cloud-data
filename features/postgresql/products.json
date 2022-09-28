@@ -6,7 +6,7 @@
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/aurora"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","mariadb","sql server","oracle"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/rds"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
   },
@@ -39,7 +39,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","sql server"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/cloud-sql"
     }
   }

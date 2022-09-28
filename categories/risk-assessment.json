@@ -3,7 +3,7 @@
   "name": "risk assessment",
   "type": "category",
   "links": {
-    "self": "/categories/risk-assessment",
+    "self": "/categories/risk-assessment"
   },
   "definition": {
     "title": "Risk Assessment",

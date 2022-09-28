@@ -5,7 +5,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ec2"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ec2-auto-scaling"
     }
   },
@@ -26,7 +26,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ecs"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/eks"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["compute"],
     "domains": ["managed service","virtualization"],
     "categories": ["virtual private server"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/lightsail"
     }
   },
@@ -56,7 +56,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual desktop"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/workspaces"
     }
   },
@@ -66,7 +66,7 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["batch processing"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/batch"
     }
   },
@@ -76,7 +76,7 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["paas"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/beanstalk"
     }
   },
@@ -86,7 +86,7 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/fargate"
     }
   },
@@ -96,7 +96,8 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
-    "links" {
+    "features": ["scale-to-zero"],
+    "links": {
       "self": "/products/compute/aws/lambda"
     }
   },
@@ -106,7 +107,7 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["paas"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/app-service"
     }
   },
@@ -116,7 +117,8 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
-    "links" {
+    "features": ["scale-to-zero"],
+    "links": {
       "self": "/products/compute/azure/container-apps"
     }
   },
@@ -126,7 +128,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/container-instances"
     }
   },
@@ -136,7 +138,8 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
-    "links" {
+    "features": ["scale-to-zero"],
+    "links": {
       "self": "/products/compute/azure/functions"
     }
   },
@@ -146,7 +149,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/aks"
     }
   },
@@ -156,7 +159,7 @@
     "services": ["compute"],
     "domains": ["containerization"],
     "categories": ["container orchestrator"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/service-fabric"
     }
   },
@@ -166,7 +169,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/vm"
     }
   },
@@ -177,7 +180,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/vm-scaled-sets"
     }
   },
@@ -189,8 +192,8 @@
     "domains": ["managed service"],
     "categories": ["paas"],
     "features": ["container-based"],
-    "links" {
-      "self": "/products/compute/gcp/app-engine/flexible"
+    "links": {
+      "self": "/products/compute/gcp/app-engine/models/flexible",
       "parent": "/products/compute/gcp/app-engine"
     }
   },
@@ -200,11 +203,11 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["paas"],
-    "links" {
-      "self": "/products/compute/gcp/app-engine"
+    "links": {
+      "self": "/products/compute/gcp/app-engine",
       "models": [
-        "/products/compute/gcp/app-engine/flexible",
-        "/products/compute/gcp/app-engine/standard"
+        "/products/compute/gcp/app-engine/models/flexible",
+        "/products/compute/gcp/app-engine/models/standard"
       ]
     }
   },
@@ -214,7 +217,7 @@
     "services": ["compute","migration"],
     "domains": ["architecture","modernization"],
     "categories": ["rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/bare-metal"
     }
   },
@@ -224,7 +227,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/compute-engine"
     }
   },
@@ -234,7 +237,8 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
-    "links" {
+    "features": ["scale-to-zero"],
+    "links": {
       "self": "/products/compute/gcp/cloud-functions"
     }
   },
@@ -245,7 +249,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/managed-instance-groups"
     }
   },
@@ -255,7 +259,8 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
-    "links" {
+    "features": ["scale-to-zero"],
+    "links": {
       "self": "/products/compute/gcp/cloud-run"
     }
   },
@@ -265,7 +270,7 @@
     "services": ["compute","migration"],
     "domains": ["managed service","modernization","virtualization"],
     "categories": ["virtual machines","rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/vmware-engine"
     }
   },
@@ -275,7 +280,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/gke"
     }
   },
@@ -287,8 +292,8 @@
     "domains": ["managed service"],
     "categories": ["paas"],
     "features": ["scale-to-zero"],
-    "links" {
-      "self": "/products/compute/gcp/app-engine/standard"
+    "links": {
+      "self": "/products/compute/gcp/app-engine/models/standard",
       "parent": "/products/compute/gcp/app-engine"
     }
   }

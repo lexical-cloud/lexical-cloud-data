@@ -3,7 +3,7 @@
   "name": "language processing",
   "type": "category",
   "links": {
-    "self": "/categories/language-processing",
+    "self": "/categories/language-processing"
   },
   "definition": {
     "title": "Natural Language Processing (NLP)",

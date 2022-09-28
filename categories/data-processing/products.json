@@ -5,7 +5,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/data-lake-analytics"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/databricks"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/hdinsight"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/gcp/dataproc"
     }
   }

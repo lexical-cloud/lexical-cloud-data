@@ -3,7 +3,7 @@
   "name": "security",
   "type": "service",
   "links": {
-    "self": "/services/security",
+    "self": "/services/security"
   },
   "definition": {
     "title": "Security",

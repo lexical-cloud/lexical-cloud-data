@@ -3,7 +3,7 @@
   "name": "resource locks",
   "type": "feature",
   "links": {
-    "self": "/features/resource-locks",
+    "self": "/features/resource-locks"
   },
   "definition": {
     "title": "Resource Locks",

@@ -3,7 +3,7 @@
   "name": "language translation",
   "type": "feature",
   "links": {
-    "self": "/features/language-translation",
+    "self": "/features/language-translation"
   },
   "definition": {
     "title": "Language Translation",

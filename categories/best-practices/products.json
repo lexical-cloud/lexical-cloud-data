@@ -5,7 +5,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["risk assessment","best practices"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/trusted-advisor"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["risk assessment","best practices"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/advisor"
     }
   }

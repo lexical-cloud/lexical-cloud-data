@@ -5,7 +5,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/cloud-adoption"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/well-architected"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/azure/cloud-adoption"
     }
   },
@@ -36,7 +36,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing","computer vision","decision making"],
     "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/cognitive-services"
     }
   },
@@ -47,7 +47,7 @@
     "domains": ["machine learning"],
     "categories": ["decision making"],
     "features": ["personalization","recommendations","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/cognitive-services-personalizer"
     }
   },
@@ -57,7 +57,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/azure/well-architected"
     }
   },
@@ -67,7 +67,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/gcp/cloud-adoption"
     }
   },
@@ -77,7 +77,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/gcp/architecture"
     }
   }

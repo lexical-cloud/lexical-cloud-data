@@ -1,12 +1,12 @@
 {
   "name": "Google Cloud Storage",
-  "model": "Standard Storage",
+  "model": "Archive Storage",
   "providers": ["gcp"],
   "services": ["storage"],
   "domains": ["data management","serverless"],
-  "categories": ["object storage"],
-  "links" {
-    "self": "/products/storage/gcp/cloud-storage/standard"
+  "categories": ["data archive","object storage"],
+  "links": {
+    "self": "/products/storage/gcp/cloud-storage/models/archive",
     "parent": "/products/storage/gcp/cloud-storage"
   }
 }

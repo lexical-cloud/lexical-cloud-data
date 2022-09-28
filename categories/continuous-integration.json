@@ -3,7 +3,7 @@
   "name": "continuous integration",
   "type": "category",
   "links": {
-    "self": "/categories/continuous-integration",
+    "self": "/categories/continuous-integration"
   },
   "definition": {
     "title": "Continuous Integration",

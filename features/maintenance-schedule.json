@@ -3,7 +3,7 @@
   "name": "maintenance schedule",
   "type": "feature",
   "links": {
-    "self": "/features/maintenance-schedule",
+    "self": "/features/maintenance-schedule"
   },
   "definition": {
     "title": "Maintenance Schedule",

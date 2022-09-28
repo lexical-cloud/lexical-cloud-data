@@ -3,7 +3,7 @@
   "name": "conversational interface",
   "type": "feature",
   "links": {
-    "self": "/features/conversational-interface",
+    "self": "/features/conversational-interface"
   },
   "definition": {
     "title": "Conversational Interface",

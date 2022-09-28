@@ -3,7 +3,7 @@
   "name": "sql server",
   "type": "feature",
   "links": {
-    "self": "/features/sql-server",
+    "self": "/features/sql-server"
   },
   "definition": {
     "title": "SQL Server",

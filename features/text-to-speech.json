@@ -3,7 +3,7 @@
   "name": "text-to-speech",
   "type": "feature",
   "links": {
-    "self": "/features/text-to-speech",
+    "self": "/features/text-to-speech"
   },
   "definition": {
     "title": "Text-to-Speech",

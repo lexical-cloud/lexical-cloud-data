@@ -3,7 +3,7 @@
   "name": "private network",
   "type": "category",
   "links": {
-    "self": "/categories/private-network",
+    "self": "/categories/private-network"
   },
   "definition": {
     "title": "Private Network",

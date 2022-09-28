@@ -8,10 +8,13 @@
       "speech processing"
     ],
     "domains": [
-      "machine learning"
+      "machine learning",
+      "big data"
     ],
     "services": [
-      "ai"
+      "ai",
+      "analytics",
+      "database"
     ]
   },
   "symdiff": {

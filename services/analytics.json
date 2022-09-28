@@ -3,7 +3,7 @@
   "name": "analytics",
   "type": "service",
   "links": {
-    "self": "/services/analytics",
+    "self": "/services/analytics"
   },
   "definition": {
     "title": "Analytics",

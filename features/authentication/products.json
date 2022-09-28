@@ -6,7 +6,7 @@
     "domains": ["identity management"],
     "categories": ["identity provider"],
     "features": ["user enrollment","authentication","authorization"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/cognito"
     }
   }

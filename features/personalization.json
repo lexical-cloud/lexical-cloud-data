@@ -3,7 +3,7 @@
   "name": "personalization",
   "type": "feature",
   "links": {
-    "self": "/features/personalization",
+    "self": "/features/personalization"
   },
   "definition": {
     "title": "Personalization",

@@ -6,7 +6,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch-app-insights"
     }
   },
@@ -16,7 +16,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
-    "links" {
+    "links": {
       "self": "/products/analytics/aws/quicksight"
     }
   },
@@ -27,7 +27,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/monitor-app-insights"
     }
   },
@@ -37,7 +37,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
-    "links" {
+    "links": {
       "self": "/products/analytics/gcp/looker"
     }
   },
@@ -48,7 +48,7 @@
     "domains": ["observability"],
     "categories": ["dashboards","telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-monitoring"
     }
   }

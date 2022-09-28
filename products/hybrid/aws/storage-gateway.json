@@ -4,7 +4,7 @@
   "services": ["hybrid","storage"],
   "domains": ["modernization"],
   "categories": ["on-premises"],
-  "links" {
+  "links": {
     "self": "/products/hybrid/aws/storage-gateway"
   }
 }

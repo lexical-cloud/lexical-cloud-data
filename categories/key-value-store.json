@@ -3,7 +3,7 @@
   "name": "key-value store",
   "type": "category",
   "links": {
-    "self": "/categories/key-value-store",
+    "self": "/categories/key-value-store"
   },
   "definition": {
     "title": "Key-value Store",

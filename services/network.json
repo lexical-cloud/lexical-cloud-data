@@ -3,7 +3,7 @@
   "name": "network",
   "type": "service",
   "links": {
-    "self": "/services/network",
+    "self": "/services/network"
   },
   "definition": {
     "title": "Network",

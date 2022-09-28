@@ -3,7 +3,7 @@
   "name": "iot processing",
   "type": "category",
   "links": {
-    "self": "/categories/iot-processing",
+    "self": "/categories/iot-processing"
   },
   "definition": {
     "title": "IoT Processing",

@@ -3,7 +3,7 @@
   "name": "stateless",
   "type": "feature",
   "links": {
-    "self": "/features/stateless",
+    "self": "/features/stateless"
   },
   "definition": {
     "title": "Stateless",

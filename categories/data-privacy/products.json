@@ -5,7 +5,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data privacy","risk assessment"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/macie"
     }
   }

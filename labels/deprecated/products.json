@@ -6,7 +6,7 @@
     "domains": ["modernization"],
     "categories": ["server migration"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/cloud-endure"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["modernization"],
     "categories": ["server migration"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/sms"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["systems management","observability"],
     "categories": ["application debugger","root cause analysis"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-debugger"
     }
   }

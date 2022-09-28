@@ -3,7 +3,7 @@
   "name": "ddos protection",
   "type": "category",
   "links": {
-    "self": "/categories/ddos-protection",
+    "self": "/categories/ddos-protection"
   },
   "definition": {
     "title": "DDoS Protection",

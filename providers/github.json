@@ -3,7 +3,7 @@
   "name": "github",
   "type": "provider",
   "links": {
-    "self": "/providers/github",
+    "self": "/providers/github"
   },
   "definition": {
     "title": "GitHub",

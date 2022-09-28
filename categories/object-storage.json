@@ -3,7 +3,7 @@
   "name": "object storage",
   "type": "category",
   "links": {
-    "self": "/categories/object-storage",
+    "self": "/categories/object-storage"
   },
   "definition": {
     "title": "Object Storage",

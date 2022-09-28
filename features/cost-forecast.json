@@ -3,7 +3,7 @@
   "name": "cost forecast",
   "type": "feature",
   "links": {
-    "self": "/features/cost-forecast",
+    "self": "/features/cost-forecast"
   },
   "definition": {
     "title": "Cost Forecast",

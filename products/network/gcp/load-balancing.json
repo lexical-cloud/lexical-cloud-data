@@ -4,7 +4,7 @@
   "services": ["network"],
   "domains": ["connectivity"],
   "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-  "links" {
+  "links": {
     "self": "/products/network/gcp/load-balancing"
   }
 }

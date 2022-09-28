@@ -3,7 +3,7 @@
   "name": "application discovery",
   "type": "category",
   "links": {
-    "self": "/categories/application-discovery",
+    "self": "/categories/application-discovery"
   },
   "definition": {
     "title": "Application Discovery",

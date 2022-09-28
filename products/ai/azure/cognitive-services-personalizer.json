@@ -5,7 +5,7 @@
   "domains": ["machine learning"],
   "categories": ["decision making"],
   "features": ["personalization","recommendations","prebuilt models"],
-  "links" {
+  "links": {
     "self": "/products/ai/azure/cognitive-services-personalizer"
   }
 }

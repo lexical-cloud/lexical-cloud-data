@@ -3,7 +3,7 @@
   "name": "application load balancer",
   "type": "category",
   "links": {
-    "self": "/categories/application-load-balancer",
+    "self": "/categories/application-load-balancer"
   },
   "definition": {
     "title": "Application Load Balancer",

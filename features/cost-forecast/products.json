@@ -6,7 +6,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost forecast"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/cost-explorer"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts","cost forecast"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/cost-management"
     }
   }

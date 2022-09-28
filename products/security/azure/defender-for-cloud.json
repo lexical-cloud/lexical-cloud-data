@@ -4,7 +4,7 @@
   "services": ["security"],
   "domains": ["systems management"],
   "categories": ["security monitoring","auditing"],
-  "links" {
+  "links": {
     "self": "/products/security/azure/defender-for-cloud"
   }
 }

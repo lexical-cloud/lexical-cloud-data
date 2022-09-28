@@ -3,7 +3,7 @@
   "name": "api lifecycle",
   "type": "domain",
   "links": {
-    "self": "/domains/api-lifecycle",
+    "self": "/domains/api-lifecycle"
   },
   "definition": {
     "title": "API Lifecycle",

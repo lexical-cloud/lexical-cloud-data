@@ -3,7 +3,7 @@
   "name": "project management",
   "type": "domain",
   "links": {
-    "self": "/domains/project-management",
+    "self": "/domains/project-management"
   },
   "definition": {
     "title": "Project Management",

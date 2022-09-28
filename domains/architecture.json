@@ -3,7 +3,7 @@
   "name": "architecture",
   "type": "domain",
   "links": {
-    "self": "/domains/architecture",
+    "self": "/domains/architecture"
   },
   "definition": {
     "title": "Architecture",

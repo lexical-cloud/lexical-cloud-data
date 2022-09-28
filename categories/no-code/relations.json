@@ -1,19 +1,25 @@
 {
   "instance": [
+    "/products/ai/gcp/vertex-ai/components/automl",
     "/products/integration/azure/logic-apps",
     "/products/ai/azure/qna-maker",
+    "/products/database/gcp/bigquery/components/ml",
     "/products/ai/azure/power-virtual-agents"
   ],
-  "intersect": {},
+  "intersect": {
+    "domains": [
+      "end-user computing"
+    ]
+  },
   "symdiff": {
     "categories": [
       "low-code",
       "workflow engine",
       "language processing",
-      "speech processing"
+      "speech processing",
+      "model training"
     ],
     "domains": [
-      "end-user computing",
       "process modeling",
       "serverless",
       "machine learning"

@@ -4,7 +4,7 @@
   "services": ["monitor"],
   "domains": ["systems management"],
   "categories": ["application debugger","root cause analysis"],
-  "links" {
+  "links": {
     "self": "/products/monitor/aws/xray"
   }
 }

@@ -3,7 +3,7 @@
   "name": "user enrollment",
   "type": "feature",
   "links": {
-    "self": "/features/user-enrollment",
+    "self": "/features/user-enrollment"
   },
   "definition": {
     "title": "User Enrollment",

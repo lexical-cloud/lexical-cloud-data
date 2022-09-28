@@ -3,7 +3,7 @@
   "name": "nosql db",
   "type": "category",
   "links": {
-    "self": "/categories/nosql-db",
+    "self": "/categories/nosql-db"
   },
   "definition": {
     "title": "NoSQL Database",

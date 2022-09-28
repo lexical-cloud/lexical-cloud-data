@@ -4,7 +4,7 @@
   "services": ["integration"],
   "domains": ["end-user computing","process modeling","serverless"],
   "categories": ["low-code","workflow engine"],
-  "links" {
+  "links": {
     "self": "/products/integration/aws/step-functions"
   }
 }

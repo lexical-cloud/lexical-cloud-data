@@ -5,7 +5,7 @@
     "services": ["security"],
     "domains": ["systems management"],
     "categories": ["security monitoring","root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/detective"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["monitor"],
     "domains": ["systems management"],
     "categories": ["application debugger","root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/xray"
     }
   },
@@ -26,7 +26,7 @@
     "domains": ["systems management","observability"],
     "categories": ["application debugger","root cause analysis"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-debugger"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/error-reporting"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["root cause analysis","performance monitoring"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-profiler"
     }
   },
@@ -57,7 +57,7 @@
     "domains": ["observability"],
     "categories": ["root cause analysis","performance monitoring"],
     "features": ["open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-trace"
     }
   }

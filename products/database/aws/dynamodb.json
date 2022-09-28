@@ -4,7 +4,7 @@
   "services": ["database"],
   "domains": ["data management","serverless"],
   "categories": ["document db","key-value store","nosql db"],
-  "links" {
+  "links": {
     "self": "/products/database/aws/dynamodb"
   }
 }

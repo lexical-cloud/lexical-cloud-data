@@ -6,7 +6,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/lex"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/bot-service"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing","computer vision","decision making"],
     "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/cognitive-services"
     }
   },
@@ -39,7 +39,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/luis"
     }
   },
@@ -50,7 +50,7 @@
     "domains": ["end-user computing","machine learning","serverless"],
     "categories": ["language processing","no-code","speech processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/qna-maker"
     }
   },
@@ -61,7 +61,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/dialogflow"
     }
   },
@@ -72,7 +72,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing"],
     "features": ["sentiment analysis","language translation","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/natural-language-ai"
     }
   },
@@ -83,7 +83,7 @@
     "domains": ["end-user computing","machine learning","serverless"],
     "categories": ["language processing","no-code"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/power-virtual-agents"
     }
   }

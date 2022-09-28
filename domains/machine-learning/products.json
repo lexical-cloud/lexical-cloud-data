@@ -6,7 +6,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/lex"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["speech processing"],
     "features": ["text-to-speech"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/polly"
     }
   },
@@ -27,7 +27,7 @@
     "services": ["ai"],
     "domains": ["machine learning","serverless"],
     "categories": ["model training"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/sagemaker"
     }
   },
@@ -37,7 +37,7 @@
     "services": ["ai"],
     "domains": ["machine learning","serverless"],
     "categories": ["prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/sagemaker-autopilot"
     }
   },
@@ -48,7 +48,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/bot-service"
     }
   },
@@ -59,7 +59,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing","computer vision","decision making"],
     "features": ["sentiment analysis","speech-to-text","text-to-speech","language translation","speaker recognition","object detection","recommendations","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/cognitive-services"
     }
   },
@@ -70,7 +70,7 @@
     "domains": ["machine learning"],
     "categories": ["decision making"],
     "features": ["personalization","recommendations","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/cognitive-services-personalizer"
     }
   },
@@ -81,8 +81,18 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/luis"
+    }
+  },
+  {
+    "name": "Azure Machine Learning (ML)",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["model training"],
+    "links": {
+      "self": "/products/ai/azure/machine-learning"
     }
   },
   {
@@ -92,8 +102,20 @@
     "domains": ["end-user computing","machine learning","serverless"],
     "categories": ["language processing","no-code","speech processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/qna-maker"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "component": "BigQuery ML",
+    "providers": ["gcp"],
+    "services": ["ai","database","analytics"],
+    "domains": ["machine learning","big data","data management","serverless"],
+    "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant"],
+    "links": {
+      "self": "/products/database/gcp/bigquery/components/ml",
+      "parent": "/products/database/gcp/bigquery"
     }
   },
   {
@@ -102,18 +124,8 @@
     "services": ["ai"],
     "domains": ["machine learning"],
     "categories": ["prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/ai-hub"
-    }
-  },
-  {
-    "name": "Google Cloud AutoML",
-    "providers": ["gcp"],
-    "services": ["ai"],
-    "domains": ["machine learning","serverless"],
-    "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/automl"
     }
   },
   {
@@ -123,7 +135,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/dialogflow"
     }
   },
@@ -134,7 +146,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing"],
     "features": ["sentiment analysis","language translation","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/natural-language-ai"
     }
   },
@@ -145,7 +157,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["speech processing"],
     "features": ["speech-to-text","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/speech-to-text"
     }
   },
@@ -156,7 +168,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["speech processing"],
     "features": ["text-to-speech","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/text-to-speech"
     }
   },
@@ -166,8 +178,12 @@
     "services": ["ai"],
     "domains": ["machine learning","managed service"],
     "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/vertex-ai"
+    "links": {
+      "self": "/products/ai/gcp/vertex-ai",
+      "components": [
+        "/products/ai/gcp/vertex-ai/components/automl",
+        "/products/ai/gcp/vertex-ai/components/workbench"
+      ]
     }
   },
   {
@@ -177,7 +193,7 @@
     "domains": ["machine learning"],
     "categories": ["computer vision"],
     "features": ["object detection","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/vision-ai"
     }
   },
@@ -188,16 +204,8 @@
     "domains": ["end-user computing","machine learning","serverless"],
     "categories": ["language processing","no-code"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/power-virtual-agents"
-    }
-  },
-  {
-    "name": "Model Training",
-    "services": ["ai"],
-    "domains": ["machine learning"],
-    "links" {
-      "self": "/products/ai/azure/model-training"
     }
   }
 ]

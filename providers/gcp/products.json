@@ -5,11 +5,11 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["paas"],
-    "links" {
-      "self": "/products/compute/gcp/app-engine"
+    "links": {
+      "self": "/products/compute/gcp/app-engine",
       "models": [
-        "/products/compute/gcp/app-engine/flexible",
-        "/products/compute/gcp/app-engine/standard"
+        "/products/compute/gcp/app-engine/models/flexible",
+        "/products/compute/gcp/app-engine/models/standard"
       ]
     }
   },
@@ -19,7 +19,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/gcp/cloud-adoption"
     }
   },
@@ -29,7 +29,7 @@
     "services": ["ai"],
     "domains": ["machine learning"],
     "categories": ["prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/ai-hub"
     }
   },
@@ -39,7 +39,7 @@
     "services": ["hybrid"],
     "domains": ["architecture"],
     "categories": ["on-premises","multi-cloud"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/gcp/anthos"
     }
   },
@@ -50,7 +50,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api gateway","api lifecycle"],
     "features": ["rest api","http api","websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/api-gateway"
     }
   },
@@ -61,7 +61,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api lifecycle","api gateway","api portal"],
     "features": ["rest api","http api","websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/apigee"
     }
   },
@@ -71,18 +71,8 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/gcp/architecture"
-    }
-  },
-  {
-    "name": "Google Cloud AutoML",
-    "providers": ["gcp"],
-    "services": ["ai"],
-    "domains": ["machine learning","serverless"],
-    "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/automl"
     }
   },
   {
@@ -91,7 +81,7 @@
     "services": ["compute","migration"],
     "domains": ["architecture","modernization"],
     "categories": ["rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/bare-metal"
     }
   },
@@ -101,8 +91,11 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant"],
-    "links" {
-      "self": "/products/database/gcp/bigquery"
+    "links": {
+      "self": "/products/database/gcp/bigquery",
+      "components": [
+        "/products/database/gcp/bigquery/components/ml"
+      ]
     }
   },
   {
@@ -111,7 +104,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["nosql db","key-value store"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/bigtable"
     }
   },
@@ -122,7 +115,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/budgets"
     }
   },
@@ -132,7 +125,7 @@
     "services": ["network"],
     "domains": ["edge computing"],
     "categories": ["content delivery"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cdn"
     }
   },
@@ -142,7 +135,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["compliance"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/compliance-reports-manager"
     }
   },
@@ -152,7 +145,7 @@
     "services": ["integration"],
     "domains": ["managed service","process modeling"],
     "categories": ["multi-cloud","workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/composer"
     }
   },
@@ -162,7 +155,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/compute-engine"
     }
   },
@@ -172,7 +165,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/dataflow"
     }
   },
@@ -182,7 +175,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/gcp/dataproc"
     }
   },
@@ -193,7 +186,7 @@
     "domains": ["systems management","observability"],
     "categories": ["application debugger","root cause analysis"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-debugger"
     }
   },
@@ -204,7 +197,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing","speech processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/dialogflow"
     }
   },
@@ -214,7 +207,7 @@
     "services": ["network"],
     "domains": ["systems management"],
     "categories": ["dns management"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/dns"
     }
   },
@@ -225,7 +218,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api gateway"],
     "features": ["rest api","http api"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/cloud-endpoints"
     }
   },
@@ -235,7 +228,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/error-reporting"
     }
   },
@@ -245,7 +238,7 @@
     "services": ["storage"],
     "domains": ["data management","managed service"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/gcp/filestore"
     }
   },
@@ -255,7 +248,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/firestore"
     }
   },
@@ -265,7 +258,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/gcp/firewall"
     }
   },
@@ -275,7 +268,8 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
-    "links" {
+    "features": ["scale-to-zero"],
+    "links": {
       "self": "/products/compute/gcp/cloud-functions"
     }
   },
@@ -285,7 +279,7 @@
     "services": ["identity"],
     "domains": ["identity management"],
     "categories": ["access control"],
-    "links" {
+    "links": {
       "self": "/products/identity/gcp/iam"
     }
   },
@@ -295,7 +289,7 @@
     "services": ["identity"],
     "domains": ["identity management"],
     "categories": ["identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/gcp/identity"
     }
   },
@@ -305,7 +299,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/interconnect"
     }
   },
@@ -315,7 +309,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/load-balancing"
     }
   },
@@ -325,7 +319,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["telemetry data","auditing"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-logging"
     }
   },
@@ -335,7 +329,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
-    "links" {
+    "links": {
       "self": "/products/analytics/gcp/looker"
     }
   },
@@ -346,7 +340,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/managed-instance-groups"
     }
   },
@@ -357,7 +351,7 @@
     "domains": ["observability"],
     "categories": ["dashboards","telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-monitoring"
     }
   },
@@ -367,7 +361,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["network address translation","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cloud-nat"
     }
   },
@@ -378,8 +372,25 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing"],
     "features": ["sentiment analysis","language translation","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/natural-language-ai"
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (NEG)",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links": {
+      "self": "/products/network/gcp/neg",
+      "models": [
+        "/products/network/gcp/neg/models/hybrid-connectivity",
+        "/products/network/gcp/neg/models/internet",
+        "/products/network/gcp/neg/models/private-service-connect",
+        "/products/network/gcp/neg/models/serverless",
+        "/products/network/gcp/neg/models/zonal"
+      ]
     }
   },
   {
@@ -388,7 +399,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/gcp/peristent-disk"
     }
   },
@@ -399,7 +410,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/pricing-calculator"
     }
   },
@@ -409,7 +420,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["root cause analysis","performance monitoring"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-profiler"
     }
   },
@@ -419,7 +430,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/projects"
     }
   },
@@ -429,7 +440,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue","pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/pubsub"
     }
   },
@@ -440,7 +451,7 @@
     "domains": ["finops","systems management"],
     "categories": ["resource management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/quotas"
     }
   },
@@ -450,7 +461,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cloud-router"
     }
   },
@@ -460,7 +471,8 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
-    "links" {
+    "features": ["scale-to-zero"],
+    "links": {
       "self": "/products/compute/gcp/cloud-run"
     }
   },
@@ -470,7 +482,7 @@
     "services": ["security"],
     "domains": ["systems management"],
     "categories": ["security monitoring","auditing"],
-    "links" {
+    "links": {
       "self": "/products/security/gcp/security-command-center"
     }
   },
@@ -480,7 +492,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","devops"],
     "categories": ["source control"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/gcp/cloud-source-repos"
     }
   },
@@ -490,7 +502,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/spanner"
     }
   },
@@ -501,7 +513,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["speech processing"],
     "features": ["speech-to-text","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/speech-to-text"
     }
   },
@@ -512,7 +524,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","sql server"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/cloud-sql"
     }
   },
@@ -522,24 +534,14 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage"
+    "links": {
+      "self": "/products/storage/gcp/cloud-storage",
       "models": [
-        "/products/storage/gcp/cloud-storage/archive",
-        "/products/storage/gcp/cloud-storage/coldline",
-        "/products/storage/gcp/cloud-storage/nearline",
-        "/products/storage/gcp/cloud-storage/standard"
+        "/products/storage/gcp/cloud-storage/models/archive",
+        "/products/storage/gcp/cloud-storage/models/coldline",
+        "/products/storage/gcp/cloud-storage/models/nearline",
+        "/products/storage/gcp/cloud-storage/models/standard"
       ]
-    }
-  },
-  {
-    "name": "Google Cloud Storage Archive",
-    "providers": ["gcp"],
-    "services": ["storage"],
-    "domains": ["data management","serverless"],
-    "categories": ["object storage","data archive"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage-archive"
     }
   },
   {
@@ -548,7 +550,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/gcp/storage-transfer-service"
     }
   },
@@ -559,7 +561,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["speech processing"],
     "features": ["text-to-speech","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/text-to-speech"
     }
   },
@@ -570,7 +572,7 @@
     "domains": ["observability"],
     "categories": ["root cause analysis","performance monitoring"],
     "features": ["open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/gcp/cloud-trace"
     }
   },
@@ -580,7 +582,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/gcp/transfer-appliance"
     }
   },
@@ -590,8 +592,12 @@
     "services": ["ai"],
     "domains": ["machine learning","managed service"],
     "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/vertex-ai"
+    "links": {
+      "self": "/products/ai/gcp/vertex-ai",
+      "components": [
+        "/products/ai/gcp/vertex-ai/components/automl",
+        "/products/ai/gcp/vertex-ai/components/workbench"
+      ]
     }
   },
   {
@@ -601,7 +607,7 @@
     "domains": ["machine learning"],
     "categories": ["computer vision"],
     "features": ["object detection","prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/gcp/vision-ai"
     }
   },
@@ -611,7 +617,7 @@
     "services": ["developer tools"],
     "domains": ["systems management","virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/gcp/vm-manager"
     }
   },
@@ -621,7 +627,7 @@
     "services": ["compute","migration"],
     "domains": ["managed service","modernization","virtualization"],
     "categories": ["virtual machines","rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/vmware-engine"
     }
   },
@@ -631,11 +637,11 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
-      "self": "/products/network/gcp/vpc"
+    "links": {
+      "self": "/products/network/gcp/vpc",
       "models": [
-        "/products/network/gcp/vpc/auto-mode",
-        "/products/network/gcp/vpc/custom"
+        "/products/network/gcp/vpc/models/auto-mode",
+        "/products/network/gcp/vpc/models/custom"
       ]
     }
   },
@@ -645,7 +651,7 @@
     "services": ["integration"],
     "domains": ["process modeling","serverless"],
     "categories": ["workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/workflows"
     }
   },
@@ -655,7 +661,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/gke"
     }
   }

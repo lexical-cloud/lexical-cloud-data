@@ -3,7 +3,7 @@
   "name": "block storage",
   "type": "category",
   "links": {
-    "self": "/categories/block-storage",
+    "self": "/categories/block-storage"
   },
   "definition": {
     "title": "Block Storage",

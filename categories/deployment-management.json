@@ -3,7 +3,7 @@
   "name": "deployment management",
   "type": "category",
   "links": {
-    "self": "/categories/deployment-management",
+    "self": "/categories/deployment-management"
   },
   "definition": {
     "title": "Deployment Management",

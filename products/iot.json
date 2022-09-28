@@ -5,7 +5,7 @@
     "services": ["iot"],
     "domains": ["edge computing"],
     "categories": ["iot management"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/central"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["edge computing"],
     "categories": ["iot processing"],
     "features": ["container-based"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/edge"
     }
   },
@@ -26,7 +26,7 @@
     "services": ["iot"],
     "domains": ["edge computing"],
     "categories": ["iot communication"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/hub"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["iot"],
     "domains": ["edge computing"],
     "categories": ["iot hardware","iot security"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/sphere"
     }
   }

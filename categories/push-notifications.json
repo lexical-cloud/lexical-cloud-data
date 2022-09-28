@@ -3,7 +3,7 @@
   "name": "push notifications",
   "type": "category",
   "links": {
-    "self": "/categories/push-notifications",
+    "self": "/categories/push-notifications"
   },
   "definition": {
     "title": "Push Notifications",

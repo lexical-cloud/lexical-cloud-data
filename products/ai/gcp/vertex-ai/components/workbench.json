@@ -1,0 +1,14 @@
+{
+  "name": "Google Cloud Vertex AI",
+  "component": "Workbench",
+  "providers": ["gcp"],
+  "services": ["ai"],
+  "domains": ["machine learning","managed service"],
+  "categories": ["notebook","model training"],
+  "features": ["jupyter-based"],
+  "links": {
+    "self": "/products/ai/gcp/vertex-ai/components/workbench",
+    "parent": "/products/ai/gcp/vertex-ai"
+  }
+}
+

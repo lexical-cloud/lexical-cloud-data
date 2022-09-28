@@ -5,7 +5,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","key-value store","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/dynamodb"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/cosmosdb"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/firestore"
     }
   }

@@ -3,7 +3,7 @@
   "name": "rest api",
   "type": "feature",
   "links": {
-    "self": "/features/rest-api",
+    "self": "/features/rest-api"
   },
   "definition": {
     "title": "REST API",

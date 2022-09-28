@@ -6,7 +6,7 @@
     "domains": ["api management","serverless"],
     "categories": ["api lifecycle"],
     "features": ["rest api","http api","websocket api"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/api-gateway"
     }
   },
@@ -16,7 +16,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/athena"
     }
   },
@@ -27,7 +27,7 @@
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/aurora"
     }
   },
@@ -37,7 +37,7 @@
     "services": ["network"],
     "domains": ["edge computing"],
     "categories": ["content delivery"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/cloudfront"
     }
   },
@@ -47,7 +47,7 @@
     "services": ["monitor"],
     "domains": ["observability"],
     "categories": ["auditing"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudtrail"
     }
   },
@@ -58,7 +58,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data"],
     "features": ["alerts","open telemetry"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch"
     }
   },
@@ -69,7 +69,7 @@
     "domains": ["observability"],
     "categories": ["telemetry data","dashboards"],
     "features": ["alerts","automation"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/cloudwatch-app-insights"
     }
   },
@@ -80,7 +80,7 @@
     "domains": ["identity management"],
     "categories": ["identity provider"],
     "features": ["user enrollment","authentication","authorization"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/cognito"
     }
   },
@@ -90,7 +90,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","key-value store","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/dynamodb"
     }
   },
@@ -100,7 +100,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/ebs"
     }
   },
@@ -110,7 +110,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ec2"
     }
   },
@@ -121,7 +121,7 @@
     "domains": ["virtualization"],
     "categories": ["virtual machines"],
     "features": ["auto scaling"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ec2-auto-scaling"
     }
   },
@@ -132,7 +132,7 @@
     "domains": ["virtualization"],
     "categories": ["firewall"],
     "features": ["stateful"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/security-group"
     }
   },
@@ -142,7 +142,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ecs"
     }
   },
@@ -152,7 +152,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/efs"
     }
   },
@@ -162,7 +162,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/eks"
     }
   },
@@ -172,7 +172,7 @@
     "services": ["database"],
     "domains": ["managed service"],
     "categories": ["caching"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/elasticache"
     }
   },
@@ -182,7 +182,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["event bus","pub-sub"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/eventbridge"
     }
   },
@@ -193,7 +193,7 @@
     "domains": ["virtualization","systems management"],
     "categories": ["vulnerability management","risk assessment"],
     "features": ["agent-based"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/inspector"
     }
   },
@@ -203,7 +203,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/kinesis"
     }
   },
@@ -214,7 +214,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["language processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/lex"
     }
   },
@@ -224,7 +224,7 @@
     "services": ["compute"],
     "domains": ["managed service","virtualization"],
     "categories": ["virtual private server"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/lightsail"
     }
   },
@@ -234,7 +234,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data privacy","risk assessment"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/macie"
     }
   },
@@ -245,7 +245,7 @@
     "domains": ["machine learning","serverless"],
     "categories": ["speech processing"],
     "features": ["text-to-speech"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/polly"
     }
   },
@@ -255,7 +255,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
-    "links" {
+    "links": {
       "self": "/products/analytics/aws/quicksight"
     }
   },
@@ -266,7 +266,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","mariadb","sql server","oracle"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/rds"
     }
   },
@@ -276,7 +276,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/redshift"
     }
   },
@@ -287,7 +287,7 @@
     "domains": ["systems management"],
     "categories": ["dns management"],
     "features": ["traffic routing"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/route-53"
     }
   },
@@ -297,7 +297,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/s3"
     }
   },
@@ -307,7 +307,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage","data archive"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/s3-glacier"
     }
   },
@@ -317,7 +317,7 @@
     "services": ["ai"],
     "domains": ["machine learning","serverless"],
     "categories": ["model training"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/sagemaker"
     }
   },
@@ -327,7 +327,7 @@
     "services": ["ai"],
     "domains": ["machine learning","serverless"],
     "categories": ["prebuilt models"],
-    "links" {
+    "links": {
       "self": "/products/ai/aws/sagemaker-autopilot"
     }
   },
@@ -337,7 +337,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["pub-sub","push notifications"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/sns"
     }
   },
@@ -347,7 +347,7 @@
     "services": ["integration"],
     "domains": ["eventing","serverless"],
     "categories": ["message queue"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/sqs"
     }
   },
@@ -357,7 +357,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc"
     }
   },
@@ -367,7 +367,7 @@
     "services": ["compute"],
     "domains": ["virtualization"],
     "categories": ["virtual desktop"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/workspaces"
     }
   },
@@ -377,7 +377,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/accounts"
     }
   },
@@ -387,7 +387,7 @@
     "services": ["identity"],
     "domains": ["directory service","identity management"],
     "categories": ["directory gateway","identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/ad-connector"
     }
   },
@@ -397,7 +397,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous configuration"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/appconfig"
     }
   },
@@ -407,7 +407,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["application discovery"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/app-discovery"
     }
   },
@@ -417,7 +417,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["server migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/mgn"
     }
   },
@@ -427,7 +427,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["compliance","auditing"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/artifact"
     }
   },
@@ -437,7 +437,7 @@
     "services": ["storage","hybrid"],
     "domains": ["data management","systems management"],
     "categories": ["data security"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/backup"
     }
   },
@@ -447,7 +447,7 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["batch processing"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/batch"
     }
   },
@@ -458,7 +458,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/budgets"
     }
   },
@@ -468,7 +468,7 @@
     "services": ["security"],
     "domains": ["systems management"],
     "categories": ["certificates"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/certificate-manager"
     }
   },
@@ -478,7 +478,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/cloud-adoption"
     }
   },
@@ -489,7 +489,7 @@
     "domains": ["modernization"],
     "categories": ["server migration"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/cloud-endure"
     }
   },
@@ -499,7 +499,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain"],
     "categories": ["hosted ide"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/cloud9"
     }
   },
@@ -509,7 +509,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["infrastructure as code","deployment management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/cloudformation"
     }
   },
@@ -519,7 +519,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data security","key management"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/cloudhsm"
     }
   },
@@ -529,7 +529,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["artifact repository"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codeartifact"
     }
   },
@@ -539,7 +539,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous integration"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codebuild"
     }
   },
@@ -549,7 +549,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","devops"],
     "categories": ["source control"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codecommit"
     }
   },
@@ -559,7 +559,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous deployment"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codedeploy"
     }
   },
@@ -569,7 +569,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["continuous delivery"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codepipeline"
     }
   },
@@ -579,7 +579,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain"],
     "categories": ["continuous delivery","continuous integration"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/codestar"
     }
   },
@@ -589,7 +589,7 @@
     "services": ["monitor"],
     "domains": ["systems management"],
     "categories": ["auditing","configuration management","risk assessment"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/config"
     }
   },
@@ -599,7 +599,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["compliance","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/control-tower"
     }
   },
@@ -609,7 +609,7 @@
     "services": ["governance"],
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/cost-and-usage-report"
     }
   },
@@ -620,7 +620,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost forecast"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/cost-explorer"
     }
   },
@@ -630,7 +630,7 @@
     "services": ["migration","database"],
     "domains": ["data management"],
     "categories": ["database migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/dms"
     }
   },
@@ -640,7 +640,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/datasync"
     }
   },
@@ -650,7 +650,7 @@
     "services": ["security"],
     "domains": ["systems management"],
     "categories": ["security monitoring","root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/detective"
     }
   },
@@ -660,7 +660,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/direct-connect"
     }
   },
@@ -670,7 +670,7 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["paas"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/beanstalk"
     }
   },
@@ -680,7 +680,7 @@
     "services": ["migration"],
     "domains": ["data management","systems management"],
     "categories": ["disaster recovery","data security"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/drs"
     }
   },
@@ -690,7 +690,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/elb"
     }
   },
@@ -700,7 +700,7 @@
     "services": ["compute"],
     "domains": ["containerization","serverless"],
     "categories": ["container orchestrator"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/fargate"
     }
   },
@@ -711,7 +711,7 @@
     "domains": ["observability","systems management"],
     "categories": ["risks assessment","threat detection"],
     "features": ["agentless"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/guardduty"
     }
   },
@@ -722,7 +722,7 @@
     "domains": ["observability"],
     "categories": ["health"],
     "features": ["alerts","maintenance schedule","reports","personalization"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/health-dashboard"
     }
   },
@@ -732,7 +732,7 @@
     "services": ["identity"],
     "domains": ["identity management"],
     "categories": ["access control","identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/iam"
     }
   },
@@ -742,7 +742,7 @@
     "services": ["security"],
     "domains": ["data management","managed service"],
     "categories": ["data security","key management","auditing"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/kms"
     }
   },
@@ -752,7 +752,8 @@
     "services": ["compute"],
     "domains": ["serverless"],
     "categories": ["faas"],
-    "links" {
+    "features": ["scale-to-zero"],
+    "links": {
       "self": "/products/compute/aws/lambda"
     }
   },
@@ -762,7 +763,7 @@
     "services": ["governance"],
     "domains": ["virtualization"],
     "categories": ["license management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/license-manager"
     }
   },
@@ -772,7 +773,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["server migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/hub"
     }
   },
@@ -783,7 +784,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateless"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/access-control-list"
     }
   },
@@ -793,7 +794,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/network-firewall"
     }
   },
@@ -803,7 +804,7 @@
     "services": ["developer tools"],
     "domains": ["virtualization","systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/opsworks"
     }
   },
@@ -813,7 +814,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/organizations"
     }
   },
@@ -823,7 +824,7 @@
     "services": ["hybrid"],
     "domains": ["architecture","edge computing"],
     "categories": ["on-premises"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/aws/outposts"
     }
   },
@@ -834,7 +835,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/pricing-calculator"
     }
   },
@@ -844,7 +845,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/privatelink"
     }
   },
@@ -854,7 +855,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/resource"
     }
   },
@@ -864,7 +865,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/resource-groups"
     }
   },
@@ -874,7 +875,7 @@
     "services": ["database","migration"],
     "domains": ["data management"],
     "categories": ["database migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/sct"
     }
   },
@@ -884,7 +885,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data security","secret management"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/secrets-manager"
     }
   },
@@ -895,7 +896,7 @@
     "domains": ["modernization"],
     "categories": ["server migration"],
     "labels": ["deprecated"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/sms"
     }
   },
@@ -905,7 +906,7 @@
     "services": ["framework"],
     "domains": ["serverless"],
     "categories": ["deployment management"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/sam"
     }
   },
@@ -915,7 +916,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["compliance","portfolio management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/service-catalog"
     }
   },
@@ -925,7 +926,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["access control"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/service-control-policies"
     }
   },
@@ -935,7 +936,7 @@
     "services": ["security"],
     "domains": ["systems management"],
     "categories": ["ddos protection"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/shield"
     }
   },
@@ -945,7 +946,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowball"
     }
   },
@@ -955,7 +956,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowcone"
     }
   },
@@ -965,7 +966,7 @@
     "services": ["migration"],
     "domains": ["modernization"],
     "categories": ["data transfer"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/snowmobile"
     }
   },
@@ -975,7 +976,7 @@
     "services": ["integration"],
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/step-functions"
     }
   },
@@ -985,7 +986,7 @@
     "services": ["hybrid","storage"],
     "domains": ["modernization"],
     "categories": ["on-premises"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/aws/storage-gateway"
     }
   },
@@ -995,7 +996,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/systems-manager"
     }
   },
@@ -1005,7 +1006,7 @@
     "services": ["developer tools"],
     "domains": ["systems management"],
     "categories": ["configuration management","secret management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/systems-manager-parameter-store"
     }
   },
@@ -1015,7 +1016,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["network transit hub","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/transit-gateway"
     }
   },
@@ -1025,7 +1026,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["risk assessment","best practices"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/trusted-advisor"
     }
   },
@@ -1035,7 +1036,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vgw"
     }
   },
@@ -1045,7 +1046,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-endpoint"
     }
   },
@@ -1055,7 +1056,7 @@
     "services": ["network","monitor"],
     "domains": ["connectivity"],
     "categories": ["network monitoring"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-flow-logs"
     }
   },
@@ -1065,7 +1066,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-peering"
     }
   },
@@ -1075,7 +1076,7 @@
     "services": ["security"],
     "domains": ["systems management"],
     "categories": ["web application firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/waf"
     }
   },
@@ -1085,7 +1086,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/well-architected"
     }
   },
@@ -1095,7 +1096,7 @@
     "services": ["monitor"],
     "domains": ["systems management"],
     "categories": ["application debugger","root cause analysis"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/xray"
     }
   }

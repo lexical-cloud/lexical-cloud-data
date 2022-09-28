@@ -4,7 +4,7 @@
   "services": ["hybrid","network"],
   "domains": ["connectivity"],
   "categories": ["on-premises","private network","virtual network"],
-  "links" {
+  "links": {
     "self": "/products/network/aws/privatelink"
   }
 }

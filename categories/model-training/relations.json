@@ -1,24 +1,32 @@
 {
   "instance": [
     "/products/ai/aws/sagemaker",
-    "/products/ai/gcp/automl",
+    "/products/ai/azure/machine-learning",
+    "/products/database/gcp/bigquery/components/ml",
     "/products/ai/gcp/vertex-ai"
   ],
   "intersect": {
     "domains": [
-      "machine learning"
+      "machine learning",
+      "big data"
     ],
     "services": [
+      "analytics",
+      "database",
       "ai"
     ]
   },
   "symdiff": {
+    "categories": [
+      "no-code"
+    ],
     "domains": [
       "serverless",
       "managed service"
     ],
     "providers": [
       "aws",
+      "azure",
       "gcp"
     ]
   }

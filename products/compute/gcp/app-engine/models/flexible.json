@@ -1,13 +1,13 @@
 {
   "name": "Google App Engine",
-  "model": "Standard environment",
+  "model": "Flexible environment",
   "providers": ["gcp"],
   "services": ["compute"],
   "domains": ["managed service"],
   "categories": ["paas"],
-  "features": ["scale-to-zero"],
-  "links" {
-    "self": "/products/compute/gcp/app-engine/standard"
+  "features": ["container-based"],
+  "links": {
+    "self": "/products/compute/gcp/app-engine/models/flexible",
     "parent": "/products/compute/gcp/app-engine"
   }
 }

@@ -5,9 +5,12 @@
   ],
   "intersect": {
     "domains": [
-      "machine learning"
+      "machine learning",
+      "big data"
     ],
     "services": [
+      "analytics",
+      "database",
       "ai"
     ]
   },

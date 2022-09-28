@@ -5,7 +5,7 @@
     "services": ["network"],
     "domains": ["edge computing"],
     "categories": ["content delivery"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/cloudfront"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["systems management"],
     "categories": ["dns management"],
     "features": ["traffic routing"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/route-53"
     }
   },
@@ -26,7 +26,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/direct-connect"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/elb"
     }
   },
@@ -57,7 +57,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateless"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/access-control-list"
     }
   },
@@ -67,7 +67,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/network-firewall"
     }
   },
@@ -77,7 +77,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/privatelink"
     }
   },
@@ -87,7 +87,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["network transit hub","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/transit-gateway"
     }
   },
@@ -97,7 +97,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vgw"
     }
   },
@@ -107,7 +107,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-endpoint"
     }
   },
@@ -117,7 +117,7 @@
     "services": ["network","monitor"],
     "domains": ["connectivity"],
     "categories": ["network monitoring"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-flow-logs"
     }
   },
@@ -127,7 +127,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-peering"
     }
   },
@@ -137,7 +137,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","web application firewall"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/application-gateway"
     }
   },
@@ -147,7 +147,7 @@
     "services": ["network"],
     "domains": ["edge computing"],
     "categories": ["content delivery"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/cdn"
     }
   },
@@ -157,7 +157,7 @@
     "services": ["network"],
     "domains": ["systems management"],
     "categories": ["dns management"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/dns"
     }
   },
@@ -167,7 +167,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/expressroute"
     }
   },
@@ -177,7 +177,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/azure/firewall"
     }
   },
@@ -187,7 +187,7 @@
     "services": ["network"],
     "domains": ["edge computing","systems management"],
     "categories": ["content delivery","web application firewall","ddos protection","certificates"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/front-door"
     }
   },
@@ -197,7 +197,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/load-balancer"
     }
   },
@@ -208,7 +208,7 @@
     "domains": ["connectivity"],
     "categories": ["firewall"],
     "features": ["stateful"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/security-groups"
     }
   },
@@ -218,7 +218,7 @@
     "services": ["network","monitor"],
     "domains": ["connectivity"],
     "categories": ["network monitoring"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/network-watcher"
     }
   },
@@ -229,7 +229,7 @@
     "domains": ["connectivity"],
     "categories": ["load balancer"],
     "features": ["traffic routing"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/traffic-manager"
     }
   },
@@ -239,7 +239,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["network transit hub","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/virtual-wan"
     }
   },
@@ -249,7 +249,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/vnet"
     }
   },
@@ -259,7 +259,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/vnet-service-endpoint"
     }
   },
@@ -269,7 +269,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/vpn-gateway"
     }
   },
@@ -279,7 +279,7 @@
     "services": ["network"],
     "domains": ["edge computing"],
     "categories": ["content delivery"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cdn"
     }
   },
@@ -289,7 +289,7 @@
     "services": ["network"],
     "domains": ["systems management"],
     "categories": ["dns management"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/dns"
     }
   },
@@ -299,7 +299,7 @@
     "services": ["security","network"],
     "domains": ["connectivity"],
     "categories": ["firewall"],
-    "links" {
+    "links": {
       "self": "/products/security/gcp/firewall"
     }
   },
@@ -309,7 +309,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/interconnect"
     }
   },
@@ -319,7 +319,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/load-balancing"
     }
   },
@@ -329,8 +329,25 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["network address translation","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cloud-nat"
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (NEG)",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links": {
+      "self": "/products/network/gcp/neg",
+      "models": [
+        "/products/network/gcp/neg/models/hybrid-connectivity",
+        "/products/network/gcp/neg/models/internet",
+        "/products/network/gcp/neg/models/private-service-connect",
+        "/products/network/gcp/neg/models/serverless",
+        "/products/network/gcp/neg/models/zonal"
+      ]
     }
   },
   {
@@ -339,7 +356,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cloud-router"
     }
   },
@@ -349,11 +366,11 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network"],
-    "links" {
-      "self": "/products/network/gcp/vpc"
+    "links": {
+      "self": "/products/network/gcp/vpc",
       "models": [
-        "/products/network/gcp/vpc/auto-mode",
-        "/products/network/gcp/vpc/custom"
+        "/products/network/gcp/vpc/models/auto-mode",
+        "/products/network/gcp/vpc/models/custom"
       ]
     }
   }

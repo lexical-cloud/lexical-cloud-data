@@ -2,7 +2,8 @@
   "instance": [
     "/products/network/aws/elb",
     "/products/network/azure/application-gateway",
-    "/products/network/gcp/load-balancing"
+    "/products/network/gcp/load-balancing",
+    "/products/network/gcp/neg"
   ],
   "intersect": {
     "categories": [

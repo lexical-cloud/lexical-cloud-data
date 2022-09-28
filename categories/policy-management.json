@@ -3,7 +3,7 @@
   "name": "policy management",
   "type": "category",
   "links": {
-    "self": "/categories/policy-management",
+    "self": "/categories/policy-management"
   },
   "definition": {
     "title": "Policy Management",

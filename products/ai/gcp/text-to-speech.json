@@ -5,7 +5,7 @@
   "domains": ["machine learning","serverless"],
   "categories": ["speech processing"],
   "features": ["text-to-speech","prebuilt models"],
-  "links" {
+  "links": {
     "self": "/products/ai/gcp/text-to-speech"
   }
 }

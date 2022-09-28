@@ -4,7 +4,7 @@
   "services": ["integration","storage"],
   "domains": ["eventing","serverless"],
   "categories": ["message queue"],
-  "links" {
+  "links": {
     "self": "/products/storage/azure/queue-storage"
   }
 }

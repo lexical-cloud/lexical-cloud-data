@@ -3,7 +3,7 @@
   "name": "document db",
   "type": "category",
   "links": {
-    "self": "/categories/document-db",
+    "self": "/categories/document-db"
   },
   "definition": {
     "title": "Document Database",

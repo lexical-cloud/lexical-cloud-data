@@ -5,7 +5,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","key-value store","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/dynamodb"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["database","storage"],
     "domains": ["data management"],
     "categories": ["nosql db","key-value store"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/table-storage"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["nosql db","key-value store"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/bigtable"
     }
   }

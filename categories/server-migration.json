@@ -3,7 +3,7 @@
   "name": "server migration",
   "type": "category",
   "links": {
-    "self": "/categories/server-migration",
+    "self": "/categories/server-migration"
   },
   "definition": {
     "title": "Server Migration",

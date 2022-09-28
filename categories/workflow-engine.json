@@ -3,7 +3,7 @@
   "name": "workflow engine",
   "type": "category",
   "links": {
-    "self": "/categories/workflow-engine",
+    "self": "/categories/workflow-engine"
   },
   "definition": {
     "title": "Workflow Engine",

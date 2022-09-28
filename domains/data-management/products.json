@@ -5,7 +5,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/athena"
     }
   },
@@ -16,7 +16,7 @@
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/aurora"
     }
   },
@@ -26,7 +26,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","key-value store","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/dynamodb"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/ebs"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/efs"
     }
   },
@@ -56,7 +56,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data privacy","risk assessment"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/macie"
     }
   },
@@ -67,7 +67,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","mariadb","sql server","oracle"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/rds"
     }
   },
@@ -77,7 +77,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/redshift"
     }
   },
@@ -87,7 +87,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/s3"
     }
   },
@@ -97,7 +97,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage","data archive"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/s3-glacier"
     }
   },
@@ -107,7 +107,7 @@
     "services": ["storage","hybrid"],
     "domains": ["data management","systems management"],
     "categories": ["data security"],
-    "links" {
+    "links": {
       "self": "/products/storage/aws/backup"
     }
   },
@@ -117,7 +117,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data security","key management"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/cloudhsm"
     }
   },
@@ -127,7 +127,7 @@
     "services": ["migration","database"],
     "domains": ["data management"],
     "categories": ["database migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/dms"
     }
   },
@@ -137,7 +137,7 @@
     "services": ["migration"],
     "domains": ["data management","systems management"],
     "categories": ["disaster recovery","data security"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/drs"
     }
   },
@@ -147,7 +147,7 @@
     "services": ["security"],
     "domains": ["data management","managed service"],
     "categories": ["data security","key management","auditing"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/kms"
     }
   },
@@ -157,7 +157,7 @@
     "services": ["database","migration"],
     "domains": ["data management"],
     "categories": ["database migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/aws/sct"
     }
   },
@@ -167,7 +167,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["data security","secret management"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/secrets-manager"
     }
   },
@@ -177,7 +177,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["data archive","object storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/blob-storage"
     }
   },
@@ -187,7 +187,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/cosmosdb"
     }
   },
@@ -198,7 +198,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/db-for-mysql"
     }
   },
@@ -209,7 +209,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
   },
@@ -219,7 +219,7 @@
     "services": ["migration","database"],
     "domains": ["data management"],
     "categories": ["database migration"],
-    "links" {
+    "links": {
       "self": "/products/migration/azure/dms"
     }
   },
@@ -229,7 +229,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/disk-storage"
     }
   },
@@ -239,7 +239,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/files"
     }
   },
@@ -249,7 +249,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["auditing","data security","key management","secret management"],
-    "links" {
+    "links": {
       "self": "/products/security/azure/key-vault"
     }
   },
@@ -259,7 +259,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-db"
     }
   },
@@ -269,7 +269,7 @@
     "services": ["database","iot"],
     "domains": ["data management","edge computing"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-edge"
     }
   },
@@ -279,7 +279,7 @@
     "services": ["database","hybrid"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-managed-instance"
     }
   },
@@ -289,7 +289,7 @@
     "services": ["database","storage"],
     "domains": ["data management"],
     "categories": ["nosql db","key-value store"],
-    "links" {
+    "links": {
       "self": "/products/storage/azure/table-storage"
     }
   },
@@ -299,8 +299,11 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant"],
-    "links" {
-      "self": "/products/database/gcp/bigquery"
+    "links": {
+      "self": "/products/database/gcp/bigquery",
+      "components": [
+        "/products/database/gcp/bigquery/components/ml"
+      ]
     }
   },
   {
@@ -309,7 +312,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["nosql db","key-value store"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/bigtable"
     }
   },
@@ -319,7 +322,7 @@
     "services": ["storage"],
     "domains": ["data management","managed service"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/gcp/filestore"
     }
   },
@@ -329,7 +332,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/firestore"
     }
   },
@@ -339,7 +342,7 @@
     "services": ["storage"],
     "domains": ["data management"],
     "categories": ["block storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/gcp/peristent-disk"
     }
   },
@@ -349,7 +352,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/spanner"
     }
   },
@@ -360,7 +363,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","sql server"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/cloud-sql"
     }
   },
@@ -370,24 +373,14 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage"
+    "links": {
+      "self": "/products/storage/gcp/cloud-storage",
       "models": [
-        "/products/storage/gcp/cloud-storage/archive",
-        "/products/storage/gcp/cloud-storage/coldline",
-        "/products/storage/gcp/cloud-storage/nearline",
-        "/products/storage/gcp/cloud-storage/standard"
+        "/products/storage/gcp/cloud-storage/models/archive",
+        "/products/storage/gcp/cloud-storage/models/coldline",
+        "/products/storage/gcp/cloud-storage/models/nearline",
+        "/products/storage/gcp/cloud-storage/models/standard"
       ]
-    }
-  },
-  {
-    "name": "Google Cloud Storage Archive",
-    "providers": ["gcp"],
-    "services": ["storage"],
-    "domains": ["data management","serverless"],
-    "categories": ["object storage","data archive"],
-    "links" {
-      "self": "/products/storage/gcp/cloud-storage-archive"
     }
   },
   {
@@ -396,7 +389,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["siem"],
-    "links" {
+    "links": {
       "self": "/products/security/azure/sentinel"
     }
   }

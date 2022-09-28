@@ -3,7 +3,7 @@
   "name": "end-user computing",
   "type": "domain",
   "links": {
-    "self": "/domains/end-user-computing",
+    "self": "/domains/end-user-computing"
   },
   "definition": {
     "title": "End-user Computing",

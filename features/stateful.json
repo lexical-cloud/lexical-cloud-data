@@ -3,7 +3,7 @@
   "name": "stateful",
   "type": "feature",
   "links": {
-    "self": "/features/stateful",
+    "self": "/features/stateful"
   },
   "definition": {
     "title": "Stateful",

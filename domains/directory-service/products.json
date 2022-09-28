@@ -5,7 +5,7 @@
     "services": ["identity"],
     "domains": ["directory service","identity management"],
     "categories": ["directory gateway","identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/ad-connector"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["identity"],
     "domains": ["directory service","identity management"],
     "categories": ["identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/azure/ad"
     }
   }

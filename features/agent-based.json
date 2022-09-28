@@ -3,7 +3,7 @@
   "name": "agent-based",
   "type": "feature",
   "links": {
-    "self": "/features/agent-based",
+    "self": "/features/agent-based"
   },
   "definition": {
     "title": "Agent-based",

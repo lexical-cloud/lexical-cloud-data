@@ -3,7 +3,7 @@
   "name": "websocket api",
   "type": "feature",
   "links": {
-    "self": "/features/websocket-api",
+    "self": "/features/websocket-api"
   },
   "definition": {
     "title": "WebSocket API",

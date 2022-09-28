@@ -3,7 +3,7 @@
   "name": "database migration",
   "type": "category",
   "links": {
-    "self": "/categories/database-migration",
+    "self": "/categories/database-migration"
   },
   "definition": {
     "title": "Database Migration",

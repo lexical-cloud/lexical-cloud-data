@@ -3,7 +3,7 @@
   "name": "object detection",
   "type": "feature",
   "links": {
-    "self": "/features/object-detection",
+    "self": "/features/object-detection"
   },
   "definition": {
     "title": "Object Detection",

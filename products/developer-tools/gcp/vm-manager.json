@@ -4,7 +4,7 @@
   "services": ["developer tools"],
   "domains": ["systems management","virtualization"],
   "categories": ["virtual machines"],
-  "links" {
+  "links": {
     "self": "/products/developer-tools/gcp/vm-manager"
   }
 }

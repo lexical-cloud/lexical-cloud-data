@@ -5,7 +5,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/direct-connect"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["hybrid"],
     "domains": ["architecture","edge computing"],
     "categories": ["on-premises"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/aws/outposts"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network","virtual network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/privatelink"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["hybrid","storage"],
     "domains": ["modernization"],
     "categories": ["on-premises"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/aws/storage-gateway"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["hybrid","network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/expressroute"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["hybrid"],
     "domains": ["architecture"],
     "categories": ["on-premises","multi-cloud"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/gcp/anthos"
     }
   },
@@ -65,7 +65,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["on-premises","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/interconnect"
     }
   }

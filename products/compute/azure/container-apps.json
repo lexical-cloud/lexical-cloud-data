@@ -4,7 +4,8 @@
   "services": ["compute"],
   "domains": ["containerization","serverless"],
   "categories": ["container orchestrator"],
-  "links" {
+  "features": ["scale-to-zero"],
+  "links": {
     "self": "/products/compute/azure/container-apps"
   }
 }

@@ -5,7 +5,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management","environment management"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/blueprints"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["developer tools"],
     "domains": ["developer toolchain","systems management"],
     "categories": ["environment management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/devtest-labs"
     }
   }

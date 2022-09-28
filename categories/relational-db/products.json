@@ -6,7 +6,7 @@
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/aurora"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","mariadb","sql server","oracle"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/rds"
     }
   },
@@ -28,7 +28,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/db-for-mysql"
     }
   },
@@ -39,7 +39,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
   },
@@ -49,7 +49,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-db"
     }
   },
@@ -59,7 +59,7 @@
     "services": ["database","iot"],
     "domains": ["data management","edge computing"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-edge"
     }
   },
@@ -69,7 +69,7 @@
     "services": ["database","hybrid"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-managed-instance"
     }
   },
@@ -79,7 +79,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/spanner"
     }
   },
@@ -90,7 +90,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","sql server"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/cloud-sql"
     }
   }

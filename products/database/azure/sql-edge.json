@@ -4,7 +4,7 @@
   "services": ["database","iot"],
   "domains": ["data management","edge computing"],
   "categories": ["relational db","sql compliant"],
-  "links" {
+  "links": {
     "self": "/products/database/azure/sql-edge"
   }
 }

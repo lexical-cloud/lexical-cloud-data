@@ -4,7 +4,7 @@
   "services": ["database"],
   "domains": ["managed service"],
   "categories": ["caching"],
-  "links" {
+  "links": {
     "self": "/products/database/aws/elasticache"
   }
 }

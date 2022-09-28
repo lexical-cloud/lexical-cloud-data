@@ -4,7 +4,7 @@
   "services": ["integration"],
   "domains": ["eventing","serverless"],
   "categories": ["message queue"],
-  "links" {
+  "links": {
     "self": "/products/integration/aws/sqs"
   }
 }

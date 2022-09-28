@@ -3,7 +3,7 @@
   "name": "migration",
   "type": "service",
   "links": {
-    "self": "/services/migration",
+    "self": "/services/migration"
   },
   "definition": {
     "title": "Migration",

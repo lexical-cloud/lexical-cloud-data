@@ -41,7 +41,6 @@
     "/products/database/azure/sql-db",
     "/products/integration/gcp/api-gateway",
     "/products/integration/gcp/apigee",
-    "/products/ai/gcp/automl",
     "/products/database/gcp/bigquery",
     "/products/integration/gcp/dataflow",
     "/products/ai/gcp/dialogflow",
@@ -54,7 +53,6 @@
     "/products/compute/gcp/cloud-run",
     "/products/ai/gcp/speech-to-text",
     "/products/storage/gcp/cloud-storage",
-    "/products/storage/gcp/cloud-storage-archive",
     "/products/ai/gcp/text-to-speech",
     "/products/integration/gcp/workflows",
     "/products/ai/azure/power-virtual-agents"
@@ -114,6 +112,7 @@
       "postgresql",
       "conversational interface",
       "text-to-speech",
+      "scale-to-zero",
       "sentiment analysis",
       "speech-to-text",
       "language translation",

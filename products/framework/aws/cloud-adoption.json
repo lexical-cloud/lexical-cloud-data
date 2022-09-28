@@ -4,7 +4,7 @@
   "services": ["framework"],
   "domains": ["modernization"],
   "categories": ["decision making"],
-  "links" {
+  "links": {
     "self": "/products/framework/aws/cloud-adoption"
   }
 }

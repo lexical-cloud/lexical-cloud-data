@@ -4,7 +4,8 @@
     "/products/network/azure/application-gateway",
     "/products/network/azure/load-balancer",
     "/products/network/azure/traffic-manager",
-    "/products/network/gcp/load-balancing"
+    "/products/network/gcp/load-balancing",
+    "/products/network/gcp/neg"
   ],
   "intersect": {
     "domains": [

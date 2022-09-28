@@ -3,7 +3,7 @@
   "name": "ai",
   "type": "service",
   "links": {
-    "self": "/services/ai",
+    "self": "/services/ai"
   },
   "definition": {
     "title": "Artificial Intelligence (AI)",

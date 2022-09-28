@@ -3,7 +3,7 @@
   "name": "continuous deployment",
   "type": "category",
   "links": {
-    "self": "/categories/continuous-deployment",
+    "self": "/categories/continuous-deployment"
   },
   "definition": {
     "title": "Continuous Deployment",

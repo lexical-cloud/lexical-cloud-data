@@ -1,7 +1,32 @@
 {
   "instance": [
-    "/products/compute/gcp/app-engine/standard"
+    "/products/compute/aws/lambda",
+    "/products/compute/azure/container-apps",
+    "/products/compute/azure/functions",
+    "/products/compute/gcp/cloud-functions",
+    "/products/compute/gcp/cloud-run",
+    "/products/compute/gcp/app-engine/models/standard"
   ],
-  "intersect": {},
-  "symdiff": {}
+  "intersect": {
+    "domains": [
+      "serverless"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "faas",
+      "container orchestrator"
+    ],
+    "domains": [
+      "containerization"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "compute"
+    ]
+  }
 }

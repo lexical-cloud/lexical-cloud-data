@@ -3,7 +3,7 @@
   "name": "load balancer",
   "type": "category",
   "links": {
-    "self": "/categories/load-balancer",
+    "self": "/categories/load-balancer"
   },
   "definition": {
     "title": "Load Balancer",

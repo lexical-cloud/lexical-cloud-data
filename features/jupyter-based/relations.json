@@ -1,0 +1,11 @@
+{
+  "instance": [
+    "/products/ai/gcp/vertex-ai/components/workbench"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "notebook"
+    ]
+  }
+}

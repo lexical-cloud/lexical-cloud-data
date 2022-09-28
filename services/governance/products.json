@@ -5,7 +5,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/accounts"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["compliance","auditing"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/artifact"
     }
   },
@@ -26,7 +26,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/budgets"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["compliance","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/control-tower"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["governance"],
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/cost-and-usage-report"
     }
   },
@@ -57,7 +57,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost forecast"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/cost-explorer"
     }
   },
@@ -67,7 +67,7 @@
     "services": ["governance"],
     "domains": ["virtualization"],
     "categories": ["license management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/license-manager"
     }
   },
@@ -77,7 +77,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/organizations"
     }
   },
@@ -88,7 +88,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/pricing-calculator"
     }
   },
@@ -98,7 +98,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/resource"
     }
   },
@@ -108,7 +108,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/resource-groups"
     }
   },
@@ -118,7 +118,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["compliance","portfolio management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/service-catalog"
     }
   },
@@ -128,7 +128,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["access control"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/service-control-policies"
     }
   },
@@ -138,7 +138,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["risk assessment","best practices"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/trusted-advisor"
     }
   },
@@ -148,7 +148,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["risk assessment","best practices"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/advisor"
     }
   },
@@ -158,7 +158,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["resource management","environment management"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/blueprints"
     }
   },
@@ -169,7 +169,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts","cost forecast"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/cost-management"
     }
   },
@@ -179,7 +179,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/management-groups"
     }
   },
@@ -189,7 +189,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/policy"
     }
   },
@@ -199,7 +199,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/policy-initiative"
     }
   },
@@ -210,7 +210,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/pricing-calculator"
     }
   },
@@ -221,7 +221,7 @@
     "domains": ["systems management"],
     "categories": ["resource management"],
     "features": ["resource locks"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/resource"
     }
   },
@@ -232,7 +232,7 @@
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
     "features": ["resource locks"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/resource-groups"
     }
   },
@@ -243,7 +243,7 @@
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
     "features": ["resource locks"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/subscriptions"
     }
   },
@@ -254,7 +254,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/tco-calculator"
     }
   },
@@ -264,7 +264,7 @@
     "services": ["governance"],
     "domains": "systems management",
     "categories": ["compliance"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/trust-center"
     }
   },
@@ -275,7 +275,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/budgets"
     }
   },
@@ -285,7 +285,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["compliance"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/compliance-reports-manager"
     }
   },
@@ -296,7 +296,7 @@
     "domains": ["finops","systems management"],
     "categories": ["cost management"],
     "features": ["cost estimation","no account required"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/pricing-calculator"
     }
   },
@@ -306,7 +306,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/projects"
     }
   },
@@ -317,7 +317,7 @@
     "domains": ["finops","systems management"],
     "categories": ["resource management"],
     "features": ["alerts"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/quotas"
     }
   }

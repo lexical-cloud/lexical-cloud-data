@@ -3,7 +3,7 @@
   "name": "network load balancer",
   "type": "category",
   "links": {
-    "self": "/categories/network-load-balancer",
+    "self": "/categories/network-load-balancer"
   },
   "definition": {
     "title": "Network Load Balancer",

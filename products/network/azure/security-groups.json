@@ -5,7 +5,7 @@
   "domains": ["connectivity"],
   "categories": ["firewall"],
   "features": ["stateful"],
-  "links" {
+  "links": {
     "self": "/products/network/azure/security-groups"
   }
 }

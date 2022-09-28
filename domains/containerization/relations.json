@@ -20,6 +20,9 @@
       "managed service",
       "serverless"
     ],
+    "features": [
+      "scale-to-zero"
+    ],
     "providers": [
       "aws",
       "azure",

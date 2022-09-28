@@ -4,7 +4,7 @@
   "services": ["ai"],
   "domains": ["machine learning","serverless"],
   "categories": ["prebuilt models"],
-  "links" {
+  "links": {
     "self": "/products/ai/aws/sagemaker-autopilot"
   }
 }

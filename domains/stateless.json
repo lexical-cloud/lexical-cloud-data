@@ -3,7 +3,7 @@
   "name": "stateless",
   "type": "domain",
   "links": {
-    "self": "/domains/stateless",
+    "self": "/domains/stateless"
   },
   "definition": {
     "title": "Stateless",

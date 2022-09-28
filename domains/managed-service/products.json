@@ -6,7 +6,7 @@
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/aurora"
     }
   },
@@ -16,7 +16,7 @@
     "services": ["database"],
     "domains": ["managed service"],
     "categories": ["caching"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/cache-for-redis"
     }
   },
@@ -26,7 +26,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/ecs"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/eks"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["database"],
     "domains": ["managed service"],
     "categories": ["caching"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/elasticache"
     }
   },
@@ -56,7 +56,7 @@
     "services": ["compute"],
     "domains": ["managed service","virtualization"],
     "categories": ["virtual private server"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/lightsail"
     }
   },
@@ -67,7 +67,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","mariadb","sql server","oracle"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/rds"
     }
   },
@@ -77,7 +77,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing"],
-    "links" {
+    "links": {
       "self": "/products/database/aws/redshift"
     }
   },
@@ -87,7 +87,7 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["batch processing"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/batch"
     }
   },
@@ -97,7 +97,7 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["paas"],
-    "links" {
+    "links": {
       "self": "/products/compute/aws/beanstalk"
     }
   },
@@ -107,7 +107,7 @@
     "services": ["security"],
     "domains": ["data management","managed service"],
     "categories": ["data security","key management","auditing"],
-    "links" {
+    "links": {
       "self": "/products/security/aws/kms"
     }
   },
@@ -117,7 +117,7 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["paas"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/app-service"
     }
   },
@@ -127,7 +127,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/container-instances"
     }
   },
@@ -137,7 +137,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/cosmosdb"
     }
   },
@@ -148,7 +148,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/db-for-mysql"
     }
   },
@@ -159,7 +159,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["postgresql"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
   },
@@ -169,7 +169,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/azure/aks"
     }
   },
@@ -179,7 +179,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-db"
     }
   },
@@ -189,7 +189,7 @@
     "services": ["database","hybrid"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-managed-instance"
     }
   },
@@ -199,11 +199,11 @@
     "services": ["compute"],
     "domains": ["managed service"],
     "categories": ["paas"],
-    "links" {
-      "self": "/products/compute/gcp/app-engine"
+    "links": {
+      "self": "/products/compute/gcp/app-engine",
       "models": [
-        "/products/compute/gcp/app-engine/flexible",
-        "/products/compute/gcp/app-engine/standard"
+        "/products/compute/gcp/app-engine/models/flexible",
+        "/products/compute/gcp/app-engine/models/standard"
       ]
     }
   },
@@ -213,7 +213,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["nosql db","key-value store"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/bigtable"
     }
   },
@@ -223,7 +223,7 @@
     "services": ["integration"],
     "domains": ["managed service","process modeling"],
     "categories": ["multi-cloud","workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/gcp/composer"
     }
   },
@@ -233,7 +233,7 @@
     "services": ["storage"],
     "domains": ["data management","managed service"],
     "categories": ["file storage"],
-    "links" {
+    "links": {
       "self": "/products/storage/gcp/filestore"
     }
   },
@@ -243,7 +243,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/spanner"
     }
   },
@@ -254,7 +254,7 @@
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
     "features": ["mysql","postgresql","sql server"],
-    "links" {
+    "links": {
       "self": "/products/database/gcp/cloud-sql"
     }
   },
@@ -264,8 +264,12 @@
     "services": ["ai"],
     "domains": ["machine learning","managed service"],
     "categories": ["model training"],
-    "links" {
-      "self": "/products/ai/gcp/vertex-ai"
+    "links": {
+      "self": "/products/ai/gcp/vertex-ai",
+      "components": [
+        "/products/ai/gcp/vertex-ai/components/automl",
+        "/products/ai/gcp/vertex-ai/components/workbench"
+      ]
     }
   },
   {
@@ -274,7 +278,7 @@
     "services": ["compute","migration"],
     "domains": ["managed service","modernization","virtualization"],
     "categories": ["virtual machines","rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/vmware-engine"
     }
   },
@@ -284,7 +288,7 @@
     "services": ["compute"],
     "domains": ["containerization","managed service"],
     "categories": ["container orchestrator","kubernetes"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/gke"
     }
   }

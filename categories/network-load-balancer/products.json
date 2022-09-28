@@ -5,7 +5,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/elb"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/load-balancer"
     }
   },
@@ -25,8 +25,25 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/load-balancing"
+    }
+  },
+  {
+    "name": "Google Cloud Network Endpoint Group (NEG)",
+    "providers": ["gcp"],
+    "services": ["network"],
+    "domains": ["connectivity"],
+    "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+    "links": {
+      "self": "/products/network/gcp/neg",
+      "models": [
+        "/products/network/gcp/neg/models/hybrid-connectivity",
+        "/products/network/gcp/neg/models/internet",
+        "/products/network/gcp/neg/models/private-service-connect",
+        "/products/network/gcp/neg/models/serverless",
+        "/products/network/gcp/neg/models/zonal"
+      ]
     }
   }
 ]

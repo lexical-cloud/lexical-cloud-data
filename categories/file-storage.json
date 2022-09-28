@@ -3,7 +3,7 @@
   "name": "file storage",
   "type": "category",
   "links": {
-    "self": "/categories/file-storage",
+    "self": "/categories/file-storage"
   },
   "definition": {
     "title": "File System",

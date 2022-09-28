@@ -13,8 +13,7 @@
     "/products/storage/azure/table-storage",
     "/products/storage/gcp/filestore",
     "/products/storage/gcp/peristent-disk",
-    "/products/storage/gcp/cloud-storage",
-    "/products/storage/gcp/cloud-storage-archive"
+    "/products/storage/gcp/cloud-storage"
   ],
   "intersect": {},
   "symdiff": {

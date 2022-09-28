@@ -3,7 +3,7 @@
   "name": "api lifecycle",
   "type": "category",
   "links": {
-    "self": "/categories/api-lifecycle",
+    "self": "/categories/api-lifecycle"
   },
   "definition": {
     "title": "API Lifecycle",

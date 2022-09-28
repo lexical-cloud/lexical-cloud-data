@@ -5,7 +5,7 @@
     "services": ["governance"],
     "domains": ["virtualization"],
     "categories": ["license management"],
-    "links" {
+    "links": {
       "self": "/products/governance/aws/license-manager"
     }
   }

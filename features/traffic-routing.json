@@ -3,7 +3,7 @@
   "name": "traffic routing",
   "type": "feature",
   "links": {
-    "self": "/features/traffic-routing",
+    "self": "/features/traffic-routing"
   },
   "definition": {
     "title": "Traffic Routing",

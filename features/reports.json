@@ -3,7 +3,7 @@
   "name": "reports",
   "type": "feature",
   "links": {
-    "self": "/features/reports",
+    "self": "/features/reports"
   },
   "definition": {
     "title": "Reports",

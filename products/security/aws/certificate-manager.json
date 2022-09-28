@@ -4,7 +4,7 @@
   "services": ["security"],
   "domains": ["systems management"],
   "categories": ["certificates"],
-  "links" {
+  "links": {
     "self": "/products/security/aws/certificate-manager"
   }
 }

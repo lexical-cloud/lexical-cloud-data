@@ -1,0 +1,13 @@
+{
+  "name": "Google Cloud Network Endpoint Group (NEG)",
+  "model": "Hybrid Connectivity NEG",
+  "providers": ["gcp"],
+  "services": ["network"],
+  "domains": ["connectivity"],
+  "categories": ["load balancer","application load balancer","gateway load balancer","network load balancer"],
+  "links": {
+    "self": "/products/network/gcp/neg/models/hybrid-connectivity",
+    "parent": "/products/network/gcp/neg"
+  }
+}
+

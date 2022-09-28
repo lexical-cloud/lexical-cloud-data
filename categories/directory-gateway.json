@@ -3,7 +3,7 @@
   "name": "directory gateway",
   "type": "category",
   "links": {
-    "self": "/categories/directory-gateway",
+    "self": "/categories/directory-gateway"
   },
   "definition": {
     "title": "Directory Gateway",

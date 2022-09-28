@@ -8,18 +8,17 @@
     "/products/ai/azure/cognitive-services",
     "/products/ai/azure/cognitive-services-personalizer",
     "/products/ai/azure/luis",
+    "/products/ai/azure/machine-learning",
     "/products/ai/azure/qna-maker",
+    "/products/database/gcp/bigquery/components/ml",
     "/products/ai/gcp/ai-hub",
-    "/products/ai/gcp/automl",
     "/products/ai/gcp/dialogflow",
     "/products/ai/gcp/natural-language-ai",
     "/products/ai/gcp/speech-to-text",
     "/products/ai/gcp/text-to-speech",
     "/products/ai/gcp/vertex-ai",
     "/products/ai/gcp/vision-ai",
-    "/products/ai/azure/machine-learning",
-    "/products/ai/azure/power-virtual-agents",
-    "/products/ai/azure/model-training"
+    "/products/ai/azure/power-virtual-agents"
   ],
   "intersect": {},
   "symdiff": {

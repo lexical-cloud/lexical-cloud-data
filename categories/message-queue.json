@@ -3,7 +3,7 @@
   "name": "message queue",
   "type": "category",
   "links": {
-    "self": "/categories/message-queue",
+    "self": "/categories/message-queue"
   },
   "definition": {
     "title": "Message Queue",

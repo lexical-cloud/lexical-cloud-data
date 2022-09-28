@@ -3,8 +3,7 @@
     "/products/storage/aws/s3",
     "/products/storage/aws/s3-glacier",
     "/products/storage/azure/blob-storage",
-    "/products/storage/gcp/cloud-storage",
-    "/products/storage/gcp/cloud-storage-archive"
+    "/products/storage/gcp/cloud-storage"
   ],
   "intersect": {
     "domains": [

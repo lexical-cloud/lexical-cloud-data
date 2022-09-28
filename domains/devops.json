@@ -3,7 +3,7 @@
   "name": "devops",
   "type": "domain",
   "links": {
-    "self": "/domains/devops",
+    "self": "/domains/devops"
   },
   "definition": {
     "title": "DevOps",

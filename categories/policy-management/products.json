@@ -5,7 +5,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/management-groups"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/policy"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/policy-initiative"
     }
   },
@@ -36,7 +36,7 @@
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
     "features": ["resource locks"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/resource-groups"
     }
   },
@@ -47,7 +47,7 @@
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
     "features": ["resource locks"],
-    "links" {
+    "links": {
       "self": "/products/governance/azure/subscriptions"
     }
   },
@@ -57,7 +57,7 @@
     "services": ["governance"],
     "domains": ["systems management"],
     "categories": ["policy management","resource management"],
-    "links" {
+    "links": {
       "self": "/products/governance/gcp/projects"
     }
   }

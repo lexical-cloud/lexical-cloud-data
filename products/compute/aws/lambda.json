@@ -4,7 +4,8 @@
   "services": ["compute"],
   "domains": ["serverless"],
   "categories": ["faas"],
-  "links" {
+  "features": ["scale-to-zero"],
+  "links": {
     "self": "/products/compute/aws/lambda"
   }
 }

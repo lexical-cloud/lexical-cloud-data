@@ -3,7 +3,7 @@
   "name": "network transit hub",
   "type": "category",
   "links": {
-    "self": "/categories/network-transit-hub",
+    "self": "/categories/network-transit-hub"
   },
   "definition": {
     "title": "Network Transit Hub",

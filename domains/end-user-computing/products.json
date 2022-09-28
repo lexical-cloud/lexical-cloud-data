@@ -5,7 +5,7 @@
     "services": ["integration"],
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","no-code","workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/azure/logic-apps"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["integration"],
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","workflow engine"],
-    "links" {
+    "links": {
       "self": "/products/integration/aws/step-functions"
     }
   },
@@ -26,7 +26,7 @@
     "domains": ["end-user computing","machine learning","serverless"],
     "categories": ["language processing","no-code","speech processing"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/qna-maker"
     }
   },
@@ -37,7 +37,7 @@
     "domains": ["end-user computing","machine learning","serverless"],
     "categories": ["language processing","no-code"],
     "features": ["conversational interface"],
-    "links" {
+    "links": {
       "self": "/products/ai/azure/power-virtual-agents"
     }
   }

@@ -5,7 +5,7 @@
     "services": ["developer tools"],
     "domains": ["devops"],
     "categories": ["infrastructure as code","deployment management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/aws/cloudformation"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["developer tools"],
     "domains": ["devops","systems management"],
     "categories": ["infrastructure as code","deployment management"],
-    "links" {
+    "links": {
       "self": "/products/developer-tools/azure/arm"
     }
   }

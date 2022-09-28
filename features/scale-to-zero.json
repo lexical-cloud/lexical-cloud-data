@@ -4,4 +4,12 @@
   "type": "feature",
   "links": {
     "self": "/features/scale-to-zero"
+  },
+  "definition": {
+    "title": "Scale-to-Zero",
+    "domains": ["serverless"],
+    "links": {
+      "self": "/glossary/scale-to-zero"
+    }
+  }
 }

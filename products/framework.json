@@ -5,7 +5,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/cloud-adoption"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["framework"],
     "domains": ["serverless"],
     "categories": ["deployment management"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/sam"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/aws/well-architected"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/azure/cloud-adoption"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/azure/well-architected"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["framework"],
     "domains": ["modernization"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/gcp/cloud-adoption"
     }
   },
@@ -65,7 +65,7 @@
     "services": ["framework"],
     "domains": ["architecture"],
     "categories": ["decision making"],
-    "links" {
+    "links": {
       "self": "/products/framework/gcp/architecture"
     }
   }

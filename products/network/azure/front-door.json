@@ -4,7 +4,7 @@
   "services": ["network"],
   "domains": ["edge computing","systems management"],
   "categories": ["content delivery","web application firewall","ddos protection","certificates"],
-  "links" {
+  "links": {
     "self": "/products/network/azure/front-door"
   }
 }

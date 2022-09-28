@@ -3,7 +3,7 @@
   "name": "pub-sub",
   "type": "category",
   "links": {
-    "self": "/categories/pub-sub",
+    "self": "/categories/pub-sub"
   },
   "definition": {
     "title": "Publish-Subscribe (Pub-Sub)",

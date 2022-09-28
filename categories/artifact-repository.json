@@ -3,7 +3,7 @@
   "name": "artifact repository",
   "type": "category",
   "links": {
-    "self": "/categories/artifact-repository",
+    "self": "/categories/artifact-repository"
   },
   "definition": {
     "title": "Artifact Repository",

@@ -3,7 +3,7 @@
   "name": "governance",
   "type": "service",
   "links": {
-    "self": "/services/governance",
+    "self": "/services/governance"
   },
   "definition": {
     "title": "Governance",

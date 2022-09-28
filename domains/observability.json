@@ -3,7 +3,7 @@
   "name": "observability",
   "type": "domain",
   "links": {
-    "self": "/domains/observability",
+    "self": "/domains/observability"
   },
   "definition": {
     "title": "Observability",

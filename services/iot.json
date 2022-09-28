@@ -3,7 +3,7 @@
   "name": "iot",
   "type": "service",
   "links": {
-    "self": "/services/iot",
+    "self": "/services/iot"
   },
   "definition": {
     "title": "Internet of Things (IoT)",

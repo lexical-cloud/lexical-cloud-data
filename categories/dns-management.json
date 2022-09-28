@@ -3,7 +3,7 @@
   "name": "dns management",
   "type": "category",
   "links": {
-    "self": "/categories/dns-management",
+    "self": "/categories/dns-management"
   },
   "definition": {
     "title": "Domain Name System (DNS) Management",

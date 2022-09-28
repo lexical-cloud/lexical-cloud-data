@@ -6,7 +6,7 @@
     "domains": ["identity management"],
     "categories": ["identity provider"],
     "features": ["user enrollment","authentication","authorization"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/cognito"
     }
   },
@@ -16,7 +16,7 @@
     "services": ["identity"],
     "domains": ["directory service","identity management"],
     "categories": ["directory gateway","identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/ad-connector"
     }
   },
@@ -26,7 +26,7 @@
     "services": ["identity"],
     "domains": ["identity management"],
     "categories": ["access control","identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/aws/iam"
     }
   },
@@ -36,7 +36,7 @@
     "services": ["identity"],
     "domains": ["directory service","identity management"],
     "categories": ["identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/azure/ad"
     }
   },
@@ -46,7 +46,7 @@
     "services": ["identity"],
     "domains": ["identity management"],
     "categories": ["identity provider"],
-    "links" {
+    "links": {
       "self": "/products/identity/gcp/identity"
     }
   }

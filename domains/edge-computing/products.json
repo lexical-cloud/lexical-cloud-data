@@ -5,7 +5,7 @@
     "services": ["network"],
     "domains": ["edge computing"],
     "categories": ["content delivery"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/cloudfront"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["hybrid"],
     "domains": ["architecture","edge computing"],
     "categories": ["on-premises"],
-    "links" {
+    "links": {
       "self": "/products/hybrid/aws/outposts"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["network"],
     "domains": ["edge computing"],
     "categories": ["content delivery"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/cdn"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["network"],
     "domains": ["edge computing","systems management"],
     "categories": ["content delivery","web application firewall","ddos protection","certificates"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/front-door"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["iot"],
     "domains": ["edge computing"],
     "categories": ["iot management"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/central"
     }
   },
@@ -56,7 +56,7 @@
     "domains": ["edge computing"],
     "categories": ["iot processing"],
     "features": ["container-based"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/edge"
     }
   },
@@ -66,7 +66,7 @@
     "services": ["iot"],
     "domains": ["edge computing"],
     "categories": ["iot communication"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/hub"
     }
   },
@@ -76,7 +76,7 @@
     "services": ["iot"],
     "domains": ["edge computing"],
     "categories": ["iot hardware","iot security"],
-    "links" {
+    "links": {
       "self": "/products/iot/azure/sphere"
     }
   },
@@ -86,7 +86,7 @@
     "services": ["database","iot"],
     "domains": ["data management","edge computing"],
     "categories": ["relational db","sql compliant"],
-    "links" {
+    "links": {
       "self": "/products/database/azure/sql-edge"
     }
   },
@@ -96,7 +96,7 @@
     "services": ["network"],
     "domains": ["edge computing"],
     "categories": ["content delivery"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cdn"
     }
   }

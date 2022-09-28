@@ -3,7 +3,7 @@
   "name": "infrastructure as code",
   "type": "category",
   "links": {
-    "self": "/categories/infrastructure-as-code",
+    "self": "/categories/infrastructure-as-code"
   },
   "definition": {
     "title": "Infrastructure as Code (IaC)",

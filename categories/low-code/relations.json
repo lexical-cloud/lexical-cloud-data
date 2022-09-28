@@ -3,14 +3,17 @@
     "/products/integration/azure/logic-apps",
     "/products/integration/aws/step-functions"
   ],
-  "intersect": {},
+  "intersect": {
+    "domains": [
+      "end-user computing"
+    ]
+  },
   "symdiff": {
     "categories": [
       "no-code",
       "workflow engine"
     ],
     "domains": [
-      "end-user computing",
       "process modeling",
       "serverless"
     ],

@@ -5,7 +5,7 @@
   "domains": ["observability"],
   "categories": ["telemetry data"],
   "features": ["alerts","open telemetry"],
-  "links" {
+  "links": {
     "self": "/products/monitor/aws/cloudwatch"
   }
 }

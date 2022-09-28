@@ -3,12 +3,13 @@
   "name": "machine learning",
   "type": "domain",
   "links": {
-    "self": "/domains/machine-learning",
+    "self": "/domains/machine-learning"
   },
   "definition": {
     "title": "Machine Learning (ML)",
     "url": "https://en.wikipedia.org/wiki/Machine_learning",
     "services": ["ai"],
+    "domains": ["big data"],
     "links": {
       "self": "/glossary/machine-learning"
     }

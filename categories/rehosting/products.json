@@ -5,7 +5,7 @@
     "services": ["compute","migration"],
     "domains": ["architecture","modernization"],
     "categories": ["rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/bare-metal"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["compute","migration"],
     "domains": ["managed service","modernization","virtualization"],
     "categories": ["virtual machines","rehosting"],
-    "links" {
+    "links": {
       "self": "/products/compute/gcp/vmware-engine"
     }
   }

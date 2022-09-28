@@ -6,7 +6,7 @@
     "domains": ["observability"],
     "categories": ["health"],
     "features": ["alerts","maintenance schedule","reports","personalization"],
-    "links" {
+    "links": {
       "self": "/products/monitor/aws/health-dashboard"
     }
   },
@@ -17,7 +17,7 @@
     "domains": ["observability"],
     "categories": ["health"],
     "features": ["alerts","maintenance schedule","reports","personalization"],
-    "links" {
+    "links": {
       "self": "/products/monitor/azure/service-health"
     }
   }

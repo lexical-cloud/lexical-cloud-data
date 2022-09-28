@@ -5,7 +5,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
-    "links" {
+    "links": {
       "self": "/products/analytics/aws/quicksight"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/data-lake-analytics"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/databricks"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/hdinsight"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data warehousing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/azure/synapse-analytics"
     }
   },
@@ -55,7 +55,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
-    "links" {
+    "links": {
       "self": "/products/analytics/gcp/dataproc"
     }
   },
@@ -65,7 +65,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
-    "links" {
+    "links": {
       "self": "/products/analytics/gcp/looker"
     }
   }

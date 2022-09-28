@@ -5,7 +5,7 @@
     "services": ["security"],
     "domains": ["data management"],
     "categories": ["siem"],
-    "links" {
+    "links": {
       "self": "/products/security/azure/sentinel"
     }
   }

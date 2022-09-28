@@ -4,7 +4,7 @@
   "services": ["governance"],
   "domains": ["systems management"],
   "categories": ["access control"],
-  "links" {
+  "links": {
     "self": "/products/governance/aws/service-control-policies"
   }
 }

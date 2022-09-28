@@ -3,7 +3,7 @@
   "name": "virtual network",
   "type": "category",
   "links": {
-    "self": "/categories/virtual-network",
+    "self": "/categories/virtual-network"
   },
   "definition": {
     "title": "Virtual Network",

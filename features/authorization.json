@@ -3,7 +3,7 @@
   "name": "authorization",
   "type": "feature",
   "links": {
-    "self": "/features/authorization",
+    "self": "/features/authorization"
   },
   "definition": {
     "title": "Authorization (AuthZ)",

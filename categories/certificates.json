@@ -3,7 +3,7 @@
   "name": "certificates",
   "type": "category",
   "links": {
-    "self": "/categories/certificates",
+    "self": "/categories/certificates"
   },
   "definition": {
     "title": "Certificates",

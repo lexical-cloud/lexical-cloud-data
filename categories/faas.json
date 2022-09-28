@@ -3,7 +3,7 @@
   "name": "faas",
   "type": "category",
   "links": {
-    "self": "/categories/faas",
+    "self": "/categories/faas"
   },
   "definition": {
     "title": "Function as a Service (FaaS)",

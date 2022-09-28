@@ -5,7 +5,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vgw"
     }
   },
@@ -15,7 +15,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/aws/vpc-endpoint"
     }
   },
@@ -25,7 +25,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/vnet-service-endpoint"
     }
   },
@@ -35,7 +35,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/azure/vpn-gateway"
     }
   },
@@ -45,7 +45,7 @@
     "services": ["network"],
     "domains": ["connectivity"],
     "categories": ["virtual network interface","private network"],
-    "links" {
+    "links": {
       "self": "/products/network/gcp/cloud-router"
     }
   }

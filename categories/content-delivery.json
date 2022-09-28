@@ -3,7 +3,7 @@
   "name": "content delivery",
   "type": "category",
   "links": {
-    "self": "/categories/content-delivery",
+    "self": "/categories/content-delivery"
   },
   "definition": {
     "title": "Content Delivery",

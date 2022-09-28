@@ -3,7 +3,7 @@
   "name": "agentless",
   "type": "feature",
   "links": {
-    "self": "/features/agentless",
+    "self": "/features/agentless"
   },
   "definition": {
     "title": "Agentless",

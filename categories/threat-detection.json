@@ -3,7 +3,7 @@
   "name": "threat detection",
   "type": "category",
   "links": {
-    "self": "/categories/threat-detection",
+    "self": "/categories/threat-detection"
   },
   "definition": {
     "title": "Threat Detection",

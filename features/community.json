@@ -3,7 +3,7 @@
   "name": "community",
   "type": "feature",
   "links": {
-    "self": "/features/community",
+    "self": "/features/community"
   },
   "definition": {
     "title": "Community",
