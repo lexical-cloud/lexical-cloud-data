@@ -4,6 +4,7 @@
   "services": ["analytics"],
   "domains": ["big data"],
   "categories": ["data processing"],
+  "features": ["apache hadoop","apache spark","apache flink","apache beam"],
   "links": {
     "self": "/products/analytics/gcp/dataproc"
   }

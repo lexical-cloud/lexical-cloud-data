@@ -1,0 +1,7 @@
+{
+  "instance": [
+    "/products/identity/aws/cognito/components/user-pool"
+  ],
+  "intersect": {},
+  "symdiff": {}
+}

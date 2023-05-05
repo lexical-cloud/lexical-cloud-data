@@ -1,0 +1,10 @@
+{
+  "title": "Apache Flink",
+  "url": "https://en.wikipedia.org/wiki/Apache_Flink",
+  "domains": ["big data"],
+  "categories": ["data processing"],
+  "links": {
+    "self": "/glossary/apache-flink"
+  }
+}
+

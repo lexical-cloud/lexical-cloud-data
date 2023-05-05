@@ -17,7 +17,8 @@
   },
   "symdiff": {
     "categories": [
-      "document db"
+      "document db",
+      "wide-column store"
     ],
     "domains": [
       "serverless",

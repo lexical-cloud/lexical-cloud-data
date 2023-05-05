@@ -1,6 +1,8 @@
 {
   "instance": [
+    "/products/integration/aws/mwaa",
     "/products/hybrid/gcp/anthos",
+    "/products/database/gcp/biglake",
     "/products/integration/gcp/composer"
   ],
   "intersect": {
@@ -13,18 +15,26 @@
   },
   "symdiff": {
     "categories": [
+      "workflow engine",
       "on-premises",
-      "workflow engine"
+      "data warehousing"
     ],
     "domains": [
       "managed service",
-      "process modeling"
+      "process modeling",
+      "data management"
+    ],
+    "features": [
+      "apache airflow"
     ],
     "providers": [
+      "aws",
       "gcp"
     ],
     "services": [
-      "integration"
+      "integration",
+      "database",
+      "analytics"
     ]
   }
 }

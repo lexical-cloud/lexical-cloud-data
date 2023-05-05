@@ -1,0 +1,8 @@
+{
+  "id": "public-preview",
+  "name": "public preview",
+  "type": "label",
+  "links": {
+    "self": "/labels/public-preview"
+  }
+}

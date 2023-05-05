@@ -3,8 +3,10 @@
     "/products/monitor/aws/cloudtrail",
     "/products/monitor/aws/cloudwatch",
     "/products/monitor/aws/cloudwatch-app-insights",
+    "/products/analytics/aws/opensearch",
     "/products/monitor/aws/guardduty",
     "/products/monitor/aws/health-dashboard",
+    "/products/monitor/aws/xray",
     "/products/monitor/azure/monitor",
     "/products/monitor/azure/monitor-app-insights",
     "/products/monitor/azure/service-health",
@@ -33,6 +35,8 @@
       "performance monitoring"
     ],
     "domains": [
+      "managed service",
+      "serverless",
       "systems management"
     ],
     "features": [
@@ -51,6 +55,9 @@
       "aws",
       "azure",
       "gcp"
+    ],
+    "services": [
+      "analytics"
     ]
   }
 }

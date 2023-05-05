@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Amazon Cognito",
+    "component": "Cognito User Pools",
+    "providers": ["aws"],
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "categories": ["identity provider"],
+    "features": ["social identity","user enrollment","authentication","authorization"],
+    "links": {
+      "self": "/products/identity/aws/cognito/components/user-pool",
+      "parent": "/products/identity/aws/cognito"
+    }
+  }
+]

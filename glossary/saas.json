@@ -1,0 +1,10 @@
+{
+  "title": "Software as a Service (SaaS)",
+  "url": "https://en.wikipedia.org/wiki/Software_as_a_service",
+  "services": ["integration"],
+  "domains": ["architecture"],
+  "links": {
+    "self": "/glossary/saas"
+  }
+}
+

@@ -1,0 +1,18 @@
+{
+  "instance": [
+    "/products/developer-tools/github/copilot"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "domains": [
+      "developer toolchain"
+    ],
+    "providers": [
+      "github"
+    ],
+    "services": [
+      "developer tools",
+      "ai"
+    ]
+  }
+}

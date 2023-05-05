@@ -1,0 +1,11 @@
+{
+  "name": "AWS Transfer Family",
+  "providers": ["aws"],
+  "services": ["migration","integration"],
+  "domains": ["data management"],
+  "categories": ["data transfer"],
+  "links": {
+    "self": "/products/migration/aws/transfer"
+  }
+}
+

@@ -3,7 +3,7 @@
   "providers": ["aws"],
   "services": ["analytics","database"],
   "domains": ["data management","managed service","serverless"],
-  "categories": ["data warehousing"],
+  "categories": ["data warehousing","column-oriented db"],
   "links": {
     "self": "/products/database/aws/redshift"
   }

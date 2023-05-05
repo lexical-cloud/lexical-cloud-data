@@ -1,0 +1,26 @@
+{
+  "instance": [
+    "/products/integration/aws/appflow",
+    "/products/integration/aws/glue",
+    "/products/integration/gcp/data-fusion"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "saas",
+      "workflow engine"
+    ],
+    "domains": [
+      "data transfer",
+      "serverless",
+      "process modeling"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ],
+    "services": [
+      "integration"
+    ]
+  }
+}

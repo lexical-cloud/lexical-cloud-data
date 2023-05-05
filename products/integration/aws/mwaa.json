@@ -1,0 +1,12 @@
+{
+  "name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["managed service","process modeling"],
+  "categories": ["multi-cloud","workflow engine"],
+  "features": ["apache airflow"],
+  "links": {
+    "self": "/products/integration/aws/mwaa"
+  }
+}
+

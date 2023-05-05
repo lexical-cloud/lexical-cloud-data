@@ -1,0 +1,21 @@
+{
+  "instance": [
+    "/products/analytics/gcp/looker"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "dashboards"
+    ],
+    "domains": [
+      "serverless",
+      "big data"
+    ],
+    "providers": [
+      "gcp"
+    ],
+    "services": [
+      "analytics"
+    ]
+  }
+}

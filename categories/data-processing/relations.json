@@ -1,9 +1,16 @@
 {
   "instance": [
+    "/products/analytics/aws/emr",
     "/products/analytics/azure/data-lake-analytics",
     "/products/analytics/azure/databricks",
     "/products/analytics/azure/hdinsight",
-    "/products/analytics/gcp/dataproc"
+    "/products/analytics/azure/stream-analytics",
+    "/products/integration/aws/glue/components/jobs",
+    "/products/analytics/gcp/dataflow",
+    "/products/analytics/gcp/dataproc",
+    "/products/integration/aws/kinesis/components/data-analytics",
+    "/products/integration/aws/kinesis/components/data-firehose",
+    "/products/integration/aws/kinesis/components/data-streams"
   ],
   "intersect": {
     "domains": [
@@ -11,10 +18,27 @@
     ]
   },
   "symdiff": {
+    "categories": [
+      "data streaming"
+    ],
     "domains": [
-      "big data"
+      "big data",
+      "managed service",
+      "serverless",
+      "eventing"
+    ],
+    "features": [
+      "scale-to-zero",
+      "apache spark",
+      "apache hadoop",
+      "apache hbase",
+      "apache hive",
+      "apache kafka",
+      "apache beam",
+      "apache flink"
     ],
     "providers": [
+      "aws",
       "azure",
       "gcp"
     ],

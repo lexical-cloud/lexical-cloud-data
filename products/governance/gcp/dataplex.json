@@ -1,0 +1,11 @@
+{
+  "name": "Google Dataplex",
+  "providers": ["gcp"],
+  "services": ["governance"],
+  "domains": "data management",
+  "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+  "links": {
+    "self": "/products/governance/gcp/dataplex"
+  }
+}
+

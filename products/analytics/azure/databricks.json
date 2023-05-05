@@ -4,6 +4,7 @@
   "services": ["analytics"],
   "domains": ["big data"],
   "categories": ["data processing"],
+  "features": ["apache spark"],
   "links": {
     "self": "/products/analytics/azure/databricks"
   }

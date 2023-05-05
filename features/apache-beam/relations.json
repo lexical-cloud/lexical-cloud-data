@@ -1,0 +1,39 @@
+{
+  "instance": [
+    "/products/analytics/azure/stream-analytics",
+    "/products/analytics/gcp/dataflow",
+    "/products/analytics/gcp/dataproc",
+    "/products/integration/aws/kinesis/components/data-analytics"
+  ],
+  "intersect": {
+    "categories": [
+      "data processing"
+    ],
+    "domains": [
+      "data management",
+      "big data"
+    ],
+    "services": [
+      "analytics",
+      "database"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "data streaming"
+    ],
+    "domains": [
+      "eventing",
+      "serverless"
+    ],
+    "features": [
+      "apache hadoop",
+      "apache spark",
+      "apache flink"
+    ],
+    "providers": [
+      "azure",
+      "gcp"
+    ]
+  }
+}

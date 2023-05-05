@@ -1,0 +1,10 @@
+{
+  "title": "Apache Hadoop",
+  "url": "https://en.wikipedia.org/wiki/Apache_Hadoop",
+  "domains": ["big data"],
+  "categories": ["data processing"],
+  "links": {
+    "self": "/glossary/apache-hadoop"
+  }
+}
+

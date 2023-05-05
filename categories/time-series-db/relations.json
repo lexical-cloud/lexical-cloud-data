@@ -1,0 +1,30 @@
+{
+  "instance": [
+    "/products/database/aws/timestream"
+  ],
+  "intersect": {
+    "categories": [
+      "nosql"
+    ],
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "database"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "data warehousing"
+    ],
+    "domains": [
+      "serverless"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "analytics"
+    ]
+  }
+}

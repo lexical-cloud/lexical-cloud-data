@@ -11,6 +11,16 @@
     }
   },
   {
+    "name": "Amazon AppFlow",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["data integration","data transfer"],
+    "categories": ["saas"],
+    "links": {
+      "self": "/products/integration/aws/appflow"
+    }
+  },
+  {
     "name": "Amazon Athena",
     "providers": ["aws"],
     "services": ["database","analytics"],
@@ -74,6 +84,19 @@
     }
   },
   {
+    "name": "Amazon CodeGuru",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "links": {
+      "self": "/products/developer-tools/aws/codeguru",
+      "components": [
+        "/products/developer-tools/aws/codeguru/components/profiler",
+        "/products/developer-tools/aws/codeguru/components/reviewer"
+      ]
+    }
+  },
+  {
     "name": "Amazon Cognito",
     "providers": ["aws"],
     "services": ["identity"],
@@ -81,7 +104,21 @@
     "categories": ["identity provider"],
     "features": ["user enrollment","authentication","authorization"],
     "links": {
-      "self": "/products/identity/aws/cognito"
+      "self": "/products/identity/aws/cognito",
+      "components": [
+        "/products/identity/aws/cognito/components/identity-pool",
+        "/products/identity/aws/cognito/components/user-pool"
+      ]
+    }
+  },
+  {
+    "name": "Amazon DataZone",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/aws/datazone"
     }
   },
   {
@@ -177,6 +214,20 @@
     }
   },
   {
+    "name": "Amazon EMR",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["big data","managed service","serverless"],
+    "categories": ["data processing"],
+    "features": ["scale-to-zero"],
+    "links": {
+      "self": "/products/analytics/aws/emr",
+      "components": [
+        "/products/analytics/aws/emr/components/emrfs"
+      ]
+    }
+  },
+  {
     "name": "Amazon EventBridge",
     "providers": ["aws"],
     "services": ["integration"],
@@ -204,7 +255,13 @@
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
     "links": {
-      "self": "/products/integration/aws/kinesis"
+      "self": "/products/integration/aws/kinesis",
+      "components": [
+        "/products/integration/aws/kinesis/components/agent",
+        "/products/integration/aws/kinesis/components/data-analytics",
+        "/products/integration/aws/kinesis/components/data-firehose",
+        "/products/integration/aws/kinesis/components/data-streams"
+      ]
     }
   },
   {
@@ -236,6 +293,28 @@
     "categories": ["data privacy","risk assessment"],
     "links": {
       "self": "/products/security/aws/macie"
+    }
+  },
+  {
+    "name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["managed service","process modeling"],
+    "categories": ["multi-cloud","workflow engine"],
+    "features": ["apache airflow"],
+    "links": {
+      "self": "/products/integration/aws/mwaa"
+    }
+  },
+  {
+    "name": "Amazon OpenSearch Service",
+    "providers": ["aws"],
+    "services": ["analytics","monitor"],
+    "domains": ["managed service","serverless","observability"],
+    "categories": ["dashboards"],
+    "features": ["alerts"],
+    "links": {
+      "self": "/products/analytics/aws/opensearch"
     }
   },
   {
@@ -275,7 +354,7 @@
     "providers": ["aws"],
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["data warehousing"],
+    "categories": ["data warehousing","column-oriented db"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -349,6 +428,16 @@
     "categories": ["message queue"],
     "links": {
       "self": "/products/integration/aws/sqs"
+    }
+  },
+  {
+    "name": "Amazon Timestream",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","serverless"],
+    "categories": ["data warehousing","time series db"],
+    "links": {
+      "self": "/products/database/aws/timestream"
     }
   },
   {
@@ -705,6 +794,22 @@
     }
   },
   {
+    "name": "AWS Glue",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue",
+      "components": [
+        "/products/integration/aws/glue/components/classifiers",
+        "/products/integration/aws/glue/components/crawlers",
+        "/products/integration/aws/glue/components/data-catalog",
+        "/products/integration/aws/glue/components/jobs"
+      ]
+    }
+  },
+  {
     "name": "AWS GuardDuty",
     "providers": ["aws"],
     "services": ["monitor"],
@@ -744,6 +849,16 @@
     "categories": ["data security","key management","auditing"],
     "links": {
       "self": "/products/security/aws/kms"
+    }
+  },
+  {
+    "name": "AWS Lake Formation",
+    "providers": ["aws"],
+    "services": ["analytics","governance"],
+    "domains": ["big data"],
+    "categories": ["access control","metadata"],
+    "links": {
+      "self": "/products/analytics/aws/lake-formation"
     }
   },
   {
@@ -977,7 +1092,11 @@
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","workflow engine"],
     "links": {
-      "self": "/products/integration/aws/step-functions"
+      "self": "/products/integration/aws/step-functions",
+      "models": [
+        "/products/integration/aws/step-functions/models/express",
+        "/products/integration/aws/step-functions/models/standard"
+      ]
     }
   },
   {
@@ -1008,6 +1127,16 @@
     "categories": ["configuration management","secret management"],
     "links": {
       "self": "/products/developer-tools/aws/systems-manager-parameter-store"
+    }
+  },
+  {
+    "name": "AWS Transfer Family",
+    "providers": ["aws"],
+    "services": ["migration","integration"],
+    "domains": ["data management"],
+    "categories": ["data transfer"],
+    "links": {
+      "self": "/products/migration/aws/transfer"
     }
   },
   {
@@ -1094,7 +1223,7 @@
     "name": "AWS X-Ray",
     "providers": ["aws"],
     "services": ["monitor"],
-    "domains": ["systems management"],
+    "domains": ["observability","systems management"],
     "categories": ["application debugger","root cause analysis"],
     "links": {
       "self": "/products/monitor/aws/xray"

@@ -11,6 +11,16 @@
     }
   },
   {
+    "name": "Amazon AppFlow",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["data integration","data transfer"],
+    "categories": ["saas"],
+    "links": {
+      "self": "/products/integration/aws/appflow"
+    }
+  },
+  {
     "name": "Amazon EventBridge",
     "providers": ["aws"],
     "services": ["integration"],
@@ -27,7 +37,24 @@
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
     "links": {
-      "self": "/products/integration/aws/kinesis"
+      "self": "/products/integration/aws/kinesis",
+      "components": [
+        "/products/integration/aws/kinesis/components/agent",
+        "/products/integration/aws/kinesis/components/data-analytics",
+        "/products/integration/aws/kinesis/components/data-firehose",
+        "/products/integration/aws/kinesis/components/data-streams"
+      ]
+    }
+  },
+  {
+    "name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["managed service","process modeling"],
+    "categories": ["multi-cloud","workflow engine"],
+    "features": ["apache airflow"],
+    "links": {
+      "self": "/products/integration/aws/mwaa"
     }
   },
   {
@@ -51,6 +78,22 @@
     }
   },
   {
+    "name": "AWS Glue",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue",
+      "components": [
+        "/products/integration/aws/glue/components/classifiers",
+        "/products/integration/aws/glue/components/crawlers",
+        "/products/integration/aws/glue/components/data-catalog",
+        "/products/integration/aws/glue/components/jobs"
+      ]
+    }
+  },
+  {
     "name": "Azure Logic Apps",
     "providers": ["azure"],
     "services": ["integration"],
@@ -67,7 +110,11 @@
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","workflow engine"],
     "links": {
-      "self": "/products/integration/aws/step-functions"
+      "self": "/products/integration/aws/step-functions",
+      "models": [
+        "/products/integration/aws/step-functions/models/express",
+        "/products/integration/aws/step-functions/models/standard"
+      ]
     }
   },
   {
@@ -79,6 +126,19 @@
     "features": ["rest api","http api","websocket api"],
     "links": {
       "self": "/products/integration/azure/api-management"
+    }
+  },
+  {
+    "name": "Azure Data Factory",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["process modeling"],
+    "categories": ["data integration"],
+    "links": {
+      "self": "/products/integration/azure/data-factory",
+      "components": [
+        "/products/integration/azure/data-factory/components/managed-airflow"
+      ]
     }
   },
   {
@@ -133,6 +193,68 @@
     }
   },
   {
+    "name": "AWS Step Functions",
+    "model": "Express State Machine",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","workflow engine"],
+    "features": ["transient state","at least once execution","execution based pricing","short duration"],
+    "links": {
+      "self": "/products/integration/aws/step-functions/models/express",
+      "parent": "/products/integration/aws/step-functions"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Classifiers",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["metadata","data classification","workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/classifiers",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Crawlers",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["metadata","data discovery","workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/crawlers",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Data Catalog",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["metadata","workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/data-catalog",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Jobs",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["data processing","workflow engine"],
+    "features": ["apache spark"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/jobs",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
     "name": "Google Cloud API Gateway",
     "providers": ["gcp"],
     "services": ["integration"],
@@ -160,18 +282,19 @@
     "services": ["integration"],
     "domains": ["managed service","process modeling"],
     "categories": ["multi-cloud","workflow engine"],
+    "features": ["apache airflow"],
     "links": {
       "self": "/products/integration/gcp/composer"
     }
   },
   {
-    "name": "Google Cloud Dataflow",
+    "name": "Google Cloud Data Fusion",
     "providers": ["gcp"],
     "services": ["integration"],
-    "domains": ["eventing","serverless"],
-    "categories": ["data streaming"],
+    "domains": ["process modeling","data integration"],
+    "categories": ["workflow engine"],
     "links": {
-      "self": "/products/integration/gcp/dataflow"
+      "self": "/products/integration/gcp/data-fusion"
     }
   },
   {
@@ -203,6 +326,82 @@
     "categories": ["workflow engine"],
     "links": {
       "self": "/products/integration/gcp/workflows"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Agent",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data transfer","data streaming"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/agent",
+      "parent": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Data Analytics",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data processing","data streaming"],
+    "features": ["apache flink","apache beam"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/data-analytics",
+      "parent": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Data Firehose",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data processing","data streaming"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/data-firehose",
+      "parent": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Data Streams",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["managed service","eventing","serverless"],
+    "categories": ["data processing","data streaming"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/data-streams",
+      "parent": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Azure Data Factory",
+    "component": "Managed Airflow",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["process modeling"],
+    "categories": ["data integration"],
+    "features": ["apache airflow"],
+    "labels": ["public preview"],
+    "links": {
+      "self": "/products/integration/azure/data-factory/components/managed-airflow",
+      "parent": "/products/integration/azure/data-factory"
+    }
+  },
+  {
+    "name": "AWS Step Functions",
+    "model": "Standard State Machine",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","workflow engine"],
+    "features": ["persistent state","exactly once execution","transition based pricing","extended duration"],
+    "links": {
+      "self": "/products/integration/aws/step-functions/models/standard",
+      "parent": "/products/integration/aws/step-functions"
     }
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "name": "Amazon CodeGuru",
+    "component": "CodeGuru Profiler",
+    "providers": ["aws"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["performance monitoring"],
+    "links": {
+      "self": "/products/developer-tools/aws/codeguru/components/profiler",
+      "parent": "/products/developer-tools/aws/codeguru"
+    }
+  },
+  {
     "name": "Google Cloud Profiler",
     "providers": ["gcp"],
     "services": ["monitor"],

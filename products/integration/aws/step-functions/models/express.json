@@ -1,0 +1,14 @@
+{
+  "name": "AWS Step Functions",
+  "model": "Express State Machine",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["end-user computing","process modeling","serverless"],
+  "categories": ["low-code","workflow engine"],
+  "features": ["transient state","at least once execution","execution based pricing","short duration"],
+  "links": {
+    "self": "/products/integration/aws/step-functions/models/express",
+    "parent": "/products/integration/aws/step-functions"
+  }
+}
+

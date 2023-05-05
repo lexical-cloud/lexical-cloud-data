@@ -10,7 +10,8 @@
     "/products/storage/azure/queue-storage",
     "/products/integration/azure/service-bus",
     "/products/integration/azure/signalr",
-    "/products/integration/gcp/dataflow",
+    "/products/analytics/azure/stream-analytics",
+    "/products/analytics/gcp/dataflow",
     "/products/integration/gcp/pubsub"
   ],
   "intersect": {
@@ -25,13 +26,15 @@
       "data streaming",
       "push notifications",
       "message queue",
-      "real-time communication"
+      "real-time communication",
+      "data processing"
     ],
     "domains": [
       "serverless"
     ],
     "features": [
-      "websocket api"
+      "websocket api",
+      "apache beam"
     ],
     "providers": [
       "aws",
@@ -39,7 +42,8 @@
       "gcp"
     ],
     "services": [
-      "storage"
+      "storage",
+      "analytics"
     ]
   }
 }

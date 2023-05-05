@@ -11,6 +11,7 @@
     "/products/ai/azure/machine-learning",
     "/products/ai/azure/qna-maker",
     "/products/database/gcp/bigquery/components/ml",
+    "/products/developer-tools/github/copilot",
     "/products/ai/gcp/ai-hub",
     "/products/ai/gcp/dialogflow",
     "/products/ai/gcp/natural-language-ai",
@@ -35,6 +36,8 @@
       "machine learning",
       "serverless",
       "end-user computing",
+      "developer toolchain",
+      "generative ai",
       "managed service"
     ],
     "features": [
@@ -52,7 +55,11 @@
     "providers": [
       "aws",
       "azure",
+      "github",
       "gcp"
+    ],
+    "services": [
+      "developer tools"
     ]
   }
 }

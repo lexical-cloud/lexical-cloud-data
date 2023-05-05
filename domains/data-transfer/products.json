@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Amazon AppFlow",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["data integration","data transfer"],
+    "categories": ["saas"],
+    "links": {
+      "self": "/products/integration/aws/appflow"
+    }
+  }
+]

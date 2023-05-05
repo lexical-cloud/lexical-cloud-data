@@ -1,13 +1,20 @@
 {
   "instance": [
     "/products/database/aws/athena",
+    "/products/analytics/aws/emr",
+    "/products/analytics/aws/opensearch",
     "/products/analytics/aws/quicksight",
     "/products/database/aws/redshift",
+    "/products/database/aws/timestream",
+    "/products/analytics/aws/lake-formation",
     "/products/analytics/azure/data-lake-analytics",
     "/products/analytics/azure/databricks",
     "/products/analytics/azure/hdinsight",
+    "/products/analytics/azure/stream-analytics",
     "/products/analytics/azure/synapse-analytics",
+    "/products/database/gcp/biglake",
     "/products/database/gcp/bigquery",
+    "/products/analytics/gcp/dataflow",
     "/products/analytics/gcp/dataproc",
     "/products/analytics/gcp/looker"
   ],
@@ -16,15 +23,35 @@
     "categories": [
       "sql compliant",
       "unstructured data",
+      "data processing",
       "dashboards",
       "data warehousing",
-      "data processing"
+      "column-oriented db",
+      "time series db",
+      "access control",
+      "metadata",
+      "data streaming",
+      "multi-cloud"
     ],
     "domains": [
       "big data",
       "data management",
       "serverless",
-      "managed service"
+      "managed service",
+      "observability",
+      "eventing"
+    ],
+    "features": [
+      "scale-to-zero",
+      "alerts",
+      "apache spark",
+      "apache hadoop",
+      "apache hbase",
+      "apache hive",
+      "apache kafka",
+      "apache beam",
+      "apache flink",
+      "semantic"
     ],
     "providers": [
       "aws",
@@ -32,7 +59,9 @@
       "gcp"
     ],
     "services": [
-      "database"
+      "database",
+      "monitor",
+      "governance"
     ]
   }
 }

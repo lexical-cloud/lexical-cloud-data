@@ -4,6 +4,7 @@
   "services": ["analytics"],
   "domains": ["big data"],
   "categories": ["data processing"],
+  "features": ["apache hadoop","apache hbase","apache hive","apache kafka","apache spark"],
   "links": {
     "self": "/products/analytics/azure/hdinsight"
   }

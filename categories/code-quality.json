@@ -1,0 +1,8 @@
+{
+  "id": "code-quality",
+  "name": "code quality",
+  "type": "category",
+  "links": {
+    "self": "/categories/code-quality"
+  }
+}

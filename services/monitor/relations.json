@@ -4,6 +4,7 @@
     "/products/monitor/aws/cloudwatch",
     "/products/monitor/aws/cloudwatch-app-insights",
     "/products/monitor/aws/inspector",
+    "/products/analytics/aws/opensearch",
     "/products/monitor/aws/config",
     "/products/monitor/aws/guardduty",
     "/products/monitor/aws/health-dashboard",
@@ -41,6 +42,8 @@
       "observability",
       "virtualization",
       "systems management",
+      "managed service",
+      "serverless",
       "connectivity"
     ],
     "features": [
@@ -62,6 +65,7 @@
       "gcp"
     ],
     "services": [
+      "analytics",
       "network"
     ]
   }

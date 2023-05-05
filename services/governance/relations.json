@@ -1,11 +1,13 @@
 {
   "instance": [
+    "/products/governance/aws/datazone",
     "/products/governance/aws/accounts",
     "/products/governance/aws/artifact",
     "/products/governance/aws/budgets",
     "/products/governance/aws/control-tower",
     "/products/governance/aws/cost-and-usage-report",
     "/products/governance/aws/cost-explorer",
+    "/products/analytics/aws/lake-formation",
     "/products/governance/aws/license-manager",
     "/products/governance/aws/organizations",
     "/products/governance/aws/pricing-calculator",
@@ -30,18 +32,24 @@
     "/products/governance/gcp/compliance-reports-manager",
     "/products/governance/gcp/pricing-calculator",
     "/products/governance/gcp/projects",
-    "/products/governance/gcp/quotas"
+    "/products/governance/gcp/quotas",
+    "/products/governance/gcp/dataplex",
+    "/products/governance/azure/purview"
   ],
   "intersect": {},
   "symdiff": {
     "categories": [
-      "resource management",
       "compliance",
+      "metadata",
+      "data discovery",
+      "data classification",
+      "data lineage",
+      "resource management",
       "auditing",
       "cost management",
+      "access control",
       "license management",
       "portfolio management",
-      "access control",
       "risk assessment",
       "best practices",
       "environment management",
@@ -50,6 +58,7 @@
     "domains": [
       "systems management",
       "finops",
+      "big data",
       "virtualization"
     ],
     "features": [
@@ -63,6 +72,9 @@
       "aws",
       "azure",
       "gcp"
+    ],
+    "services": [
+      "analytics"
     ]
   }
 }

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AWS Step Functions",
+    "model": "Standard State Machine",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["end-user computing","process modeling","serverless"],
+    "categories": ["low-code","workflow engine"],
+    "features": ["persistent state","exactly once execution","transition based pricing","extended duration"],
+    "links": {
+      "self": "/products/integration/aws/step-functions/models/standard",
+      "parent": "/products/integration/aws/step-functions"
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Amazon DataZone",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/aws/datazone"
+    }
+  },
+  {
+    "name": "AWS Lake Formation",
+    "providers": ["aws"],
+    "services": ["analytics","governance"],
+    "domains": ["big data"],
+    "categories": ["access control","metadata"],
+    "links": {
+      "self": "/products/analytics/aws/lake-formation"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Classifiers",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["metadata","data classification","workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/classifiers",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Crawlers",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["metadata","data discovery","workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/crawlers",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Data Catalog",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["metadata","workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/data-catalog",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
+    "name": "Google Dataplex",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/gcp/dataplex"
+    }
+  },
+  {
+    "name": "Microsoft Purview",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/azure/purview"
+    }
+  }
+]

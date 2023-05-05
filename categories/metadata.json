@@ -1,0 +1,16 @@
+{
+  "id": "metadata",
+  "name": "metadata",
+  "type": "category",
+  "links": {
+    "self": "/categories/metadata"
+  },
+  "definition": {
+    "title": "Metadata",
+    "url": "https://en.wikipedia.org/wiki/Metadata",
+    "domains": ["data management"],
+    "links": {
+      "self": "/glossary/metadata"
+    }
+  }
+}

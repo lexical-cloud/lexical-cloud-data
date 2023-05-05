@@ -11,6 +11,7 @@
     "/products/storage/azure/files",
     "/products/storage/azure/queue-storage",
     "/products/storage/azure/table-storage",
+    "/products/analytics/aws/emr/components/emrfs",
     "/products/storage/gcp/filestore",
     "/products/storage/gcp/peristent-disk",
     "/products/storage/gcp/cloud-storage"
@@ -34,6 +35,7 @@
       "systems management",
       "modernization",
       "eventing",
+      "big data",
       "managed service"
     ],
     "providers": [

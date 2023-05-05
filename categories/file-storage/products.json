@@ -20,6 +20,19 @@
     }
   },
   {
+    "name": "Amazon EMR",
+    "component": "EMR File System",
+    "providers": ["aws"],
+    "services": ["storage","analytics"],
+    "domains": ["big data","data management","managed service","serverless"],
+    "categories": ["file storage","object storage","data processing"],
+    "features": ["scale-to-zero"],
+    "links": {
+      "self": "/products/analytics/aws/emr/components/emrfs",
+      "parent": "/products/analytics/aws/emr"
+    }
+  },
+  {
     "name": "Google Cloud Filestore",
     "providers": ["gcp"],
     "services": ["storage"],

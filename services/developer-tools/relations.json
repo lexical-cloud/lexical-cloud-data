@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/developer-tools/aws/codeguru",
     "/products/developer-tools/aws/appconfig",
     "/products/developer-tools/aws/cloud9",
     "/products/developer-tools/aws/cloudformation",
@@ -23,6 +24,7 @@
     "/products/developer-tools/azure/test-plans",
     "/products/developer-tools/github/github",
     "/products/developer-tools/github/actions",
+    "/products/developer-tools/github/copilot",
     "/products/developer-tools/gcp/cloud-source-repos",
     "/products/developer-tools/gcp/vm-manager"
   ],
@@ -47,11 +49,12 @@
       "virtual machines"
     ],
     "domains": [
-      "devops",
       "developer toolchain",
+      "devops",
       "virtualization",
       "systems management",
-      "project management"
+      "project management",
+      "generative ai"
     ],
     "features": [
       "community"
@@ -61,6 +64,9 @@
       "azure",
       "github",
       "gcp"
+    ],
+    "services": [
+      "ai"
     ]
   }
 }

@@ -1,0 +1,32 @@
+{
+  "instance": [
+    "/products/analytics/azure/hdinsight"
+  ],
+  "intersect": {
+    "categories": [
+      "relational db"
+    ],
+    "domains": [
+      "data management",
+      "big data"
+    ],
+    "services": [
+      "database",
+      "analytics"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "data processing"
+    ],
+    "features": [
+      "apache hadoop",
+      "apache hive",
+      "apache kafka",
+      "apache spark"
+    ],
+    "providers": [
+      "azure"
+    ]
+  }
+}

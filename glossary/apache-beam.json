@@ -1,0 +1,10 @@
+{
+  "title": "Apache Beam",
+  "url": "https://en.wikipedia.org/wiki/Apache_Beam",
+  "domains": ["big data"],
+  "categories": ["data processing"],
+  "links": {
+    "self": "/glossary/apache-beam"
+  }
+}
+

@@ -1,0 +1,10 @@
+{
+  "title": "Apache Spark",
+  "url": "https://en.wikipedia.org/wiki/Apache_Spark",
+  "domains": ["big data"],
+  "categories": ["data processing"],
+  "links": {
+    "self": "/glossary/apache-spark"
+  }
+}
+

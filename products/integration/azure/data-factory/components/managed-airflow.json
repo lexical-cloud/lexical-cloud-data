@@ -1,0 +1,15 @@
+{
+  "name": "Azure Data Factory",
+  "component": "Managed Airflow",
+  "providers": ["azure"],
+  "services": ["integration"],
+  "domains": ["process modeling"],
+  "categories": ["data integration"],
+  "features": ["apache airflow"],
+  "labels": ["public preview"],
+  "links": {
+    "self": "/products/integration/azure/data-factory/components/managed-airflow",
+    "parent": "/products/integration/azure/data-factory"
+  }
+}
+

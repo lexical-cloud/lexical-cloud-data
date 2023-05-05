@@ -4,9 +4,19 @@
     "providers": ["aws"],
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["data warehousing"],
+    "categories": ["data warehousing","column-oriented db"],
     "links": {
       "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "Amazon Timestream",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","serverless"],
+    "categories": ["data warehousing","time series db"],
+    "links": {
+      "self": "/products/database/aws/timestream"
     }
   },
   {
@@ -20,11 +30,21 @@
     }
   },
   {
+    "name": "Google Cloud BigLake",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["data management"],
+    "categories": ["data warehousing","multi-cloud"],
+    "links": {
+      "self": "/products/database/gcp/biglake"
+    }
+  },
+  {
     "name": "Google Cloud BigQuery",
     "providers": ["gcp"],
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
-    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [

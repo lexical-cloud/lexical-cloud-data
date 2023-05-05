@@ -1,0 +1,17 @@
+{
+  "id": "apache-hive",
+  "name": "apache hive",
+  "type": "feature",
+  "links": {
+    "self": "/features/apache-hive"
+  },
+  "definition": {
+    "title": "Apache Hive",
+    "url": "https://en.wikipedia.org/wiki/Apache_Hive",
+    "domains": ["big data"],
+    "categories": ["data warehousing"],
+    "links": {
+      "self": "/glossary/apache-hive"
+    }
+  }
+}

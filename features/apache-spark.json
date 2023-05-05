@@ -1,0 +1,17 @@
+{
+  "id": "apache-spark",
+  "name": "apache spark",
+  "type": "feature",
+  "links": {
+    "self": "/features/apache-spark"
+  },
+  "definition": {
+    "title": "Apache Spark",
+    "url": "https://en.wikipedia.org/wiki/Apache_Spark",
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links": {
+      "self": "/glossary/apache-spark"
+    }
+  }
+}

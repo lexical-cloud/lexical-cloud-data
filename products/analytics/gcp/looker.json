@@ -4,6 +4,7 @@
   "services": ["analytics"],
   "domains": ["serverless","big data"],
   "categories": ["dashboards"],
+  "features": ["semantic"],
   "links": {
     "self": "/products/analytics/gcp/looker"
   }

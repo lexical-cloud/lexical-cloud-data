@@ -1,6 +1,7 @@
 {
   "instance": [
     "/products/monitor/aws/cloudwatch-app-insights",
+    "/products/analytics/aws/opensearch",
     "/products/analytics/aws/quicksight",
     "/products/monitor/azure/monitor-app-insights",
     "/products/analytics/gcp/looker",
@@ -18,12 +19,14 @@
     ],
     "domains": [
       "observability",
+      "managed service",
       "serverless",
       "big data"
     ],
     "features": [
       "alerts",
       "automation",
+      "semantic",
       "open telemetry"
     ],
     "providers": [

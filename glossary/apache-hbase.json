@@ -1,0 +1,10 @@
+{
+  "title": "Apache HBase",
+  "url": "https://en.wikipedia.org/wiki/Apache_HBase",
+  "domains": ["big data"],
+  "categories": ["relational db"],
+  "links": {
+    "self": "/glossary/apache-hbase"
+  }
+}
+

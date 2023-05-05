@@ -32,6 +32,17 @@
     }
   },
   {
+    "name": "Amazon OpenSearch Service",
+    "providers": ["aws"],
+    "services": ["analytics","monitor"],
+    "domains": ["managed service","serverless","observability"],
+    "categories": ["dashboards"],
+    "features": ["alerts"],
+    "links": {
+      "self": "/products/analytics/aws/opensearch"
+    }
+  },
+  {
     "name": "AWS GuardDuty",
     "providers": ["aws"],
     "services": ["monitor"],
@@ -51,6 +62,16 @@
     "features": ["alerts","maintenance schedule","reports","personalization"],
     "links": {
       "self": "/products/monitor/aws/health-dashboard"
+    }
+  },
+  {
+    "name": "AWS X-Ray",
+    "providers": ["aws"],
+    "services": ["monitor"],
+    "domains": ["observability","systems management"],
+    "categories": ["application debugger","root cause analysis"],
+    "links": {
+      "self": "/products/monitor/aws/xray"
     }
   },
   {

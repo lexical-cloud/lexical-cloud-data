@@ -1,0 +1,17 @@
+{
+  "id": "apache-kafka",
+  "name": "apache kafka",
+  "type": "feature",
+  "links": {
+    "self": "/features/apache-kafka"
+  },
+  "definition": {
+    "title": "Apache Kafka",
+    "url": "https://en.wikipedia.org/wiki/Apache_Kafka",
+    "domains": ["big data"],
+    "categories": ["data streaming"],
+    "links": {
+      "self": "/glossary/apache-kafka"
+    }
+  }
+}

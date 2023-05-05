@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amazon DataZone",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/aws/datazone"
+    }
+  },
+  {
+    "name": "Google Dataplex",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/gcp/dataplex"
+    }
+  },
+  {
+    "name": "Microsoft Purview",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/azure/purview"
+    }
+  }
+]

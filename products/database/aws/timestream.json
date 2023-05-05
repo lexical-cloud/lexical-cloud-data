@@ -1,0 +1,11 @@
+{
+  "name": "Amazon Timestream",
+  "providers": ["aws"],
+  "services": ["analytics","database"],
+  "domains": ["data management","serverless"],
+  "categories": ["data warehousing","time series db"],
+  "links": {
+    "self": "/products/database/aws/timestream"
+  }
+}
+

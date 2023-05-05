@@ -24,7 +24,8 @@
     "categories": [
       "unstructured data",
       "relational db",
-      "data warehousing"
+      "data warehousing",
+      "column-oriented db"
     ],
     "domains": [
       "big data",

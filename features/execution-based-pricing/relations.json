@@ -1,0 +1,13 @@
+{
+  "instance": [
+    "/products/integration/aws/step-functions/models/express"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "features": [
+      "transient state",
+      "at least once execution",
+      "short duration"
+    ]
+  }
+}

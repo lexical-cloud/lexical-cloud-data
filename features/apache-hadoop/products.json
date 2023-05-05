@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Azure HDInsights",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "features": ["apache hadoop","apache hbase","apache hive","apache kafka","apache spark"],
+    "links": {
+      "self": "/products/analytics/azure/hdinsight"
+    }
+  },
+  {
+    "name": "Google Cloud Dataproc",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "features": ["apache hadoop","apache spark","apache flink","apache beam"],
+    "links": {
+      "self": "/products/analytics/gcp/dataproc"
+    }
+  }
+]

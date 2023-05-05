@@ -1,0 +1,13 @@
+{
+  "name": "AWS Glue",
+  "component": "Glue Data Catalog",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["serverless","process modeling","data integration"],
+  "categories": ["metadata","workflow engine"],
+  "links": {
+    "self": "/products/integration/aws/glue/components/data-catalog",
+    "parent": "/products/integration/aws/glue"
+  }
+}
+

@@ -1,0 +1,13 @@
+{
+  "instance": [
+    "/products/integration/aws/step-functions/models/standard"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "features": [
+      "persistent state",
+      "transition based pricing",
+      "extended duration"
+    ]
+  }
+}

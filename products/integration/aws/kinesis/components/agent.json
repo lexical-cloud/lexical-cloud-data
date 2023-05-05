@@ -1,0 +1,13 @@
+{
+  "name": "Amazon Kinesis",
+  "component": "Kinesis Agent",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["data transfer","data streaming"],
+  "links": {
+    "self": "/products/integration/aws/kinesis/components/agent",
+    "parent": "/products/integration/aws/kinesis"
+  }
+}
+

@@ -1,13 +1,18 @@
 {
   "instance": [
     "/products/integration/aws/api-gateway",
+    "/products/integration/aws/appflow",
     "/products/integration/aws/eventbridge",
     "/products/integration/aws/kinesis",
+    "/products/integration/aws/mwaa",
     "/products/integration/aws/sns",
     "/products/integration/aws/sqs",
+    "/products/integration/aws/glue",
     "/products/integration/azure/logic-apps",
     "/products/integration/aws/step-functions",
+    "/products/migration/aws/transfer",
     "/products/integration/azure/api-management",
+    "/products/integration/azure/data-factory",
     "/products/integration/azure/event-grid",
     "/products/integration/azure/event-hubs",
     "/products/integration/azure/notification-hubs",
@@ -17,7 +22,7 @@
     "/products/integration/gcp/api-gateway",
     "/products/integration/gcp/apigee",
     "/products/integration/gcp/composer",
-    "/products/integration/gcp/dataflow",
+    "/products/integration/gcp/data-fusion",
     "/products/integration/gcp/cloud-endpoints",
     "/products/integration/gcp/pubsub",
     "/products/integration/gcp/workflows"
@@ -26,31 +31,38 @@
   "symdiff": {
     "categories": [
       "api lifecycle",
+      "saas",
       "event bus",
       "pub-sub",
       "data streaming",
+      "multi-cloud",
+      "workflow engine",
       "push notifications",
       "message queue",
       "low-code",
       "no-code",
-      "workflow engine",
+      "data transfer",
       "api gateway",
       "api portal",
-      "real-time communication",
-      "multi-cloud"
+      "data integration",
+      "real-time communication"
     ],
     "domains": [
       "api management",
       "serverless",
+      "data integration",
+      "data transfer",
       "eventing",
-      "end-user computing",
+      "managed service",
       "process modeling",
-      "managed service"
+      "end-user computing",
+      "data management"
     ],
     "features": [
       "rest api",
       "http api",
-      "websocket api"
+      "websocket api",
+      "apache airflow"
     ],
     "providers": [
       "aws",
@@ -58,6 +70,7 @@
       "gcp"
     ],
     "services": [
+      "migration",
       "storage"
     ]
   }

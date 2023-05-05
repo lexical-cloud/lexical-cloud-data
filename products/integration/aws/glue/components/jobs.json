@@ -1,0 +1,14 @@
+{
+  "name": "AWS Glue",
+  "component": "Glue Jobs",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["serverless","process modeling","data integration"],
+  "categories": ["data processing","workflow engine"],
+  "features": ["apache spark"],
+  "links": {
+    "self": "/products/integration/aws/glue/components/jobs",
+    "parent": "/products/integration/aws/glue"
+  }
+}
+

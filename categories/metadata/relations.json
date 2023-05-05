@@ -1,0 +1,37 @@
+{
+  "instance": [
+    "/products/governance/aws/datazone",
+    "/products/analytics/aws/lake-formation",
+    "/products/integration/aws/glue/components/classifiers",
+    "/products/integration/aws/glue/components/crawlers",
+    "/products/integration/aws/glue/components/data-catalog",
+    "/products/governance/gcp/dataplex",
+    "/products/governance/azure/purview"
+  ],
+  "intersect": {
+    "domains": [
+      "data management"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "compliance",
+      "data discovery",
+      "data classification",
+      "data lineage",
+      "access control"
+    ],
+    "domains": [
+      "big data"
+    ],
+    "providers": [
+      "aws",
+      "gcp",
+      "azure"
+    ],
+    "services": [
+      "governance",
+      "analytics"
+    ]
+  }
+}

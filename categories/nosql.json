@@ -1,0 +1,8 @@
+{
+  "id": "nosql",
+  "name": "nosql",
+  "type": "category",
+  "links": {
+    "self": "/categories/nosql"
+  }
+}

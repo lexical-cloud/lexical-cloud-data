@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/analytics/aws/emr",
     "/products/compute/aws/lambda",
     "/products/compute/azure/container-apps",
     "/products/compute/azure/functions",
@@ -14,10 +15,13 @@
   },
   "symdiff": {
     "categories": [
+      "data processing",
       "faas",
       "container orchestrator"
     ],
     "domains": [
+      "big data",
+      "managed service",
       "containerization"
     ],
     "providers": [
@@ -26,6 +30,7 @@
       "gcp"
     ],
     "services": [
+      "analytics",
       "compute"
     ]
   }

@@ -16,7 +16,11 @@
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","workflow engine"],
     "links": {
-      "self": "/products/integration/aws/step-functions"
+      "self": "/products/integration/aws/step-functions",
+      "models": [
+        "/products/integration/aws/step-functions/models/express",
+        "/products/integration/aws/step-functions/models/standard"
+      ]
     }
   },
   {
@@ -28,6 +32,13 @@
     "features": ["conversational interface"],
     "links": {
       "self": "/products/ai/azure/qna-maker"
+    }
+  },
+  {
+    "name": "Looker Studio",
+    "domains": ["end-user computing"],
+    "links": {
+      "self": "/products/analytics/gcp/looker/components/studio"
     }
   },
   {

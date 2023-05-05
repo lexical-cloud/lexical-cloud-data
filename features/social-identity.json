@@ -1,0 +1,17 @@
+{
+  "id": "social-identity",
+  "name": "social identity",
+  "type": "feature",
+  "links": {
+    "self": "/features/social-identity"
+  },
+  "definition": {
+    "title": "Social Identity",
+    "url": "https://en.wikipedia.org/wiki/Social_login",
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "links": {
+      "self": "/glossary/social-identity"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "short-duration",
+  "name": "short duration",
+  "type": "feature",
+  "links": {
+    "self": "/features/short-duration"
+  }
+}

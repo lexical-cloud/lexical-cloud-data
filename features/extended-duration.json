@@ -1,0 +1,8 @@
+{
+  "id": "extended-duration",
+  "name": "extended duration",
+  "type": "feature",
+  "links": {
+    "self": "/features/extended-duration"
+  }
+}

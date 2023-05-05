@@ -1,5 +1,19 @@
 [
   {
+    "name": "Amazon EMR",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["big data","managed service","serverless"],
+    "categories": ["data processing"],
+    "features": ["scale-to-zero"],
+    "links": {
+      "self": "/products/analytics/aws/emr",
+      "components": [
+        "/products/analytics/aws/emr/components/emrfs"
+      ]
+    }
+  },
+  {
     "name": "Azure Data Lake Analytics",
     "providers": ["azure"],
     "services": ["analytics"],
@@ -15,6 +29,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache spark"],
     "links": {
       "self": "/products/analytics/azure/databricks"
     }
@@ -25,8 +40,44 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache hadoop","apache hbase","apache hive","apache kafka","apache spark"],
     "links": {
       "self": "/products/analytics/azure/hdinsight"
+    }
+  },
+  {
+    "name": "Azure Stream Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/azure/stream-analytics"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Jobs",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["data processing","workflow engine"],
+    "features": ["apache spark"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/jobs",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
+    "name": "Google Cloud Dataflow",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/gcp/dataflow"
     }
   },
   {
@@ -35,8 +86,46 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache hadoop","apache spark","apache flink","apache beam"],
     "links": {
       "self": "/products/analytics/gcp/dataproc"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Data Analytics",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data processing","data streaming"],
+    "features": ["apache flink","apache beam"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/data-analytics",
+      "parent": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Data Firehose",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data processing","data streaming"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/data-firehose",
+      "parent": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Data Streams",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["managed service","eventing","serverless"],
+    "categories": ["data processing","data streaming"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/data-streams",
+      "parent": "/products/integration/aws/kinesis"
     }
   }
 ]
