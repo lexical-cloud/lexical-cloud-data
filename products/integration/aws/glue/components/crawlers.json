@@ -1,0 +1,13 @@
+{
+  "name": "AWS Glue",
+  "component": "Glue Crawlers",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["serverless","process modeling","data integration"],
+  "categories": ["metadata","data discovery","workflow engine"],
+  "links": {
+    "self": "/products/integration/aws/glue/components/crawlers",
+    "parent": "/products/integration/aws/glue"
+  }
+}
+

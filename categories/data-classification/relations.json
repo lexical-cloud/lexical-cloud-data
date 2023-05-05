@@ -1,0 +1,25 @@
+{
+  "instance": [
+    "/products/governance/aws/datazone",
+    "/products/integration/aws/glue/components/classifiers",
+    "/products/governance/gcp/dataplex",
+    "/products/governance/azure/purview"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "compliance",
+      "metadata",
+      "data discovery",
+      "data lineage"
+    ],
+    "providers": [
+      "aws",
+      "gcp",
+      "azure"
+    ],
+    "services": [
+      "governance"
+    ]
+  }
+}

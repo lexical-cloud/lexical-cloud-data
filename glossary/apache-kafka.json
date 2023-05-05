@@ -1,0 +1,10 @@
+{
+  "title": "Apache Kafka",
+  "url": "https://en.wikipedia.org/wiki/Apache_Kafka",
+  "domains": ["big data"],
+  "categories": ["data streaming"],
+  "links": {
+    "self": "/glossary/apache-kafka"
+  }
+}
+

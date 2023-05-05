@@ -1,5 +1,30 @@
 [
   {
+    "name": "Amazon EMR",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["big data","managed service","serverless"],
+    "categories": ["data processing"],
+    "features": ["scale-to-zero"],
+    "links": {
+      "self": "/products/analytics/aws/emr",
+      "components": [
+        "/products/analytics/aws/emr/components/emrfs"
+      ]
+    }
+  },
+  {
+    "name": "Amazon OpenSearch Service",
+    "providers": ["aws"],
+    "services": ["analytics","monitor"],
+    "domains": ["managed service","serverless","observability"],
+    "categories": ["dashboards"],
+    "features": ["alerts"],
+    "links": {
+      "self": "/products/analytics/aws/opensearch"
+    }
+  },
+  {
     "name": "Amazon QuickSight",
     "providers": ["aws"],
     "services": ["analytics"],
@@ -7,6 +32,16 @@
     "categories": ["dashboards"],
     "links": {
       "self": "/products/analytics/aws/quicksight"
+    }
+  },
+  {
+    "name": "AWS Lake Formation",
+    "providers": ["aws"],
+    "services": ["analytics","governance"],
+    "domains": ["big data"],
+    "categories": ["access control","metadata"],
+    "links": {
+      "self": "/products/analytics/aws/lake-formation"
     }
   },
   {
@@ -25,6 +60,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache spark"],
     "links": {
       "self": "/products/analytics/azure/databricks"
     }
@@ -35,8 +71,20 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache hadoop","apache hbase","apache hive","apache kafka","apache spark"],
     "links": {
       "self": "/products/analytics/azure/hdinsight"
+    }
+  },
+  {
+    "name": "Azure Stream Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/azure/stream-analytics"
     }
   },
   {
@@ -50,11 +98,36 @@
     }
   },
   {
+    "name": "Amazon EMR",
+    "component": "EMR File System",
+    "providers": ["aws"],
+    "services": ["storage","analytics"],
+    "domains": ["big data","data management","managed service","serverless"],
+    "categories": ["file storage","object storage","data processing"],
+    "features": ["scale-to-zero"],
+    "links": {
+      "self": "/products/analytics/aws/emr/components/emrfs",
+      "parent": "/products/analytics/aws/emr"
+    }
+  },
+  {
+    "name": "Google Cloud Dataflow",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/gcp/dataflow"
+    }
+  },
+  {
     "name": "Google Cloud Dataproc",
     "providers": ["gcp"],
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache hadoop","apache spark","apache flink","apache beam"],
     "links": {
       "self": "/products/analytics/gcp/dataproc"
     }
@@ -65,8 +138,16 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
+    "features": ["semantic"],
     "links": {
       "self": "/products/analytics/gcp/looker"
+    }
+  },
+  {
+    "name": "Looker Studio",
+    "domains": ["end-user computing"],
+    "links": {
+      "self": "/products/analytics/gcp/looker/components/studio"
     }
   }
 ]

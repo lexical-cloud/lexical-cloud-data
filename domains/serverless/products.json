@@ -52,6 +52,20 @@
     }
   },
   {
+    "name": "Amazon EMR",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["big data","managed service","serverless"],
+    "categories": ["data processing"],
+    "features": ["scale-to-zero"],
+    "links": {
+      "self": "/products/analytics/aws/emr",
+      "components": [
+        "/products/analytics/aws/emr/components/emrfs"
+      ]
+    }
+  },
+  {
     "name": "Amazon EventBridge",
     "providers": ["aws"],
     "services": ["integration"],
@@ -68,7 +82,13 @@
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
     "links": {
-      "self": "/products/integration/aws/kinesis"
+      "self": "/products/integration/aws/kinesis",
+      "components": [
+        "/products/integration/aws/kinesis/components/agent",
+        "/products/integration/aws/kinesis/components/data-analytics",
+        "/products/integration/aws/kinesis/components/data-firehose",
+        "/products/integration/aws/kinesis/components/data-streams"
+      ]
     }
   },
   {
@@ -80,6 +100,17 @@
     "features": ["conversational interface"],
     "links": {
       "self": "/products/ai/aws/lex"
+    }
+  },
+  {
+    "name": "Amazon OpenSearch Service",
+    "providers": ["aws"],
+    "services": ["analytics","monitor"],
+    "domains": ["managed service","serverless","observability"],
+    "categories": ["dashboards"],
+    "features": ["alerts"],
+    "links": {
+      "self": "/products/analytics/aws/opensearch"
     }
   },
   {
@@ -108,7 +139,7 @@
     "providers": ["aws"],
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["data warehousing"],
+    "categories": ["data warehousing","column-oriented db"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -174,6 +205,16 @@
     }
   },
   {
+    "name": "Amazon Timestream",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","serverless"],
+    "categories": ["data warehousing","time series db"],
+    "links": {
+      "self": "/products/database/aws/timestream"
+    }
+  },
+  {
     "name": "AWS Fargate",
     "providers": ["aws"],
     "services": ["compute"],
@@ -181,6 +222,22 @@
     "categories": ["container orchestrator"],
     "links": {
       "self": "/products/compute/aws/fargate"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue",
+      "components": [
+        "/products/integration/aws/glue/components/classifiers",
+        "/products/integration/aws/glue/components/crawlers",
+        "/products/integration/aws/glue/components/data-catalog",
+        "/products/integration/aws/glue/components/jobs"
+      ]
     }
   },
   {
@@ -221,7 +278,11 @@
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","workflow engine"],
     "links": {
-      "self": "/products/integration/aws/step-functions"
+      "self": "/products/integration/aws/step-functions",
+      "models": [
+        "/products/integration/aws/step-functions/models/express",
+        "/products/integration/aws/step-functions/models/standard"
+      ]
     }
   },
   {
@@ -283,7 +344,7 @@
     "providers": ["azure"],
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["document db","nosql db"],
+    "categories": ["document db","nosql db","column-oriented db","wide-column db"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -403,6 +464,17 @@
     }
   },
   {
+    "name": "Azure Stream Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/azure/stream-analytics"
+    }
+  },
+  {
     "name": "Google Cloud API Gateway",
     "providers": ["gcp"],
     "services": ["integration"],
@@ -429,7 +501,7 @@
     "providers": ["gcp"],
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
-    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
@@ -440,11 +512,12 @@
   {
     "name": "Google Cloud Dataflow",
     "providers": ["gcp"],
-    "services": ["integration"],
+    "services": ["analytics"],
     "domains": ["eventing","serverless"],
-    "categories": ["data streaming"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
     "links": {
-      "self": "/products/integration/gcp/dataflow"
+      "self": "/products/analytics/gcp/dataflow"
     }
   },
   {
@@ -496,6 +569,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
+    "features": ["semantic"],
     "links": {
       "self": "/products/analytics/gcp/looker"
     }

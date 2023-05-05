@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Amazon AppFlow",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["data integration","data transfer"],
+    "categories": ["saas"],
+    "links": {
+      "self": "/products/integration/aws/appflow"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue",
+      "components": [
+        "/products/integration/aws/glue/components/classifiers",
+        "/products/integration/aws/glue/components/crawlers",
+        "/products/integration/aws/glue/components/data-catalog",
+        "/products/integration/aws/glue/components/jobs"
+      ]
+    }
+  },
+  {
+    "name": "Google Cloud Data Fusion",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/integration/gcp/data-fusion"
+    }
+  }
+]

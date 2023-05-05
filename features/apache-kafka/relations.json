@@ -1,0 +1,33 @@
+{
+  "instance": [
+    "/products/analytics/azure/hdinsight"
+  ],
+  "intersect": {
+    "categories": [
+      "data streaming"
+    ],
+    "domains": [
+      "eventing",
+      "big data"
+    ],
+    "services": [
+      "integration",
+      "analytics",
+      "database"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "data processing"
+    ],
+    "features": [
+      "apache hadoop",
+      "apache hbase",
+      "apache hive",
+      "apache spark"
+    ],
+    "providers": [
+      "azure"
+    ]
+  }
+}

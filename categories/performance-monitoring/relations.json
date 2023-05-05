@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/developer-tools/aws/codeguru/components/profiler",
     "/products/monitor/gcp/cloud-profiler",
     "/products/monitor/gcp/cloud-trace"
   ],

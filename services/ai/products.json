@@ -112,10 +112,19 @@
     "providers": ["gcp"],
     "services": ["ai","database","analytics"],
     "domains": ["machine learning","big data","data management","serverless"],
-    "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant"],
+    "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery/components/ml",
       "parent": "/products/database/gcp/bigquery"
+    }
+  },
+  {
+    "name": "GitHub Copilot",
+    "providers": ["github"],
+    "services": ["developer tools","ai"],
+    "domains": ["developer toolchain","generative ai"],
+    "links": {
+      "self": "/products/developer-tools/github/copilot"
     }
   },
   {

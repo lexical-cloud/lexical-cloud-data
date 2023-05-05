@@ -1,0 +1,33 @@
+{
+  "instance": [
+    "/products/integration/aws/mwaa",
+    "/products/integration/gcp/composer",
+    "/products/integration/azure/data-factory/components/managed-airflow"
+  ],
+  "intersect": {
+    "categories": [
+      "workflow engine"
+    ],
+    "domains": [
+      "process modeling"
+    ],
+    "services": [
+      "integration"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "multi-cloud"
+    ],
+    "domains": [
+      "managed service"
+    ],
+    "labels": [
+      "public preview"
+    ],
+    "providers": [
+      "aws",
+      "gcp"
+    ]
+  }
+}

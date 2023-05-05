@@ -1,0 +1,24 @@
+{
+  "instance": [
+    "/products/database/azure/cosmosdb"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "document db",
+      "nosql db",
+      "column-oriented db"
+    ],
+    "domains": [
+      "data management",
+      "managed service",
+      "serverless"
+    ],
+    "providers": [
+      "azure"
+    ],
+    "services": [
+      "database"
+    ]
+  }
+}

@@ -16,7 +16,13 @@
     "domains": ["eventing","serverless"],
     "categories": ["data streaming"],
     "links": {
-      "self": "/products/integration/aws/kinesis"
+      "self": "/products/integration/aws/kinesis",
+      "components": [
+        "/products/integration/aws/kinesis/components/agent",
+        "/products/integration/aws/kinesis/components/data-analytics",
+        "/products/integration/aws/kinesis/components/data-firehose",
+        "/products/integration/aws/kinesis/components/data-streams"
+      ]
     }
   },
   {
@@ -101,13 +107,25 @@
     }
   },
   {
+    "name": "Azure Stream Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/azure/stream-analytics"
+    }
+  },
+  {
     "name": "Google Cloud Dataflow",
     "providers": ["gcp"],
-    "services": ["integration"],
+    "services": ["analytics"],
     "domains": ["eventing","serverless"],
-    "categories": ["data streaming"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
     "links": {
-      "self": "/products/integration/gcp/dataflow"
+      "self": "/products/analytics/gcp/dataflow"
     }
   },
   {

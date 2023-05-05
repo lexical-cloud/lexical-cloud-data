@@ -1,0 +1,33 @@
+{
+  "instance": [
+    "/products/analytics/azure/hdinsight",
+    "/products/analytics/gcp/dataproc"
+  ],
+  "intersect": {
+    "categories": [
+      "data processing"
+    ],
+    "domains": [
+      "data management",
+      "big data"
+    ],
+    "services": [
+      "analytics",
+      "database"
+    ]
+  },
+  "symdiff": {
+    "features": [
+      "apache hbase",
+      "apache hive",
+      "apache kafka",
+      "apache spark",
+      "apache flink",
+      "apache beam"
+    ],
+    "providers": [
+      "azure",
+      "gcp"
+    ]
+  }
+}

@@ -16,7 +16,8 @@
   "symdiff": {
     "categories": [
       "sql compliant",
-      "data warehousing"
+      "data warehousing",
+      "column-oriented db"
     ],
     "domains": [
       "serverless"

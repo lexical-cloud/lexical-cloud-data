@@ -2,6 +2,7 @@
   "instance": [
     "/products/monitor/aws/cloudwatch",
     "/products/monitor/aws/cloudwatch-app-insights",
+    "/products/analytics/aws/opensearch",
     "/products/governance/aws/budgets",
     "/products/monitor/aws/health-dashboard",
     "/products/governance/azure/cost-management",
@@ -24,6 +25,8 @@
     ],
     "domains": [
       "observability",
+      "managed service",
+      "serverless",
       "finops",
       "systems management"
     ],
@@ -42,6 +45,7 @@
     ],
     "services": [
       "monitor",
+      "analytics",
       "governance"
     ]
   }

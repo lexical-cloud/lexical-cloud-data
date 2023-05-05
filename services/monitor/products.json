@@ -43,6 +43,17 @@
     }
   },
   {
+    "name": "Amazon OpenSearch Service",
+    "providers": ["aws"],
+    "services": ["analytics","monitor"],
+    "domains": ["managed service","serverless","observability"],
+    "categories": ["dashboards"],
+    "features": ["alerts"],
+    "links": {
+      "self": "/products/analytics/aws/opensearch"
+    }
+  },
+  {
     "name": "AWS Config",
     "providers": ["aws"],
     "services": ["monitor"],
@@ -88,7 +99,7 @@
     "name": "AWS X-Ray",
     "providers": ["aws"],
     "services": ["monitor"],
-    "domains": ["systems management"],
+    "domains": ["observability","systems management"],
     "categories": ["application debugger","root cause analysis"],
     "links": {
       "self": "/products/monitor/aws/xray"

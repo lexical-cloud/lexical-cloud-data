@@ -3,6 +3,7 @@
     "/products/integration/azure/logic-apps",
     "/products/integration/aws/step-functions",
     "/products/ai/azure/qna-maker",
+    "/products/analytics/gcp/looker/components/studio",
     "/products/ai/azure/power-virtual-agents"
   ],
   "intersect": {},

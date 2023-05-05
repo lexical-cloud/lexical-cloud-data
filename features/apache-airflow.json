@@ -1,0 +1,17 @@
+{
+  "id": "apache-airflow",
+  "name": "apache airflow",
+  "type": "feature",
+  "links": {
+    "self": "/features/apache-airflow"
+  },
+  "definition": {
+    "title": "Apache Airflow",
+    "url": "https://en.wikipedia.org/wiki/Apache_Airflow",
+    "domains": ["process modeling"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/glossary/apache-airflow"
+    }
+  }
+}

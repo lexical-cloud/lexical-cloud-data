@@ -14,7 +14,7 @@
     "providers": ["azure"],
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["document db","nosql db"],
+    "categories": ["document db","nosql db","column-oriented db","wide-column db"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }

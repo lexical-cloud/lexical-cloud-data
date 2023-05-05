@@ -2,6 +2,7 @@
   "instance": [
     "/products/storage/aws/efs",
     "/products/storage/azure/files",
+    "/products/analytics/aws/emr/components/emrfs",
     "/products/storage/gcp/filestore"
   ],
   "intersect": {
@@ -13,8 +14,12 @@
     ]
   },
   "symdiff": {
+    "categories": [
+      "object storage"
+    ],
     "domains": [
       "serverless",
+      "big data",
       "managed service"
     ],
     "providers": [

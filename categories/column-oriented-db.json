@@ -1,0 +1,18 @@
+{
+  "id": "column-oriented-db",
+  "name": "column-oriented db",
+  "type": "category",
+  "links": {
+    "self": "/categories/column-oriented-db"
+  },
+  "definition": {
+    "title": "Column-oriented DB",
+    "url": "https://en.wikipedia.org/wiki/Column-oriented_DBMS",
+    "services": ["database"],
+    "domains": ["data management"],
+    "categories": ["data warehousing"],
+    "links": {
+      "self": "/glossary/column-oriented-db"
+    }
+  }
+}

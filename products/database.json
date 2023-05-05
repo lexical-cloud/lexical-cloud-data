@@ -66,9 +66,19 @@
     "providers": ["aws"],
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["data warehousing"],
+    "categories": ["data warehousing","column-oriented db"],
     "links": {
       "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "Amazon Timestream",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","serverless"],
+    "categories": ["data warehousing","time series db"],
+    "links": {
+      "self": "/products/database/aws/timestream"
     }
   },
   {
@@ -76,7 +86,7 @@
     "providers": ["azure"],
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["document db","nosql db"],
+    "categories": ["document db","nosql db","column-oriented db","wide-column db"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -139,10 +149,20 @@
     "providers": ["gcp"],
     "services": ["ai","database","analytics"],
     "domains": ["machine learning","big data","data management","serverless"],
-    "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant"],
+    "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery/components/ml",
       "parent": "/products/database/gcp/bigquery"
+    }
+  },
+  {
+    "name": "Google Cloud BigLake",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["data management"],
+    "categories": ["data warehousing","multi-cloud"],
+    "links": {
+      "self": "/products/database/gcp/biglake"
     }
   },
   {
@@ -150,7 +170,7 @@
     "providers": ["gcp"],
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
-    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
@@ -163,7 +183,7 @@
     "providers": ["gcp"],
     "services": ["database"],
     "domains": ["data management","managed service"],
-    "categories": ["nosql db","key-value store"],
+    "categories": ["nosql db","key-value store","wide-column store"],
     "links": {
       "self": "/products/database/gcp/bigtable"
     }

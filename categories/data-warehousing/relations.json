@@ -1,7 +1,9 @@
 {
   "instance": [
     "/products/database/aws/redshift",
+    "/products/database/aws/timestream",
     "/products/analytics/azure/synapse-analytics",
+    "/products/database/gcp/biglake",
     "/products/database/gcp/bigquery"
   ],
   "intersect": {
@@ -14,6 +16,9 @@
   },
   "symdiff": {
     "categories": [
+      "column-oriented db",
+      "time series db",
+      "multi-cloud",
       "unstructured data",
       "sql compliant"
     ],

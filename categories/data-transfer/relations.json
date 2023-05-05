@@ -4,8 +4,10 @@
     "/products/migration/aws/snowball",
     "/products/migration/aws/snowcone",
     "/products/migration/aws/snowmobile",
+    "/products/migration/aws/transfer",
     "/products/migration/gcp/storage-transfer-service",
-    "/products/migration/gcp/transfer-appliance"
+    "/products/migration/gcp/transfer-appliance",
+    "/products/integration/aws/kinesis/components/agent"
   ],
   "intersect": {
     "domains": [
@@ -21,7 +23,8 @@
       "gcp"
     ],
     "services": [
-      "migration"
+      "migration",
+      "integration"
     ]
   }
 }

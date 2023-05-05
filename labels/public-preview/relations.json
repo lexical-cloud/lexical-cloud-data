@@ -1,0 +1,11 @@
+{
+  "instance": [
+    "/products/integration/azure/data-factory/components/managed-airflow"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "features": [
+      "apache airflow"
+    ]
+  }
+}

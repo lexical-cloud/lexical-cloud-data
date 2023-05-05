@@ -5,7 +5,13 @@
   "domains": ["eventing","serverless"],
   "categories": ["data streaming"],
   "links": {
-    "self": "/products/integration/aws/kinesis"
+    "self": "/products/integration/aws/kinesis",
+    "components": [
+      "/products/integration/aws/kinesis/components/agent",
+      "/products/integration/aws/kinesis/components/data-analytics",
+      "/products/integration/aws/kinesis/components/data-firehose",
+      "/products/integration/aws/kinesis/components/data-streams"
+    ]
   }
 }
 

@@ -1,0 +1,38 @@
+{
+  "instance": [
+    "/products/database/aws/redshift",
+    "/products/database/azure/cosmosdb",
+    "/products/database/gcp/bigquery"
+  ],
+  "intersect": {
+    "categories": [
+      "data warehousing"
+    ],
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "analytics",
+      "database"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "document db",
+      "nosql db",
+      "wide-column db",
+      "unstructured data",
+      "sql compliant"
+    ],
+    "domains": [
+      "managed service",
+      "serverless",
+      "big data"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  }
+}

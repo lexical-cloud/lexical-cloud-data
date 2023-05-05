@@ -1,0 +1,17 @@
+{
+  "id": "apache-beam",
+  "name": "apache beam",
+  "type": "feature",
+  "links": {
+    "self": "/features/apache-beam"
+  },
+  "definition": {
+    "title": "Apache Beam",
+    "url": "https://en.wikipedia.org/wiki/Apache_Beam",
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links": {
+      "self": "/glossary/apache-beam"
+    }
+  }
+}

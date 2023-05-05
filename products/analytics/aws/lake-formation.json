@@ -1,0 +1,11 @@
+{
+  "name": "AWS Lake Formation",
+  "providers": ["aws"],
+  "services": ["analytics","governance"],
+  "domains": ["big data"],
+  "categories": ["access control","metadata"],
+  "links": {
+    "self": "/products/analytics/aws/lake-formation"
+  }
+}
+

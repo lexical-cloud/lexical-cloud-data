@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Azure Databricks",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "features": ["apache spark"],
+    "links": {
+      "self": "/products/analytics/azure/databricks"
+    }
+  },
+  {
+    "name": "Azure HDInsights",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "features": ["apache hadoop","apache hbase","apache hive","apache kafka","apache spark"],
+    "links": {
+      "self": "/products/analytics/azure/hdinsight"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "component": "Glue Jobs",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["data processing","workflow engine"],
+    "features": ["apache spark"],
+    "links": {
+      "self": "/products/integration/aws/glue/components/jobs",
+      "parent": "/products/integration/aws/glue"
+    }
+  },
+  {
+    "name": "Google Cloud Dataproc",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "features": ["apache hadoop","apache spark","apache flink","apache beam"],
+    "links": {
+      "self": "/products/analytics/gcp/dataproc"
+    }
+  }
+]

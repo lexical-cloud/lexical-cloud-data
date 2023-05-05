@@ -1,26 +1,35 @@
 {
   "instance": [
+    "/products/integration/aws/mwaa",
+    "/products/integration/aws/glue",
     "/products/integration/azure/logic-apps",
     "/products/integration/aws/step-functions",
+    "/products/integration/azure/data-factory",
     "/products/integration/gcp/composer",
+    "/products/integration/gcp/data-fusion",
     "/products/integration/gcp/workflows"
   ],
   "intersect": {},
   "symdiff": {
     "categories": [
+      "multi-cloud",
+      "workflow engine",
       "low-code",
       "no-code",
-      "workflow engine",
-      "multi-cloud"
+      "data integration"
     ],
     "domains": [
-      "end-user computing",
+      "managed service",
       "serverless",
-      "managed service"
+      "data integration",
+      "end-user computing"
+    ],
+    "features": [
+      "apache airflow"
     ],
     "providers": [
-      "azure",
       "aws",
+      "azure",
       "gcp"
     ],
     "services": [

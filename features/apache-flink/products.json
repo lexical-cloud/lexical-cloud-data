@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Google Cloud Dataproc",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "features": ["apache hadoop","apache spark","apache flink","apache beam"],
+    "links": {
+      "self": "/products/analytics/gcp/dataproc"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Data Analytics",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data processing","data streaming"],
+    "features": ["apache flink","apache beam"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/data-analytics",
+      "parent": "/products/integration/aws/kinesis"
+    }
+  }
+]

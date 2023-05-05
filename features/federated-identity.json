@@ -1,0 +1,17 @@
+{
+  "id": "federated-identity",
+  "name": "federated identity",
+  "type": "feature",
+  "links": {
+    "self": "/features/federated-identity"
+  },
+  "definition": {
+    "title": "Federated Identity",
+    "url": "https://en.wikipedia.org/wiki/Federated_identity",
+    "services": ["identity"],
+    "domains": ["identity management"],
+    "links": {
+      "self": "/glossary/federated-identity"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Amazon CodeGuru",
+  "providers": ["aws"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain"],
+  "links": {
+    "self": "/products/developer-tools/aws/codeguru",
+    "components": [
+      "/products/developer-tools/aws/codeguru/components/profiler",
+      "/products/developer-tools/aws/codeguru/components/reviewer"
+    ]
+  }
+}
+

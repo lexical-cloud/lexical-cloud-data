@@ -10,6 +10,31 @@
     }
   },
   {
+    "name": "Amazon EMR",
+    "providers": ["aws"],
+    "services": ["analytics"],
+    "domains": ["big data","managed service","serverless"],
+    "categories": ["data processing"],
+    "features": ["scale-to-zero"],
+    "links": {
+      "self": "/products/analytics/aws/emr",
+      "components": [
+        "/products/analytics/aws/emr/components/emrfs"
+      ]
+    }
+  },
+  {
+    "name": "Amazon OpenSearch Service",
+    "providers": ["aws"],
+    "services": ["analytics","monitor"],
+    "domains": ["managed service","serverless","observability"],
+    "categories": ["dashboards"],
+    "features": ["alerts"],
+    "links": {
+      "self": "/products/analytics/aws/opensearch"
+    }
+  },
+  {
     "name": "Amazon QuickSight",
     "providers": ["aws"],
     "services": ["analytics"],
@@ -24,9 +49,29 @@
     "providers": ["aws"],
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["data warehousing"],
+    "categories": ["data warehousing","column-oriented db"],
     "links": {
       "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "Amazon Timestream",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","serverless"],
+    "categories": ["data warehousing","time series db"],
+    "links": {
+      "self": "/products/database/aws/timestream"
+    }
+  },
+  {
+    "name": "AWS Lake Formation",
+    "providers": ["aws"],
+    "services": ["analytics","governance"],
+    "domains": ["big data"],
+    "categories": ["access control","metadata"],
+    "links": {
+      "self": "/products/analytics/aws/lake-formation"
     }
   },
   {
@@ -45,6 +90,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache spark"],
     "links": {
       "self": "/products/analytics/azure/databricks"
     }
@@ -55,8 +101,20 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache hadoop","apache hbase","apache hive","apache kafka","apache spark"],
     "links": {
       "self": "/products/analytics/azure/hdinsight"
+    }
+  },
+  {
+    "name": "Azure Stream Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/azure/stream-analytics"
     }
   },
   {
@@ -70,11 +128,21 @@
     }
   },
   {
+    "name": "Google Cloud BigLake",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["data management"],
+    "categories": ["data warehousing","multi-cloud"],
+    "links": {
+      "self": "/products/database/gcp/biglake"
+    }
+  },
+  {
     "name": "Google Cloud BigQuery",
     "providers": ["gcp"],
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
-    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
@@ -83,11 +151,23 @@
     }
   },
   {
+    "name": "Google Cloud Dataflow",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/gcp/dataflow"
+    }
+  },
+  {
     "name": "Google Cloud Dataproc",
     "providers": ["gcp"],
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache hadoop","apache spark","apache flink","apache beam"],
     "links": {
       "self": "/products/analytics/gcp/dataproc"
     }
@@ -98,6 +178,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
+    "features": ["semantic"],
     "links": {
       "self": "/products/analytics/gcp/looker"
     }

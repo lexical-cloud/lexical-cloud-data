@@ -1,0 +1,13 @@
+{
+  "name": "Amazon Kinesis",
+  "component": "Kinesis Data Firehose",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["data processing","data streaming"],
+  "links": {
+    "self": "/products/integration/aws/kinesis/components/data-firehose",
+    "parent": "/products/integration/aws/kinesis"
+  }
+}
+

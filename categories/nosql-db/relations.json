@@ -17,7 +17,10 @@
   "symdiff": {
     "categories": [
       "document db",
-      "key-value store"
+      "key-value store",
+      "column-oriented db",
+      "wide-column db",
+      "wide-column store"
     ],
     "domains": [
       "serverless",

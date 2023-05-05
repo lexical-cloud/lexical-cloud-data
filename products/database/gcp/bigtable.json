@@ -3,7 +3,7 @@
   "providers": ["gcp"],
   "services": ["database"],
   "domains": ["data management","managed service"],
-  "categories": ["nosql db","key-value store"],
+  "categories": ["nosql db","key-value store","wide-column store"],
   "links": {
     "self": "/products/database/gcp/bigtable"
   }

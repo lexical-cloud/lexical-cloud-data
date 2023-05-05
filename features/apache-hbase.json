@@ -1,0 +1,17 @@
+{
+  "id": "apache-hbase",
+  "name": "apache hbase",
+  "type": "feature",
+  "links": {
+    "self": "/features/apache-hbase"
+  },
+  "definition": {
+    "title": "Apache HBase",
+    "url": "https://en.wikipedia.org/wiki/Apache_HBase",
+    "domains": ["big data"],
+    "categories": ["relational db"],
+    "links": {
+      "self": "/glossary/apache-hbase"
+    }
+  }
+}

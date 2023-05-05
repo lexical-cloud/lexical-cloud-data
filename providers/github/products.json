@@ -19,5 +19,14 @@
     "links": {
       "self": "/products/developer-tools/github/actions"
     }
+  },
+  {
+    "name": "GitHub Copilot",
+    "providers": ["github"],
+    "services": ["developer tools","ai"],
+    "domains": ["developer toolchain","generative ai"],
+    "links": {
+      "self": "/products/developer-tools/github/copilot"
+    }
   }
 ]

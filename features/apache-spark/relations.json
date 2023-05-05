@@ -1,0 +1,35 @@
+{
+  "instance": [
+    "/products/analytics/azure/databricks",
+    "/products/analytics/azure/hdinsight",
+    "/products/integration/aws/glue/components/jobs",
+    "/products/analytics/gcp/dataproc"
+  ],
+  "intersect": {
+    "categories": [
+      "data processing"
+    ],
+    "domains": [
+      "data management",
+      "big data"
+    ],
+    "services": [
+      "analytics",
+      "database"
+    ]
+  },
+  "symdiff": {
+    "features": [
+      "apache hadoop",
+      "apache hbase",
+      "apache hive",
+      "apache kafka",
+      "apache flink",
+      "apache beam"
+    ],
+    "providers": [
+      "azure",
+      "gcp"
+    ]
+  }
+}

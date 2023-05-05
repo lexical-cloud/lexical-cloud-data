@@ -1,0 +1,8 @@
+{
+  "id": "transition-based-pricing",
+  "name": "transition based pricing",
+  "type": "feature",
+  "links": {
+    "self": "/features/transition-based-pricing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "instance": [
+    "/products/integration/azure/data-factory"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "domains": [
+      "process modeling"
+    ],
+    "providers": [
+      "azure"
+    ],
+    "services": [
+      "integration"
+    ]
+  }
+}

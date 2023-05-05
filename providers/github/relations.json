@@ -1,7 +1,8 @@
 {
   "instance": [
     "/products/developer-tools/github/github",
-    "/products/developer-tools/github/actions"
+    "/products/developer-tools/github/actions",
+    "/products/developer-tools/github/copilot"
   ],
   "intersect": {},
   "symdiff": {
@@ -14,13 +15,15 @@
     "domains": [
       "developer toolchain",
       "project management",
-      "devops"
+      "devops",
+      "generative ai"
     ],
     "features": [
       "community"
     ],
     "services": [
-      "developer tools"
+      "developer tools",
+      "ai"
     ]
   }
 }

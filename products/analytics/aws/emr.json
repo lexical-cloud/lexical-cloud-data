@@ -1,0 +1,15 @@
+{
+  "name": "Amazon EMR",
+  "providers": ["aws"],
+  "services": ["analytics"],
+  "domains": ["big data","managed service","serverless"],
+  "categories": ["data processing"],
+  "features": ["scale-to-zero"],
+  "links": {
+    "self": "/products/analytics/aws/emr",
+    "components": [
+      "/products/analytics/aws/emr/components/emrfs"
+    ]
+  }
+}
+

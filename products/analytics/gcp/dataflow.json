@@ -1,0 +1,12 @@
+{
+  "name": "Google Cloud Dataflow",
+  "providers": ["gcp"],
+  "services": ["analytics"],
+  "domains": ["eventing","serverless"],
+  "categories": ["data streaming","data processing"],
+  "features": ["apache beam"],
+  "links": {
+    "self": "/products/analytics/gcp/dataflow"
+  }
+}
+

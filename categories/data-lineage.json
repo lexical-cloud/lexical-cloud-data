@@ -1,0 +1,15 @@
+{
+  "id": "data-lineage",
+  "name": "data lineage",
+  "type": "category",
+  "links": {
+    "self": "/categories/data-lineage"
+  },
+  "definition": {
+    "title": "Data Lineage",
+    "url": "https://en.wikipedia.org/wiki/Data_lineage",
+    "links": {
+      "self": "/glossary/data-lineage"
+    }
+  }
+}

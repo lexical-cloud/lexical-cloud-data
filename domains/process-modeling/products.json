@@ -1,5 +1,32 @@
 [
   {
+    "name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["managed service","process modeling"],
+    "categories": ["multi-cloud","workflow engine"],
+    "features": ["apache airflow"],
+    "links": {
+      "self": "/products/integration/aws/mwaa"
+    }
+  },
+  {
+    "name": "AWS Glue",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/integration/aws/glue",
+      "components": [
+        "/products/integration/aws/glue/components/classifiers",
+        "/products/integration/aws/glue/components/crawlers",
+        "/products/integration/aws/glue/components/data-catalog",
+        "/products/integration/aws/glue/components/jobs"
+      ]
+    }
+  },
+  {
     "name": "Azure Logic Apps",
     "providers": ["azure"],
     "services": ["integration"],
@@ -16,7 +43,24 @@
     "domains": ["end-user computing","process modeling","serverless"],
     "categories": ["low-code","workflow engine"],
     "links": {
-      "self": "/products/integration/aws/step-functions"
+      "self": "/products/integration/aws/step-functions",
+      "models": [
+        "/products/integration/aws/step-functions/models/express",
+        "/products/integration/aws/step-functions/models/standard"
+      ]
+    }
+  },
+  {
+    "name": "Azure Data Factory",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["process modeling"],
+    "categories": ["data integration"],
+    "links": {
+      "self": "/products/integration/azure/data-factory",
+      "components": [
+        "/products/integration/azure/data-factory/components/managed-airflow"
+      ]
     }
   },
   {
@@ -25,8 +69,19 @@
     "services": ["integration"],
     "domains": ["managed service","process modeling"],
     "categories": ["multi-cloud","workflow engine"],
+    "features": ["apache airflow"],
     "links": {
       "self": "/products/integration/gcp/composer"
+    }
+  },
+  {
+    "name": "Google Cloud Data Fusion",
+    "providers": ["gcp"],
+    "services": ["integration"],
+    "domains": ["process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/integration/gcp/data-fusion"
     }
   },
   {

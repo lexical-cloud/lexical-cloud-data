@@ -1,0 +1,8 @@
+{
+  "id": "semantic",
+  "name": "semantic",
+  "type": "feature",
+  "links": {
+    "self": "/features/semantic"
+  }
+}

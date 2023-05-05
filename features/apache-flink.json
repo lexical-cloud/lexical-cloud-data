@@ -1,0 +1,17 @@
+{
+  "id": "apache-flink",
+  "name": "apache flink",
+  "type": "feature",
+  "links": {
+    "self": "/features/apache-flink"
+  },
+  "definition": {
+    "title": "Apache Flink",
+    "url": "https://en.wikipedia.org/wiki/Apache_Flink",
+    "domains": ["big data"],
+    "categories": ["data processing"],
+    "links": {
+      "self": "/glossary/apache-flink"
+    }
+  }
+}

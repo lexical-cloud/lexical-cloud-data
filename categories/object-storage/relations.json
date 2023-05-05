@@ -3,6 +3,7 @@
     "/products/storage/aws/s3",
     "/products/storage/aws/s3-glacier",
     "/products/storage/azure/blob-storage",
+    "/products/analytics/aws/emr/components/emrfs",
     "/products/storage/gcp/cloud-storage"
   ],
   "intersect": {
@@ -15,10 +16,12 @@
   },
   "symdiff": {
     "categories": [
-      "data archive"
+      "data archive",
+      "file storage"
     ],
     "domains": [
-      "serverless"
+      "serverless",
+      "big data"
     ],
     "providers": [
       "aws",

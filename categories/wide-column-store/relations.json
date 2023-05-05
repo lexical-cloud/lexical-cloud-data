@@ -1,0 +1,27 @@
+{
+  "instance": [
+    "/products/database/gcp/bigtable"
+  ],
+  "intersect": {
+    "categories": [
+      "nosql db"
+    ],
+    "domains": [
+      "data management"
+    ],
+    "services": [
+      "database"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "key-value store"
+    ],
+    "domains": [
+      "managed service"
+    ],
+    "providers": [
+      "gcp"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "persistent-state",
+  "name": "persistent state",
+  "type": "feature",
+  "links": {
+    "self": "/features/persistent-state"
+  }
+}

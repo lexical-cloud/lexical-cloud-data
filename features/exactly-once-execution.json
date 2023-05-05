@@ -1,0 +1,8 @@
+{
+  "id": "exactly-once-execution",
+  "name": "exactly once execution",
+  "type": "feature",
+  "links": {
+    "self": "/features/exactly-once-execution"
+  }
+}

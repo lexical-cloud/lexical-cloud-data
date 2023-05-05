@@ -12,6 +12,7 @@
     "/products/migration/aws/snowball",
     "/products/migration/aws/snowcone",
     "/products/migration/aws/snowmobile",
+    "/products/migration/aws/transfer",
     "/products/migration/azure/dms",
     "/products/compute/gcp/bare-metal",
     "/products/migration/gcp/storage-transfer-service",
@@ -48,6 +49,7 @@
     ],
     "services": [
       "database",
+      "integration",
       "compute"
     ]
   }

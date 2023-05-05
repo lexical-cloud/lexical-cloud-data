@@ -1,0 +1,24 @@
+{
+  "instance": [
+    "/products/integration/aws/appflow"
+  ],
+  "intersect": {
+    "domains": [
+      "data management"
+    ]
+  },
+  "symdiff": {
+    "categories": [
+      "saas"
+    ],
+    "domains": [
+      "data integration"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "integration"
+    ]
+  }
+}

@@ -209,7 +209,7 @@
     "providers": ["azure"],
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["document db","nosql db"],
+    "categories": ["document db","nosql db","column-oriented db","wide-column db"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -223,6 +223,19 @@
     "features": ["alerts","cost forecast"],
     "links": {
       "self": "/products/governance/azure/cost-management"
+    }
+  },
+  {
+    "name": "Azure Data Factory",
+    "providers": ["azure"],
+    "services": ["integration"],
+    "domains": ["process modeling"],
+    "categories": ["data integration"],
+    "links": {
+      "self": "/products/integration/azure/data-factory",
+      "components": [
+        "/products/integration/azure/data-factory/components/managed-airflow"
+      ]
     }
   },
   {
@@ -273,6 +286,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache spark"],
     "links": {
       "self": "/products/analytics/azure/databricks"
     }
@@ -394,6 +408,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache hadoop","apache hbase","apache hive","apache kafka","apache spark"],
     "links": {
       "self": "/products/analytics/azure/hdinsight"
     }
@@ -740,6 +755,17 @@
     }
   },
   {
+    "name": "Azure Stream Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/azure/stream-analytics"
+    }
+  },
+  {
     "name": "Azure Subscriptions",
     "providers": ["azure"],
     "services": ["governance"],
@@ -902,6 +928,16 @@
     "features": ["conversational interface"],
     "links": {
       "self": "/products/ai/azure/power-virtual-agents"
+    }
+  },
+  {
+    "name": "Microsoft Purview",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/azure/purview"
     }
   },
   {

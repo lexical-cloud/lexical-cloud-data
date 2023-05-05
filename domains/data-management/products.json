@@ -21,6 +21,16 @@
     }
   },
   {
+    "name": "Amazon DataZone",
+    "providers": ["aws"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/aws/datazone"
+    }
+  },
+  {
     "name": "Amazon DynamoDB",
     "providers": ["aws"],
     "services": ["database"],
@@ -76,7 +86,7 @@
     "providers": ["aws"],
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["data warehousing"],
+    "categories": ["data warehousing","column-oriented db"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -99,6 +109,16 @@
     "categories": ["object storage","data archive"],
     "links": {
       "self": "/products/storage/aws/s3-glacier"
+    }
+  },
+  {
+    "name": "Amazon Timestream",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","serverless"],
+    "categories": ["data warehousing","time series db"],
+    "links": {
+      "self": "/products/database/aws/timestream"
     }
   },
   {
@@ -172,6 +192,16 @@
     }
   },
   {
+    "name": "AWS Transfer Family",
+    "providers": ["aws"],
+    "services": ["migration","integration"],
+    "domains": ["data management"],
+    "categories": ["data transfer"],
+    "links": {
+      "self": "/products/migration/aws/transfer"
+    }
+  },
+  {
     "name": "Azure Blob Storage",
     "providers": ["azure"],
     "services": ["storage"],
@@ -186,7 +216,7 @@
     "providers": ["azure"],
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
-    "categories": ["document db","nosql db"],
+    "categories": ["document db","nosql db","column-oriented db","wide-column db"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -294,11 +324,34 @@
     }
   },
   {
+    "name": "Amazon EMR",
+    "component": "EMR File System",
+    "providers": ["aws"],
+    "services": ["storage","analytics"],
+    "domains": ["big data","data management","managed service","serverless"],
+    "categories": ["file storage","object storage","data processing"],
+    "features": ["scale-to-zero"],
+    "links": {
+      "self": "/products/analytics/aws/emr/components/emrfs",
+      "parent": "/products/analytics/aws/emr"
+    }
+  },
+  {
+    "name": "Google Cloud BigLake",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["data management"],
+    "categories": ["data warehousing","multi-cloud"],
+    "links": {
+      "self": "/products/database/gcp/biglake"
+    }
+  },
+  {
     "name": "Google Cloud BigQuery",
     "providers": ["gcp"],
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
-    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
@@ -311,7 +364,7 @@
     "providers": ["gcp"],
     "services": ["database"],
     "domains": ["data management","managed service"],
-    "categories": ["nosql db","key-value store"],
+    "categories": ["nosql db","key-value store","wide-column store"],
     "links": {
       "self": "/products/database/gcp/bigtable"
     }
@@ -381,6 +434,26 @@
         "/products/storage/gcp/cloud-storage/models/nearline",
         "/products/storage/gcp/cloud-storage/models/standard"
       ]
+    }
+  },
+  {
+    "name": "Google Dataplex",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/gcp/dataplex"
+    }
+  },
+  {
+    "name": "Microsoft Purview",
+    "providers": ["azure"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/azure/purview"
     }
   },
   {

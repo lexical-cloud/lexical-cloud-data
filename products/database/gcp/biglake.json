@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud BigLake",
+  "providers": ["gcp"],
+  "services": ["database","analytics"],
+  "domains": ["data management"],
+  "categories": ["data warehousing","multi-cloud"],
+  "links": {
+    "self": "/products/database/gcp/biglake"
+  }
+}
+

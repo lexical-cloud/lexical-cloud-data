@@ -1,0 +1,8 @@
+{
+  "id": "data-integration",
+  "name": "data integration",
+  "type": "domain",
+  "links": {
+    "self": "/domains/data-integration"
+  }
+}

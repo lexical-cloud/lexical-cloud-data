@@ -1,11 +1,14 @@
 {
   "instance": [
     "/products/database/aws/athena",
+    "/products/analytics/aws/emr",
     "/products/analytics/aws/quicksight",
+    "/products/analytics/aws/lake-formation",
     "/products/analytics/azure/data-lake-analytics",
     "/products/analytics/azure/databricks",
     "/products/analytics/azure/hdinsight",
     "/products/analytics/azure/synapse-analytics",
+    "/products/analytics/aws/emr/components/emrfs",
     "/products/database/gcp/bigquery",
     "/products/analytics/gcp/dataproc",
     "/products/analytics/gcp/looker"
@@ -20,18 +23,39 @@
     "categories": [
       "sql compliant",
       "unstructured data",
-      "dashboards",
       "data processing",
-      "data warehousing"
+      "dashboards",
+      "access control",
+      "metadata",
+      "data warehousing",
+      "file storage",
+      "object storage",
+      "column-oriented db"
     ],
     "domains": [
       "data management",
-      "serverless"
+      "serverless",
+      "managed service"
+    ],
+    "features": [
+      "scale-to-zero",
+      "apache spark",
+      "apache hadoop",
+      "apache hbase",
+      "apache hive",
+      "apache kafka",
+      "apache flink",
+      "apache beam",
+      "semantic"
     ],
     "providers": [
       "aws",
       "azure",
       "gcp"
+    ],
+    "services": [
+      "governance",
+      "storage"
     ]
   }
 }

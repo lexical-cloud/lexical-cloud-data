@@ -1,0 +1,18 @@
+{
+  "id": "wide-column-store",
+  "name": "wide-column store",
+  "type": "category",
+  "links": {
+    "self": "/categories/wide-column-store"
+  },
+  "definition": {
+    "title": "Wide-column Store",
+    "url": "https://en.wikipedia.org/wiki/Wide-column_store",
+    "services": ["database"],
+    "domains": ["data management"],
+    "categories": ["nosql db"],
+    "links": {
+      "self": "/glossary/wide-column-store"
+    }
+  }
+}

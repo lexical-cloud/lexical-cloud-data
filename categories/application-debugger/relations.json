@@ -9,8 +9,8 @@
       "root cause analysis"
     ],
     "domains": [
-      "systems management",
-      "observability"
+      "observability",
+      "systems management"
     ],
     "labels": [
       "deprecated"

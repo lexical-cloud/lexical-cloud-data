@@ -88,7 +88,7 @@
     "providers": ["gcp"],
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
-    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [

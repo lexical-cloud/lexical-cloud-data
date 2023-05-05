@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Data Fusion",
+  "providers": ["gcp"],
+  "services": ["integration"],
+  "domains": ["process modeling","data integration"],
+  "categories": ["workflow engine"],
+  "links": {
+    "self": "/products/integration/gcp/data-fusion"
+  }
+}
+

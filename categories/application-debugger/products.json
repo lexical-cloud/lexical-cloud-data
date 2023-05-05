@@ -3,7 +3,7 @@
     "name": "AWS X-Ray",
     "providers": ["aws"],
     "services": ["monitor"],
-    "domains": ["systems management"],
+    "domains": ["observability","systems management"],
     "categories": ["application debugger","root cause analysis"],
     "links": {
       "self": "/products/monitor/aws/xray"

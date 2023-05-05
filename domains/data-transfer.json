@@ -1,0 +1,16 @@
+{
+  "id": "data-transfer",
+  "name": "data transfer",
+  "type": "domain",
+  "links": {
+    "self": "/domains/data-transfer"
+  },
+  "definition": {
+    "title": "Data Transfer",
+    "url": "https://en.wikipedia.org/wiki/Data_communication",
+    "domains": ["data management"],
+    "links": {
+      "self": "/glossary/data-transfer"
+    }
+  }
+}

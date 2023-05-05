@@ -40,6 +40,16 @@
     }
   },
   {
+    "name": "AWS Transfer Family",
+    "providers": ["aws"],
+    "services": ["migration","integration"],
+    "domains": ["data management"],
+    "categories": ["data transfer"],
+    "links": {
+      "self": "/products/migration/aws/transfer"
+    }
+  },
+  {
     "name": "Google Cloud Storage Transfer Service",
     "providers": ["gcp"],
     "services": ["migration"],
@@ -57,6 +67,18 @@
     "categories": ["data transfer"],
     "links": {
       "self": "/products/migration/gcp/transfer-appliance"
+    }
+  },
+  {
+    "name": "Amazon Kinesis",
+    "component": "Kinesis Agent",
+    "providers": ["aws"],
+    "services": ["integration"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data transfer","data streaming"],
+    "links": {
+      "self": "/products/integration/aws/kinesis/components/agent",
+      "parent": "/products/integration/aws/kinesis"
     }
   }
 ]

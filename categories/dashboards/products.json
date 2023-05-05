@@ -11,6 +11,17 @@
     }
   },
   {
+    "name": "Amazon OpenSearch Service",
+    "providers": ["aws"],
+    "services": ["analytics","monitor"],
+    "domains": ["managed service","serverless","observability"],
+    "categories": ["dashboards"],
+    "features": ["alerts"],
+    "links": {
+      "self": "/products/analytics/aws/opensearch"
+    }
+  },
+  {
     "name": "Amazon QuickSight",
     "providers": ["aws"],
     "services": ["analytics"],
@@ -37,6 +48,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
+    "features": ["semantic"],
     "links": {
       "self": "/products/analytics/gcp/looker"
     }

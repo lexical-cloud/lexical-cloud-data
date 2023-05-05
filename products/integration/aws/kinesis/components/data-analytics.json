@@ -1,0 +1,14 @@
+{
+  "name": "Amazon Kinesis",
+  "component": "Kinesis Data Analytics",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["eventing","serverless"],
+  "categories": ["data processing","data streaming"],
+  "features": ["apache flink","apache beam"],
+  "links": {
+    "self": "/products/integration/aws/kinesis/components/data-analytics",
+    "parent": "/products/integration/aws/kinesis"
+  }
+}
+

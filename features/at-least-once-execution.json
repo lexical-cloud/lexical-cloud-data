@@ -1,0 +1,8 @@
+{
+  "id": "at-least-once-execution",
+  "name": "at least once execution",
+  "type": "feature",
+  "links": {
+    "self": "/features/at-least-once-execution"
+  }
+}

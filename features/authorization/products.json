@@ -7,7 +7,11 @@
     "categories": ["identity provider"],
     "features": ["user enrollment","authentication","authorization"],
     "links": {
-      "self": "/products/identity/aws/cognito"
+      "self": "/products/identity/aws/cognito",
+      "components": [
+        "/products/identity/aws/cognito/components/identity-pool",
+        "/products/identity/aws/cognito/components/user-pool"
+      ]
     }
   }
 ]

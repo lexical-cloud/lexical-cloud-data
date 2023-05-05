@@ -1,0 +1,18 @@
+{
+  "id": "time-series-db",
+  "name": "time series db",
+  "type": "category",
+  "links": {
+    "self": "/categories/time-series-db"
+  },
+  "definition": {
+    "title": "Time Series DB",
+    "url": "https://en.wikipedia.org/wiki/Time_series_database",
+    "services": ["database"],
+    "domains": ["data management"],
+    "categories": ["nosql"],
+    "links": {
+      "self": "/glossary/time-series-db"
+    }
+  }
+}

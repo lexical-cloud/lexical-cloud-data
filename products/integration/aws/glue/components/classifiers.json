@@ -1,0 +1,13 @@
+{
+  "name": "AWS Glue",
+  "component": "Glue Classifiers",
+  "providers": ["aws"],
+  "services": ["integration"],
+  "domains": ["serverless","process modeling","data integration"],
+  "categories": ["metadata","data classification","workflow engine"],
+  "links": {
+    "self": "/products/integration/aws/glue/components/classifiers",
+    "parent": "/products/integration/aws/glue"
+  }
+}
+

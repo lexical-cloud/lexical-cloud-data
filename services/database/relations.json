@@ -7,6 +7,7 @@
     "/products/database/aws/elasticache",
     "/products/database/aws/rds",
     "/products/database/aws/redshift",
+    "/products/database/aws/timestream",
     "/products/migration/aws/dms",
     "/products/migration/aws/sct",
     "/products/database/azure/cosmosdb",
@@ -17,6 +18,7 @@
     "/products/database/azure/sql-edge",
     "/products/database/azure/sql-managed-instance",
     "/products/storage/azure/table-storage",
+    "/products/database/gcp/biglake",
     "/products/database/gcp/bigquery",
     "/products/database/gcp/bigtable",
     "/products/database/gcp/firestore",
@@ -34,7 +36,12 @@
       "key-value store",
       "nosql db",
       "data warehousing",
-      "database migration"
+      "column-oriented db",
+      "time series db",
+      "database migration",
+      "wide-column db",
+      "multi-cloud",
+      "wide-column store"
     ],
     "domains": [
       "big data",

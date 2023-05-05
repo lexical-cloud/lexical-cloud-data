@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/developer-tools/aws/codeguru",
     "/products/developer-tools/aws/cloud9",
     "/products/developer-tools/aws/codecommit",
     "/products/developer-tools/aws/codestar",
@@ -8,6 +9,7 @@
     "/products/developer-tools/azure/repos",
     "/products/developer-tools/azure/test-plans",
     "/products/developer-tools/github/github",
+    "/products/developer-tools/github/copilot",
     "/products/developer-tools/gcp/cloud-source-repos"
   ],
   "intersect": {},
@@ -25,7 +27,8 @@
     "domains": [
       "devops",
       "project management",
-      "systems management"
+      "systems management",
+      "generative ai"
     ],
     "features": [
       "community"
@@ -37,7 +40,8 @@
       "gcp"
     ],
     "services": [
-      "developer tools"
+      "developer tools",
+      "ai"
     ]
   }
 }

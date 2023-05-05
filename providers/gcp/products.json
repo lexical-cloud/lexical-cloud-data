@@ -86,11 +86,21 @@
     }
   },
   {
+    "name": "Google Cloud BigLake",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["data management"],
+    "categories": ["data warehousing","multi-cloud"],
+    "links": {
+      "self": "/products/database/gcp/biglake"
+    }
+  },
+  {
     "name": "Google Cloud BigQuery",
     "providers": ["gcp"],
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
-    "categories": ["data warehousing","unstructured data","sql compliant"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
@@ -103,7 +113,7 @@
     "providers": ["gcp"],
     "services": ["database"],
     "domains": ["data management","managed service"],
-    "categories": ["nosql db","key-value store"],
+    "categories": ["nosql db","key-value store","wide-column store"],
     "links": {
       "self": "/products/database/gcp/bigtable"
     }
@@ -145,6 +155,7 @@
     "services": ["integration"],
     "domains": ["managed service","process modeling"],
     "categories": ["multi-cloud","workflow engine"],
+    "features": ["apache airflow"],
     "links": {
       "self": "/products/integration/gcp/composer"
     }
@@ -160,13 +171,24 @@
     }
   },
   {
-    "name": "Google Cloud Dataflow",
+    "name": "Google Cloud Data Fusion",
     "providers": ["gcp"],
     "services": ["integration"],
-    "domains": ["eventing","serverless"],
-    "categories": ["data streaming"],
+    "domains": ["process modeling","data integration"],
+    "categories": ["workflow engine"],
     "links": {
-      "self": "/products/integration/gcp/dataflow"
+      "self": "/products/integration/gcp/data-fusion"
+    }
+  },
+  {
+    "name": "Google Cloud Dataflow",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["eventing","serverless"],
+    "categories": ["data streaming","data processing"],
+    "features": ["apache beam"],
+    "links": {
+      "self": "/products/analytics/gcp/dataflow"
     }
   },
   {
@@ -175,6 +197,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data processing"],
+    "features": ["apache hadoop","apache spark","apache flink","apache beam"],
     "links": {
       "self": "/products/analytics/gcp/dataproc"
     }
@@ -329,6 +352,7 @@
     "services": ["analytics"],
     "domains": ["serverless","big data"],
     "categories": ["dashboards"],
+    "features": ["semantic"],
     "links": {
       "self": "/products/analytics/gcp/looker"
     }
@@ -653,6 +677,16 @@
     "categories": ["workflow engine"],
     "links": {
       "self": "/products/integration/gcp/workflows"
+    }
+  },
+  {
+    "name": "Google Dataplex",
+    "providers": ["gcp"],
+    "services": ["governance"],
+    "domains": "data management",
+    "categories": ["compliance","metadata","data discovery","data classification","data lineage"],
+    "links": {
+      "self": "/products/governance/gcp/dataplex"
     }
   },
   {
