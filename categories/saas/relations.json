@@ -11,9 +11,11 @@
     ]
   },
   "symdiff": {
-    "domains": [
-      "data integration",
+    "categories": [
       "data transfer"
+    ],
+    "domains": [
+      "data integration"
     ],
     "providers": [
       "aws"

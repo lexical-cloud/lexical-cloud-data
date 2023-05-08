@@ -2,8 +2,8 @@
   "name": "Amazon AppFlow",
   "providers": ["aws"],
   "services": ["integration"],
-  "domains": ["data integration","data transfer"],
-  "categories": ["saas"],
+  "domains": ["data integration"],
+  "categories": ["saas","data transfer"],
   "links": {
     "self": "/products/integration/aws/appflow"
   }

@@ -8,10 +8,10 @@
   "symdiff": {
     "categories": [
       "saas",
+      "data transfer",
       "workflow engine"
     ],
     "domains": [
-      "data transfer",
       "serverless",
       "process modeling"
     ],

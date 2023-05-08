@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/integration/aws/appflow",
     "/products/migration/aws/datasync",
     "/products/migration/aws/snowball",
     "/products/migration/aws/snowcone",
@@ -15,7 +16,11 @@
     ]
   },
   "symdiff": {
+    "categories": [
+      "saas"
+    ],
     "domains": [
+      "data integration",
       "modernization"
     ],
     "providers": [
@@ -23,8 +28,8 @@
       "gcp"
     ],
     "services": [
-      "migration",
-      "integration"
+      "integration",
+      "migration"
     ]
   }
 }

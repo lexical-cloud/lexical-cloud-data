@@ -32,6 +32,7 @@
     "categories": [
       "api lifecycle",
       "saas",
+      "data transfer",
       "event bus",
       "pub-sub",
       "data streaming",
@@ -41,7 +42,6 @@
       "message queue",
       "low-code",
       "no-code",
-      "data transfer",
       "api gateway",
       "api portal",
       "data integration",
@@ -51,7 +51,6 @@
       "api management",
       "serverless",
       "data integration",
-      "data transfer",
       "eventing",
       "managed service",
       "process modeling",

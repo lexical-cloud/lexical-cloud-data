@@ -124,6 +124,7 @@
     "categories": [
       "api lifecycle",
       "saas",
+      "data transfer",
       "sql compliant",
       "unstructured data",
       "relational db",
@@ -192,7 +193,6 @@
       "continuous delivery",
       "configuration management",
       "database migration",
-      "data transfer",
       "security monitoring",
       "root cause analysis",
       "on-premises",
@@ -224,7 +224,6 @@
       "api management",
       "serverless",
       "data integration",
-      "data transfer",
       "big data",
       "data management",
       "managed service",
