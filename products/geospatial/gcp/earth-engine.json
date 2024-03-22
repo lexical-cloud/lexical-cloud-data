@@ -1,0 +1,15 @@
+{
+  "name": "Google Earth Engine",
+  "providers": ["gcp"],
+  "services": ["geospatial"],
+  "domains": ["managed service"],
+  "categories": ["geospatial analysis","remote sensing"],
+  "links": {
+    "self": "/products/geospatial/gcp/earth-engine",
+    "components": [
+      "/products/geospatial/gcp/earth-engine/components/code-editor",
+      "/products/geospatial/gcp/earth-engine/components/data-catalog"
+    ]
+  }
+}
+

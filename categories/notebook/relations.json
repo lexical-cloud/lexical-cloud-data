@@ -1,5 +1,8 @@
 {
   "instance": [
+    "/products/geospatial/esri/arcgis-online/components/notebooks",
+    "/products/geospatial/gcp/earth-engine/components/code-editor",
+    "/products/geospatial/azure/planetary-computer/components/hub",
     "/products/ai/gcp/vertex-ai/components/workbench"
   ],
   "intersect": {},

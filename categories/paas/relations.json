@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/compute/aws/amplify",
     "/products/compute/aws/beanstalk",
     "/products/compute/azure/app-service",
     "/products/compute/gcp/app-engine"

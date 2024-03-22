@@ -26,6 +26,9 @@
       "serverless",
       "managed service"
     ],
+    "features": [
+      "geospatial"
+    ],
     "providers": [
       "aws",
       "azure",

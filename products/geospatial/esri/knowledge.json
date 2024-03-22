@@ -1,0 +1,11 @@
+{
+  "name": "ArcGIS Knowledge",
+  "providers": ["esri"],
+  "services": ["developer tools","analytics","geospatial"],
+  "domains": ["data insights"],
+  "categories": ["data insights"],
+  "links": {
+    "self": "/products/geospatial/esri/knowledge"
+  }
+}
+

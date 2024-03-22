@@ -1,0 +1,24 @@
+{
+  "instance": [
+    "/products/geospatial/aws/location-service",
+    "/products/geospatial/azure/maps",
+    "/products/geospatial/gcp/location-context-apis"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "location-based"
+    ],
+    "domains": [
+      "managed service"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "geospatial"
+    ]
+  }
+}

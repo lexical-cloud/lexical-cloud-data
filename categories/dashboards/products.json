@@ -50,7 +50,10 @@
     "categories": ["dashboards"],
     "features": ["semantic"],
     "links": {
-      "self": "/products/analytics/gcp/looker"
+      "self": "/products/analytics/gcp/looker",
+      "components": [
+        "/products/analytics/gcp/looker/components/studio"
+      ]
     }
   },
   {

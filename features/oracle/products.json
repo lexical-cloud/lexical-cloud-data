@@ -5,7 +5,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "features": ["mysql","postgresql","postgis","mariadb","sql server","oracle","geospatial"],
     "links": {
       "self": "/products/database/aws/rds"
     }

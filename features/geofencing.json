@@ -1,0 +1,8 @@
+{
+  "id": "geofencing",
+  "name": "geofencing",
+  "type": "feature",
+  "links": {
+    "self": "/features/geofencing"
+  }
+}

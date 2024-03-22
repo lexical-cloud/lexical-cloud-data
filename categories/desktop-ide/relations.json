@@ -1,0 +1,17 @@
+{
+  "instance": [
+    "/products/geospatial/esri/arcgis-pro"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "domains": [
+      "developer toolchain"
+    ],
+    "providers": [
+      "esri"
+    ],
+    "services": [
+      "developer tools"
+    ]
+  }
+}

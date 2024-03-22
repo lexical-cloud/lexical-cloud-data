@@ -7,6 +7,7 @@
     "/products/integration/aws/mwaa",
     "/products/integration/aws/sns",
     "/products/integration/aws/sqs",
+    "/products/geospatial/esri/data-pipelines",
     "/products/integration/aws/glue",
     "/products/integration/azure/logic-apps",
     "/products/integration/aws/step-functions",
@@ -65,10 +66,12 @@
     ],
     "providers": [
       "aws",
+      "esri",
       "azure",
       "gcp"
     ],
     "services": [
+      "geospatial",
       "migration",
       "storage"
     ]

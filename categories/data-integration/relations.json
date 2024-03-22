@@ -1,16 +1,27 @@
 {
   "instance": [
+    "/products/data-catalog/aws/data-exchange",
     "/products/integration/azure/data-factory"
   ],
   "intersect": {},
   "symdiff": {
+    "categories": [
+      "datasets"
+    ],
     "domains": [
+      "data management",
+      "serverless",
       "process modeling"
     ],
+    "features": [
+      "geospatial"
+    ],
     "providers": [
+      "aws",
       "azure"
     ],
     "services": [
+      "data catalog",
       "integration"
     ]
   }

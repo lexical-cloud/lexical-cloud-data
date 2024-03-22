@@ -4,6 +4,7 @@
   "services": ["database","hybrid"],
   "domains": ["data management","managed service"],
   "categories": ["relational db","sql compliant"],
+  "features": ["geospatial"],
   "links": {
     "self": "/products/database/azure/sql-managed-instance"
   }

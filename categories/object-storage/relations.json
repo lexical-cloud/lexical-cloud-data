@@ -23,6 +23,9 @@
       "serverless",
       "big data"
     ],
+    "features": [
+      "geospatial"
+    ],
     "providers": [
       "aws",
       "azure",

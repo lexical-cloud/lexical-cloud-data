@@ -1,0 +1,11 @@
+{
+  "name": "ArcGIS Workflow Manager",
+  "providers": ["esri"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain","project management"],
+  "categories": ["project planning"],
+  "links": {
+    "self": "/products/geospatial/esri/workflow-manager"
+  }
+}
+

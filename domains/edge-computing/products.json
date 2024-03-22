@@ -10,6 +10,18 @@
     }
   },
   {
+    "name": "ArcGIS Online",
+    "component": "ArcGIS Velocity",
+    "providers": ["esri"],
+    "services": ["iot","geospatial"],
+    "domains": ["edge computing","end-user computing"],
+    "categories": ["iot communication","geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-online/components/velocity",
+      "parent": "/products/geospatial/esri/arcgis-online"
+    }
+  },
+  {
     "name": "AWS Outposts",
     "providers": ["aws"],
     "services": ["hybrid"],

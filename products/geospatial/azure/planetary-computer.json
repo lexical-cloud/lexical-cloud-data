@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft Planetary Computer",
+  "providers": ["azure"],
+  "services": ["geospatial"],
+  "domains": ["managed service"],
+  "categories": ["geospatial analysis","remote sensing"],
+  "links": {
+    "self": "/products/geospatial/azure/planetary-computer",
+    "components": [
+      "/products/geospatial/azure/planetary-computer/components/data-catalog",
+      "/products/geospatial/azure/planetary-computer/components/hub"
+    ]
+  }
+}
+

@@ -7,6 +7,7 @@
     "/products/compute/aws/eks",
     "/products/compute/aws/lightsail",
     "/products/compute/aws/workspaces",
+    "/products/compute/aws/amplify",
     "/products/compute/aws/batch",
     "/products/compute/aws/beanstalk",
     "/products/compute/aws/fargate",
@@ -37,8 +38,8 @@
       "kubernetes",
       "virtual private server",
       "virtual desktop",
-      "batch processing",
       "paas",
+      "batch processing",
       "faas",
       "rehosting"
     ],

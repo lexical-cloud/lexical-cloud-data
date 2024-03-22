@@ -1,0 +1,14 @@
+{
+  "id": "geospatial",
+  "name": "geospatial",
+  "type": "feature",
+  "links": {
+    "self": "/features/geospatial"
+  },
+  "definition": {
+    "title": "Geospatial",
+    "links": {
+      "self": "/glossary/geospatial"
+    }
+  }
+}

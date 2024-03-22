@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/framework/esri/well-architected",
     "/products/hybrid/aws/outposts",
     "/products/framework/aws/well-architected",
     "/products/framework/azure/well-architected",
@@ -10,8 +11,8 @@
   "intersect": {},
   "symdiff": {
     "categories": [
-      "on-premises",
       "decision making",
+      "on-premises",
       "multi-cloud",
       "rehosting"
     ],
@@ -20,13 +21,15 @@
       "modernization"
     ],
     "providers": [
+      "esri",
       "aws",
       "azure",
       "gcp"
     ],
     "services": [
-      "hybrid",
       "framework",
+      "geospatial",
+      "hybrid",
       "compute",
       "migration"
     ]

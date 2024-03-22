@@ -1,5 +1,15 @@
 [
   {
+    "name": "Amazon Bedrock",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/aws/bedrock"
+    }
+  },
+  {
     "name": "Amaxon Lex",
     "providers": ["aws"],
     "services": ["ai"],
@@ -96,6 +106,16 @@
     }
   },
   {
+    "name": "Azure OpenAI Service",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/azure/openai"
+    }
+  },
+  {
     "name": "Azure QnA Maker",
     "providers": ["azure"],
     "services": ["ai"],
@@ -113,6 +133,7 @@
     "services": ["ai","database","analytics"],
     "domains": ["machine learning","big data","data management","serverless"],
     "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/gcp/bigquery/components/ml",
       "parent": "/products/database/gcp/bigquery"
@@ -195,6 +216,16 @@
     "features": ["object detection","prebuilt models"],
     "links": {
       "self": "/products/ai/gcp/vision-ai"
+    }
+  },
+  {
+    "name": "Google Gemini",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/gcp/gemini"
     }
   },
   {

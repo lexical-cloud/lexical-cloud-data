@@ -64,7 +64,11 @@
     "/products/network/gcp/vpc",
     "/products/integration/gcp/workflows",
     "/products/governance/gcp/dataplex",
-    "/products/compute/gcp/gke"
+    "/products/geospatial/gcp/earth-engine",
+    "/products/ai/gcp/gemini",
+    "/products/compute/gcp/gke",
+    "/products/geospatial/gcp/location-context-apis",
+    "/products/geospatial/gcp/maps-platform"
   ],
   "intersect": {},
   "symdiff": {
@@ -132,7 +136,12 @@
       "data discovery",
       "data classification",
       "data lineage",
-      "kubernetes"
+      "geospatial analysis",
+      "remote sensing",
+      "foundation models",
+      "generative ai",
+      "kubernetes",
+      "location-based"
     ],
     "domains": [
       "managed service",
@@ -161,6 +170,7 @@
       "rest api",
       "http api",
       "websocket api",
+      "geospatial",
       "alerts",
       "apache airflow",
       "apache beam",
@@ -180,9 +190,11 @@
       "speech-to-text",
       "mysql",
       "postgresql",
+      "postgis",
       "sql server",
       "text-to-speech",
-      "object detection"
+      "object detection",
+      "geofencing"
     ],
     "labels": [
       "deprecated"
@@ -202,7 +214,8 @@
       "storage",
       "security",
       "identity",
-      "developer tools"
+      "developer tools",
+      "geospatial"
     ]
   }
 }

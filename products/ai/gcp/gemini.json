@@ -1,0 +1,11 @@
+{
+  "name": "Google Gemini",
+  "providers": ["gcp"],
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "categories": ["foundation models","generative ai"],
+  "links": {
+    "self": "/products/ai/gcp/gemini"
+  }
+}
+

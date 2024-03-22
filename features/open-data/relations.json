@@ -1,0 +1,23 @@
+{
+  "instance": [
+    "/products/data-catalog/aws/registry-open-data"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "datasets"
+    ],
+    "domains": [
+      "data management"
+    ],
+    "features": [
+      "geospatial"
+    ],
+    "providers": [
+      "aws"
+    ],
+    "services": [
+      "data catalog"
+    ]
+  }
+}

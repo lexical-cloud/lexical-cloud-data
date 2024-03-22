@@ -1,6 +1,8 @@
 {
   "instance": [
     "/products/developer-tools/aws/codeguru",
+    "/products/geospatial/esri/arcgis-pro",
+    "/products/geospatial/esri/workflow-manager",
     "/products/developer-tools/aws/cloud9",
     "/products/developer-tools/aws/codecommit",
     "/products/developer-tools/aws/codestar",
@@ -9,24 +11,26 @@
     "/products/developer-tools/azure/repos",
     "/products/developer-tools/azure/test-plans",
     "/products/developer-tools/github/github",
+    "/products/developer-tools/github/codespaces",
     "/products/developer-tools/github/copilot",
     "/products/developer-tools/gcp/cloud-source-repos"
   ],
   "intersect": {},
   "symdiff": {
     "categories": [
+      "desktop ide",
+      "project planning",
       "hosted ide",
       "source control",
       "continuous delivery",
       "continuous integration",
-      "project planning",
       "environment management",
       "test planning",
       "test execution"
     ],
     "domains": [
-      "devops",
       "project management",
+      "devops",
       "systems management",
       "generative ai"
     ],
@@ -35,6 +39,7 @@
     ],
     "providers": [
       "aws",
+      "esri",
       "azure",
       "github",
       "gcp"

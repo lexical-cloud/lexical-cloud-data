@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Amazon Athena",
+    "providers": ["aws"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["sql compliant","unstructured data"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/aws/athena"
+    }
+  },
+  {
+    "name": "Amazon Aurora",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","postgis","geospatial"],
+    "links": {
+      "self": "/products/database/aws/aurora"
+    }
+  },
+  {
+    "name": "Amazon DynamoDB",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","serverless"],
+    "categories": ["document db","key-value store","nosql db"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/aws/dynamodb"
+    }
+  },
+  {
+    "name": "Amazon Relational Database Service",
+    "providers": ["aws"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","postgis","mariadb","sql server","oracle","geospatial"],
+    "links": {
+      "self": "/products/database/aws/rds"
+    }
+  },
+  {
+    "name": "Amazon Redshift",
+    "providers": ["aws"],
+    "services": ["analytics","database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["data warehousing","column-oriented db"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "Amazon Simple Storage Service",
+    "providers": ["aws"],
+    "services": ["storage"],
+    "domains": ["data management","serverless"],
+    "categories": ["object storage"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/storage/aws/s3"
+    }
+  },
+  {
+    "name": "AWS Data Exchange",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management","serverless"],
+    "categories": ["datasets","data integration"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/data-exchange"
+    }
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["document db","nosql db","column-oriented db","wide-column db"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/azure/cosmosdb"
+    }
+  },
+  {
+    "name": "Azure Data Explorer",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data insights"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/analytics/azure/data-explorer"
+    }
+  },
+  {
+    "name": "Azure Database for PostgreSQL",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["postgresql","postgis","geospatial"],
+    "links": {
+      "self": "/products/database/azure/db-for-postresql"
+    }
+  },
+  {
+    "name": "Azure SQL Database",
+    "providers": ["azure"],
+    "services": ["database"],
+    "domains": ["data management","managed service","serverless"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/azure/sql-db"
+    }
+  },
+  {
+    "name": "Azure SQL Managed Instance",
+    "providers": ["azure"],
+    "services": ["database","hybrid"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/azure/sql-managed-instance"
+    }
+  },
+  {
+    "name": "Azure Synapse Analytics",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data warehousing"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/analytics/azure/synapse-analytics"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "component": "BigQuery Geo Viz",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/gcp/bigquery/components/geo-viz",
+      "parent": "/products/database/gcp/bigquery"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/gcp/bigquery",
+      "components": [
+        "/products/database/gcp/bigquery/components/geo-viz",
+        "/products/database/gcp/bigquery/components/ml"
+      ]
+    }
+  },
+  {
+    "name": "Google Cloud SQL",
+    "providers": ["gcp"],
+    "services": ["database"],
+    "domains": ["data management","managed service"],
+    "categories": ["relational db","sql compliant"],
+    "features": ["mysql","postgresql","postgis","sql server","geospatial"],
+    "links": {
+      "self": "/products/database/gcp/cloud-sql"
+    }
+  },
+  {
+    "name": "Google Cloud Looker",
+    "component": "Looker Studio",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["end-user computing","serverless","big data"],
+    "categories": ["dashboards"],
+    "features": ["geospatial","semantic"],
+    "links": {
+      "self": "/products/analytics/gcp/looker/components/studio",
+      "parent": "/products/analytics/gcp/looker"
+    }
+  },
+  {
+    "name": "Registry of Open Data on AWS",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management"],
+    "categories": ["datasets"],
+    "features": ["open data","geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/registry-open-data"
+    }
+  }
+]

@@ -1,6 +1,7 @@
 {
   "instance": [
-    "/products/developer-tools/aws/cloud9"
+    "/products/developer-tools/aws/cloud9",
+    "/products/developer-tools/github/codespaces"
   ],
   "intersect": {
     "services": [
@@ -12,7 +13,8 @@
       "developer toolchain"
     ],
     "providers": [
-      "aws"
+      "aws",
+      "github"
     ]
   }
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Github Codespaces",
+  "providers": ["github"],
+  "services": ["developer tools"],
+  "domains": ["developer toolchain"],
+  "categories": ["hosted ide"],
+  "links": {
+    "self": "/products/developer-tools/github/codespaces"
+  }
+}
+

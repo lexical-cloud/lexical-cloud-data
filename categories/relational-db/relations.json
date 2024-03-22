@@ -30,6 +30,8 @@
     "features": [
       "mysql",
       "postgresql",
+      "postgis",
+      "geospatial",
       "mariadb",
       "sql server",
       "oracle"

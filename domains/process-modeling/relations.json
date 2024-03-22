@@ -1,6 +1,7 @@
 {
   "instance": [
     "/products/integration/aws/mwaa",
+    "/products/geospatial/esri/data-pipelines",
     "/products/integration/aws/glue",
     "/products/integration/azure/logic-apps",
     "/products/integration/aws/step-functions",
@@ -29,11 +30,13 @@
     ],
     "providers": [
       "aws",
+      "esri",
       "azure",
       "gcp"
     ],
     "services": [
-      "integration"
+      "integration",
+      "geospatial"
     ]
   }
 }

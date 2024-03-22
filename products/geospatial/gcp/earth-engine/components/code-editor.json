@@ -1,0 +1,13 @@
+{
+  "name": "Google Earth Engine",
+  "component": "Earth Engine Code Editor",
+  "providers": ["gcp"],
+  "services": ["geospatial"],
+  "domains": ["managed service"],
+  "categories": ["notebook","geospatial analysis","remote sensing"],
+  "links": {
+    "self": "/products/geospatial/gcp/earth-engine/components/code-editor",
+    "parent": "/products/geospatial/gcp/earth-engine"
+  }
+}
+

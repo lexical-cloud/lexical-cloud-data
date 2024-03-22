@@ -1,0 +1,36 @@
+{
+  "instance": [
+    "/products/database/aws/aurora",
+    "/products/database/aws/rds",
+    "/products/database/azure/db-for-postresql",
+    "/products/database/gcp/cloud-sql"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "relational db",
+      "sql compliant"
+    ],
+    "domains": [
+      "data management",
+      "managed service",
+      "serverless"
+    ],
+    "features": [
+      "mysql",
+      "postgresql",
+      "geospatial",
+      "mariadb",
+      "sql server",
+      "oracle"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "database"
+    ]
+  }
+}

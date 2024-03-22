@@ -11,17 +11,22 @@
     "/products/analytics/aws/opensearch",
     "/products/database/aws/rds",
     "/products/database/aws/redshift",
+    "/products/geospatial/esri/location-service",
+    "/products/compute/aws/amplify",
     "/products/compute/aws/batch",
     "/products/compute/aws/beanstalk",
     "/products/security/aws/kms",
+    "/products/geospatial/aws/location-service",
     "/products/compute/azure/app-service",
     "/products/compute/azure/container-instances",
     "/products/database/azure/cosmosdb",
     "/products/database/azure/db-for-mysql",
     "/products/database/azure/db-for-postresql",
     "/products/compute/azure/aks",
+    "/products/geospatial/azure/maps",
     "/products/database/azure/sql-db",
     "/products/database/azure/sql-managed-instance",
+    "/products/geospatial/azure/bing-maps-platform",
     "/products/compute/gcp/app-engine",
     "/products/database/gcp/bigtable",
     "/products/integration/gcp/composer",
@@ -30,8 +35,12 @@
     "/products/database/gcp/cloud-sql",
     "/products/ai/gcp/vertex-ai",
     "/products/compute/gcp/vmware-engine",
+    "/products/geospatial/gcp/earth-engine",
     "/products/compute/gcp/gke",
-    "/products/integration/aws/kinesis/components/data-streams"
+    "/products/geospatial/gcp/location-context-apis",
+    "/products/geospatial/gcp/maps-platform",
+    "/products/integration/aws/kinesis/components/data-streams",
+    "/products/geospatial/azure/planetary-computer"
   ],
   "intersect": {
     "domains": [
@@ -52,8 +61,9 @@
       "dashboards",
       "data warehousing",
       "column-oriented db",
-      "batch processing",
+      "location-based",
       "paas",
+      "batch processing",
       "data security",
       "key management",
       "auditing",
@@ -65,7 +75,9 @@
       "file storage",
       "model training",
       "virtual machines",
-      "rehosting"
+      "rehosting",
+      "geospatial analysis",
+      "remote sensing"
     ],
     "domains": [
       "data management",
@@ -81,16 +93,20 @@
     "features": [
       "mysql",
       "postgresql",
+      "postgis",
+      "geospatial",
       "scale-to-zero",
       "apache airflow",
       "alerts",
       "mariadb",
       "sql server",
-      "oracle"
+      "oracle",
+      "geofencing"
     ],
     "providers": [
       "aws",
       "azure",
+      "esri",
       "gcp"
     ],
     "services": [
@@ -99,6 +115,7 @@
       "analytics",
       "integration",
       "monitor",
+      "geospatial",
       "security",
       "hybrid",
       "storage",

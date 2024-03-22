@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ArcGIS Pro",
+    "providers": ["esri"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["desktop ide"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-pro"
+    }
+  }
+]

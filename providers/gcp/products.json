@@ -101,9 +101,11 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
+        "/products/database/gcp/bigquery/components/geo-viz",
         "/products/database/gcp/bigquery/components/ml"
       ]
     }
@@ -354,7 +356,10 @@
     "categories": ["dashboards"],
     "features": ["semantic"],
     "links": {
-      "self": "/products/analytics/gcp/looker"
+      "self": "/products/analytics/gcp/looker",
+      "components": [
+        "/products/analytics/gcp/looker/components/studio"
+      ]
     }
   },
   {
@@ -547,7 +552,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","sql server"],
+    "features": ["mysql","postgresql","postgis","sql server","geospatial"],
     "links": {
       "self": "/products/database/gcp/cloud-sql"
     }
@@ -690,6 +695,30 @@
     }
   },
   {
+    "name": "Google Earth Engine",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/gcp/earth-engine",
+      "components": [
+        "/products/geospatial/gcp/earth-engine/components/code-editor",
+        "/products/geospatial/gcp/earth-engine/components/data-catalog"
+      ]
+    }
+  },
+  {
+    "name": "Google Gemini",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/gcp/gemini"
+    }
+  },
+  {
     "name": "Google Kubernetes Engine",
     "providers": ["gcp"],
     "services": ["compute"],
@@ -697,6 +726,27 @@
     "categories": ["container orchestrator","kubernetes"],
     "links": {
       "self": "/products/compute/gcp/gke"
+    }
+  },
+  {
+    "name": "Google Location and Context APIs",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/gcp/location-context-apis"
+    }
+  },
+  {
+    "name": "Google Maps Platform",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "links": {
+      "self": "/products/geospatial/gcp/maps-platform"
     }
   }
 ]

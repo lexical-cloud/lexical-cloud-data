@@ -5,6 +5,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -15,6 +16,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db","column-oriented db","wide-column db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -25,9 +27,11 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
+        "/products/database/gcp/bigquery/components/geo-viz",
         "/products/database/gcp/bigquery/components/ml"
       ]
     }

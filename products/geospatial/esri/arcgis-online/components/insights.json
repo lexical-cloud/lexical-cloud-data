@@ -1,0 +1,13 @@
+{
+  "name": "ArcGIS Online",
+  "component": "ArcGIS Insights",
+  "providers": ["esri"],
+  "services": ["analytics","geospatial"],
+  "domains": ["data insights","end-user computing"],
+  "categories": ["data insights","geospatial analysis","remote sensing"],
+  "links": {
+    "self": "/products/geospatial/esri/arcgis-online/components/insights",
+    "parent": "/products/geospatial/esri/arcgis-online"
+  }
+}
+

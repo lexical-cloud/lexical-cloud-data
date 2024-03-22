@@ -1,0 +1,149 @@
+[
+  {
+    "name": "ArcGIS AllSource",
+    "providers": ["esri"],
+    "services": ["analytics","geospatial"],
+    "domains": ["data insights"],
+    "categories": ["data insights"],
+    "links": {
+      "self": "/products/geospatial/esri/allsource"
+    }
+  },
+  {
+    "name": "ArcGIS Data Pipelines",
+    "providers": ["esri"],
+    "services": ["integration","geospatial"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/geospatial/esri/data-pipelines"
+    }
+  },
+  {
+    "name": "ArcGIS Knowledge",
+    "providers": ["esri"],
+    "services": ["developer tools","analytics","geospatial"],
+    "domains": ["data insights"],
+    "categories": ["data insights"],
+    "links": {
+      "self": "/products/geospatial/esri/knowledge"
+    }
+  },
+  {
+    "name": "ArcGIS Location Service",
+    "providers": ["esri"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "links": {
+      "self": "/products/geospatial/esri/location-service"
+    }
+  },
+  {
+    "name": "ArcGIS Online",
+    "providers": ["esri"],
+    "services": ["geospatial"],
+    "domains": ["end-user computing"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-online",
+      "components": [
+        "/products/geospatial/esri/arcgis-online/components/insights",
+        "/products/geospatial/esri/arcgis-online/components/living-atlas",
+        "/products/geospatial/esri/arcgis-online/components/notebooks",
+        "/products/geospatial/esri/arcgis-online/components/velocity"
+      ]
+    }
+  },
+  {
+    "name": "ArcGIS Well-Architected Framework",
+    "providers": ["esri"],
+    "services": ["framework","geospatial"],
+    "domains": ["architecture"],
+    "categories": ["decision making"],
+    "links": {
+      "self": "/products/framework/esri/well-architected"
+    }
+  },
+  {
+    "name": "AWS Location Service",
+    "providers": ["aws"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/aws/location-service"
+    }
+  },
+  {
+    "name": "Azure Maps",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/azure/maps"
+    }
+  },
+  {
+    "name": "Bing Maps Platform",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "links": {
+      "self": "/products/geospatial/azure/bing-maps-platform"
+    }
+  },
+  {
+    "name": "Google Earth Engine",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/gcp/earth-engine",
+      "components": [
+        "/products/geospatial/gcp/earth-engine/components/code-editor",
+        "/products/geospatial/gcp/earth-engine/components/data-catalog"
+      ]
+    }
+  },
+  {
+    "name": "Google Location and Context APIs",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/gcp/location-context-apis"
+    }
+  },
+  {
+    "name": "Google Maps Platform",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "links": {
+      "self": "/products/geospatial/gcp/maps-platform"
+    }
+  },
+  {
+    "name": "Microsoft Planetary Computer",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/azure/planetary-computer",
+      "components": [
+        "/products/geospatial/azure/planetary-computer/components/data-catalog",
+        "/products/geospatial/azure/planetary-computer/components/hub"
+      ]
+    }
+  }
+]

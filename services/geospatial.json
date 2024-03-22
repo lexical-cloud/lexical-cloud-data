@@ -1,0 +1,14 @@
+{
+  "id": "geospatial",
+  "name": "geospatial",
+  "type": "service",
+  "links": {
+    "self": "/services/geospatial"
+  },
+  "definition": {
+    "title": "Geospatial",
+    "links": {
+      "self": "/glossary/geospatial"
+    }
+  }
+}

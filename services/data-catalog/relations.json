@@ -1,0 +1,28 @@
+{
+  "instance": [
+    "/products/geospatial/esri/arcgis-online/components/living-atlas",
+    "/products/data-catalog/aws/data-exchange",
+    "/products/geospatial/azure/planetary-computer/components/data-catalog",
+    "/products/geospatial/gcp/earth-engine/components/data-catalog",
+    "/products/data-catalog/aws/registry-open-data"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "datasets",
+      "data integration"
+    ],
+    "domains": [
+      "data management",
+      "serverless"
+    ],
+    "features": [
+      "geospatial",
+      "open data"
+    ],
+    "providers": [
+      "esri",
+      "aws"
+    ]
+  }
+}

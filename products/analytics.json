@@ -45,6 +45,17 @@
     }
   },
   {
+    "name": "Azure Data Explorer",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data insights"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/analytics/azure/data-explorer"
+    }
+  },
+  {
     "name": "Azure Data Lake Analytics",
     "providers": ["azure"],
     "services": ["analytics"],
@@ -93,6 +104,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data warehousing"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/analytics/azure/synapse-analytics"
     }
@@ -140,14 +152,23 @@
     "categories": ["dashboards"],
     "features": ["semantic"],
     "links": {
-      "self": "/products/analytics/gcp/looker"
+      "self": "/products/analytics/gcp/looker",
+      "components": [
+        "/products/analytics/gcp/looker/components/studio"
+      ]
     }
   },
   {
-    "name": "Looker Studio",
-    "domains": ["end-user computing"],
+    "name": "Google Cloud Looker",
+    "component": "Looker Studio",
+    "providers": ["gcp"],
+    "services": ["analytics"],
+    "domains": ["end-user computing","serverless","big data"],
+    "categories": ["dashboards"],
+    "features": ["geospatial","semantic"],
     "links": {
-      "self": "/products/analytics/gcp/looker/components/studio"
+      "self": "/products/analytics/gcp/looker/components/studio",
+      "parent": "/products/analytics/gcp/looker"
     }
   }
 ]

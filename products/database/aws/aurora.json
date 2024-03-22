@@ -4,7 +4,7 @@
   "services": ["database"],
   "domains": ["data management","managed service","serverless"],
   "categories": ["relational db","sql compliant"],
-  "features": ["mysql","postgresql"],
+  "features": ["mysql","postgresql","postgis","geospatial"],
   "links": {
     "self": "/products/database/aws/aurora"
   }

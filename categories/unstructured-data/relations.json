@@ -22,6 +22,9 @@
     "domains": [
       "serverless"
     ],
+    "features": [
+      "geospatial"
+    ],
     "providers": [
       "aws",
       "gcp"

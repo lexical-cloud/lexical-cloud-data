@@ -1,6 +1,7 @@
 {
   "instance": [
     "/products/network/aws/cloudfront",
+    "/products/geospatial/esri/arcgis-online/components/velocity",
     "/products/hybrid/aws/outposts",
     "/products/network/azure/cdn",
     "/products/network/azure/front-door",
@@ -15,13 +16,13 @@
   "symdiff": {
     "categories": [
       "content delivery",
+      "iot communication",
       "on-premises",
       "web application firewall",
       "ddos protection",
       "certificates",
       "iot management",
       "iot processing",
-      "iot communication",
       "iot hardware",
       "iot security",
       "relational db",
@@ -42,8 +43,8 @@
     ],
     "services": [
       "network",
-      "hybrid",
       "iot",
+      "hybrid",
       "database"
     ]
   }

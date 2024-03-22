@@ -1,0 +1,11 @@
+{
+  "name": "ArcGIS Well-Architected Framework",
+  "providers": ["esri"],
+  "services": ["framework","geospatial"],
+  "domains": ["architecture"],
+  "categories": ["decision making"],
+  "links": {
+    "self": "/products/framework/esri/well-architected"
+  }
+}
+

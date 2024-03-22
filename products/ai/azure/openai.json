@@ -1,0 +1,11 @@
+{
+  "name": "Azure OpenAI Service",
+  "providers": ["azure"],
+  "services": ["ai"],
+  "domains": ["machine learning"],
+  "categories": ["foundation models","generative ai"],
+  "links": {
+    "self": "/products/ai/azure/openai"
+  }
+}
+

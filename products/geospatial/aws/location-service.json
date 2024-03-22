@@ -1,0 +1,12 @@
+{
+  "name": "AWS Location Service",
+  "providers": ["aws"],
+  "services": ["geospatial"],
+  "domains": ["managed service"],
+  "categories": ["location-based"],
+  "features": ["geofencing"],
+  "links": {
+    "self": "/products/geospatial/aws/location-service"
+  }
+}
+

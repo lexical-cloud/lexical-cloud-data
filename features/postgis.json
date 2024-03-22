@@ -1,0 +1,8 @@
+{
+  "id": "postgis",
+  "name": "postgis",
+  "type": "feature",
+  "links": {
+    "self": "/features/postgis"
+  }
+}

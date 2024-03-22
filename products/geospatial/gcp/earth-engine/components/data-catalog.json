@@ -1,0 +1,13 @@
+{
+  "name": "Google Earth Engine",
+  "component": "Earth Engine Catalog",
+  "providers": ["gcp"],
+  "services": ["data catalog","geospatial"],
+  "domains": ["data management","managed service"],
+  "categories": ["datasets","geospatial analysis","remote sensing"],
+  "links": {
+    "self": "/products/geospatial/gcp/earth-engine/components/data-catalog",
+    "parent": "/products/geospatial/gcp/earth-engine"
+  }
+}
+

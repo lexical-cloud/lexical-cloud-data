@@ -5,6 +5,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/athena"
     }
@@ -50,6 +51,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -65,6 +67,38 @@
     }
   },
   {
+    "name": "ArcGIS AllSource",
+    "providers": ["esri"],
+    "services": ["analytics","geospatial"],
+    "domains": ["data insights"],
+    "categories": ["data insights"],
+    "links": {
+      "self": "/products/geospatial/esri/allsource"
+    }
+  },
+  {
+    "name": "ArcGIS Online",
+    "component": "ArcGIS Insights",
+    "providers": ["esri"],
+    "services": ["analytics","geospatial"],
+    "domains": ["data insights","end-user computing"],
+    "categories": ["data insights","geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-online/components/insights",
+      "parent": "/products/geospatial/esri/arcgis-online"
+    }
+  },
+  {
+    "name": "ArcGIS Knowledge",
+    "providers": ["esri"],
+    "services": ["developer tools","analytics","geospatial"],
+    "domains": ["data insights"],
+    "categories": ["data insights"],
+    "links": {
+      "self": "/products/geospatial/esri/knowledge"
+    }
+  },
+  {
     "name": "AWS Lake Formation",
     "providers": ["aws"],
     "services": ["analytics","governance"],
@@ -72,6 +106,17 @@
     "categories": ["access control","metadata"],
     "links": {
       "self": "/products/analytics/aws/lake-formation"
+    }
+  },
+  {
+    "name": "Azure Data Explorer",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data insights"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/analytics/azure/data-explorer"
     }
   },
   {
@@ -123,6 +168,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data warehousing"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/analytics/azure/synapse-analytics"
     }
@@ -143,9 +189,11 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
+        "/products/database/gcp/bigquery/components/geo-viz",
         "/products/database/gcp/bigquery/components/ml"
       ]
     }
@@ -180,7 +228,10 @@
     "categories": ["dashboards"],
     "features": ["semantic"],
     "links": {
-      "self": "/products/analytics/gcp/looker"
+      "self": "/products/analytics/gcp/looker",
+      "components": [
+        "/products/analytics/gcp/looker/components/studio"
+      ]
     }
   }
 ]

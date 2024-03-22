@@ -1,6 +1,7 @@
 {
   "instance": [
     "/products/integration/aws/appflow",
+    "/products/geospatial/esri/data-pipelines",
     "/products/integration/aws/glue",
     "/products/integration/gcp/data-fusion"
   ],
@@ -17,10 +18,12 @@
     ],
     "providers": [
       "aws",
+      "esri",
       "gcp"
     ],
     "services": [
-      "integration"
+      "integration",
+      "geospatial"
     ]
   }
 }
