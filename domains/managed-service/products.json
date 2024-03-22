@@ -5,7 +5,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql"],
+    "features": ["mysql","postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/aws/aurora"
     }
@@ -102,7 +102,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "features": ["mysql","postgresql","postgis","mariadb","sql server","oracle","geospatial"],
     "links": {
       "self": "/products/database/aws/rds"
     }
@@ -113,8 +113,29 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/redshift"
+    }
+  },
+  {
+    "name": "ArcGIS Location Service",
+    "providers": ["esri"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "links": {
+      "self": "/products/geospatial/esri/location-service"
+    }
+  },
+  {
+    "name": "AWS Amplify",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "links": {
+      "self": "/products/compute/aws/amplify"
     }
   },
   {
@@ -148,6 +169,17 @@
     }
   },
   {
+    "name": "AWS Location Service",
+    "providers": ["aws"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/aws/location-service"
+    }
+  },
+  {
     "name": "Azure App Service",
     "providers": ["azure"],
     "services": ["compute"],
@@ -173,6 +205,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db","column-oriented db","wide-column db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -194,7 +227,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["postgresql"],
+    "features": ["postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
@@ -210,11 +243,23 @@
     }
   },
   {
+    "name": "Azure Maps",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/azure/maps"
+    }
+  },
+  {
     "name": "Azure SQL Database",
     "providers": ["azure"],
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-db"
     }
@@ -225,8 +270,19 @@
     "services": ["database","hybrid"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-managed-instance"
+    }
+  },
+  {
+    "name": "Bing Maps Platform",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "links": {
+      "self": "/products/geospatial/azure/bing-maps-platform"
     }
   },
   {
@@ -290,7 +346,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","sql server"],
+    "features": ["mysql","postgresql","postgis","sql server","geospatial"],
     "links": {
       "self": "/products/database/gcp/cloud-sql"
     }
@@ -320,6 +376,20 @@
     }
   },
   {
+    "name": "Google Earth Engine",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/gcp/earth-engine",
+      "components": [
+        "/products/geospatial/gcp/earth-engine/components/code-editor",
+        "/products/geospatial/gcp/earth-engine/components/data-catalog"
+      ]
+    }
+  },
+  {
     "name": "Google Kubernetes Engine",
     "providers": ["gcp"],
     "services": ["compute"],
@@ -327,6 +397,27 @@
     "categories": ["container orchestrator","kubernetes"],
     "links": {
       "self": "/products/compute/gcp/gke"
+    }
+  },
+  {
+    "name": "Google Location and Context APIs",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/gcp/location-context-apis"
+    }
+  },
+  {
+    "name": "Google Maps Platform",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "links": {
+      "self": "/products/geospatial/gcp/maps-platform"
     }
   },
   {
@@ -339,6 +430,20 @@
     "links": {
       "self": "/products/integration/aws/kinesis/components/data-streams",
       "parent": "/products/integration/aws/kinesis"
+    }
+  },
+  {
+    "name": "Microsoft Planetary Computer",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/azure/planetary-computer",
+      "components": [
+        "/products/geospatial/azure/planetary-computer/components/data-catalog",
+        "/products/geospatial/azure/planetary-computer/components/hub"
+      ]
     }
   }
 ]

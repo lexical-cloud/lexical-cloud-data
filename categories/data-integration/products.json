@@ -1,5 +1,16 @@
 [
   {
+    "name": "AWS Data Exchange",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management","serverless"],
+    "categories": ["datasets","data integration"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/data-exchange"
+    }
+  },
+  {
     "name": "Azure Data Factory",
     "providers": ["azure"],
     "services": ["integration"],

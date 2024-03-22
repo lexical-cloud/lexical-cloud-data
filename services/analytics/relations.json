@@ -6,7 +6,11 @@
     "/products/analytics/aws/quicksight",
     "/products/database/aws/redshift",
     "/products/database/aws/timestream",
+    "/products/geospatial/esri/allsource",
+    "/products/geospatial/esri/arcgis-online/components/insights",
+    "/products/geospatial/esri/knowledge",
     "/products/analytics/aws/lake-formation",
+    "/products/analytics/azure/data-explorer",
     "/products/analytics/azure/data-lake-analytics",
     "/products/analytics/azure/databricks",
     "/products/analytics/azure/hdinsight",
@@ -28,6 +32,7 @@
       "data warehousing",
       "column-oriented db",
       "time series db",
+      "data insights",
       "access control",
       "metadata",
       "data streaming",
@@ -39,9 +44,11 @@
       "serverless",
       "managed service",
       "observability",
+      "data insights",
       "eventing"
     ],
     "features": [
+      "geospatial",
       "scale-to-zero",
       "alerts",
       "apache spark",
@@ -55,12 +62,15 @@
     ],
     "providers": [
       "aws",
+      "esri",
       "azure",
       "gcp"
     ],
     "services": [
       "database",
       "monitor",
+      "geospatial",
+      "developer tools",
       "governance"
     ]
   }

@@ -1,0 +1,12 @@
+{
+  "name": "Azure Data Explorer",
+  "providers": ["azure"],
+  "services": ["analytics"],
+  "domains": ["big data"],
+  "categories": ["data insights"],
+  "features": ["geospatial"],
+  "links": {
+    "self": "/products/analytics/azure/data-explorer"
+  }
+}
+

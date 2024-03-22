@@ -5,7 +5,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql"],
+    "features": ["mysql","postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/aws/aurora"
     }
@@ -16,7 +16,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "features": ["mysql","postgresql","postgis","mariadb","sql server","oracle","geospatial"],
     "links": {
       "self": "/products/database/aws/rds"
     }
@@ -38,7 +38,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["postgresql"],
+    "features": ["postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
@@ -49,6 +49,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-db"
     }
@@ -69,6 +70,7 @@
     "services": ["database","hybrid"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-managed-instance"
     }
@@ -89,7 +91,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","sql server"],
+    "features": ["mysql","postgresql","postgis","sql server","geospatial"],
     "links": {
       "self": "/products/database/gcp/cloud-sql"
     }

@@ -4,6 +4,7 @@
   "services": ["analytics","database"],
   "domains": ["data management","managed service","serverless"],
   "categories": ["data warehousing","column-oriented db"],
+  "features": ["geospatial"],
   "links": {
     "self": "/products/database/aws/redshift"
   }

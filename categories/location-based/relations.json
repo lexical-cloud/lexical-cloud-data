@@ -1,0 +1,28 @@
+{
+  "instance": [
+    "/products/geospatial/esri/location-service",
+    "/products/geospatial/aws/location-service",
+    "/products/geospatial/azure/maps",
+    "/products/geospatial/azure/bing-maps-platform",
+    "/products/geospatial/gcp/location-context-apis",
+    "/products/geospatial/gcp/maps-platform"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "domains": [
+      "managed service"
+    ],
+    "features": [
+      "geofencing"
+    ],
+    "providers": [
+      "esri",
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "geospatial"
+    ]
+  }
+}

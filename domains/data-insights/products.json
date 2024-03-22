@@ -1,0 +1,34 @@
+[
+  {
+    "name": "ArcGIS AllSource",
+    "providers": ["esri"],
+    "services": ["analytics","geospatial"],
+    "domains": ["data insights"],
+    "categories": ["data insights"],
+    "links": {
+      "self": "/products/geospatial/esri/allsource"
+    }
+  },
+  {
+    "name": "ArcGIS Online",
+    "component": "ArcGIS Insights",
+    "providers": ["esri"],
+    "services": ["analytics","geospatial"],
+    "domains": ["data insights","end-user computing"],
+    "categories": ["data insights","geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-online/components/insights",
+      "parent": "/products/geospatial/esri/arcgis-online"
+    }
+  },
+  {
+    "name": "ArcGIS Knowledge",
+    "providers": ["esri"],
+    "services": ["developer tools","analytics","geospatial"],
+    "domains": ["data insights"],
+    "categories": ["data insights"],
+    "links": {
+      "self": "/products/geospatial/esri/knowledge"
+    }
+  }
+]

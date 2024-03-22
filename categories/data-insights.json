@@ -1,0 +1,8 @@
+{
+  "id": "data-insights",
+  "name": "data insights",
+  "type": "category",
+  "links": {
+    "self": "/categories/data-insights"
+  }
+}

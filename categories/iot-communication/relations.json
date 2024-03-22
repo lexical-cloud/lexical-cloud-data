@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/geospatial/esri/arcgis-online/components/velocity",
     "/products/iot/azure/hub"
   ],
   "intersect": {

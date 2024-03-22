@@ -20,6 +20,8 @@
     "/products/integration/aws/sns",
     "/products/integration/aws/sqs",
     "/products/database/aws/timestream",
+    "/products/geospatial/esri/data-pipelines",
+    "/products/data-catalog/aws/data-exchange",
     "/products/compute/aws/fargate",
     "/products/integration/aws/glue",
     "/products/compute/aws/lambda",
@@ -89,8 +91,10 @@
       "push notifications",
       "message queue",
       "time series db",
-      "container orchestrator",
       "workflow engine",
+      "datasets",
+      "data integration",
+      "container orchestrator",
       "faas",
       "low-code",
       "no-code",
@@ -110,17 +114,19 @@
       "eventing",
       "machine learning",
       "observability",
-      "containerization",
       "process modeling",
       "data integration",
+      "containerization",
       "end-user computing"
     ],
     "features": [
       "rest api",
       "http api",
       "websocket api",
+      "geospatial",
       "mysql",
       "postgresql",
+      "postgis",
       "scale-to-zero",
       "conversational interface",
       "alerts",
@@ -137,6 +143,7 @@
     ],
     "providers": [
       "aws",
+      "esri",
       "azure",
       "gcp"
     ],
@@ -147,6 +154,8 @@
       "storage",
       "ai",
       "monitor",
+      "geospatial",
+      "data catalog",
       "compute",
       "framework"
     ]

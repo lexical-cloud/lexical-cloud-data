@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amazon Bedrock",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/aws/bedrock"
+    }
+  },
+  {
+    "name": "Azure OpenAI Service",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/azure/openai"
+    }
+  },
+  {
+    "name": "Google Gemini",
+    "providers": ["gcp"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/gcp/gemini"
+    }
+  }
+]

@@ -4,6 +4,7 @@
     "/products/analytics/aws/emr",
     "/products/analytics/aws/quicksight",
     "/products/analytics/aws/lake-formation",
+    "/products/analytics/azure/data-explorer",
     "/products/analytics/azure/data-lake-analytics",
     "/products/analytics/azure/databricks",
     "/products/analytics/azure/hdinsight",
@@ -27,6 +28,7 @@
       "dashboards",
       "access control",
       "metadata",
+      "data insights",
       "data warehousing",
       "file storage",
       "object storage",
@@ -38,6 +40,7 @@
       "managed service"
     ],
     "features": [
+      "geospatial",
       "scale-to-zero",
       "apache spark",
       "apache hadoop",

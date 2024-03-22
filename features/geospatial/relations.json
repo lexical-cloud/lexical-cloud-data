@@ -1,0 +1,68 @@
+{
+  "instance": [
+    "/products/database/aws/athena",
+    "/products/database/aws/aurora",
+    "/products/database/aws/dynamodb",
+    "/products/database/aws/rds",
+    "/products/database/aws/redshift",
+    "/products/storage/aws/s3",
+    "/products/data-catalog/aws/data-exchange",
+    "/products/database/azure/cosmosdb",
+    "/products/analytics/azure/data-explorer",
+    "/products/database/azure/db-for-postresql",
+    "/products/database/azure/sql-db",
+    "/products/database/azure/sql-managed-instance",
+    "/products/analytics/azure/synapse-analytics",
+    "/products/database/gcp/bigquery/components/geo-viz",
+    "/products/database/gcp/bigquery",
+    "/products/database/gcp/cloud-sql",
+    "/products/analytics/gcp/looker/components/studio",
+    "/products/data-catalog/aws/registry-open-data"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "sql compliant",
+      "unstructured data",
+      "relational db",
+      "document db",
+      "key-value store",
+      "nosql db",
+      "data warehousing",
+      "column-oriented db",
+      "object storage",
+      "datasets",
+      "data integration",
+      "wide-column db",
+      "data insights"
+    ],
+    "domains": [
+      "big data",
+      "data management",
+      "serverless",
+      "managed service",
+      "end-user computing"
+    ],
+    "features": [
+      "mysql",
+      "postgresql",
+      "postgis",
+      "mariadb",
+      "sql server",
+      "oracle",
+      "open data"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "database",
+      "analytics",
+      "storage",
+      "data catalog",
+      "hybrid"
+    ]
+  }
+}

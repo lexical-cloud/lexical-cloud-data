@@ -1,0 +1,25 @@
+{
+  "instance": [
+    "/products/geospatial/esri/arcgis-online",
+    "/products/geospatial/gcp/earth-engine",
+    "/products/geospatial/azure/planetary-computer"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "remote sensing"
+    ],
+    "domains": [
+      "end-user computing",
+      "managed service"
+    ],
+    "providers": [
+      "esri",
+      "gcp",
+      "azure"
+    ],
+    "services": [
+      "geospatial"
+    ]
+  }
+}

@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/framework/esri/well-architected",
     "/products/framework/aws/cloud-adoption",
     "/products/framework/aws/sam",
     "/products/framework/aws/well-architected",
@@ -15,14 +16,18 @@
       "deployment management"
     ],
     "domains": [
+      "architecture",
       "modernization",
-      "serverless",
-      "architecture"
+      "serverless"
     ],
     "providers": [
+      "esri",
       "aws",
       "azure",
       "gcp"
+    ],
+    "services": [
+      "geospatial"
     ]
   }
 }

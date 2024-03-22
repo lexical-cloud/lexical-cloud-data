@@ -1,0 +1,14 @@
+{
+  "name": "Google Cloud BigQuery",
+  "component": "BigQuery Geo Viz",
+  "providers": ["gcp"],
+  "services": ["database","analytics"],
+  "domains": ["big data","data management","serverless"],
+  "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+  "features": ["geospatial"],
+  "links": {
+    "self": "/products/database/gcp/bigquery/components/geo-viz",
+    "parent": "/products/database/gcp/bigquery"
+  }
+}
+

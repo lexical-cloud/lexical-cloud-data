@@ -5,6 +5,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/athena"
     }
@@ -15,7 +16,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql"],
+    "features": ["mysql","postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/aws/aurora"
     }
@@ -36,6 +37,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","key-value store","nosql db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/dynamodb"
     }
@@ -76,7 +78,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "features": ["mysql","postgresql","postgis","mariadb","sql server","oracle","geospatial"],
     "links": {
       "self": "/products/database/aws/rds"
     }
@@ -87,6 +89,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -97,6 +100,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/storage/aws/s3"
     }
@@ -122,6 +126,18 @@
     }
   },
   {
+    "name": "ArcGIS Online",
+    "component": "ArcGIS Living Atlas",
+    "providers": ["esri"],
+    "services": ["data catalog","geospatial"],
+    "domains": ["data management","end-user computing"],
+    "categories": ["datasets","geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-online/components/living-atlas",
+      "parent": "/products/geospatial/esri/arcgis-online"
+    }
+  },
+  {
     "name": "AWS Backup",
     "providers": ["aws"],
     "services": ["storage","hybrid"],
@@ -139,6 +155,17 @@
     "categories": ["data security","key management"],
     "links": {
       "self": "/products/security/aws/cloudhsm"
+    }
+  },
+  {
+    "name": "AWS Data Exchange",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management","serverless"],
+    "categories": ["datasets","data integration"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/data-exchange"
     }
   },
   {
@@ -217,6 +244,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db","column-oriented db","wide-column db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -238,7 +266,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["postgresql"],
+    "features": ["postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
@@ -289,6 +317,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-db"
     }
@@ -309,6 +338,7 @@
     "services": ["database","hybrid"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-managed-instance"
     }
@@ -321,6 +351,30 @@
     "categories": ["nosql db","key-value store"],
     "links": {
       "self": "/products/storage/azure/table-storage"
+    }
+  },
+  {
+    "name": "Microsoft Planetary Computer",
+    "component": "Data Catalog",
+    "providers": ["azure"],
+    "services": ["data catalog","geospatial"],
+    "domains": ["data management","managed service"],
+    "categories": ["datasets","geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/azure/planetary-computer/components/data-catalog",
+      "parent": "/products/geospatial/azure/planetary-computer"
+    }
+  },
+  {
+    "name": "Google Earth Engine",
+    "component": "Earth Engine Catalog",
+    "providers": ["gcp"],
+    "services": ["data catalog","geospatial"],
+    "domains": ["data management","managed service"],
+    "categories": ["datasets","geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/gcp/earth-engine/components/data-catalog",
+      "parent": "/products/geospatial/gcp/earth-engine"
     }
   },
   {
@@ -352,9 +406,11 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
+        "/products/database/gcp/bigquery/components/geo-viz",
         "/products/database/gcp/bigquery/components/ml"
       ]
     }
@@ -415,7 +471,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","sql server"],
+    "features": ["mysql","postgresql","postgis","sql server","geospatial"],
     "links": {
       "self": "/products/database/gcp/cloud-sql"
     }
@@ -464,6 +520,17 @@
     "categories": ["siem"],
     "links": {
       "self": "/products/security/azure/sentinel"
+    }
+  },
+  {
+    "name": "Registry of Open Data on AWS",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management"],
+    "categories": ["datasets"],
+    "features": ["open data","geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/registry-open-data"
     }
   }
 ]

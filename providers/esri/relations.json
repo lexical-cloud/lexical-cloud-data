@@ -1,0 +1,47 @@
+{
+  "instance": [
+    "/products/geospatial/esri/allsource",
+    "/products/geospatial/esri/data-pipelines",
+    "/products/geospatial/esri/knowledge",
+    "/products/geospatial/esri/arcgis-online/components/living-atlas",
+    "/products/geospatial/esri/location-service",
+    "/products/geospatial/esri/arcgis-online",
+    "/products/geospatial/esri/arcgis-pro",
+    "/products/framework/esri/well-architected",
+    "/products/geospatial/esri/workflow-manager"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "data insights",
+      "workflow engine",
+      "datasets",
+      "location-based",
+      "geospatial analysis",
+      "remote sensing",
+      "desktop ide",
+      "decision making",
+      "project planning"
+    ],
+    "domains": [
+      "data insights",
+      "serverless",
+      "process modeling",
+      "data integration",
+      "data management",
+      "managed service",
+      "end-user computing",
+      "developer toolchain",
+      "architecture",
+      "project management"
+    ],
+    "services": [
+      "analytics",
+      "geospatial",
+      "integration",
+      "developer tools",
+      "data catalog",
+      "framework"
+    ]
+  }
+}

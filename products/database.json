@@ -5,6 +5,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/athena"
     }
@@ -15,7 +16,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql"],
+    "features": ["mysql","postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/aws/aurora"
     }
@@ -36,6 +37,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","key-value store","nosql db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/dynamodb"
     }
@@ -56,7 +58,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "features": ["mysql","postgresql","postgis","mariadb","sql server","oracle","geospatial"],
     "links": {
       "self": "/products/database/aws/rds"
     }
@@ -67,6 +69,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -87,6 +90,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db","column-oriented db","wide-column db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -108,7 +112,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["postgresql"],
+    "features": ["postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
@@ -119,6 +123,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-db"
     }
@@ -139,8 +144,22 @@
     "services": ["database","hybrid"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-managed-instance"
+    }
+  },
+  {
+    "name": "Google Cloud BigQuery",
+    "component": "BigQuery Geo Viz",
+    "providers": ["gcp"],
+    "services": ["database","analytics"],
+    "domains": ["big data","data management","serverless"],
+    "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/database/gcp/bigquery/components/geo-viz",
+      "parent": "/products/database/gcp/bigquery"
     }
   },
   {
@@ -150,6 +169,7 @@
     "services": ["ai","database","analytics"],
     "domains": ["machine learning","big data","data management","serverless"],
     "categories": ["model training","no-code","data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/gcp/bigquery/components/ml",
       "parent": "/products/database/gcp/bigquery"
@@ -171,9 +191,11 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
+        "/products/database/gcp/bigquery/components/geo-viz",
         "/products/database/gcp/bigquery/components/ml"
       ]
     }
@@ -214,7 +236,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","sql server"],
+    "features": ["mysql","postgresql","postgis","sql server","geospatial"],
     "links": {
       "self": "/products/database/gcp/cloud-sql"
     }

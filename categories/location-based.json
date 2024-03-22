@@ -1,0 +1,8 @@
+{
+  "id": "location-based",
+  "name": "location-based",
+  "type": "category",
+  "links": {
+    "self": "/categories/location-based"
+  }
+}

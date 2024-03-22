@@ -1,0 +1,11 @@
+{
+  "name": "ArcGIS AllSource",
+  "providers": ["esri"],
+  "services": ["analytics","geospatial"],
+  "domains": ["data insights"],
+  "categories": ["data insights"],
+  "links": {
+    "self": "/products/geospatial/esri/allsource"
+  }
+}
+

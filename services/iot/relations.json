@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/geospatial/esri/arcgis-online/components/velocity",
     "/products/iot/azure/central",
     "/products/iot/azure/edge",
     "/products/iot/azure/hub",
@@ -13,9 +14,9 @@
   },
   "symdiff": {
     "categories": [
+      "iot communication",
       "iot management",
       "iot processing",
-      "iot communication",
       "iot hardware",
       "iot security",
       "relational db",

@@ -1,0 +1,11 @@
+{
+  "name": "ArcGIS Location Service",
+  "providers": ["esri"],
+  "services": ["geospatial"],
+  "domains": ["managed service"],
+  "categories": ["location-based"],
+  "links": {
+    "self": "/products/geospatial/esri/location-service"
+  }
+}
+

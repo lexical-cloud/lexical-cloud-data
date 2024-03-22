@@ -1,0 +1,24 @@
+[
+  {
+    "name": "AWS Data Exchange",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management","serverless"],
+    "categories": ["datasets","data integration"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/data-exchange"
+    }
+  },
+  {
+    "name": "Registry of Open Data on AWS",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management"],
+    "categories": ["datasets"],
+    "features": ["open data","geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/registry-open-data"
+    }
+  }
+]

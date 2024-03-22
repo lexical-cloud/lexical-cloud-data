@@ -1,5 +1,15 @@
 [
   {
+    "name": "AWS Amplify",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "links": {
+      "self": "/products/compute/aws/amplify"
+    }
+  },
+  {
     "name": "AWS Elastic Beanstalk",
     "providers": ["aws"],
     "services": ["compute"],

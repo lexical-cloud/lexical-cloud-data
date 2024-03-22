@@ -11,6 +11,16 @@
     }
   },
   {
+    "name": "ArcGIS Data Pipelines",
+    "providers": ["esri"],
+    "services": ["integration","geospatial"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/geospatial/esri/data-pipelines"
+    }
+  },
+  {
     "name": "AWS Glue",
     "providers": ["aws"],
     "services": ["integration"],

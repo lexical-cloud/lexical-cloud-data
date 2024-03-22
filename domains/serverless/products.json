@@ -16,6 +16,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/athena"
     }
@@ -26,7 +27,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql"],
+    "features": ["mysql","postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/aws/aurora"
     }
@@ -37,6 +38,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","key-value store","nosql db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/dynamodb"
     }
@@ -140,6 +142,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -150,6 +153,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/storage/aws/s3"
     }
@@ -212,6 +216,27 @@
     "categories": ["data warehousing","time series db"],
     "links": {
       "self": "/products/database/aws/timestream"
+    }
+  },
+  {
+    "name": "ArcGIS Data Pipelines",
+    "providers": ["esri"],
+    "services": ["integration","geospatial"],
+    "domains": ["serverless","process modeling","data integration"],
+    "categories": ["workflow engine"],
+    "links": {
+      "self": "/products/geospatial/esri/data-pipelines"
+    }
+  },
+  {
+    "name": "AWS Data Exchange",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management","serverless"],
+    "categories": ["datasets","data integration"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/data-exchange"
     }
   },
   {
@@ -345,6 +370,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db","column-oriented db","wide-column db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -459,6 +485,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-db"
     }
@@ -502,9 +529,11 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["data warehousing","unstructured data","sql compliant","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/gcp/bigquery",
       "components": [
+        "/products/database/gcp/bigquery/components/geo-viz",
         "/products/database/gcp/bigquery/components/ml"
       ]
     }
@@ -571,7 +600,10 @@
     "categories": ["dashboards"],
     "features": ["semantic"],
     "links": {
-      "self": "/products/analytics/gcp/looker"
+      "self": "/products/analytics/gcp/looker",
+      "components": [
+        "/products/analytics/gcp/looker/components/studio"
+      ]
     }
   },
   {

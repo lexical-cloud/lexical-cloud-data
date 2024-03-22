@@ -1,0 +1,17 @@
+{
+  "name": "ArcGIS Online",
+  "providers": ["esri"],
+  "services": ["geospatial"],
+  "domains": ["end-user computing"],
+  "categories": ["geospatial analysis","remote sensing"],
+  "links": {
+    "self": "/products/geospatial/esri/arcgis-online",
+    "components": [
+      "/products/geospatial/esri/arcgis-online/components/insights",
+      "/products/geospatial/esri/arcgis-online/components/living-atlas",
+      "/products/geospatial/esri/arcgis-online/components/notebooks",
+      "/products/geospatial/esri/arcgis-online/components/velocity"
+    ]
+  }
+}
+

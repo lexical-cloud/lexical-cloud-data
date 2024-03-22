@@ -22,6 +22,8 @@
     ],
     "features": [
       "postgresql",
+      "postgis",
+      "geospatial",
       "mariadb",
       "sql server",
       "oracle"

@@ -25,6 +25,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/storage/aws/s3"
     }

@@ -1,0 +1,14 @@
+{
+  "id": "data-catalog",
+  "name": "data catalog",
+  "type": "service",
+  "links": {
+    "self": "/services/data-catalog"
+  },
+  "definition": {
+    "title": "Data Catalog",
+    "links": {
+      "self": "/glossary/data-catalog"
+    }
+  }
+}

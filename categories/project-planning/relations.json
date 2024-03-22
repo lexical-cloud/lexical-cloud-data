@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/geospatial/esri/workflow-manager",
     "/products/developer-tools/azure/boards",
     "/products/developer-tools/github/github"
   ],
@@ -22,6 +23,7 @@
       "community"
     ],
     "providers": [
+      "esri",
       "azure",
       "github"
     ]

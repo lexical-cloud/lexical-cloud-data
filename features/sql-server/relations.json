@@ -20,8 +20,10 @@
     "features": [
       "mysql",
       "postgresql",
+      "postgis",
       "mariadb",
-      "oracle"
+      "oracle",
+      "geospatial"
     ],
     "providers": [
       "aws",

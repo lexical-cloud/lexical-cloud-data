@@ -1,0 +1,24 @@
+{
+  "instance": [
+    "/products/ai/aws/bedrock",
+    "/products/ai/azure/openai",
+    "/products/ai/gcp/gemini"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "categories": [
+      "foundation models"
+    ],
+    "domains": [
+      "machine learning"
+    ],
+    "providers": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "services": [
+      "ai"
+    ]
+  }
+}

@@ -29,6 +29,9 @@
       "modernization",
       "managed service"
     ],
+    "features": [
+      "geospatial"
+    ],
     "providers": [
       "aws",
       "azure",

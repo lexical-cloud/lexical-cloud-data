@@ -1,0 +1,13 @@
+{
+  "name": "ArcGIS Online",
+  "component": "ArcGIS Living Atlas",
+  "providers": ["esri"],
+  "services": ["data catalog","geospatial"],
+  "domains": ["data management","end-user computing"],
+  "categories": ["datasets","geospatial analysis","remote sensing"],
+  "links": {
+    "self": "/products/geospatial/esri/arcgis-online/components/living-atlas",
+    "parent": "/products/geospatial/esri/arcgis-online"
+  }
+}
+

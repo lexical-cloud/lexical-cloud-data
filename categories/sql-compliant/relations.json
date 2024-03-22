@@ -34,8 +34,10 @@
       "edge computing"
     ],
     "features": [
+      "geospatial",
       "mysql",
       "postgresql",
+      "postgis",
       "mariadb",
       "sql server",
       "oracle"

@@ -1,0 +1,8 @@
+{
+  "id": "datasets",
+  "name": "datasets",
+  "type": "category",
+  "links": {
+    "self": "/categories/datasets"
+  }
+}

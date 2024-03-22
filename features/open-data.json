@@ -1,0 +1,8 @@
+{
+  "id": "open-data",
+  "name": "open data",
+  "type": "feature",
+  "links": {
+    "self": "/features/open-data"
+  }
+}

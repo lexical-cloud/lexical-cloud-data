@@ -1,0 +1,11 @@
+{
+  "name": "Bing Maps Platform",
+  "providers": ["azure"],
+  "services": ["geospatial"],
+  "domains": ["managed service"],
+  "categories": ["location-based"],
+  "links": {
+    "self": "/products/geospatial/azure/bing-maps-platform"
+  }
+}
+

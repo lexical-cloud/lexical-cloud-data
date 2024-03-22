@@ -13,6 +13,26 @@
     }
   },
   {
+    "name": "ArcGIS Pro",
+    "providers": ["esri"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["desktop ide"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-pro"
+    }
+  },
+  {
+    "name": "ArcGIS Workflow Manager",
+    "providers": ["esri"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","project management"],
+    "categories": ["project planning"],
+    "links": {
+      "self": "/products/geospatial/esri/workflow-manager"
+    }
+  },
+  {
     "name": "AWS Cloud9",
     "providers": ["aws"],
     "services": ["developer tools"],
@@ -91,6 +111,16 @@
     "features": ["community"],
     "links": {
       "self": "/products/developer-tools/github/github"
+    }
+  },
+  {
+    "name": "Github Codespaces",
+    "providers": ["github"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["hosted ide"],
+    "links": {
+      "self": "/products/developer-tools/github/codespaces"
     }
   },
   {

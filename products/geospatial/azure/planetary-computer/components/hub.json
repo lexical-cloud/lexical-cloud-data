@@ -1,0 +1,14 @@
+{
+  "name": "Microsoft Planetary Computer",
+  "component": "Hub",
+  "providers": ["azure"],
+  "services": ["geospatial"],
+  "domains": ["managed service"],
+  "categories": ["notebook","geospatial analysis","remote sensing"],
+  "features": ["jupyter-based"],
+  "links": {
+    "self": "/products/geospatial/azure/planetary-computer/components/hub",
+    "parent": "/products/geospatial/azure/planetary-computer"
+  }
+}
+

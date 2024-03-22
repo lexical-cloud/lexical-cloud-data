@@ -13,6 +13,36 @@
     }
   },
   {
+    "name": "ArcGIS Knowledge",
+    "providers": ["esri"],
+    "services": ["developer tools","analytics","geospatial"],
+    "domains": ["data insights"],
+    "categories": ["data insights"],
+    "links": {
+      "self": "/products/geospatial/esri/knowledge"
+    }
+  },
+  {
+    "name": "ArcGIS Pro",
+    "providers": ["esri"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["desktop ide"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-pro"
+    }
+  },
+  {
+    "name": "ArcGIS Workflow Manager",
+    "providers": ["esri"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain","project management"],
+    "categories": ["project planning"],
+    "links": {
+      "self": "/products/geospatial/esri/workflow-manager"
+    }
+  },
+  {
     "name": "AWS AppConfig",
     "providers": ["aws"],
     "services": ["developer tools"],
@@ -241,6 +271,16 @@
     "categories": ["continuous delivery","continuous integration"],
     "links": {
       "self": "/products/developer-tools/github/actions"
+    }
+  },
+  {
+    "name": "Github Codespaces",
+    "providers": ["github"],
+    "services": ["developer tools"],
+    "domains": ["developer toolchain"],
+    "categories": ["hosted ide"],
+    "links": {
+      "self": "/products/developer-tools/github/codespaces"
     }
   },
   {

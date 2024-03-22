@@ -210,6 +210,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["document db","nosql db","column-oriented db","wide-column db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/cosmosdb"
     }
@@ -223,6 +224,17 @@
     "features": ["alerts","cost forecast"],
     "links": {
       "self": "/products/governance/azure/cost-management"
+    }
+  },
+  {
+    "name": "Azure Data Explorer",
+    "providers": ["azure"],
+    "services": ["analytics"],
+    "domains": ["big data"],
+    "categories": ["data insights"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/analytics/azure/data-explorer"
     }
   },
   {
@@ -265,7 +277,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["postgresql"],
+    "features": ["postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/azure/db-for-postresql"
     }
@@ -506,6 +518,17 @@
     }
   },
   {
+    "name": "Azure Maps",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/azure/maps"
+    }
+  },
+  {
     "name": "Azure Monitor",
     "providers": ["azure"],
     "services": ["monitor"],
@@ -556,6 +579,16 @@
     "categories": ["push notifications"],
     "links": {
       "self": "/products/integration/azure/notification-hubs"
+    }
+  },
+  {
+    "name": "Azure OpenAI Service",
+    "providers": ["azure"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/azure/openai"
     }
   },
   {
@@ -730,6 +763,7 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-db"
     }
@@ -750,6 +784,7 @@
     "services": ["database","hybrid"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/azure/sql-managed-instance"
     }
@@ -782,6 +817,7 @@
     "services": ["analytics"],
     "domains": ["big data"],
     "categories": ["data warehousing"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/analytics/azure/synapse-analytics"
     }
@@ -910,6 +946,16 @@
     }
   },
   {
+    "name": "Bing Maps Platform",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "links": {
+      "self": "/products/geospatial/azure/bing-maps-platform"
+    }
+  },
+  {
     "name": "Microsoft Defender for Cloud",
     "providers": ["azure"],
     "services": ["security"],
@@ -917,6 +963,20 @@
     "categories": ["security monitoring","auditing"],
     "links": {
       "self": "/products/security/azure/defender-for-cloud"
+    }
+  },
+  {
+    "name": "Microsoft Planetary Computer",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/azure/planetary-computer",
+      "components": [
+        "/products/geospatial/azure/planetary-computer/components/data-catalog",
+        "/products/geospatial/azure/planetary-computer/components/hub"
+      ]
     }
   },
   {

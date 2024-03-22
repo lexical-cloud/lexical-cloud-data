@@ -1,0 +1,46 @@
+[
+  {
+    "name": "ArcGIS Online",
+    "providers": ["esri"],
+    "services": ["geospatial"],
+    "domains": ["end-user computing"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-online",
+      "components": [
+        "/products/geospatial/esri/arcgis-online/components/insights",
+        "/products/geospatial/esri/arcgis-online/components/living-atlas",
+        "/products/geospatial/esri/arcgis-online/components/notebooks",
+        "/products/geospatial/esri/arcgis-online/components/velocity"
+      ]
+    }
+  },
+  {
+    "name": "Google Earth Engine",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/gcp/earth-engine",
+      "components": [
+        "/products/geospatial/gcp/earth-engine/components/code-editor",
+        "/products/geospatial/gcp/earth-engine/components/data-catalog"
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Planetary Computer",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/azure/planetary-computer",
+      "components": [
+        "/products/geospatial/azure/planetary-computer/components/data-catalog",
+        "/products/geospatial/azure/planetary-computer/components/hub"
+      ]
+    }
+  }
+]

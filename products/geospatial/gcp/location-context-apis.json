@@ -1,0 +1,12 @@
+{
+  "name": "Google Location and Context APIs",
+  "providers": ["gcp"],
+  "services": ["geospatial"],
+  "domains": ["managed service"],
+  "categories": ["location-based"],
+  "features": ["geofencing"],
+  "links": {
+    "self": "/products/geospatial/gcp/location-context-apis"
+  }
+}
+

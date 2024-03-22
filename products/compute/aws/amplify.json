@@ -1,0 +1,11 @@
+{
+  "name": "AWS Amplify",
+  "providers": ["aws"],
+  "services": ["compute"],
+  "domains": ["managed service"],
+  "categories": ["paas"],
+  "links": {
+    "self": "/products/compute/aws/amplify"
+  }
+}
+

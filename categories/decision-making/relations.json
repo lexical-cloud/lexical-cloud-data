@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/framework/esri/well-architected",
     "/products/framework/aws/cloud-adoption",
     "/products/framework/aws/well-architected",
     "/products/framework/azure/cloud-adoption",
@@ -17,8 +18,8 @@
       "computer vision"
     ],
     "domains": [
-      "modernization",
       "architecture",
+      "modernization",
       "machine learning",
       "serverless"
     ],
@@ -34,12 +35,14 @@
       "personalization"
     ],
     "providers": [
+      "esri",
       "aws",
       "azure",
       "gcp"
     ],
     "services": [
       "framework",
+      "geospatial",
       "ai"
     ]
   }

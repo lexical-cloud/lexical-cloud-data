@@ -1,0 +1,8 @@
+{
+  "id": "generative-ai",
+  "name": "generative ai",
+  "type": "category",
+  "links": {
+    "self": "/categories/generative-ai"
+  }
+}

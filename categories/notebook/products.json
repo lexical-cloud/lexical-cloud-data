@@ -1,5 +1,43 @@
 [
   {
+    "name": "ArcGIS Online",
+    "component": "ArcGIS Notebooks",
+    "providers": ["esri"],
+    "services": ["geospatial"],
+    "domains": ["end-user computing"],
+    "categories": ["notebook","geospatial analysis","remote sensing"],
+    "features": ["jupyter-based"],
+    "links": {
+      "self": "/products/geospatial/esri/arcgis-online/components/notebooks",
+      "parent": "/products/geospatial/esri/arcgis-online"
+    }
+  },
+  {
+    "name": "Google Earth Engine",
+    "component": "Earth Engine Code Editor",
+    "providers": ["gcp"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["notebook","geospatial analysis","remote sensing"],
+    "links": {
+      "self": "/products/geospatial/gcp/earth-engine/components/code-editor",
+      "parent": "/products/geospatial/gcp/earth-engine"
+    }
+  },
+  {
+    "name": "Microsoft Planetary Computer",
+    "component": "Hub",
+    "providers": ["azure"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["notebook","geospatial analysis","remote sensing"],
+    "features": ["jupyter-based"],
+    "links": {
+      "self": "/products/geospatial/azure/planetary-computer/components/hub",
+      "parent": "/products/geospatial/azure/planetary-computer"
+    }
+  },
+  {
     "name": "Google Cloud Vertex AI",
     "component": "Workbench",
     "providers": ["gcp"],

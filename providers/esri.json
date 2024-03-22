@@ -1,0 +1,14 @@
+{
+  "id": "esri",
+  "name": "esri",
+  "type": "provider",
+  "links": {
+    "self": "/providers/esri"
+  },
+  "definition": {
+    "title": "Esri",
+    "links": {
+      "self": "/glossary/esri"
+    }
+  }
+}

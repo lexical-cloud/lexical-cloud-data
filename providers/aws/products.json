@@ -26,6 +26,7 @@
     "services": ["database","analytics"],
     "domains": ["big data","data management","serverless"],
     "categories": ["sql compliant","unstructured data"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/athena"
     }
@@ -36,9 +37,19 @@
     "services": ["database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql"],
+    "features": ["mysql","postgresql","postgis","geospatial"],
     "links": {
       "self": "/products/database/aws/aurora"
+    }
+  },
+  {
+    "name": "Amazon Bedrock",
+    "providers": ["aws"],
+    "services": ["ai"],
+    "domains": ["machine learning"],
+    "categories": ["foundation models","generative ai"],
+    "links": {
+      "self": "/products/ai/aws/bedrock"
     }
   },
   {
@@ -127,6 +138,7 @@
     "services": ["database"],
     "domains": ["data management","serverless"],
     "categories": ["document db","key-value store","nosql db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/dynamodb"
     }
@@ -344,7 +356,7 @@
     "services": ["database"],
     "domains": ["data management","managed service"],
     "categories": ["relational db","sql compliant"],
-    "features": ["mysql","postgresql","mariadb","sql server","oracle"],
+    "features": ["mysql","postgresql","postgis","mariadb","sql server","oracle","geospatial"],
     "links": {
       "self": "/products/database/aws/rds"
     }
@@ -355,6 +367,7 @@
     "services": ["analytics","database"],
     "domains": ["data management","managed service","serverless"],
     "categories": ["data warehousing","column-oriented db"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/database/aws/redshift"
     }
@@ -376,6 +389,7 @@
     "services": ["storage"],
     "domains": ["data management","serverless"],
     "categories": ["object storage"],
+    "features": ["geospatial"],
     "links": {
       "self": "/products/storage/aws/s3"
     }
@@ -478,6 +492,16 @@
     "categories": ["directory gateway","identity provider"],
     "links": {
       "self": "/products/identity/aws/ad-connector"
+    }
+  },
+  {
+    "name": "AWS Amplify",
+    "providers": ["aws"],
+    "services": ["compute"],
+    "domains": ["managed service"],
+    "categories": ["paas"],
+    "links": {
+      "self": "/products/compute/aws/amplify"
     }
   },
   {
@@ -714,6 +738,17 @@
     }
   },
   {
+    "name": "AWS Data Exchange",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management","serverless"],
+    "categories": ["datasets","data integration"],
+    "features": ["geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/data-exchange"
+    }
+  },
+  {
     "name": "AWS Database Migration Service",
     "providers": ["aws"],
     "services": ["migration","database"],
@@ -880,6 +915,17 @@
     "categories": ["license management"],
     "links": {
       "self": "/products/governance/aws/license-manager"
+    }
+  },
+  {
+    "name": "AWS Location Service",
+    "providers": ["aws"],
+    "services": ["geospatial"],
+    "domains": ["managed service"],
+    "categories": ["location-based"],
+    "features": ["geofencing"],
+    "links": {
+      "self": "/products/geospatial/aws/location-service"
     }
   },
   {
@@ -1227,6 +1273,17 @@
     "categories": ["application debugger","root cause analysis"],
     "links": {
       "self": "/products/monitor/aws/xray"
+    }
+  },
+  {
+    "name": "Registry of Open Data on AWS",
+    "providers": ["aws"],
+    "services": ["data catalog"],
+    "domains": ["data management"],
+    "categories": ["datasets"],
+    "features": ["open data","geospatial"],
+    "links": {
+      "self": "/products/data-catalog/aws/registry-open-data"
     }
   }
 ]

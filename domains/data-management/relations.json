@@ -12,8 +12,10 @@
     "/products/storage/aws/s3",
     "/products/storage/aws/s3-glacier",
     "/products/database/aws/timestream",
+    "/products/geospatial/esri/arcgis-online/components/living-atlas",
     "/products/storage/aws/backup",
     "/products/security/aws/cloudhsm",
+    "/products/data-catalog/aws/data-exchange",
     "/products/migration/aws/dms",
     "/products/migration/aws/drs",
     "/products/security/aws/kms",
@@ -32,6 +34,8 @@
     "/products/database/azure/sql-edge",
     "/products/database/azure/sql-managed-instance",
     "/products/storage/azure/table-storage",
+    "/products/geospatial/azure/planetary-computer/components/data-catalog",
+    "/products/geospatial/gcp/earth-engine/components/data-catalog",
     "/products/analytics/aws/emr/components/emrfs",
     "/products/database/gcp/biglake",
     "/products/database/gcp/bigquery",
@@ -44,7 +48,8 @@
     "/products/storage/gcp/cloud-storage",
     "/products/governance/gcp/dataplex",
     "/products/governance/azure/purview",
-    "/products/security/azure/sentinel"
+    "/products/security/azure/sentinel",
+    "/products/data-catalog/aws/registry-open-data"
   ],
   "intersect": {},
   "symdiff": {
@@ -69,8 +74,10 @@
       "object storage",
       "data archive",
       "time series db",
+      "datasets",
       "data security",
       "key management",
+      "data integration",
       "database migration",
       "disaster recovery",
       "auditing",
@@ -89,14 +96,18 @@
       "edge computing"
     ],
     "features": [
+      "geospatial",
       "mysql",
       "postgresql",
+      "postgis",
       "mariadb",
       "sql server",
-      "oracle"
+      "oracle",
+      "open data"
     ],
     "providers": [
       "aws",
+      "esri",
       "azure",
       "gcp"
     ],
@@ -106,6 +117,7 @@
       "governance",
       "storage",
       "security",
+      "data catalog",
       "hybrid",
       "migration",
       "integration",

@@ -38,6 +38,9 @@
       "big data",
       "managed service"
     ],
+    "features": [
+      "geospatial"
+    ],
     "providers": [
       "aws",
       "azure",

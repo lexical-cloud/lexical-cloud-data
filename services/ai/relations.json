@@ -1,5 +1,6 @@
 {
   "instance": [
+    "/products/ai/aws/bedrock",
     "/products/ai/aws/lex",
     "/products/ai/aws/polly",
     "/products/ai/aws/sagemaker",
@@ -9,6 +10,7 @@
     "/products/ai/azure/cognitive-services-personalizer",
     "/products/ai/azure/luis",
     "/products/ai/azure/machine-learning",
+    "/products/ai/azure/openai",
     "/products/ai/azure/qna-maker",
     "/products/database/gcp/bigquery/components/ml",
     "/products/developer-tools/github/copilot",
@@ -19,11 +21,14 @@
     "/products/ai/gcp/text-to-speech",
     "/products/ai/gcp/vertex-ai",
     "/products/ai/gcp/vision-ai",
+    "/products/ai/gcp/gemini",
     "/products/ai/azure/power-virtual-agents"
   ],
   "intersect": {},
   "symdiff": {
     "categories": [
+      "foundation models",
+      "generative ai",
       "language processing",
       "speech processing",
       "model training",

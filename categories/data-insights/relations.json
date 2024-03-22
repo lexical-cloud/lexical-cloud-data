@@ -1,0 +1,27 @@
+{
+  "instance": [
+    "/products/geospatial/esri/allsource",
+    "/products/geospatial/esri/arcgis-online/components/insights",
+    "/products/geospatial/esri/knowledge",
+    "/products/analytics/azure/data-explorer"
+  ],
+  "intersect": {},
+  "symdiff": {
+    "domains": [
+      "data insights",
+      "big data"
+    ],
+    "features": [
+      "geospatial"
+    ],
+    "providers": [
+      "esri",
+      "azure"
+    ],
+    "services": [
+      "analytics",
+      "geospatial",
+      "developer tools"
+    ]
+  }
+}
